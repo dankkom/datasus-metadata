@@ -9,11 +9,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
-        uses: actions/checkout@v3 # checkout the repository content to github runner.
+        uses: actions/checkout@v4 # checkout the repository content to github runner.
       - name: setup python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: 3.12 #install the python needed
+          cache: 'pip' # cache the pip dependencies
       - name: Install dependencies
         run: |
           if [ -f pyproject.toml ]; then pip install .; fi
@@ -24,4 +25,4 @@ jobs:
           git config user.email github-actions@github.com
           git add .
           git commit -m "Automated update of datasus files metadata"
-          git push
+          git push -u origin main
