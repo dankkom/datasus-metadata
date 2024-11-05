@@ -1,0 +1,22 @@
+[project]
+name = "datasus-metadados"
+version = "0.1.0"
+description = """
+A library to keep up to date datasus metadata files
+in a GitHub repository
+"""
+authors = [
+    { name = "Daniel Komesu", email = "danielkomesu@gmail.com" }
+]
+dependencies = [
+    "datasus-fetcher>=0.3.2",
+]
+readme = "README.md"
+requires-python = ">= 3.12"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.metadata]
+allow-direct-references = true
