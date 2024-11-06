@@ -27,5 +27,9 @@ def update(metadata_file_path: Path):
                     },
                 }
             )
+    if not data:
+        print("No data found")
+        return
+    metadata_file_path.parent.mkdir(parents=True)
     with open(metadata_file_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=1, default=str, ensure_ascii=False)

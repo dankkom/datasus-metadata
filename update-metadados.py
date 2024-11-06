@@ -4,4 +4,7 @@ from datasus_metadados import update
 
 
 if __name__ == "__main__":
-    update(Path("metadados.json"))
+    try:
+        update(Path("metadados.json"))
+    except Exception as e:
+        print("An error occurred:", e)
