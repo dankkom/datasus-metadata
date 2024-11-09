@@ -1,0 +1,58 @@
+[
+ {
+  "filename": "NTRABR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/NTRABR19.dbc",
+  "datetime": "2023-01-24T14:40:00",
+  "extension": "dbc",
+  "size": 50256,
+  "dataset": "sinan-ntra-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "NTRABR20.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/NTRABR20.dbc",
+  "datetime": "2023-01-24T14:40:00",
+  "extension": "dbc",
+  "size": 3974,
+  "dataset": "sinan-ntra-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "NTRABR21.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/NTRABR21.dbc",
+  "datetime": "2023-01-24T14:40:00",
+  "extension": "dbc",
+  "size": 1894,
+  "dataset": "sinan-ntra-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "NTRABR22.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/NTRABR22.dbc",
+  "datetime": "2023-01-24T14:40:00",
+  "extension": "dbc",
+  "size": 26086,
+  "dataset": "sinan-ntra-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ }
+]

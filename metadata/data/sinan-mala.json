@@ -1,0 +1,226 @@
+[
+ {
+  "filename": "MALABR04.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MALABR04.dbc",
+  "datetime": "2022-05-24T10:41:00",
+  "extension": "dbc",
+  "size": 179539,
+  "dataset": "sinan-mala",
+  "partition": {
+   "uf": "br",
+   "year": 2004,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MALABR05.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MALABR05.dbc",
+  "datetime": "2022-05-24T10:41:00",
+  "extension": "dbc",
+  "size": 214487,
+  "dataset": "sinan-mala",
+  "partition": {
+   "uf": "br",
+   "year": 2005,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MALABR06.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MALABR06.dbc",
+  "datetime": "2022-05-24T10:41:00",
+  "extension": "dbc",
+  "size": 176518,
+  "dataset": "sinan-mala",
+  "partition": {
+   "uf": "br",
+   "year": 2006,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MALABR07.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MALABR07.dbc",
+  "datetime": "2023-01-17T10:03:00",
+  "extension": "dbc",
+  "size": 159989,
+  "dataset": "sinan-mala",
+  "partition": {
+   "uf": "br",
+   "year": 2007,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MALABR08.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MALABR08.dbc",
+  "datetime": "2023-01-17T10:03:00",
+  "extension": "dbc",
+  "size": 126226,
+  "dataset": "sinan-mala",
+  "partition": {
+   "uf": "br",
+   "year": 2008,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MALABR09.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MALABR09.dbc",
+  "datetime": "2023-01-17T10:03:00",
+  "extension": "dbc",
+  "size": 118996,
+  "dataset": "sinan-mala",
+  "partition": {
+   "uf": "br",
+   "year": 2009,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MALABR10.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MALABR10.dbc",
+  "datetime": "2023-01-17T10:03:00",
+  "extension": "dbc",
+  "size": 139319,
+  "dataset": "sinan-mala",
+  "partition": {
+   "uf": "br",
+   "year": 2010,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MALABR11.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MALABR11.dbc",
+  "datetime": "2023-01-17T10:03:00",
+  "extension": "dbc",
+  "size": 128050,
+  "dataset": "sinan-mala",
+  "partition": {
+   "uf": "br",
+   "year": 2011,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MALABR12.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MALABR12.dbc",
+  "datetime": "2023-01-17T10:03:00",
+  "extension": "dbc",
+  "size": 137827,
+  "dataset": "sinan-mala",
+  "partition": {
+   "uf": "br",
+   "year": 2012,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MALABR13.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MALABR13.dbc",
+  "datetime": "2023-01-17T10:03:00",
+  "extension": "dbc",
+  "size": 129390,
+  "dataset": "sinan-mala",
+  "partition": {
+   "uf": "br",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MALABR14.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MALABR14.dbc",
+  "datetime": "2023-01-17T10:03:00",
+  "extension": "dbc",
+  "size": 106538,
+  "dataset": "sinan-mala",
+  "partition": {
+   "uf": "br",
+   "year": 2014,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MALABR15.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MALABR15.dbc",
+  "datetime": "2023-01-17T10:03:00",
+  "extension": "dbc",
+  "size": 96658,
+  "dataset": "sinan-mala",
+  "partition": {
+   "uf": "br",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MALABR16.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MALABR16.dbc",
+  "datetime": "2023-01-17T10:03:00",
+  "extension": "dbc",
+  "size": 77094,
+  "dataset": "sinan-mala",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MALABR17.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MALABR17.dbc",
+  "datetime": "2023-01-17T10:03:00",
+  "extension": "dbc",
+  "size": 90087,
+  "dataset": "sinan-mala",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MALABR18.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MALABR18.dbc",
+  "datetime": "2023-01-17T10:03:00",
+  "extension": "dbc",
+  "size": 204468,
+  "dataset": "sinan-mala",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MALABR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MALABR19.dbc",
+  "datetime": "2024-02-19T09:01:00",
+  "extension": "dbc",
+  "size": 136048,
+  "dataset": "sinan-mala",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ }
+]

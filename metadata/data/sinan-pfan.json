@@ -1,0 +1,114 @@
+[
+ {
+  "filename": "PFANBR12.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PFANBR12.dbc",
+  "datetime": "2021-11-23T16:34:00",
+  "extension": "dbc",
+  "size": 68118,
+  "dataset": "sinan-pfan",
+  "partition": {
+   "uf": "br",
+   "year": 2012,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "PFANBR13.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PFANBR13.dbc",
+  "datetime": "2021-11-23T16:34:00",
+  "extension": "dbc",
+  "size": 58933,
+  "dataset": "sinan-pfan",
+  "partition": {
+   "uf": "br",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "PFANBR14.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PFANBR14.dbc",
+  "datetime": "2021-11-23T16:34:00",
+  "extension": "dbc",
+  "size": 62289,
+  "dataset": "sinan-pfan",
+  "partition": {
+   "uf": "br",
+   "year": 2014,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "PFANBR15.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PFANBR15.dbc",
+  "datetime": "2021-11-23T16:34:00",
+  "extension": "dbc",
+  "size": 62517,
+  "dataset": "sinan-pfan",
+  "partition": {
+   "uf": "br",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "PFANBR16.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PFANBR16.dbc",
+  "datetime": "2021-11-23T16:34:00",
+  "extension": "dbc",
+  "size": 65317,
+  "dataset": "sinan-pfan",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "PFANBR17.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PFANBR17.dbc",
+  "datetime": "2021-11-23T16:34:00",
+  "extension": "dbc",
+  "size": 62304,
+  "dataset": "sinan-pfan",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "PFANBR18.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PFANBR18.dbc",
+  "datetime": "2021-11-23T16:34:00",
+  "extension": "dbc",
+  "size": 68883,
+  "dataset": "sinan-pfan",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "PFANBR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PFANBR19.dbc",
+  "datetime": "2021-11-23T16:34:00",
+  "extension": "dbc",
+  "size": 62906,
+  "dataset": "sinan-pfan",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ }
+]

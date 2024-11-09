@@ -1,0 +1,30 @@
+[
+ {
+  "filename": "TOXGBR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TOXGBR19.dbc",
+  "datetime": "2023-05-30T17:09:00",
+  "extension": "dbc",
+  "size": 302847,
+  "dataset": "sinan-toxg",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TOXGBR20.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TOXGBR20.dbc",
+  "datetime": "2023-05-30T17:09:00",
+  "extension": "dbc",
+  "size": 330163,
+  "dataset": "sinan-toxg",
+  "partition": {
+   "uf": "br",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ }
+]

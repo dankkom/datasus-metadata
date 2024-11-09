@@ -1,0 +1,254 @@
+[
+ {
+  "filename": "TUBEBR01.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TUBEBR01.dbc",
+  "datetime": "2024-07-10T09:34:00",
+  "extension": "dbc",
+  "size": 3146296,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2001,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TUBEBR02.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TUBEBR02.dbc",
+  "datetime": "2024-07-10T09:35:00",
+  "extension": "dbc",
+  "size": 3419809,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2002,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TUBEBR03.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TUBEBR03.dbc",
+  "datetime": "2024-07-10T09:35:00",
+  "extension": "dbc",
+  "size": 3596674,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2003,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TUBEBR04.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TUBEBR04.dbc",
+  "datetime": "2024-07-10T09:35:00",
+  "extension": "dbc",
+  "size": 3593022,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2004,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TUBEBR05.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TUBEBR05.dbc",
+  "datetime": "2024-07-10T09:35:00",
+  "extension": "dbc",
+  "size": 3668491,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2005,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TUBEBR06.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TUBEBR06.dbc",
+  "datetime": "2024-07-10T09:35:00",
+  "extension": "dbc",
+  "size": 3733670,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2006,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TUBEBR07.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TUBEBR07.dbc",
+  "datetime": "2024-07-10T09:35:00",
+  "extension": "dbc",
+  "size": 4097239,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2007,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TUBEBR08.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TUBEBR08.dbc",
+  "datetime": "2024-07-10T09:35:00",
+  "extension": "dbc",
+  "size": 4273433,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2008,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TUBEBR09.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TUBEBR09.dbc",
+  "datetime": "2024-07-10T09:35:00",
+  "extension": "dbc",
+  "size": 4341863,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2009,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TUBEBR10.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TUBEBR10.dbc",
+  "datetime": "2024-07-10T09:35:00",
+  "extension": "dbc",
+  "size": 4374173,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2010,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TUBEBR11.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TUBEBR11.dbc",
+  "datetime": "2024-07-10T09:35:00",
+  "extension": "dbc",
+  "size": 4551178,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2011,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TUBEBR12.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TUBEBR12.dbc",
+  "datetime": "2024-07-10T09:35:00",
+  "extension": "dbc",
+  "size": 4477066,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2012,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TUBEBR13.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TUBEBR13.dbc",
+  "datetime": "2024-07-10T09:35:00",
+  "extension": "dbc",
+  "size": 4428661,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TUBEBR14.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TUBEBR14.dbc",
+  "datetime": "2024-07-10T09:35:00",
+  "extension": "dbc",
+  "size": 4489058,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2014,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TUBEBR15.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TUBEBR15.dbc",
+  "datetime": "2024-07-10T09:35:00",
+  "extension": "dbc",
+  "size": 4343628,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TUBEBR16.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TUBEBR16.dbc",
+  "datetime": "2024-07-10T09:35:00",
+  "extension": "dbc",
+  "size": 4416538,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TUBEBR17.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TUBEBR17.dbc",
+  "datetime": "2024-07-10T09:34:00",
+  "extension": "dbc",
+  "size": 4637967,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TUBEBR18.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TUBEBR18.dbc",
+  "datetime": "2024-04-22T16:23:00",
+  "extension": "dbc",
+  "size": 5002344,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ }
+]

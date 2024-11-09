@@ -1,0 +1,464 @@
+[
+ {
+  "filename": "POPBR00.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR00.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 10665874,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 2000,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR01.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR01.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 5611970,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 2001,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR02.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR02.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 5625373,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 2002,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR03.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR03.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 5620133,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 2003,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR04.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR04.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 5620509,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 2004,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR05.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR05.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 5634075,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 2005,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR06.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR06.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 5634703,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 2006,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR07.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR07.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 5495589,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 2007,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR08.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR08.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 5514725,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 2008,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR09.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR09.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 5508977,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 2009,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR10.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR10.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 10839085,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 2010,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR11.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR11.zip",
+  "datetime": "2015-11-10T14:44:00",
+  "extension": "zip",
+  "size": 5157383,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 2011,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR12.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR12.zip",
+  "datetime": "2015-11-10T14:44:00",
+  "extension": "zip",
+  "size": 5143534,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 2012,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR80.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR80.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 7896922,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR81.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR81.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 2405846,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR82.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR82.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 2415902,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR83.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR83.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 2409830,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR84.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR84.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 2411956,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR85.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR85.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 2417311,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR86.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR86.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 2417768,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR87.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR87.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 2420901,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR88.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR88.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 2423959,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR89.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR89.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 2426822,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR90.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR90.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 2431549,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR91.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR91.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 8787978,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR92.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR92.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 2684358,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR93.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR93.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 3261812,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR94.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR94.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 3265341,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR95.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR95.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 3270818,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR96.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR96.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 5174619,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1996,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR97.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR97.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 5690189,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1997,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR98.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR98.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 5695367,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1998,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPBR99.zip",
+  "full_path": "/dissemin/publicos/IBGE/POP/POPBR99.zip",
+  "datetime": "2014-09-06T17:59:00",
+  "extension": "zip",
+  "size": 5697950,
+  "dataset": "base-populacional-ibge-pop",
+  "partition": {
+   "uf": "br",
+   "year": 1999,
+   "month": null,
+   "version": null
+  }
+ }
+]

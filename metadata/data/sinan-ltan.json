@@ -1,0 +1,324 @@
+[
+ {
+  "filename": "LTANBR00.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR00.dbc",
+  "datetime": "2023-10-09T09:56:00",
+  "extension": "dbc",
+  "size": 1571134,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2000,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR01.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR01.dbc",
+  "datetime": "2023-10-09T09:56:00",
+  "extension": "dbc",
+  "size": 2763327,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2001,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR02.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR02.dbc",
+  "datetime": "2023-10-09T09:56:00",
+  "extension": "dbc",
+  "size": 3195896,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2002,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR03.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR03.dbc",
+  "datetime": "2023-10-09T09:56:00",
+  "extension": "dbc",
+  "size": 3398444,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2003,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR04.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR04.dbc",
+  "datetime": "2023-10-09T09:56:00",
+  "extension": "dbc",
+  "size": 3096448,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2004,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR05.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR05.dbc",
+  "datetime": "2023-10-09T09:56:00",
+  "extension": "dbc",
+  "size": 2896359,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2005,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR06.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR06.dbc",
+  "datetime": "2023-10-09T09:56:00",
+  "extension": "dbc",
+  "size": 2109325,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2006,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR07.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR07.dbc",
+  "datetime": "2023-10-09T15:25:00",
+  "extension": "dbc",
+  "size": 1154498,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2007,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR08.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR08.dbc",
+  "datetime": "2023-10-09T15:25:00",
+  "extension": "dbc",
+  "size": 944364,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2008,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR09.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR09.dbc",
+  "datetime": "2023-10-09T15:25:00",
+  "extension": "dbc",
+  "size": 1468373,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2009,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR10.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR10.dbc",
+  "datetime": "2023-10-09T15:25:00",
+  "extension": "dbc",
+  "size": 1479455,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2010,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR11.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR11.dbc",
+  "datetime": "2023-10-09T15:25:00",
+  "extension": "dbc",
+  "size": 1111142,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2011,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR12.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR12.dbc",
+  "datetime": "2023-10-09T15:25:00",
+  "extension": "dbc",
+  "size": 1141576,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2012,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR13.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR13.dbc",
+  "datetime": "2023-10-09T15:25:00",
+  "extension": "dbc",
+  "size": 1233226,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR14.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR14.dbc",
+  "datetime": "2023-10-09T15:25:00",
+  "extension": "dbc",
+  "size": 1365909,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2014,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR15.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR15.dbc",
+  "datetime": "2023-10-09T15:25:00",
+  "extension": "dbc",
+  "size": 1324381,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR16.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR16.dbc",
+  "datetime": "2023-10-09T15:25:00",
+  "extension": "dbc",
+  "size": 877917,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR17.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR17.dbc",
+  "datetime": "2023-10-09T15:25:00",
+  "extension": "dbc",
+  "size": 1175360,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR18.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR18.dbc",
+  "datetime": "2023-10-09T15:25:00",
+  "extension": "dbc",
+  "size": 916471,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR19.dbc",
+  "datetime": "2023-10-09T15:25:00",
+  "extension": "dbc",
+  "size": 874052,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR20.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR20.dbc",
+  "datetime": "2023-10-09T15:25:00",
+  "extension": "dbc",
+  "size": 967100,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR21.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR21.dbc",
+  "datetime": "2023-10-09T15:25:00",
+  "extension": "dbc",
+  "size": 876675,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTANBR22.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR22.dbc",
+  "datetime": "2023-10-09T15:24:00",
+  "extension": "dbc",
+  "size": 900531,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ }
+]

@@ -1,0 +1,324 @@
+[
+ {
+  "filename": "LEIVBR00.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR00.dbc",
+  "datetime": "2023-10-09T13:07:00",
+  "extension": "dbc",
+  "size": 256484,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2000,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR01.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR01.dbc",
+  "datetime": "2023-10-09T13:07:00",
+  "extension": "dbc",
+  "size": 284625,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2001,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR02.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR02.dbc",
+  "datetime": "2023-10-09T13:07:00",
+  "extension": "dbc",
+  "size": 308169,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2002,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR03.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR03.dbc",
+  "datetime": "2023-10-09T13:07:00",
+  "extension": "dbc",
+  "size": 412202,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2003,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR04.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR04.dbc",
+  "datetime": "2023-10-09T13:07:00",
+  "extension": "dbc",
+  "size": 451559,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2004,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR05.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR05.dbc",
+  "datetime": "2023-10-09T13:07:00",
+  "extension": "dbc",
+  "size": 490792,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2005,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR06.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR06.dbc",
+  "datetime": "2023-10-09T13:07:00",
+  "extension": "dbc",
+  "size": 382611,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2006,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR07.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR07.dbc",
+  "datetime": "2023-09-26T09:05:00",
+  "extension": "dbc",
+  "size": 390167,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2007,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR08.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR08.dbc",
+  "datetime": "2023-10-09T14:50:00",
+  "extension": "dbc",
+  "size": 418007,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2008,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR09.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR09.dbc",
+  "datetime": "2023-09-26T09:05:00",
+  "extension": "dbc",
+  "size": 589654,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2009,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR10.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR10.dbc",
+  "datetime": "2023-09-26T09:05:00",
+  "extension": "dbc",
+  "size": 464751,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2010,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR11.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR11.dbc",
+  "datetime": "2023-09-26T09:04:00",
+  "extension": "dbc",
+  "size": 559515,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2011,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR12.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR12.dbc",
+  "datetime": "2023-09-26T09:04:00",
+  "extension": "dbc",
+  "size": 633166,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2012,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR13.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR13.dbc",
+  "datetime": "2023-09-26T09:04:00",
+  "extension": "dbc",
+  "size": 678352,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR14.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR14.dbc",
+  "datetime": "2023-09-26T09:04:00",
+  "extension": "dbc",
+  "size": 700181,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2014,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR15.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR15.dbc",
+  "datetime": "2023-09-26T09:05:00",
+  "extension": "dbc",
+  "size": 521186,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR16.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR16.dbc",
+  "datetime": "2023-09-26T09:05:00",
+  "extension": "dbc",
+  "size": 643622,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR17.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR17.dbc",
+  "datetime": "2023-09-26T09:05:00",
+  "extension": "dbc",
+  "size": 793232,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR18.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR18.dbc",
+  "datetime": "2023-09-26T09:05:00",
+  "extension": "dbc",
+  "size": 752608,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR19.dbc",
+  "datetime": "2023-09-26T09:05:00",
+  "extension": "dbc",
+  "size": 547772,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR20.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR20.dbc",
+  "datetime": "2023-09-26T09:05:00",
+  "extension": "dbc",
+  "size": 456183,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR21.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR21.dbc",
+  "datetime": "2023-09-26T09:05:00",
+  "extension": "dbc",
+  "size": 459467,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LEIVBR22.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEIVBR22.dbc",
+  "datetime": "2023-10-09T14:50:00",
+  "extension": "dbc",
+  "size": 537383,
+  "dataset": "sinan-leiv",
+  "partition": {
+   "uf": "br",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ }
+]

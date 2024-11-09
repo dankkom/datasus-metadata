@@ -1,0 +1,394 @@
+[
+ {
+  "filename": "ac_cnv.zip",
+  "full_path": "/territorio/conversoes/ac_cnv.zip",
+  "datetime": "2024-10-15T16:32:00",
+  "extension": "zip",
+  "size": 90726,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "ac",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "al_cnv.zip",
+  "full_path": "/territorio/conversoes/al_cnv.zip",
+  "datetime": "2024-10-15T16:32:00",
+  "extension": "zip",
+  "size": 379621,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "al",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "am_cnv.zip",
+  "full_path": "/territorio/conversoes/am_cnv.zip",
+  "datetime": "2024-10-15T16:32:00",
+  "extension": "zip",
+  "size": 241369,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "am",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ap_cnv.zip",
+  "full_path": "/territorio/conversoes/ap_cnv.zip",
+  "datetime": "2024-10-15T16:32:00",
+  "extension": "zip",
+  "size": 68777,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "ap",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ba_cnv.zip",
+  "full_path": "/territorio/conversoes/ba_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 1497088,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "ba",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "br_cnv.zip",
+  "full_path": "/territorio/conversoes/br_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 20650371,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "br",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ce_cnv.zip",
+  "full_path": "/territorio/conversoes/ce_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 692857,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "ce",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "df_cnv.zip",
+  "full_path": "/territorio/conversoes/df_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 86228,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "df",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "es_cnv.zip",
+  "full_path": "/territorio/conversoes/es_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 295705,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "es",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "go_cnv.zip",
+  "full_path": "/territorio/conversoes/go_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 883164,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "go",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ma_cnv.zip",
+  "full_path": "/territorio/conversoes/ma_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 815914,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "ma",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "mg_cnv.zip",
+  "full_path": "/territorio/conversoes/mg_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 3055480,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "mg",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ms_cnv.zip",
+  "full_path": "/territorio/conversoes/ms_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 297328,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "ms",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "mt_cnv.zip",
+  "full_path": "/territorio/conversoes/mt_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 527860,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "mt",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pa_cnv.zip",
+  "full_path": "/territorio/conversoes/pa_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 537608,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "pa",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pb_cnv.zip",
+  "full_path": "/territorio/conversoes/pb_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 813143,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "pb",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pe_cnv.zip",
+  "full_path": "/territorio/conversoes/pe_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 675092,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "pe",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pi_cnv.zip",
+  "full_path": "/territorio/conversoes/pi_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 803044,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "pi",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pr_cnv.zip",
+  "full_path": "/territorio/conversoes/pr_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 1430576,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "pr",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "rj_cnv.zip",
+  "full_path": "/territorio/conversoes/rj_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 362615,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "rj",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "rn_cnv.zip",
+  "full_path": "/territorio/conversoes/rn_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 611332,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "rn",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ro_cnv.zip",
+  "full_path": "/territorio/conversoes/ro_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 199286,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "ro",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "rr_cnv.zip",
+  "full_path": "/territorio/conversoes/rr_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 65329,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "rr",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "rs_cnv.zip",
+  "full_path": "/territorio/conversoes/rs_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 1775647,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "rs",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "sc_cnv.zip",
+  "full_path": "/territorio/conversoes/sc_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 1060044,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "sc",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "se_cnv.zip",
+  "full_path": "/territorio/conversoes/se_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 285611,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "se",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "sp_cnv.zip",
+  "full_path": "/territorio/conversoes/sp_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 2332164,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "sp",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "to_cnv.zip",
+  "full_path": "/territorio/conversoes/to_cnv.zip",
+  "datetime": "2024-10-15T16:33:00",
+  "extension": "zip",
+  "size": 494527,
+  "dataset": "base-territorial-conversao",
+  "partition": {
+   "uf": "to",
+   "year": null,
+   "month": null,
+   "version": null
+  }
+ }
+]

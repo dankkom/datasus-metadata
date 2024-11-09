@@ -1,0 +1,156 @@
+[
+ {
+  "filename": "SDTABR07.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/SDTABR07.dbc",
+  "datetime": "2023-02-06T15:45:00",
+  "extension": "dbc",
+  "size": 63687,
+  "dataset": "sinan-sdta",
+  "partition": {
+   "uf": "br",
+   "year": 2007,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "SDTABR08.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/SDTABR08.dbc",
+  "datetime": "2023-02-06T15:45:00",
+  "extension": "dbc",
+  "size": 63560,
+  "dataset": "sinan-sdta",
+  "partition": {
+   "uf": "br",
+   "year": 2008,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "SDTABR09.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/SDTABR09.dbc",
+  "datetime": "2023-02-06T15:45:00",
+  "extension": "dbc",
+  "size": 60173,
+  "dataset": "sinan-sdta",
+  "partition": {
+   "uf": "br",
+   "year": 2009,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "SDTABR10.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/SDTABR10.dbc",
+  "datetime": "2023-02-06T15:45:00",
+  "extension": "dbc",
+  "size": 49853,
+  "dataset": "sinan-sdta",
+  "partition": {
+   "uf": "br",
+   "year": 2010,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "SDTABR11.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/SDTABR11.dbc",
+  "datetime": "2023-02-06T15:45:00",
+  "extension": "dbc",
+  "size": 72635,
+  "dataset": "sinan-sdta",
+  "partition": {
+   "uf": "br",
+   "year": 2011,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "SDTABR12.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/SDTABR12.dbc",
+  "datetime": "2023-02-06T15:45:00",
+  "extension": "dbc",
+  "size": 79078,
+  "dataset": "sinan-sdta",
+  "partition": {
+   "uf": "br",
+   "year": 2012,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "SDTABR13.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/SDTABR13.dbc",
+  "datetime": "2023-02-06T15:45:00",
+  "extension": "dbc",
+  "size": 76496,
+  "dataset": "sinan-sdta",
+  "partition": {
+   "uf": "br",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "SDTABR15.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/SDTABR15.dbc",
+  "datetime": "2023-02-06T15:45:00",
+  "extension": "dbc",
+  "size": 63627,
+  "dataset": "sinan-sdta",
+  "partition": {
+   "uf": "br",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "SDTABR16.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/SDTABR16.dbc",
+  "datetime": "2023-02-06T15:45:00",
+  "extension": "dbc",
+  "size": 52634,
+  "dataset": "sinan-sdta",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "SDTABR17.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/SDTABR17.dbc",
+  "datetime": "2023-02-06T15:45:00",
+  "extension": "dbc",
+  "size": 56769,
+  "dataset": "sinan-sdta",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "SDTABR18.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/SDTABR18.dbc",
+  "datetime": "2023-02-06T15:45:00",
+  "extension": "dbc",
+  "size": 58495,
+  "dataset": "sinan-sdta",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ }
+]

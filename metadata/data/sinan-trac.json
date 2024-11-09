@@ -1,0 +1,142 @@
+[
+ {
+  "filename": "TRACBR09.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TRACBR09.dbc",
+  "datetime": "2023-12-14T11:08:00",
+  "extension": "dbc",
+  "size": 107119,
+  "dataset": "sinan-trac",
+  "partition": {
+   "uf": "br",
+   "year": 2009,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TRACBR10.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TRACBR10.dbc",
+  "datetime": "2023-01-24T14:41:00",
+  "extension": "dbc",
+  "size": 115586,
+  "dataset": "sinan-trac",
+  "partition": {
+   "uf": "br",
+   "year": 2010,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TRACBR11.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TRACBR11.dbc",
+  "datetime": "2023-01-24T14:41:00",
+  "extension": "dbc",
+  "size": 103697,
+  "dataset": "sinan-trac",
+  "partition": {
+   "uf": "br",
+   "year": 2011,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TRACBR12.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TRACBR12.dbc",
+  "datetime": "2023-01-24T14:41:00",
+  "extension": "dbc",
+  "size": 163479,
+  "dataset": "sinan-trac",
+  "partition": {
+   "uf": "br",
+   "year": 2012,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TRACBR13.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TRACBR13.dbc",
+  "datetime": "2023-01-24T14:41:00",
+  "extension": "dbc",
+  "size": 169052,
+  "dataset": "sinan-trac",
+  "partition": {
+   "uf": "br",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TRACBR14.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TRACBR14.dbc",
+  "datetime": "2023-01-24T14:41:00",
+  "extension": "dbc",
+  "size": 272086,
+  "dataset": "sinan-trac",
+  "partition": {
+   "uf": "br",
+   "year": 2014,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TRACBR15.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TRACBR15.dbc",
+  "datetime": "2023-01-24T14:41:00",
+  "extension": "dbc",
+  "size": 224538,
+  "dataset": "sinan-trac",
+  "partition": {
+   "uf": "br",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TRACBR16.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TRACBR16.dbc",
+  "datetime": "2023-01-24T14:41:00",
+  "extension": "dbc",
+  "size": 145795,
+  "dataset": "sinan-trac",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TRACBR17.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TRACBR17.dbc",
+  "datetime": "2023-01-24T14:41:00",
+  "extension": "dbc",
+  "size": 128945,
+  "dataset": "sinan-trac",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TRACBR18.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TRACBR18.dbc",
+  "datetime": "2023-01-24T14:41:00",
+  "extension": "dbc",
+  "size": 154876,
+  "dataset": "sinan-trac",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ }
+]

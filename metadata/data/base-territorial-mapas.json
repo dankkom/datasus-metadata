@@ -1,0 +1,1164 @@
+[
+ {
+  "filename": "ac_mapas_2013.zip",
+  "full_path": "/territorio/mapas/ac_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 108205,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ac",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "al_mapas_2013.zip",
+  "full_path": "/territorio/mapas/al_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 150503,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "al",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "am_mapas_1991.zip",
+  "full_path": "/territorio/mapas/am_mapas_1991.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 779121,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "am",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "am_mapas_1994.zip",
+  "full_path": "/territorio/mapas/am_mapas_1994.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 727293,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "am",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "am_mapas_1997.zip",
+  "full_path": "/territorio/mapas/am_mapas_1997.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 569701,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "am",
+   "year": 1997,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "am_mapas_2001.zip",
+  "full_path": "/territorio/mapas/am_mapas_2001.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 996636,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "am",
+   "year": 2001,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "am_mapas_2005.zip",
+  "full_path": "/territorio/mapas/am_mapas_2005.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 1009144,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "am",
+   "year": 2005,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "am_mapas_2013.zip",
+  "full_path": "/territorio/mapas/am_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 760869,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "am",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ap_mapas_2013.zip",
+  "full_path": "/territorio/mapas/ap_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 141116,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ap",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ba_mapas_2013.zip",
+  "full_path": "/territorio/mapas/ba_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 1097438,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ba",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "br_mapas_1991.zip",
+  "full_path": "/territorio/mapas/br_mapas_1991.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 10147748,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "br",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "br_mapas_1994.zip",
+  "full_path": "/territorio/mapas/br_mapas_1994.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 10612284,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "br",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "br_mapas_1997.zip",
+  "full_path": "/territorio/mapas/br_mapas_1997.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 8158215,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "br",
+   "year": 1997,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "br_mapas_2001.zip",
+  "full_path": "/territorio/mapas/br_mapas_2001.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 14890409,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "br",
+   "year": 2001,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "br_mapas_2005.zip",
+  "full_path": "/territorio/mapas/br_mapas_2005.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 16022091,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "br",
+   "year": 2005,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "br_mapas_2013.zip",
+  "full_path": "/territorio/mapas/br_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 8847109,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "br",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ce_mapas_1991.zip",
+  "full_path": "/territorio/mapas/ce_mapas_1991.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 363507,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ce",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ce_mapas_1994.zip",
+  "full_path": "/territorio/mapas/ce_mapas_1994.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 363958,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ce",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ce_mapas_1997.zip",
+  "full_path": "/territorio/mapas/ce_mapas_1997.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 284150,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ce",
+   "year": 1997,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ce_mapas_2001.zip",
+  "full_path": "/territorio/mapas/ce_mapas_2001.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 546598,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ce",
+   "year": 2001,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ce_mapas_2005.zip",
+  "full_path": "/territorio/mapas/ce_mapas_2005.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 582994,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ce",
+   "year": 2005,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ce_mapas_2013.zip",
+  "full_path": "/territorio/mapas/ce_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 460125,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ce",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "df_mapas_2013.zip",
+  "full_path": "/territorio/mapas/df_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 29802,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "df",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "es_mapas_2013.zip",
+  "full_path": "/territorio/mapas/es_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 157097,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "es",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "go_mapas_1991.zip",
+  "full_path": "/territorio/mapas/go_mapas_1991.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 880136,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "go",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "go_mapas_1994.zip",
+  "full_path": "/territorio/mapas/go_mapas_1994.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 908698,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "go",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "go_mapas_1997.zip",
+  "full_path": "/territorio/mapas/go_mapas_1997.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 657095,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "go",
+   "year": 1997,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "go_mapas_2001.zip",
+  "full_path": "/territorio/mapas/go_mapas_2001.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 1140122,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "go",
+   "year": 2001,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "go_mapas_2005.zip",
+  "full_path": "/territorio/mapas/go_mapas_2005.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 1298909,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "go",
+   "year": 2005,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "go_mapas_2013.zip",
+  "full_path": "/territorio/mapas/go_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 815728,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "go",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ma_mapas_1991.zip",
+  "full_path": "/territorio/mapas/ma_mapas_1991.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 529016,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ma",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ma_mapas_1994.zip",
+  "full_path": "/territorio/mapas/ma_mapas_1994.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 531275,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ma",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ma_mapas_1997.zip",
+  "full_path": "/territorio/mapas/ma_mapas_1997.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 508974,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ma",
+   "year": 1997,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ma_mapas_2001.zip",
+  "full_path": "/territorio/mapas/ma_mapas_2001.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 845140,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ma",
+   "year": 2001,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ma_mapas_2005.zip",
+  "full_path": "/territorio/mapas/ma_mapas_2005.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 895625,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ma",
+   "year": 2005,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ma_mapas_2013.zip",
+  "full_path": "/territorio/mapas/ma_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 617000,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ma",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "mg_mapas_2013.zip",
+  "full_path": "/territorio/mapas/mg_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 2363686,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "mg",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ms_mapas_2013.zip",
+  "full_path": "/territorio/mapas/ms_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 472164,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ms",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "mt_mapas_1991.zip",
+  "full_path": "/territorio/mapas/mt_mapas_1991.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 768922,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "mt",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "mt_mapas_1994.zip",
+  "full_path": "/territorio/mapas/mt_mapas_1994.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 844018,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "mt",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "mt_mapas_1997.zip",
+  "full_path": "/territorio/mapas/mt_mapas_1997.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 623486,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "mt",
+   "year": 1997,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "mt_mapas_2001.zip",
+  "full_path": "/territorio/mapas/mt_mapas_2001.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 1145238,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "mt",
+   "year": 2001,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "mt_mapas_2005.zip",
+  "full_path": "/territorio/mapas/mt_mapas_2005.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 1259962,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "mt",
+   "year": 2005,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "mt_mapas_2013.zip",
+  "full_path": "/territorio/mapas/mt_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 767316,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "mt",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pa_mapas_2013.zip",
+  "full_path": "/territorio/mapas/pa_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 711174,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pa",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pb_mapas_1991.zip",
+  "full_path": "/territorio/mapas/pb_mapas_1991.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 222274,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pb",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pb_mapas_1994.zip",
+  "full_path": "/territorio/mapas/pb_mapas_1994.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 222483,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pb",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pb_mapas_1997.zip",
+  "full_path": "/territorio/mapas/pb_mapas_1997.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 198417,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pb",
+   "year": 1997,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pb_mapas_2001.zip",
+  "full_path": "/territorio/mapas/pb_mapas_2001.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 314125,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pb",
+   "year": 2001,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pb_mapas_2005.zip",
+  "full_path": "/territorio/mapas/pb_mapas_2005.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 356583,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pb",
+   "year": 2005,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pb_mapas_2013.zip",
+  "full_path": "/territorio/mapas/pb_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 341835,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pb",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pe_mapas_2013.zip",
+  "full_path": "/territorio/mapas/pe_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 323934,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pe",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pi_mapas_2013.zip",
+  "full_path": "/territorio/mapas/pi_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 374248,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pi",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pr_mapas_1991.zip",
+  "full_path": "/territorio/mapas/pr_mapas_1991.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 964384,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pr",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pr_mapas_1994.zip",
+  "full_path": "/territorio/mapas/pr_mapas_1994.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 1031767,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pr",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pr_mapas_1997.zip",
+  "full_path": "/territorio/mapas/pr_mapas_1997.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 679965,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pr",
+   "year": 1997,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pr_mapas_2001.zip",
+  "full_path": "/territorio/mapas/pr_mapas_2001.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 1445564,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pr",
+   "year": 2001,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pr_mapas_2005.zip",
+  "full_path": "/territorio/mapas/pr_mapas_2005.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 1554282,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pr",
+   "year": 2005,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "pr_mapas_2013.zip",
+  "full_path": "/territorio/mapas/pr_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 912994,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "pr",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "rj_mapas_2013.zip",
+  "full_path": "/territorio/mapas/rj_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 193995,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "rj",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "rn_mapas_2013.zip",
+  "full_path": "/territorio/mapas/rn_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 142836,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "rn",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ro_mapas_2013.zip",
+  "full_path": "/territorio/mapas/ro_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 205762,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "ro",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "rr_mapas_2013.zip",
+  "full_path": "/territorio/mapas/rr_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 180201,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "rr",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "rs_mapas_1991.zip",
+  "full_path": "/territorio/mapas/rs_mapas_1991.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 1106067,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "rs",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "rs_mapas_1994.zip",
+  "full_path": "/territorio/mapas/rs_mapas_1994.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 1197666,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "rs",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "rs_mapas_1997.zip",
+  "full_path": "/territorio/mapas/rs_mapas_1997.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 917423,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "rs",
+   "year": 1997,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "rs_mapas_2001.zip",
+  "full_path": "/territorio/mapas/rs_mapas_2001.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 1566280,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "rs",
+   "year": 2001,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "rs_mapas_2005.zip",
+  "full_path": "/territorio/mapas/rs_mapas_2005.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 1803779,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "rs",
+   "year": 2005,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "rs_mapas_2013.zip",
+  "full_path": "/territorio/mapas/rs_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 975350,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "rs",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "sc_mapas_1991.zip",
+  "full_path": "/territorio/mapas/sc_mapas_1991.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 666837,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "sc",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "sc_mapas_1994.zip",
+  "full_path": "/territorio/mapas/sc_mapas_1994.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 720180,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "sc",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "sc_mapas_1997.zip",
+  "full_path": "/territorio/mapas/sc_mapas_1997.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 570575,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "sc",
+   "year": 1997,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "sc_mapas_2001.zip",
+  "full_path": "/territorio/mapas/sc_mapas_2001.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 1024473,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "sc",
+   "year": 2001,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "sc_mapas_2005.zip",
+  "full_path": "/territorio/mapas/sc_mapas_2005.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 1035911,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "sc",
+   "year": 2005,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "sc_mapas_2013.zip",
+  "full_path": "/territorio/mapas/sc_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 665744,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "sc",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "se_mapas_2013.zip",
+  "full_path": "/territorio/mapas/se_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 96456,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "se",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "sp_mapas_1991.zip",
+  "full_path": "/territorio/mapas/sp_mapas_1991.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 1316460,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "sp",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "sp_mapas_1994.zip",
+  "full_path": "/territorio/mapas/sp_mapas_1994.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 1361046,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "sp",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "sp_mapas_1997.zip",
+  "full_path": "/territorio/mapas/sp_mapas_1997.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 1049911,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "sp",
+   "year": 1997,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "sp_mapas_2001.zip",
+  "full_path": "/territorio/mapas/sp_mapas_2001.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 1807494,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "sp",
+   "year": 2001,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "sp_mapas_2005.zip",
+  "full_path": "/territorio/mapas/sp_mapas_2005.zip",
+  "datetime": "2016-05-27T14:35:00",
+  "extension": "zip",
+  "size": 1956029,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "sp",
+   "year": 2005,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "sp_mapas_2013.zip",
+  "full_path": "/territorio/mapas/sp_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 1462297,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "sp",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "to_mapas_2013.zip",
+  "full_path": "/territorio/mapas/to_mapas_2013.zip",
+  "datetime": "2024-07-30T15:51:00",
+  "extension": "zip",
+  "size": 428438,
+  "dataset": "base-territorial-mapas",
+  "partition": {
+   "uf": "to",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ }
+]

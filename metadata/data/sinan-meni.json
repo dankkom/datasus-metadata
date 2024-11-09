@@ -1,0 +1,170 @@
+[
+ {
+  "filename": "MENIBR07.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MENIBR07.dbc",
+  "datetime": "2023-02-16T15:01:00",
+  "extension": "dbc",
+  "size": 3462227,
+  "dataset": "sinan-meni",
+  "partition": {
+   "uf": "br",
+   "year": 2007,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MENIBR08.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MENIBR08.dbc",
+  "datetime": "2023-02-16T15:01:00",
+  "extension": "dbc",
+  "size": 2956391,
+  "dataset": "sinan-meni",
+  "partition": {
+   "uf": "br",
+   "year": 2008,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MENIBR09.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MENIBR09.dbc",
+  "datetime": "2023-02-16T15:01:00",
+  "extension": "dbc",
+  "size": 3043477,
+  "dataset": "sinan-meni",
+  "partition": {
+   "uf": "br",
+   "year": 2009,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MENIBR10.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MENIBR10.dbc",
+  "datetime": "2023-02-16T15:01:00",
+  "extension": "dbc",
+  "size": 2836966,
+  "dataset": "sinan-meni",
+  "partition": {
+   "uf": "br",
+   "year": 2010,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MENIBR11.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MENIBR11.dbc",
+  "datetime": "2023-02-16T15:01:00",
+  "extension": "dbc",
+  "size": 2884646,
+  "dataset": "sinan-meni",
+  "partition": {
+   "uf": "br",
+   "year": 2011,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MENIBR12.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MENIBR12.dbc",
+  "datetime": "2023-02-16T15:02:00",
+  "extension": "dbc",
+  "size": 2852296,
+  "dataset": "sinan-meni",
+  "partition": {
+   "uf": "br",
+   "year": 2012,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MENIBR13.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MENIBR13.dbc",
+  "datetime": "2023-02-16T15:02:00",
+  "extension": "dbc",
+  "size": 2565382,
+  "dataset": "sinan-meni",
+  "partition": {
+   "uf": "br",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MENIBR14.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MENIBR14.dbc",
+  "datetime": "2023-02-16T15:02:00",
+  "extension": "dbc",
+  "size": 2466835,
+  "dataset": "sinan-meni",
+  "partition": {
+   "uf": "br",
+   "year": 2014,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MENIBR15.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MENIBR15.dbc",
+  "datetime": "2024-07-04T19:11:00",
+  "extension": "dbc",
+  "size": 2291566,
+  "dataset": "sinan-meni",
+  "partition": {
+   "uf": "br",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MENIBR16.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MENIBR16.dbc",
+  "datetime": "2023-02-16T15:02:00",
+  "extension": "dbc",
+  "size": 2251820,
+  "dataset": "sinan-meni",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MENIBR17.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MENIBR17.dbc",
+  "datetime": "2023-02-16T15:02:00",
+  "extension": "dbc",
+  "size": 2539424,
+  "dataset": "sinan-meni",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "MENIBR18.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MENIBR18.dbc",
+  "datetime": "2024-07-04T19:11:00",
+  "extension": "dbc",
+  "size": 2487469,
+  "dataset": "sinan-meni",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "filename": "TRACBR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TRACBR19.dbc",
+  "datetime": "2023-01-24T14:41:00",
+  "extension": "dbc",
+  "size": 63348,
+  "dataset": "sinan-trac-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TRACBR20.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TRACBR20.dbc",
+  "datetime": "2023-01-24T14:41:00",
+  "extension": "dbc",
+  "size": 4371,
+  "dataset": "sinan-trac-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TRACBR21.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TRACBR21.dbc",
+  "datetime": "2023-01-24T14:41:00",
+  "extension": "dbc",
+  "size": 1927,
+  "dataset": "sinan-trac-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TRACBR22.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TRACBR22.dbc",
+  "datetime": "2023-01-24T14:41:00",
+  "extension": "dbc",
+  "size": 22619,
+  "dataset": "sinan-trac-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ }
+]

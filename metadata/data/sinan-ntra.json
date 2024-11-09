@@ -1,0 +1,128 @@
+[
+ {
+  "filename": "NTRABR10.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/NTRABR10.dbc",
+  "datetime": "2023-01-24T14:40:00",
+  "extension": "dbc",
+  "size": 42477,
+  "dataset": "sinan-ntra",
+  "partition": {
+   "uf": "br",
+   "year": 2010,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "NTRABR11.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/NTRABR11.dbc",
+  "datetime": "2023-01-24T14:40:00",
+  "extension": "dbc",
+  "size": 36010,
+  "dataset": "sinan-ntra",
+  "partition": {
+   "uf": "br",
+   "year": 2011,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "NTRABR12.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/NTRABR12.dbc",
+  "datetime": "2023-01-24T14:40:00",
+  "extension": "dbc",
+  "size": 53355,
+  "dataset": "sinan-ntra",
+  "partition": {
+   "uf": "br",
+   "year": 2012,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "NTRABR13.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/NTRABR13.dbc",
+  "datetime": "2023-01-24T14:40:00",
+  "extension": "dbc",
+  "size": 57956,
+  "dataset": "sinan-ntra",
+  "partition": {
+   "uf": "br",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "NTRABR14.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/NTRABR14.dbc",
+  "datetime": "2023-01-24T14:40:00",
+  "extension": "dbc",
+  "size": 82465,
+  "dataset": "sinan-ntra",
+  "partition": {
+   "uf": "br",
+   "year": 2014,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "NTRABR15.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/NTRABR15.dbc",
+  "datetime": "2023-01-24T14:40:00",
+  "extension": "dbc",
+  "size": 104492,
+  "dataset": "sinan-ntra",
+  "partition": {
+   "uf": "br",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "NTRABR16.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/NTRABR16.dbc",
+  "datetime": "2023-01-24T14:40:00",
+  "extension": "dbc",
+  "size": 66461,
+  "dataset": "sinan-ntra",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "NTRABR17.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/NTRABR17.dbc",
+  "datetime": "2023-01-24T14:40:00",
+  "extension": "dbc",
+  "size": 51020,
+  "dataset": "sinan-ntra",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "NTRABR18.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/NTRABR18.dbc",
+  "datetime": "2023-01-24T14:40:00",
+  "extension": "dbc",
+  "size": 76432,
+  "dataset": "sinan-ntra",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ }
+]

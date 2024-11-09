@@ -1,0 +1,86 @@
+[
+ {
+  "filename": "TETNBR14.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETNBR14.dbc",
+  "datetime": "2021-11-23T17:54:00",
+  "extension": "dbc",
+  "size": 2508,
+  "dataset": "sinan-tetn",
+  "partition": {
+   "uf": "br",
+   "year": 2014,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TETNBR15.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETNBR15.dbc",
+  "datetime": "2021-11-23T17:54:00",
+  "extension": "dbc",
+  "size": 2379,
+  "dataset": "sinan-tetn",
+  "partition": {
+   "uf": "br",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TETNBR16.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETNBR16.dbc",
+  "datetime": "2021-11-23T17:54:00",
+  "extension": "dbc",
+  "size": 2525,
+  "dataset": "sinan-tetn",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TETNBR17.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETNBR17.dbc",
+  "datetime": "2021-11-23T17:54:00",
+  "extension": "dbc",
+  "size": 2510,
+  "dataset": "sinan-tetn",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TETNBR18.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETNBR18.dbc",
+  "datetime": "2021-11-23T17:54:00",
+  "extension": "dbc",
+  "size": 2379,
+  "dataset": "sinan-tetn",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TETNBR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETNBR19.dbc",
+  "datetime": "2021-11-23T17:54:00",
+  "extension": "dbc",
+  "size": 2379,
+  "dataset": "sinan-tetn",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "filename": "PNEUBR20.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PNEUBR20.dbc",
+  "datetime": "2023-08-28T20:47:00",
+  "extension": "dbc",
+  "size": 12237,
+  "dataset": "sinan-pneu-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "PNEUBR21.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PNEUBR21.dbc",
+  "datetime": "2023-08-28T20:47:00",
+  "extension": "dbc",
+  "size": 12103,
+  "dataset": "sinan-pneu-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "PNEUBR22.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PNEUBR22.dbc",
+  "datetime": "2023-08-28T20:47:00",
+  "extension": "dbc",
+  "size": 18761,
+  "dataset": "sinan-pneu-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "PNEUBR23.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PNEUBR23.dbc",
+  "datetime": "2024-02-01T22:21:00",
+  "extension": "dbc",
+  "size": 21427,
+  "dataset": "sinan-pneu-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ }
+]

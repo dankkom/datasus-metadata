@@ -1,0 +1,198 @@
+[
+ {
+  "filename": "LERDBR06.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LERDBR06.dbc",
+  "datetime": "2023-01-16T14:18:00",
+  "extension": "dbc",
+  "size": 11542,
+  "dataset": "sinan-lerd",
+  "partition": {
+   "uf": "br",
+   "year": 2006,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LERDBR07.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LERDBR07.dbc",
+  "datetime": "2023-01-16T14:18:00",
+  "extension": "dbc",
+  "size": 140367,
+  "dataset": "sinan-lerd",
+  "partition": {
+   "uf": "br",
+   "year": 2007,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LERDBR08.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LERDBR08.dbc",
+  "datetime": "2023-01-16T14:18:00",
+  "extension": "dbc",
+  "size": 159807,
+  "dataset": "sinan-lerd",
+  "partition": {
+   "uf": "br",
+   "year": 2008,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LERDBR09.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LERDBR09.dbc",
+  "datetime": "2023-01-16T14:18:00",
+  "extension": "dbc",
+  "size": 246288,
+  "dataset": "sinan-lerd",
+  "partition": {
+   "uf": "br",
+   "year": 2009,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LERDBR10.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LERDBR10.dbc",
+  "datetime": "2023-01-16T14:18:00",
+  "extension": "dbc",
+  "size": 289644,
+  "dataset": "sinan-lerd",
+  "partition": {
+   "uf": "br",
+   "year": 2010,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LERDBR11.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LERDBR11.dbc",
+  "datetime": "2023-01-16T14:18:00",
+  "extension": "dbc",
+  "size": 360091,
+  "dataset": "sinan-lerd",
+  "partition": {
+   "uf": "br",
+   "year": 2011,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LERDBR12.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LERDBR12.dbc",
+  "datetime": "2023-01-16T14:18:00",
+  "extension": "dbc",
+  "size": 423904,
+  "dataset": "sinan-lerd",
+  "partition": {
+   "uf": "br",
+   "year": 2012,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LERDBR13.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LERDBR13.dbc",
+  "datetime": "2023-01-16T14:18:00",
+  "extension": "dbc",
+  "size": 415285,
+  "dataset": "sinan-lerd",
+  "partition": {
+   "uf": "br",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LERDBR14.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LERDBR14.dbc",
+  "datetime": "2023-01-16T14:18:00",
+  "extension": "dbc",
+  "size": 416543,
+  "dataset": "sinan-lerd",
+  "partition": {
+   "uf": "br",
+   "year": 2014,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LERDBR15.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LERDBR15.dbc",
+  "datetime": "2023-01-16T14:18:00",
+  "extension": "dbc",
+  "size": 467690,
+  "dataset": "sinan-lerd",
+  "partition": {
+   "uf": "br",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LERDBR16.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LERDBR16.dbc",
+  "datetime": "2023-01-16T14:18:00",
+  "extension": "dbc",
+  "size": 463329,
+  "dataset": "sinan-lerd",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LERDBR17.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LERDBR17.dbc",
+  "datetime": "2023-01-16T14:18:00",
+  "extension": "dbc",
+  "size": 493094,
+  "dataset": "sinan-lerd",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LERDBR18.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LERDBR18.dbc",
+  "datetime": "2023-01-16T14:18:00",
+  "extension": "dbc",
+  "size": 455008,
+  "dataset": "sinan-lerd",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "LERDBR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LERDBR19.dbc",
+  "datetime": "2023-08-28T20:06:00",
+  "extension": "dbc",
+  "size": 403871,
+  "dataset": "sinan-lerd",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ }
+]

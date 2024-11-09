@@ -1,0 +1,30 @@
+[
+ {
+  "filename": "TETABR21.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TETABR21.dbc",
+  "datetime": "2023-02-27T16:42:00",
+  "extension": "dbc",
+  "size": 28823,
+  "dataset": "sinan-teta-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "TETABR22.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TETABR22.dbc",
+  "datetime": "2023-02-27T16:42:00",
+  "extension": "dbc",
+  "size": 34587,
+  "dataset": "sinan-teta-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ }
+]

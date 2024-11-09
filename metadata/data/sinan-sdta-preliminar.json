@@ -1,0 +1,44 @@
+[
+ {
+  "filename": "SDTABR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SDTABR19.dbc",
+  "datetime": "2023-02-06T15:45:00",
+  "extension": "dbc",
+  "size": 63671,
+  "dataset": "sinan-sdta-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "SDTABR20.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SDTABR20.dbc",
+  "datetime": "2023-02-06T15:45:00",
+  "extension": "dbc",
+  "size": 28900,
+  "dataset": "sinan-sdta-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "SDTABR21.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SDTABR21.dbc",
+  "datetime": "2023-02-06T15:45:00",
+  "extension": "dbc",
+  "size": 52036,
+  "dataset": "sinan-sdta-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ }
+]

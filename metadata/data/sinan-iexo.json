@@ -1,0 +1,198 @@
+[
+ {
+  "filename": "IEXOBR06.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/IEXOBR06.dbc",
+  "datetime": "2023-01-16T14:21:00",
+  "extension": "dbc",
+  "size": 14017,
+  "dataset": "sinan-iexo",
+  "partition": {
+   "uf": "br",
+   "year": 2006,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "IEXOBR07.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/IEXOBR07.dbc",
+  "datetime": "2023-01-16T14:21:00",
+  "extension": "dbc",
+  "size": 1728118,
+  "dataset": "sinan-iexo",
+  "partition": {
+   "uf": "br",
+   "year": 2007,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "IEXOBR08.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/IEXOBR08.dbc",
+  "datetime": "2023-01-16T14:21:00",
+  "extension": "dbc",
+  "size": 2157366,
+  "dataset": "sinan-iexo",
+  "partition": {
+   "uf": "br",
+   "year": 2008,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "IEXOBR09.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/IEXOBR09.dbc",
+  "datetime": "2023-01-16T14:21:00",
+  "extension": "dbc",
+  "size": 3384136,
+  "dataset": "sinan-iexo",
+  "partition": {
+   "uf": "br",
+   "year": 2009,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "IEXOBR10.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/IEXOBR10.dbc",
+  "datetime": "2023-01-16T14:21:00",
+  "extension": "dbc",
+  "size": 3421029,
+  "dataset": "sinan-iexo",
+  "partition": {
+   "uf": "br",
+   "year": 2010,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "IEXOBR11.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/IEXOBR11.dbc",
+  "datetime": "2023-01-16T14:21:00",
+  "extension": "dbc",
+  "size": 4884647,
+  "dataset": "sinan-iexo",
+  "partition": {
+   "uf": "br",
+   "year": 2011,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "IEXOBR12.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/IEXOBR12.dbc",
+  "datetime": "2023-01-16T14:21:00",
+  "extension": "dbc",
+  "size": 6064890,
+  "dataset": "sinan-iexo",
+  "partition": {
+   "uf": "br",
+   "year": 2012,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "IEXOBR13.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/IEXOBR13.dbc",
+  "datetime": "2023-01-16T14:21:00",
+  "extension": "dbc",
+  "size": 7091325,
+  "dataset": "sinan-iexo",
+  "partition": {
+   "uf": "br",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "IEXOBR14.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/IEXOBR14.dbc",
+  "datetime": "2023-01-16T14:21:00",
+  "extension": "dbc",
+  "size": 7617980,
+  "dataset": "sinan-iexo",
+  "partition": {
+   "uf": "br",
+   "year": 2014,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "IEXOBR15.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/IEXOBR15.dbc",
+  "datetime": "2023-01-16T14:21:00",
+  "extension": "dbc",
+  "size": 7527354,
+  "dataset": "sinan-iexo",
+  "partition": {
+   "uf": "br",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "IEXOBR16.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/IEXOBR16.dbc",
+  "datetime": "2023-01-16T14:21:00",
+  "extension": "dbc",
+  "size": 8170628,
+  "dataset": "sinan-iexo",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "IEXOBR17.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/IEXOBR17.dbc",
+  "datetime": "2023-01-16T14:21:00",
+  "extension": "dbc",
+  "size": 10951117,
+  "dataset": "sinan-iexo",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "IEXOBR18.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/IEXOBR18.dbc",
+  "datetime": "2023-01-16T14:21:00",
+  "extension": "dbc",
+  "size": 12598010,
+  "dataset": "sinan-iexo",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "IEXOBR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/IEXOBR19.dbc",
+  "datetime": "2023-08-29T21:03:00",
+  "extension": "dbc",
+  "size": 14872672,
+  "dataset": "sinan-iexo",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ }
+]
