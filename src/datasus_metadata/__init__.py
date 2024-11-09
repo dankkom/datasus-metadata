@@ -5,7 +5,7 @@ from datasus_fetcher.fetcher import connect, list_dataset_files
 from datasus_fetcher.meta import datasets
 
 
-def update(metadata_dir_path: Path):
+def update_files(metadata_dir_path: Path):
     metadata_dir_path.mkdir(parents=True, exist_ok=True)
     ftp = connect()
     for dataset in datasets:
@@ -29,7 +29,7 @@ def update(metadata_dir_path: Path):
                 }
             )
         if not data:
-            print(f"{dataset}: No data found")
+            print(f"{dataset}: No files found")
             return
         metadata_file_path = metadata_dir_path / f"{dataset}.json"
         with open(metadata_file_path, "w", encoding="utf-8") as f:

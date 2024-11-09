@@ -1,7 +1,7 @@
 from pathlib import Path
 
-from datasus_metadata import update
+from datasus_metadata import update_files
 
 
 if __name__ == "__main__":
-    update(Path("metadata/files"))
+    update_files(Path("metadata/files"))
