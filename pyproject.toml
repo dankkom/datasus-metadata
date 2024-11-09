@@ -1,5 +1,5 @@
 [project]
-name = "datasus-metadados"
+name = "datasus-metadata"
 version = "0.1.0"
 description = """
 A library to keep up to date datasus metadata files

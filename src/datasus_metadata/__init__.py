@@ -5,11 +5,12 @@ from datasus_fetcher.fetcher import connect, list_dataset_files
 from datasus_fetcher.meta import datasets
 
 
-def update(metadata_file_path: Path):
+def update(metadata_dir_path: Path):
+    metadata_dir_path.mkdir(parents=True, exist_ok=True)
     ftp = connect()
-    data = []
     for dataset in datasets:
         print("Listing files of", dataset)
+        data = []
         for remote_file in list_dataset_files(ftp, dataset):
             data.append(
                 {
@@ -27,9 +28,9 @@ def update(metadata_file_path: Path):
                     },
                 }
             )
-    if not data:
-        print("No data found")
-        return
-    metadata_file_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(metadata_file_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=1, default=str, ensure_ascii=False)
+        if not data:
+            print(f"{dataset}: No data found")
+            return
+        metadata_file_path = metadata_dir_path / f"{dataset}.json"
+        with open(metadata_file_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=1, default=str, ensure_ascii=False)

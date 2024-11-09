@@ -20,7 +20,7 @@ jobs:
           if [ -f pyproject.toml ]; then pip install .; fi
       - name: execute py script
         run: |
-          python update-metadados.py
+          python update-metadata.py
 
       - name: Check if there are any changes
         id: verify_diff
@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add .
+          git add metadata/
           git commit -m "Automated update of datasus files metadata" -a
 
       - name: Push
