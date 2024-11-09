@@ -1,0 +1,184 @@
+[
+ {
+  "filename": "BOTUBR07.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/BOTUBR07.dbc",
+  "datetime": "2021-11-23T11:55:00",
+  "extension": "dbc",
+  "size": 7515,
+  "dataset": "sinan-botu",
+  "partition": {
+   "uf": "br",
+   "year": 2007,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "BOTUBR08.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/BOTUBR08.dbc",
+  "datetime": "2021-11-23T11:56:00",
+  "extension": "dbc",
+  "size": 8346,
+  "dataset": "sinan-botu",
+  "partition": {
+   "uf": "br",
+   "year": 2008,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "BOTUBR09.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/BOTUBR09.dbc",
+  "datetime": "2023-07-12T16:08:00",
+  "extension": "dbc",
+  "size": 9072,
+  "dataset": "sinan-botu",
+  "partition": {
+   "uf": "br",
+   "year": 2009,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "BOTUBR10.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/BOTUBR10.dbc",
+  "datetime": "2021-11-23T11:56:00",
+  "extension": "dbc",
+  "size": 7130,
+  "dataset": "sinan-botu",
+  "partition": {
+   "uf": "br",
+   "year": 2010,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "BOTUBR11.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/BOTUBR11.dbc",
+  "datetime": "2021-11-23T11:56:00",
+  "extension": "dbc",
+  "size": 7834,
+  "dataset": "sinan-botu",
+  "partition": {
+   "uf": "br",
+   "year": 2011,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "BOTUBR12.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/BOTUBR12.dbc",
+  "datetime": "2021-11-23T11:56:00",
+  "extension": "dbc",
+  "size": 8997,
+  "dataset": "sinan-botu",
+  "partition": {
+   "uf": "br",
+   "year": 2012,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "BOTUBR13.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/BOTUBR13.dbc",
+  "datetime": "2021-11-23T11:56:00",
+  "extension": "dbc",
+  "size": 9253,
+  "dataset": "sinan-botu",
+  "partition": {
+   "uf": "br",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "BOTUBR14.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/BOTUBR14.dbc",
+  "datetime": "2023-07-12T16:08:00",
+  "extension": "dbc",
+  "size": 9237,
+  "dataset": "sinan-botu",
+  "partition": {
+   "uf": "br",
+   "year": 2014,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "BOTUBR15.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/BOTUBR15.dbc",
+  "datetime": "2021-11-23T11:56:00",
+  "extension": "dbc",
+  "size": 6976,
+  "dataset": "sinan-botu",
+  "partition": {
+   "uf": "br",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "BOTUBR16.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/BOTUBR16.dbc",
+  "datetime": "2021-11-23T11:56:00",
+  "extension": "dbc",
+  "size": 9596,
+  "dataset": "sinan-botu",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "BOTUBR17.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/BOTUBR17.dbc",
+  "datetime": "2023-07-12T16:08:00",
+  "extension": "dbc",
+  "size": 8170,
+  "dataset": "sinan-botu",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "BOTUBR18.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/BOTUBR18.dbc",
+  "datetime": "2023-07-12T16:08:00",
+  "extension": "dbc",
+  "size": 10528,
+  "dataset": "sinan-botu",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "BOTUBR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/BOTUBR19.dbc",
+  "datetime": "2023-08-18T18:47:00",
+  "extension": "dbc",
+  "size": 8912,
+  "dataset": "sinan-botu",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ }
+]

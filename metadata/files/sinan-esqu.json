@@ -1,0 +1,184 @@
+[
+ {
+  "filename": "ESQUBR07.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESQUBR07.dbc",
+  "datetime": "2022-10-26T08:57:00",
+  "extension": "dbc",
+  "size": 1256848,
+  "dataset": "sinan-esqu",
+  "partition": {
+   "uf": "br",
+   "year": 2007,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESQUBR08.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESQUBR08.dbc",
+  "datetime": "2022-10-26T08:57:00",
+  "extension": "dbc",
+  "size": 658794,
+  "dataset": "sinan-esqu",
+  "partition": {
+   "uf": "br",
+   "year": 2008,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESQUBR09.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESQUBR09.dbc",
+  "datetime": "2022-10-26T08:57:00",
+  "extension": "dbc",
+  "size": 822045,
+  "dataset": "sinan-esqu",
+  "partition": {
+   "uf": "br",
+   "year": 2009,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESQUBR10.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESQUBR10.dbc",
+  "datetime": "2022-10-26T08:57:00",
+  "extension": "dbc",
+  "size": 1050572,
+  "dataset": "sinan-esqu",
+  "partition": {
+   "uf": "br",
+   "year": 2010,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESQUBR11.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESQUBR11.dbc",
+  "datetime": "2022-10-26T08:57:00",
+  "extension": "dbc",
+  "size": 695566,
+  "dataset": "sinan-esqu",
+  "partition": {
+   "uf": "br",
+   "year": 2011,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESQUBR12.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESQUBR12.dbc",
+  "datetime": "2022-10-26T08:57:00",
+  "extension": "dbc",
+  "size": 448712,
+  "dataset": "sinan-esqu",
+  "partition": {
+   "uf": "br",
+   "year": 2012,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESQUBR13.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESQUBR13.dbc",
+  "datetime": "2022-10-26T08:57:00",
+  "extension": "dbc",
+  "size": 396243,
+  "dataset": "sinan-esqu",
+  "partition": {
+   "uf": "br",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESQUBR14.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESQUBR14.dbc",
+  "datetime": "2022-10-26T08:57:00",
+  "extension": "dbc",
+  "size": 408488,
+  "dataset": "sinan-esqu",
+  "partition": {
+   "uf": "br",
+   "year": 2014,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESQUBR15.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESQUBR15.dbc",
+  "datetime": "2022-10-26T08:57:00",
+  "extension": "dbc",
+  "size": 408005,
+  "dataset": "sinan-esqu",
+  "partition": {
+   "uf": "br",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESQUBR16.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESQUBR16.dbc",
+  "datetime": "2022-10-26T08:57:00",
+  "extension": "dbc",
+  "size": 332341,
+  "dataset": "sinan-esqu",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESQUBR17.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESQUBR17.dbc",
+  "datetime": "2022-10-26T08:57:00",
+  "extension": "dbc",
+  "size": 300136,
+  "dataset": "sinan-esqu",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESQUBR18.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESQUBR18.dbc",
+  "datetime": "2023-06-26T16:33:00",
+  "extension": "dbc",
+  "size": 288695,
+  "dataset": "sinan-esqu",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESQUBR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESQUBR19.dbc",
+  "datetime": "2023-06-26T16:33:00",
+  "extension": "dbc",
+  "size": 245351,
+  "dataset": "sinan-esqu",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ }
+]

@@ -1,0 +1,3922 @@
+[
+ {
+  "filename": "RESPAC15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAC15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3075,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ac",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAC16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAC16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 5114,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ac",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAC17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAC17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2865,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ac",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAC18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAC18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ac",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAC19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAC19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2694,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ac",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAC20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAC20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2685,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ac",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAC21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAC21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2673,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ac",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAC22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAC22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2817,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ac",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAC23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAC23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ac",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAC24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAC24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ac",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAL15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAL15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 10722,
+  "dataset": "resp",
+  "partition": {
+   "uf": "al",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAL16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAL16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 19761,
+  "dataset": "resp",
+  "partition": {
+   "uf": "al",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAL17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAL17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 10268,
+  "dataset": "resp",
+  "partition": {
+   "uf": "al",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAL18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAL18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 11063,
+  "dataset": "resp",
+  "partition": {
+   "uf": "al",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAL19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAL19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 8571,
+  "dataset": "resp",
+  "partition": {
+   "uf": "al",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAL20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAL20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 5674,
+  "dataset": "resp",
+  "partition": {
+   "uf": "al",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAL21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAL21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4568,
+  "dataset": "resp",
+  "partition": {
+   "uf": "al",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAL22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAL22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3778,
+  "dataset": "resp",
+  "partition": {
+   "uf": "al",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAL23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAL23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3612,
+  "dataset": "resp",
+  "partition": {
+   "uf": "al",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAL24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAL24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3062,
+  "dataset": "resp",
+  "partition": {
+   "uf": "al",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAM15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAM15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3048,
+  "dataset": "resp",
+  "partition": {
+   "uf": "am",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAM16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAM16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 7466,
+  "dataset": "resp",
+  "partition": {
+   "uf": "am",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAM17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAM17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6041,
+  "dataset": "resp",
+  "partition": {
+   "uf": "am",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAM18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAM18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4740,
+  "dataset": "resp",
+  "partition": {
+   "uf": "am",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAM19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAM19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3631,
+  "dataset": "resp",
+  "partition": {
+   "uf": "am",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAM20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAM20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4037,
+  "dataset": "resp",
+  "partition": {
+   "uf": "am",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAM21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAM21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3164,
+  "dataset": "resp",
+  "partition": {
+   "uf": "am",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAM22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAM22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2985,
+  "dataset": "resp",
+  "partition": {
+   "uf": "am",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAM23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAM23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2829,
+  "dataset": "resp",
+  "partition": {
+   "uf": "am",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAM24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAM24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3546,
+  "dataset": "resp",
+  "partition": {
+   "uf": "am",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAP15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAP15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2715,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ap",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAP16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAP16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3877,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ap",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAP17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAP17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3341,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ap",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAP18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAP18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3394,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ap",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAP19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAP19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2826,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ap",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAP20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAP20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ap",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAP21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAP21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ap",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAP22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAP22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ap",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAP23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAP23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ap",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPAP24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPAP24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ap",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBA15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBA15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 38613,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ba",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBA16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBA16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 85262,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ba",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBA17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBA17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 21443,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ba",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBA18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBA18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 15890,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ba",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBA19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBA19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 10942,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ba",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBA20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBA20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 8405,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ba",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBA21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBA21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 11175,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ba",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBA22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBA22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6719,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ba",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBA23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBA23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6238,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ba",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBA24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBA24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4640,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ba",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBR15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBR15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 205338,
+  "dataset": "resp",
+  "partition": {
+   "uf": "br",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBR16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBR16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 522872,
+  "dataset": "resp",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBR17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBR17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 194545,
+  "dataset": "resp",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBR18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBR18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 134060,
+  "dataset": "resp",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBR19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBR19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 111174,
+  "dataset": "resp",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBR20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBR20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 75731,
+  "dataset": "resp",
+  "partition": {
+   "uf": "br",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBR21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBR21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 62840,
+  "dataset": "resp",
+  "partition": {
+   "uf": "br",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBR22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBR22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 55613,
+  "dataset": "resp",
+  "partition": {
+   "uf": "br",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBR23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBR23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 72047,
+  "dataset": "resp",
+  "partition": {
+   "uf": "br",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPBR24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPBR24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 35676,
+  "dataset": "resp",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPCE15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPCE15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 12805,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ce",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPCE16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPCE16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 26695,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ce",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPCE17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPCE17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 8505,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ce",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPCE18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPCE18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6258,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ce",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPCE19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPCE19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 5143,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ce",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPCE20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPCE20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4145,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ce",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPCE21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPCE21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3600,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ce",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPCE22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPCE22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3090,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ce",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPCE23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPCE23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3201,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ce",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPCE24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPCE24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3078,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ce",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPDF15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPDF15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3439,
+  "dataset": "resp",
+  "partition": {
+   "uf": "df",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPDF16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPDF16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6900,
+  "dataset": "resp",
+  "partition": {
+   "uf": "df",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPDF17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPDF17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 9780,
+  "dataset": "resp",
+  "partition": {
+   "uf": "df",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPDF18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPDF18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6441,
+  "dataset": "resp",
+  "partition": {
+   "uf": "df",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPDF19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPDF19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6437,
+  "dataset": "resp",
+  "partition": {
+   "uf": "df",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPDF20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPDF20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 5737,
+  "dataset": "resp",
+  "partition": {
+   "uf": "df",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPDF21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPDF21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3656,
+  "dataset": "resp",
+  "partition": {
+   "uf": "df",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPDF22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPDF22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4075,
+  "dataset": "resp",
+  "partition": {
+   "uf": "df",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPDF23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPDF23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3482,
+  "dataset": "resp",
+  "partition": {
+   "uf": "df",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPDF24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPDF24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2841,
+  "dataset": "resp",
+  "partition": {
+   "uf": "df",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPES15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPES15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4399,
+  "dataset": "resp",
+  "partition": {
+   "uf": "es",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPES16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPES16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 15464,
+  "dataset": "resp",
+  "partition": {
+   "uf": "es",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPES17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPES17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 8479,
+  "dataset": "resp",
+  "partition": {
+   "uf": "es",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPES18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPES18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 8943,
+  "dataset": "resp",
+  "partition": {
+   "uf": "es",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPES19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPES19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 8698,
+  "dataset": "resp",
+  "partition": {
+   "uf": "es",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPES20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPES20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 9423,
+  "dataset": "resp",
+  "partition": {
+   "uf": "es",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPES21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPES21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 5851,
+  "dataset": "resp",
+  "partition": {
+   "uf": "es",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPES22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPES22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 5380,
+  "dataset": "resp",
+  "partition": {
+   "uf": "es",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPES23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPES23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6256,
+  "dataset": "resp",
+  "partition": {
+   "uf": "es",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPES24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPES24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6904,
+  "dataset": "resp",
+  "partition": {
+   "uf": "es",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPGO15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPGO15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6006,
+  "dataset": "resp",
+  "partition": {
+   "uf": "go",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPGO16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPGO16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 17171,
+  "dataset": "resp",
+  "partition": {
+   "uf": "go",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPGO17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPGO17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 11768,
+  "dataset": "resp",
+  "partition": {
+   "uf": "go",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPGO18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPGO18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 9048,
+  "dataset": "resp",
+  "partition": {
+   "uf": "go",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPGO19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPGO19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 7970,
+  "dataset": "resp",
+  "partition": {
+   "uf": "go",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPGO20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPGO20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3961,
+  "dataset": "resp",
+  "partition": {
+   "uf": "go",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPGO21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPGO21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3723,
+  "dataset": "resp",
+  "partition": {
+   "uf": "go",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPGO22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPGO22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4016,
+  "dataset": "resp",
+  "partition": {
+   "uf": "go",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPGO23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPGO23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3665,
+  "dataset": "resp",
+  "partition": {
+   "uf": "go",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPGO24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPGO24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3209,
+  "dataset": "resp",
+  "partition": {
+   "uf": "go",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMA15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMA15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 7065,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ma",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMA16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMA16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 16866,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ma",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMA17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMA17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 8975,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ma",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMA18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMA18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4963,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ma",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMA19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMA19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 5057,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ma",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMA20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMA20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3462,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ma",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMA21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMA21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3640,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ma",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMA22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMA22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3494,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ma",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMA23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMA23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3321,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ma",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMA24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMA24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ma",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMG15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMG15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4855,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mg",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMG16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMG16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 27991,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mg",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMG17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMG17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 30491,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mg",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMG18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMG18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 15793,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mg",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMG19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMG19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 16674,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mg",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMG20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMG20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 12929,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mg",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMG21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMG21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 12910,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mg",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMG22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMG22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 11386,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mg",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMG23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMG23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 12571,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mg",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMG24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMG24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6359,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mg",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMS15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMS15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3090,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ms",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMS16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMS16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 5852,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ms",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMS17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMS17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3637,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ms",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMS18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMS18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3081,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ms",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMS19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMS19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2820,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ms",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMS20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMS20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2826,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ms",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMS21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMS21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2936,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ms",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMS22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMS22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3029,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ms",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMS23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMS23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2952,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ms",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMS24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMS24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2794,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ms",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMT15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMT15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 7511,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mt",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMT16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMT16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 17126,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mt",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMT17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMT17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 5892,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mt",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMT18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMT18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4482,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mt",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMT19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMT19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3560,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mt",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMT20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMT20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2714,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mt",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMT21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMT21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2834,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mt",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMT22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMT22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2682,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mt",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMT23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMT23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2802,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mt",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPMT24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPMT24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "mt",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPA15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPA15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3157,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pa",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPA16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPA16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 8851,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pa",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPA17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPA17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4094,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pa",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPA18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPA18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3974,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pa",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPA19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPA19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2869,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pa",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPA20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPA20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3018,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pa",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPA21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPA21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pa",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPA22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPA22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pa",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPA23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPA23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2813,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pa",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPA24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPA24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2708,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pa",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPB15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPB15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 26447,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pb",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPB16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPB16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 25629,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pb",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPB17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPB17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6190,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pb",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPB18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPB18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 7120,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pb",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPB19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPB19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3955,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pb",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPB20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPB20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4014,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pb",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPB21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPB21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3213,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pb",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPB22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPB22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2908,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pb",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPB23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPB23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3124,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pb",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPB24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPB24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pb",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPE15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPE15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 44464,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pe",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPE16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPE16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 56224,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pe",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPE17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPE17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 18224,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pe",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPE18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPE18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 19166,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pe",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPE19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPE19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 17130,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pe",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPE20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPE20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 11536,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pe",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPE21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPE21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 8543,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pe",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPE22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPE22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6691,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pe",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPE23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPE23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6990,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pe",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPE24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPE24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3791,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pe",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPI15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPI15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 5804,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pi",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPI16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPI16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 12232,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pi",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPI17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPI17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4481,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pi",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPI18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPI18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4484,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pi",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPI19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPI19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3947,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pi",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPI20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPI20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2952,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pi",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPI21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPI21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4011,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pi",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPI22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPI22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2995,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pi",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPI23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPI23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2978,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pi",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPI24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPI24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2714,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pi",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPR15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPR15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3690,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pr",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPR16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPR16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 5566,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pr",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPR17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPR17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3002,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pr",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPR18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPR18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3322,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pr",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPR19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPR19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3310,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pr",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPR20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPR20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2909,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pr",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPR21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPR21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3081,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pr",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPR22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPR22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4242,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pr",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPR23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPR23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4185,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pr",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPPR24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPPR24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3087,
+  "dataset": "resp",
+  "partition": {
+   "uf": "pr",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRJ15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRJ15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 10868,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rj",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRJ16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRJ16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 52765,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rj",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRJ17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRJ17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 15287,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rj",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRJ18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRJ18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6688,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rj",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRJ19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRJ19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 5262,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rj",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRJ20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRJ20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 5035,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rj",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRJ21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRJ21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4027,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rj",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRJ22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRJ22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4052,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rj",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRJ23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRJ23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3994,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rj",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRJ24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRJ24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3167,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rj",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRN15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRN15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 13616,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rn",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRN16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRN16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 23855,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rn",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRN17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRN17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6042,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rn",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRN18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRN18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4015,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rn",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRN19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRN19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4610,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rn",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRN20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRN20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3720,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rn",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRN21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRN21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3088,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rn",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRN22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRN22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 5372,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rn",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRN23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRN23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 17558,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rn",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRN24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRN24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 9634,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rn",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRO15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRO15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2982,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ro",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRO16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRO16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 5885,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ro",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRO17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRO17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 7128,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ro",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRO18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRO18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2828,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ro",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRO19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRO19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3433,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ro",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRO20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRO20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3188,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ro",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRO21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRO21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2718,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ro",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRO22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRO22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3013,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ro",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRO23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRO23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2702,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ro",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRO24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRO24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "ro",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRR15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRR15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rr",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRR16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRR16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4774,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rr",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRR17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRR17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3077,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rr",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRR18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRR18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2914,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rr",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRR19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRR19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rr",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRR20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRR20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rr",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRR21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRR21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rr",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRR22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRR22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2710,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rr",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRR23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRR23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2879,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rr",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRR24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRR24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rr",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRS15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRS15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3066,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rs",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRS16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRS16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 13117,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rs",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRS17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRS17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 9694,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rs",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRS18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRS18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 8667,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rs",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRS19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRS19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 8722,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rs",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRS20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRS20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6353,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rs",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRS21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRS21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6099,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rs",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRS22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRS22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6850,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rs",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRS23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRS23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 7227,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rs",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPRS24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPRS24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3992,
+  "dataset": "resp",
+  "partition": {
+   "uf": "rs",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSC15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSC15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2704,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sc",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSC16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSC16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3851,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sc",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSC17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSC17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3602,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sc",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSC18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSC18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4181,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sc",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSC19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSC19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4783,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sc",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSC20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSC20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3906,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sc",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSC21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSC21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3834,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sc",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSC22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSC22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3946,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sc",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSC23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSC23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3348,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sc",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSC24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSC24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3115,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sc",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSE15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSE15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 12252,
+  "dataset": "resp",
+  "partition": {
+   "uf": "se",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSE16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSE16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 8943,
+  "dataset": "resp",
+  "partition": {
+   "uf": "se",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSE17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSE17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3688,
+  "dataset": "resp",
+  "partition": {
+   "uf": "se",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSE18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSE18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2994,
+  "dataset": "resp",
+  "partition": {
+   "uf": "se",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSE19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSE19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 3298,
+  "dataset": "resp",
+  "partition": {
+   "uf": "se",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSE20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSE20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2713,
+  "dataset": "resp",
+  "partition": {
+   "uf": "se",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSE21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSE21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "se",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSE22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSE22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2714,
+  "dataset": "resp",
+  "partition": {
+   "uf": "se",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSE23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSE23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2537,
+  "dataset": "resp",
+  "partition": {
+   "uf": "se",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSE24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSE24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 2890,
+  "dataset": "resp",
+  "partition": {
+   "uf": "se",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSP15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSP15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 9756,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sp",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSP16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSP16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 53110,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sp",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSP17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSP17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 29261,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sp",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSP18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSP18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 23263,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sp",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSP19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSP19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 18999,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sp",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSP20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSP20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 14411,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sp",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSP21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSP21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 11908,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sp",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSP22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSP22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 10334,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sp",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSP23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSP23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 12662,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sp",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPSP24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPSP24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6784,
+  "dataset": "resp",
+  "partition": {
+   "uf": "sp",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPTO15.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPTO15.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6257,
+  "dataset": "resp",
+  "partition": {
+   "uf": "to",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPTO16.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPTO16.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 11747,
+  "dataset": "resp",
+  "partition": {
+   "uf": "to",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPTO17.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPTO17.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6808,
+  "dataset": "resp",
+  "partition": {
+   "uf": "to",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPTO18.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPTO18.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 7235,
+  "dataset": "resp",
+  "partition": {
+   "uf": "to",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPTO19.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPTO19.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 7382,
+  "dataset": "resp",
+  "partition": {
+   "uf": "to",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPTO20.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPTO20.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6168,
+  "dataset": "resp",
+  "partition": {
+   "uf": "to",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPTO21.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPTO21.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6650,
+  "dataset": "resp",
+  "partition": {
+   "uf": "to",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPTO22.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPTO22.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 6902,
+  "dataset": "resp",
+  "partition": {
+   "uf": "to",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPTO23.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPTO23.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 7382,
+  "dataset": "resp",
+  "partition": {
+   "uf": "to",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "RESPTO24.dbc",
+  "full_path": "/dissemin/publicos/RESP/DADOS/RESPTO24.dbc",
+  "datetime": "2024-07-01T17:33:00",
+  "extension": "dbc",
+  "size": 4997,
+  "dataset": "resp",
+  "partition": {
+   "uf": "to",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
+ }
+]

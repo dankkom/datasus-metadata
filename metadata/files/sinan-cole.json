@@ -1,0 +1,184 @@
+[
+ {
+  "filename": "COLEBR07.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/COLEBR07.dbc",
+  "datetime": "2021-11-23T12:07:00",
+  "extension": "dbc",
+  "size": 2635,
+  "dataset": "sinan-cole",
+  "partition": {
+   "uf": "br",
+   "year": 2007,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "COLEBR08.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/COLEBR08.dbc",
+  "datetime": "2021-11-23T12:07:00",
+  "extension": "dbc",
+  "size": 2635,
+  "dataset": "sinan-cole",
+  "partition": {
+   "uf": "br",
+   "year": 2008,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "COLEBR09.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/COLEBR09.dbc",
+  "datetime": "2021-11-23T12:07:00",
+  "extension": "dbc",
+  "size": 2635,
+  "dataset": "sinan-cole",
+  "partition": {
+   "uf": "br",
+   "year": 2009,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "COLEBR10.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/COLEBR10.dbc",
+  "datetime": "2021-11-23T12:07:00",
+  "extension": "dbc",
+  "size": 2635,
+  "dataset": "sinan-cole",
+  "partition": {
+   "uf": "br",
+   "year": 2010,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "COLEBR11.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/COLEBR11.dbc",
+  "datetime": "2021-11-23T12:07:00",
+  "extension": "dbc",
+  "size": 2793,
+  "dataset": "sinan-cole",
+  "partition": {
+   "uf": "br",
+   "year": 2011,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "COLEBR12.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/COLEBR12.dbc",
+  "datetime": "2021-11-23T12:07:00",
+  "extension": "dbc",
+  "size": 2635,
+  "dataset": "sinan-cole",
+  "partition": {
+   "uf": "br",
+   "year": 2012,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "COLEBR13.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/COLEBR13.dbc",
+  "datetime": "2021-11-23T12:07:00",
+  "extension": "dbc",
+  "size": 2635,
+  "dataset": "sinan-cole",
+  "partition": {
+   "uf": "br",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "COLEBR14.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/COLEBR14.dbc",
+  "datetime": "2021-11-23T12:07:00",
+  "extension": "dbc",
+  "size": 2635,
+  "dataset": "sinan-cole",
+  "partition": {
+   "uf": "br",
+   "year": 2014,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "COLEBR15.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/COLEBR15.dbc",
+  "datetime": "2021-11-23T12:07:00",
+  "extension": "dbc",
+  "size": 2635,
+  "dataset": "sinan-cole",
+  "partition": {
+   "uf": "br",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "COLEBR16.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/COLEBR16.dbc",
+  "datetime": "2021-11-23T12:07:00",
+  "extension": "dbc",
+  "size": 2818,
+  "dataset": "sinan-cole",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "COLEBR17.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/COLEBR17.dbc",
+  "datetime": "2021-11-23T12:07:00",
+  "extension": "dbc",
+  "size": 2635,
+  "dataset": "sinan-cole",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "COLEBR18.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/COLEBR18.dbc",
+  "datetime": "2021-11-23T12:07:00",
+  "extension": "dbc",
+  "size": 2791,
+  "dataset": "sinan-cole",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "COLEBR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/COLEBR19.dbc",
+  "datetime": "2021-11-23T12:07:00",
+  "extension": "dbc",
+  "size": 2635,
+  "dataset": "sinan-cole",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ }
+]

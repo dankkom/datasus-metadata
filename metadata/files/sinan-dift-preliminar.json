@@ -1,0 +1,30 @@
+[
+ {
+  "filename": "DIFTBR21.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/DIFTBR21.dbc",
+  "datetime": "2023-03-15T12:08:00",
+  "extension": "dbc",
+  "size": 4826,
+  "dataset": "sinan-dift-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DIFTBR22.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/DIFTBR22.dbc",
+  "datetime": "2023-03-15T12:08:00",
+  "extension": "dbc",
+  "size": 5871,
+  "dataset": "sinan-dift-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ }
+]

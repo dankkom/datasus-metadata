@@ -1,0 +1,380 @@
+[
+ {
+  "filename": "DNAC2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNAC2023.dbc",
+  "datetime": "2024-08-22T17:27:00",
+  "extension": "dbc",
+  "size": 689448,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "ac",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNAL2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNAL2023.dbc",
+  "datetime": "2024-08-22T17:27:00",
+  "extension": "dbc",
+  "size": 2268512,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "al",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNAM2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNAM2023.dbc",
+  "datetime": "2024-08-22T17:27:00",
+  "extension": "dbc",
+  "size": 3327567,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "am",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNAP2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNAP2023.dbc",
+  "datetime": "2024-08-22T17:27:00",
+  "extension": "dbc",
+  "size": 620471,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "ap",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNBA2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNBA2023.dbc",
+  "datetime": "2024-08-22T17:27:00",
+  "extension": "dbc",
+  "size": 8293238,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "ba",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNCE2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNCE2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 5339769,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "ce",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNDF2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNDF2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 1818397,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "df",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNES2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNES2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 2516709,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "es",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNGO2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNGO2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 4981622,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "go",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNMA2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNMA2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 4664786,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "ma",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNMG2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNMG2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 11631914,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "mg",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNMS2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNMS2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 2069458,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "ms",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNMT2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNMT2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 2898984,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "mt",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNPA2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNPA2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 6042766,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "pa",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNPB2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNPB2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 2460526,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "pb",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNPE2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNPE2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 5781634,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "pe",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNPI2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNPI2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 2023532,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "pi",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNPR2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNPR2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 6967742,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "pr",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNRJ2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNRJ2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 8718443,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "rj",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNRN2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNRN2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 1924722,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "rn",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNRO2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNRO2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 1185202,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "ro",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNRR2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNRR2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 624586,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "rr",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNRS2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNRS2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 6036713,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "rs",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNSC2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNSC2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 4838322,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "sc",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNSE2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNSE2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 1402551,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "se",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNSP2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNSP2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 24749510,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "sp",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNTO2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNTO2023.dbc",
+  "datetime": "2024-08-22T17:28:00",
+  "extension": "dbc",
+  "size": 1161527,
+  "dataset": "sinasc-dn-preliminar",
+  "partition": {
+   "uf": "to",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ }
+]

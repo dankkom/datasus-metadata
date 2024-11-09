@@ -1,0 +1,282 @@
+[
+ {
+  "filename": "HANSBR01.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR01.dbc",
+  "datetime": "2023-01-16T16:47:00",
+  "extension": "dbc",
+  "size": 2220203,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2001,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "HANSBR02.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR02.dbc",
+  "datetime": "2023-01-16T16:47:00",
+  "extension": "dbc",
+  "size": 2464021,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2002,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "HANSBR03.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR03.dbc",
+  "datetime": "2023-01-16T16:47:00",
+  "extension": "dbc",
+  "size": 2877066,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2003,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "HANSBR04.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR04.dbc",
+  "datetime": "2023-01-16T16:47:00",
+  "extension": "dbc",
+  "size": 2831140,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2004,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "HANSBR05.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR05.dbc",
+  "datetime": "2023-01-16T16:47:00",
+  "extension": "dbc",
+  "size": 2867230,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2005,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "HANSBR06.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR06.dbc",
+  "datetime": "2023-01-16T16:47:00",
+  "extension": "dbc",
+  "size": 2603052,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2006,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "HANSBR07.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR07.dbc",
+  "datetime": "2023-01-16T16:47:00",
+  "extension": "dbc",
+  "size": 2778811,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2007,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "HANSBR08.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR08.dbc",
+  "datetime": "2023-01-16T16:47:00",
+  "extension": "dbc",
+  "size": 2824325,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2008,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "HANSBR09.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR09.dbc",
+  "datetime": "2023-01-16T16:47:00",
+  "extension": "dbc",
+  "size": 3014345,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2009,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "HANSBR10.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR10.dbc",
+  "datetime": "2023-01-16T16:47:00",
+  "extension": "dbc",
+  "size": 2675821,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2010,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "HANSBR11.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR11.dbc",
+  "datetime": "2023-01-16T16:47:00",
+  "extension": "dbc",
+  "size": 2624797,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2011,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "HANSBR12.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR12.dbc",
+  "datetime": "2023-01-16T16:47:00",
+  "extension": "dbc",
+  "size": 2628780,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2012,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "HANSBR13.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR13.dbc",
+  "datetime": "2023-01-16T16:47:00",
+  "extension": "dbc",
+  "size": 2472601,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "HANSBR14.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR14.dbc",
+  "datetime": "2023-01-16T16:47:00",
+  "extension": "dbc",
+  "size": 2479404,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2014,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "HANSBR15.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR15.dbc",
+  "datetime": "2023-01-16T16:47:00",
+  "extension": "dbc",
+  "size": 2317627,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "HANSBR16.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR16.dbc",
+  "datetime": "2023-01-16T16:47:00",
+  "extension": "dbc",
+  "size": 2120312,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "HANSBR17.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR17.dbc",
+  "datetime": "2023-01-16T16:47:00",
+  "extension": "dbc",
+  "size": 2282546,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "HANSBR18.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR18.dbc",
+  "datetime": "2023-02-16T11:12:00",
+  "extension": "dbc",
+  "size": 2403661,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "HANSBR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR19.dbc",
+  "datetime": "2024-09-11T12:08:00",
+  "extension": "dbc",
+  "size": 2370714,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "HANSBR20.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR20.dbc",
+  "datetime": "2024-09-11T12:08:00",
+  "extension": "dbc",
+  "size": 1863988,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ }
+]

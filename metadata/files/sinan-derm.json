@@ -1,0 +1,198 @@
+[
+ {
+  "filename": "DERMBR06.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/DERMBR06.dbc",
+  "datetime": "2023-01-16T14:17:00",
+  "extension": "dbc",
+  "size": 2397,
+  "dataset": "sinan-derm",
+  "partition": {
+   "uf": "br",
+   "year": 2006,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DERMBR07.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/DERMBR07.dbc",
+  "datetime": "2023-01-16T14:17:00",
+  "extension": "dbc",
+  "size": 9293,
+  "dataset": "sinan-derm",
+  "partition": {
+   "uf": "br",
+   "year": 2007,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DERMBR08.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/DERMBR08.dbc",
+  "datetime": "2023-01-16T14:17:00",
+  "extension": "dbc",
+  "size": 18018,
+  "dataset": "sinan-derm",
+  "partition": {
+   "uf": "br",
+   "year": 2008,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DERMBR09.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/DERMBR09.dbc",
+  "datetime": "2023-01-16T14:17:00",
+  "extension": "dbc",
+  "size": 22304,
+  "dataset": "sinan-derm",
+  "partition": {
+   "uf": "br",
+   "year": 2009,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DERMBR10.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/DERMBR10.dbc",
+  "datetime": "2023-01-16T14:17:00",
+  "extension": "dbc",
+  "size": 29667,
+  "dataset": "sinan-derm",
+  "partition": {
+   "uf": "br",
+   "year": 2010,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DERMBR11.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/DERMBR11.dbc",
+  "datetime": "2023-01-16T14:17:00",
+  "extension": "dbc",
+  "size": 37730,
+  "dataset": "sinan-derm",
+  "partition": {
+   "uf": "br",
+   "year": 2011,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DERMBR12.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/DERMBR12.dbc",
+  "datetime": "2023-01-16T14:17:00",
+  "extension": "dbc",
+  "size": 49203,
+  "dataset": "sinan-derm",
+  "partition": {
+   "uf": "br",
+   "year": 2012,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DERMBR13.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/DERMBR13.dbc",
+  "datetime": "2023-01-16T14:17:00",
+  "extension": "dbc",
+  "size": 46183,
+  "dataset": "sinan-derm",
+  "partition": {
+   "uf": "br",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DERMBR14.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/DERMBR14.dbc",
+  "datetime": "2023-01-16T14:17:00",
+  "extension": "dbc",
+  "size": 35462,
+  "dataset": "sinan-derm",
+  "partition": {
+   "uf": "br",
+   "year": 2014,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DERMBR15.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/DERMBR15.dbc",
+  "datetime": "2023-01-16T14:17:00",
+  "extension": "dbc",
+  "size": 44180,
+  "dataset": "sinan-derm",
+  "partition": {
+   "uf": "br",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DERMBR16.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/DERMBR16.dbc",
+  "datetime": "2023-01-16T14:17:00",
+  "extension": "dbc",
+  "size": 30168,
+  "dataset": "sinan-derm",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DERMBR17.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/DERMBR17.dbc",
+  "datetime": "2023-01-16T14:17:00",
+  "extension": "dbc",
+  "size": 26899,
+  "dataset": "sinan-derm",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DERMBR18.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/DERMBR18.dbc",
+  "datetime": "2023-01-16T14:17:00",
+  "extension": "dbc",
+  "size": 22350,
+  "dataset": "sinan-derm",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DERMBR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/DERMBR19.dbc",
+  "datetime": "2023-08-29T09:30:00",
+  "extension": "dbc",
+  "size": 29699,
+  "dataset": "sinan-derm",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ }
+]

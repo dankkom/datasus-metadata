@@ -1,0 +1,128 @@
+[
+ {
+  "filename": "DNEX2014.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNEX2014.dbc",
+  "datetime": "2022-04-20T18:38:00",
+  "extension": "dbc",
+  "size": 67176,
+  "dataset": "sinasc-dnex",
+  "partition": {
+   "uf": null,
+   "year": 2014,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNEX2015.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNEX2015.dbc",
+  "datetime": "2022-04-20T18:38:00",
+  "extension": "dbc",
+  "size": 72976,
+  "dataset": "sinasc-dnex",
+  "partition": {
+   "uf": null,
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNEX2016.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNEX2016.dbc",
+  "datetime": "2022-04-20T18:38:00",
+  "extension": "dbc",
+  "size": 58868,
+  "dataset": "sinasc-dnex",
+  "partition": {
+   "uf": null,
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNEX2017.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNEX2017.dbc",
+  "datetime": "2022-04-20T18:38:00",
+  "extension": "dbc",
+  "size": 61381,
+  "dataset": "sinasc-dnex",
+  "partition": {
+   "uf": null,
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNEX2018.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNEX2018.dbc",
+  "datetime": "2022-04-20T18:38:00",
+  "extension": "dbc",
+  "size": 72043,
+  "dataset": "sinasc-dnex",
+  "partition": {
+   "uf": null,
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNEX2019.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNEX2019.dbc",
+  "datetime": "2022-04-20T18:38:00",
+  "extension": "dbc",
+  "size": 64982,
+  "dataset": "sinasc-dnex",
+  "partition": {
+   "uf": null,
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNEX2020.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNEX2020.dbc",
+  "datetime": "2022-04-20T18:38:00",
+  "extension": "dbc",
+  "size": 31242,
+  "dataset": "sinasc-dnex",
+  "partition": {
+   "uf": null,
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNEX2021.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNEX2021.dbc",
+  "datetime": "2023-04-28T12:49:00",
+  "extension": "dbc",
+  "size": 33224,
+  "dataset": "sinasc-dnex",
+  "partition": {
+   "uf": null,
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNEX2022.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNEX2022.dbc",
+  "datetime": "2024-01-11T17:54:00",
+  "extension": "dbc",
+  "size": 40915,
+  "dataset": "sinasc-dnex",
+  "partition": {
+   "uf": null,
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ }
+]

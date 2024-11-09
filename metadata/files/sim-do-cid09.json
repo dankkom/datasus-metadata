@@ -1,0 +1,6288 @@
+[
+ {
+  "filename": "DORAC79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAC79.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 34676,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ac",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAC80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAC80.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 37136,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ac",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAC81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAC81.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 38433,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ac",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAC82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAC82.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 37307,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ac",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAC83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAC83.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 38279,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ac",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAC84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAC84.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 41178,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ac",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAC85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAC85.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 41146,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ac",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAC86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAC86.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 49243,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ac",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAC87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAC87.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 50411,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ac",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAC88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAC88.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 50892,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ac",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAC89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAC89.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 43018,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ac",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAC90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAC90.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 36624,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ac",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAC91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAC91.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 48589,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ac",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAC92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAC92.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 79182,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ac",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAC93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAC93.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 90755,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ac",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAC94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAC94.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 95139,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ac",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAC95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAC95.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 90679,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ac",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAL79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAL79.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 365149,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "al",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAL80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAL80.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 365369,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "al",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAL81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAL81.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 374227,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "al",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAL82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAL82.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 373593,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "al",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAL83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAL83.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 354985,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "al",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAL84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAL84.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 389349,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "al",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAL85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAL85.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 338566,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "al",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAL86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAL86.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 362512,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "al",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAL87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAL87.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 346226,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "al",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAL88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAL88.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 351237,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "al",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAL89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAL89.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 318879,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "al",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAL90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAL90.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 312810,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "al",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAL91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAL91.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 302317,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "al",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAL92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAL92.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 513492,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "al",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAL93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAL93.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 550699,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "al",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAL94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAL94.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 531485,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "al",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAL95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAL95.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 566447,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "al",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAM79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAM79.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 172459,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "am",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAM80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAM80.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 160424,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "am",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAM81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAM81.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 142732,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "am",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAM82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAM82.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 161232,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "am",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAM83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAM83.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 164054,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "am",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAM84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAM84.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 170728,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "am",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAM85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAM85.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 165186,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "am",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAM86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAM86.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 165990,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "am",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAM87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAM87.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 170331,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "am",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAM88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAM88.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 187497,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "am",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAM89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAM89.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 183724,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "am",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAM90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAM90.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 179721,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "am",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAM91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAM91.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 148189,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "am",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAM92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAM92.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 263529,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "am",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAM93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAM93.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 307321,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "am",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAM94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAM94.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 334764,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "am",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAM95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAM95.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 368360,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "am",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAP79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAP79.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 25278,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ap",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAP80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAP80.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 23634,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ap",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAP81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAP81.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 28112,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ap",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAP82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAP82.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 25149,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ap",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAP83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAP83.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 26908,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ap",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAP84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAP84.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 28151,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ap",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAP85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAP85.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 29344,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ap",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAP86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAP86.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 34463,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ap",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAP87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAP87.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 29562,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ap",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAP88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAP88.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 32299,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ap",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAP89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAP89.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 31353,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ap",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAP90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAP90.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 29049,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ap",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAP91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAP91.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 33431,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ap",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAP92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAP92.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 33589,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ap",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAP93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAP93.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 56457,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ap",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAP94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAP94.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 66711,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ap",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORAP95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORAP95.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 69765,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ap",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORBA79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORBA79.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 1031957,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ba",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORBA80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORBA80.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 1015802,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ba",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORBA81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORBA81.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 1101074,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ba",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORBA82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORBA82.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 1137978,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ba",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORBA83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORBA83.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 1138679,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ba",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORBA84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORBA84.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 1228291,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ba",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORBA85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORBA85.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 1185569,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ba",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORBA86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORBA86.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 1258270,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ba",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORBA87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORBA87.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 1226991,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ba",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORBA88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORBA88.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 1201014,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ba",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORBA89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORBA89.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 1185834,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ba",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORBA90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORBA90.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 1118036,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ba",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORBA91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORBA91.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 1275076,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ba",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORBA92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORBA92.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 1946090,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ba",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORBA93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORBA93.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 2021686,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ba",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORBA94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORBA94.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 2101831,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ba",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORBA95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORBA95.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 1884531,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ba",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORCE79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORCE79.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 342297,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ce",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORCE80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORCE80.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 392572,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ce",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORCE81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORCE81.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 425951,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ce",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORCE82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORCE82.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 407008,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ce",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORCE83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORCE83.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 519214,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ce",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORCE84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORCE84.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 541254,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ce",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORCE85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORCE85.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 469776,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ce",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORCE86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORCE86.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 464301,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ce",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORCE87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORCE87.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 448374,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ce",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORCE88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORCE88.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 471198,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ce",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORCE89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORCE89.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 487469,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ce",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORCE90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORCE90.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 467107,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ce",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORCE91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORCE91.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 512296,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ce",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORCE92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORCE92.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 514329,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ce",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORCE93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORCE93.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 610192,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ce",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORCE94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORCE94.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 885797,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ce",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORCE95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORCE95.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 897678,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ce",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORDF79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORDF79.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 158972,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "df",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORDF80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORDF80.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 163582,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "df",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORDF81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORDF81.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 163036,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "df",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORDF82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORDF82.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 152345,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "df",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORDF83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORDF83.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 151106,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "df",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORDF84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORDF84.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 150549,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "df",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORDF85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORDF85.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 153113,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "df",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORDF86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORDF86.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 155619,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "df",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORDF87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORDF87.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 156269,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "df",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORDF88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORDF88.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 169619,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "df",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORDF89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORDF89.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 179956,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "df",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORDF90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORDF90.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 186283,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "df",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORDF91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORDF91.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 188975,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "df",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORDF92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORDF92.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 214435,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "df",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORDF93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORDF93.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 210891,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "df",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORDF94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORDF94.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 349702,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "df",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORDF95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORDF95.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 333976,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "df",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORES79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORES79.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 323556,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "es",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORES80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORES80.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 327459,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "es",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORES81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORES81.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 332322,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "es",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORES82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORES82.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 339692,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "es",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORES83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORES83.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 348922,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "es",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORES84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORES84.DBC",
+  "datetime": "2020-01-31T14:46:00",
+  "extension": "dbc",
+  "size": 348245,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "es",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORES85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORES85.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 360721,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "es",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORES86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORES86.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 367873,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "es",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORES87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORES87.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 359379,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "es",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORES88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORES88.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 370245,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "es",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORES89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORES89.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 348889,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "es",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORES90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORES90.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 376059,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "es",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORES91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORES91.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 390129,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "es",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORES92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORES92.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 588927,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "es",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORES93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORES93.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 652203,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "es",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORES94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORES94.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 641877,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "es",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORES95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORES95.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 655225,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "es",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORGO79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORGO79.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 400225,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "go",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORGO80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORGO80.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 437800,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "go",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORGO81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORGO81.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 501396,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "go",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORGO82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORGO82.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 537107,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "go",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORGO83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORGO83.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 533984,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "go",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORGO84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORGO84.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 521110,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "go",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORGO85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORGO85.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 547745,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "go",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORGO86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORGO86.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 561188,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "go",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORGO87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORGO87.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 571356,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "go",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORGO88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORGO88.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 580694,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "go",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORGO89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORGO89.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 499841,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "go",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORGO90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORGO90.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 410237,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "go",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORGO91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORGO91.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 484648,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "go",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORGO92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORGO92.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 808396,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "go",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORGO93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORGO93.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 838925,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "go",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORGO94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORGO94.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 917894,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "go",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORGO95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORGO95.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 980742,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "go",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMA79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMA79.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 145828,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ma",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMA80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMA80.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 156506,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ma",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMA81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMA81.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 161831,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ma",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMA82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMA82.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 223016,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ma",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMA83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMA83.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 285393,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ma",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMA84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMA84.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 312157,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ma",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMA85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMA85.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 287513,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ma",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMA86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMA86.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 295492,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ma",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMA87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMA87.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 266660,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ma",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMA88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMA88.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 298182,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ma",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMA89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMA89.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 277302,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ma",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMA90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMA90.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 286357,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ma",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMA91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMA91.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 285637,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ma",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMA92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMA92.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 384953,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ma",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMA93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMA93.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 388602,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ma",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMA94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMA94.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 345085,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ma",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMA95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMA95.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 486793,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ma",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMG79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMG79.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2481231,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mg",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMG80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMG80.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2437840,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mg",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMG81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMG81.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2416043,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mg",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMG82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMG82.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2347999,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mg",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMG83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMG83.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2297465,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mg",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMG84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMG84.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2351924,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mg",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMG85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMG85.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2378343,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mg",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMG86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMG86.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2391128,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mg",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMG87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMG87.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2302466,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mg",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMG88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMG88.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2373402,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mg",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMG89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMG89.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2324638,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mg",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMG90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMG90.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2288772,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mg",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMG91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMG91.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2372324,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mg",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMG92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMG92.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 3411132,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mg",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMG93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMG93.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 3520756,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mg",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMG94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMG94.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 3876951,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mg",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMG95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMG95.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 3840851,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mg",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMS79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMS79.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 161698,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ms",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMS80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMS80.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 206156,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ms",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMS81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMS81.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 219178,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ms",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMS82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMS82.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 197586,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ms",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMS83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMS83.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 217785,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ms",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMS84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMS84.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 221477,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ms",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMS85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMS85.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 219892,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ms",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMS86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMS86.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 223017,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ms",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMS87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMS87.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 228211,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ms",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMS88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMS88.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 233991,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ms",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMS89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMS89.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 244598,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ms",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMS90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMS90.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 242471,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ms",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMS91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMS91.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 243945,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ms",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMS92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMS92.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 381253,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ms",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMS93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMS93.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 402361,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ms",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMS94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMS94.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 441264,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ms",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMS95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMS95.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 439918,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ms",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMT79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMT79.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 80196,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mt",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMT80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMT80.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 84499,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mt",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMT81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMT81.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 98712,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mt",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMT82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMT82.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 103055,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mt",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMT83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMT83.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 128677,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mt",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMT84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMT84.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 149770,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mt",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMT85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMT85.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 168574,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mt",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMT86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMT86.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 176472,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mt",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMT87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMT87.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 180968,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mt",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMT88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMT88.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 194805,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mt",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMT89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMT89.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 189610,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mt",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMT90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMT90.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 179321,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mt",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMT91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMT91.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 191671,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mt",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMT92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMT92.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 217517,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mt",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMT93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMT93.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 285043,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mt",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMT94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMT94.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 314795,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mt",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORMT95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORMT95.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 348610,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "mt",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPA79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPA79.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 380899,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pa",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPA80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPA80.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 415890,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pa",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPA81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPA81.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 412136,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pa",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPA82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPA82.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 387749,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pa",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPA83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPA83.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 412291,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pa",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPA84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPA84.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 438357,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pa",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPA85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPA85.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 431005,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pa",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPA86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPA86.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 456807,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pa",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPA87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPA87.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 446544,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pa",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPA88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPA88.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 448623,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pa",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPA89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPA89.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 410796,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pa",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPA90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPA90.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 465621,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pa",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPA91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPA91.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 430573,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pa",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPA92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPA92.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 643445,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pa",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPA93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPA93.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 678118,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pa",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPA94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPA94.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 679681,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pa",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPA95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPA95.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 663232,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pa",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPB79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPB79.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 269768,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pb",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPB80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPB80.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 525558,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pb",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPB81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPB81.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 491820,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pb",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPB82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPB82.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 466485,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pb",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPB83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPB83.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 462856,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pb",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPB84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPB84.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 502873,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pb",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPB85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPB85.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 434049,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pb",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPB86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPB86.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 467939,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pb",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPB87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPB87.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 438815,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pb",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPB88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPB88.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 418684,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pb",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPB89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPB89.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 394214,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pb",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPB90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPB90.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 380199,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pb",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPB91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPB91.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 385219,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pb",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPB92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPB92.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 606488,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pb",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPB93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPB93.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 670194,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pb",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPB94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPB94.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 644750,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pb",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPB95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPB95.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 664894,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pb",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPE79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPE79.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1268127,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pe",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPE80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPE80.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1278490,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pe",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPE81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPE81.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1260233,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pe",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPE82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPE82.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1205129,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pe",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPE83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPE83.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1219092,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pe",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPE84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPE84.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1304272,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pe",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPE85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPE85.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1210742,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pe",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPE86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPE86.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1299555,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pe",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPE87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPE87.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1220197,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pe",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPE88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPE88.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1258758,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pe",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPE89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPE89.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1200147,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pe",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPE90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPE90.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1182358,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pe",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPE91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPE91.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1402093,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pe",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPE92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPE92.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1769151,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pe",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPE93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPE93.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1806966,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pe",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPE94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPE94.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1944139,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pe",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPE95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPE95.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1872300,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pe",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPI79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPI79.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 96423,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pi",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPI80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPI80.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 137109,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pi",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPI81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPI81.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 144815,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pi",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPI82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPI82.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 164645,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pi",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPI83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPI83.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 188786,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pi",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPI84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPI84.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 183321,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pi",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPI85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPI85.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 205392,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pi",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPI86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPI86.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 196172,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pi",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPI87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPI87.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 186661,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pi",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPI88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPI88.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 187318,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pi",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPI89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPI89.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 179929,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pi",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPI90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPI90.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 176843,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pi",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPI91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPI91.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 146536,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pi",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPI92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPI92.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 279895,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pi",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPI93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPI93.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 302967,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pi",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPI94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPI94.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 294365,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pi",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPI95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPI95.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 279193,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pi",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPR79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPR79.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1290291,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pr",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPR80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPR80.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1333813,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pr",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPR81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPR81.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1291416,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pr",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPR82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPR82.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1243957,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pr",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPR83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPR83.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1268601,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pr",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPR84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPR84.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1275444,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pr",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPR85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPR85.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1268090,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pr",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPR86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPR86.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1293460,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pr",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPR87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPR87.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1262823,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pr",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPR88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPR88.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1314466,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pr",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPR89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPR89.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1300907,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pr",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPR90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPR90.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1321567,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pr",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPR91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPR91.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1286737,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pr",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPR92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPR92.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1317593,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pr",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPR93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPR93.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2111065,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pr",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPR94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPR94.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2187281,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pr",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORPR95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORPR95.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2129949,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "pr",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRJ79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRJ79.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2409245,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rj",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRJ80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRJ80.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2483544,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rj",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRJ81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRJ81.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2393025,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rj",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRJ82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRJ82.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2327507,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rj",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRJ83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRJ83.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2373853,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rj",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRJ84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRJ84.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2392645,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rj",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRJ85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRJ85.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2438272,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rj",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRJ86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRJ86.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2515043,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rj",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRJ87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRJ87.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2510433,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rj",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRJ88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRJ88.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2660682,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rj",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRJ89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRJ89.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2742117,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rj",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRJ90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRJ90.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2731959,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rj",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRJ91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRJ91.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2768738,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rj",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRJ92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRJ92.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 4184495,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rj",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRJ93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRJ93.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 4453028,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rj",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRJ94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRJ94.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 4604068,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rj",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRJ95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRJ95.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 4524142,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rj",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRN79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRN79.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 165754,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rn",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRN80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRN80.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 240701,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rn",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRN81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRN81.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 231721,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rn",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRN82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRN82.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 211553,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rn",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRN83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRN83.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 216736,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rn",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRN84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRN84.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 222856,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rn",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRN85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRN85.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 220928,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rn",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRN86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRN86.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 214117,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rn",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRN87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRN87.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 241419,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rn",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRN88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRN88.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 245808,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rn",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRN89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRN89.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 231379,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rn",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRN90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRN90.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 204594,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rn",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRN91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRN91.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 244817,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rn",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRN92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRN92.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 248746,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rn",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRN93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRN93.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 359817,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rn",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRN94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRN94.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 442584,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rn",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRN95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRN95.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 497914,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rn",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRO79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRO79.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 76247,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ro",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRO80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRO80.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 86599,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ro",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRO81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRO81.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 80580,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ro",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRO82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRO82.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 86792,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ro",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRO83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRO83.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 106783,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ro",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRO84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRO84.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 123167,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ro",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRO85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRO85.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 134019,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ro",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRO86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRO86.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 157091,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ro",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRO87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRO87.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 157432,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ro",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRO88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRO88.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 155855,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ro",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRO89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRO89.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 157658,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ro",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRO90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRO90.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 158137,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ro",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRO91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRO91.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 136774,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ro",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRO92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRO92.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 179864,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ro",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRO93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRO93.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 203211,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ro",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRO94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRO94.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 212773,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ro",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRO95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRO95.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 231392,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "ro",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRR79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRR79.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 11474,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rr",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRR80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRR80.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 13371,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rr",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRR81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRR81.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 15018,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rr",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRR82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRR82.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 16631,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rr",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRR83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRR83.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 16863,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rr",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRR84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRR84.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 17272,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rr",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRR85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRR85.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 18387,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rr",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRR86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRR86.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 17809,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rr",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRR87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRR87.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 19417,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rr",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRR88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRR88.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 20271,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rr",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRR89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRR89.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 19428,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rr",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRR90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRR90.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 22461,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rr",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRR91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRR91.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 23876,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rr",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRR92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRR92.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 22401,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rr",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRR93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRR93.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 22884,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rr",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRR94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRR94.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 34350,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rr",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRR95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRR95.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 38547,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rr",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRS79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRS79.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1245681,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rs",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRS80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRS80.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1289626,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rs",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRS81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRS81.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1242385,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rs",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRS82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRS82.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1230296,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rs",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRS83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRS83.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1266514,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rs",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRS84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRS84.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1309706,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rs",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRS85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRS85.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1306113,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rs",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRS86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRS86.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1337447,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rs",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRS87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRS87.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1372842,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rs",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRS88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRS88.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1429466,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rs",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRS89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRS89.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1398711,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rs",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRS90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRS90.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1429843,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rs",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRS91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRS91.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1435486,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rs",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRS92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRS92.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1464915,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rs",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRS93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRS93.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1548821,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rs",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRS94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRS94.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2035169,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rs",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORRS95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORRS95.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 2241081,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "rs",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSC79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSC79.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 500808,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sc",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSC80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSC80.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 525249,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sc",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSC81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSC81.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 525107,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sc",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSC82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSC82.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 502697,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sc",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSC83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSC83.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 537928,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sc",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSC84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSC84.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 547413,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sc",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSC85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSC85.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 539407,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sc",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSC86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSC86.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 574903,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sc",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSC87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSC87.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 590075,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sc",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSC88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSC88.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 622895,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sc",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSC89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSC89.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 607361,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sc",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSC90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSC90.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 618138,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sc",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSC91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSC91.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 579719,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sc",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSC92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSC92.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 930586,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sc",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSC93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSC93.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1003869,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sc",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSC94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSC94.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1015639,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sc",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSC95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSC95.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 1075393,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sc",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSE79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSE79.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 159287,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "se",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSE80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSE80.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 159696,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "se",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSE81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSE81.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 163898,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "se",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSE82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSE82.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 161026,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "se",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSE83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSE83.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 154375,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "se",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSE84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSE84.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 163016,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "se",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSE85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSE85.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 159176,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "se",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSE86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSE86.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 159663,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "se",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSE87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSE87.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 142117,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "se",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSE88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSE88.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 135307,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "se",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSE89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSE89.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 139585,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "se",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSE90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSE90.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 148522,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "se",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSE91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSE91.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 157549,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "se",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSE92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSE92.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 331179,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "se",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSE93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSE93.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 295198,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "se",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSE94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSE94.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 293439,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "se",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSE95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSE95.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 292053,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "se",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSP79.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSP79.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 4625640,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sp",
+   "year": 1979,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSP80.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSP80.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 4335658,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sp",
+   "year": 1980,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSP81.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSP81.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 4744127,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sp",
+   "year": 1981,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSP82.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSP82.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 4740972,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sp",
+   "year": 1982,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSP83.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSP83.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 4760089,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sp",
+   "year": 1983,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSP84.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSP84.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 4939641,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sp",
+   "year": 1984,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSP85.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSP85.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 4842276,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sp",
+   "year": 1985,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSP86.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSP86.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 4999502,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sp",
+   "year": 1986,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSP87.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSP87.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 4965603,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sp",
+   "year": 1987,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSP88.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSP88.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 5231623,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sp",
+   "year": 1988,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSP89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSP89.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 5237646,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sp",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSP90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSP90.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 5359534,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sp",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSP91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSP91.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 5221185,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sp",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSP92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSP92.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 5313959,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sp",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSP93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSP93.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 5735762,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sp",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSP94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSP94.DBC",
+  "datetime": "2020-01-31T14:47:00",
+  "extension": "dbc",
+  "size": 7833363,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sp",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORSP95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORSP95.DBC",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 8163880,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "sp",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORTO89.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORTO89.DBC",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 64903,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "to",
+   "year": 1989,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORTO90.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORTO90.DBC",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 40176,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "to",
+   "year": 1990,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORTO91.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORTO91.DBC",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 65832,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "to",
+   "year": 1991,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORTO92.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORTO92.DBC",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 118015,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "to",
+   "year": 1992,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORTO93.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORTO93.DBC",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 131129,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "to",
+   "year": 1993,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORTO94.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORTO94.DBC",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 122438,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "to",
+   "year": 1994,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DORTO95.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID9/DORES/DORTO95.DBC",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 138533,
+  "dataset": "sim-do-cid09",
+  "partition": {
+   "uf": "to",
+   "year": 1995,
+   "month": null,
+   "version": null
+  }
+ }
+]

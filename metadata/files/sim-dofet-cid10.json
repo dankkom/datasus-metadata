@@ -1,0 +1,380 @@
+[
+ {
+  "filename": "DOFET00.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET00.dbc",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 1470780,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2000,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET01.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET01.dbc",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 1500186,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2001,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET02.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET02.dbc",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 1381634,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2002,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET03.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET03.dbc",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 1517397,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2003,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET04.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET04.dbc",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 1476529,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2004,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET05.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET05.dbc",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 1402523,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2005,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET06.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET06.dbc",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 1760436,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2006,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET07.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET07.DBC",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 1866739,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2007,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET08.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET08.DBC",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 2162398,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2008,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET09.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET09.DBC",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 2272346,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2009,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET10.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET10.DBC",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 1987134,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2010,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET11.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET11.DBC",
+  "datetime": "2020-03-10T14:57:00",
+  "extension": "dbc",
+  "size": 2126670,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2011,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET12.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET12.DBC",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 2479120,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2012,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET13.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET13.dbc",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 2599385,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET14.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET14.dbc",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 4434875,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2014,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET15.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET15.dbc",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 3305109,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET16.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET16.dbc",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 3581017,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET17.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET17.dbc",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 3708276,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET18.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET18.dbc",
+  "datetime": "2020-04-02T16:35:00",
+  "extension": "dbc",
+  "size": 2735127,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET19.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET19.dbc",
+  "datetime": "2021-04-06T12:56:00",
+  "extension": "dbc",
+  "size": 2846297,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET20.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET20.dbc",
+  "datetime": "2022-03-31T16:20:00",
+  "extension": "dbc",
+  "size": 2821658,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET21.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET21.dbc",
+  "datetime": "2023-04-28T11:56:00",
+  "extension": "dbc",
+  "size": 2876230,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET22.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET22.dbc",
+  "datetime": "2023-12-21T16:19:00",
+  "extension": "dbc",
+  "size": 2710646,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET96.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET96.dbc",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 1571089,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 1996,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET97.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET97.dbc",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 1327007,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 1997,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET98.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET98.dbc",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 1747876,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 1998,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOFET99.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOFET99.dbc",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 1548661,
+  "dataset": "sim-dofet-cid10",
+  "partition": {
+   "uf": null,
+   "year": 1999,
+   "month": null,
+   "version": null
+  }
+ }
+]
