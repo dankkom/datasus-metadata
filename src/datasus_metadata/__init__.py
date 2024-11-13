@@ -1,5 +1,6 @@
 import ftplib
 import json
+import shutil
 from pathlib import Path
 
 from datasus_fetcher.fetcher import list_dataset_files, list_files
@@ -12,6 +13,7 @@ def save_json(data: dict, filepath: Path):
 
 
 def update_data_files(ftp: ftplib.FTP, metadata_dir_path: Path):
+    shutil.rmtree(metadata_dir_path, ignore_errors=True)
     metadata_dir_path.mkdir(parents=True, exist_ok=True)
     for dataset in datasets:
         print("Listing data files of", dataset)
@@ -45,6 +47,7 @@ def list_documentation_files(ftp: ftplib.FTP, dataset: str) -> list[dict]:
 
 
 def update_docs(ftp: ftplib.FTP, metadata_dir_path: Path):
+    shutil.rmtree(metadata_dir_path, ignore_errors=True)
     metadata_dir_path.mkdir(parents=True, exist_ok=True)
     for doc in docs:
         print("Listing documentation files of", doc)
@@ -72,6 +75,7 @@ def list_auxiliary_tables_files(ftp: ftplib.FTP, dataset: str) -> list[dict]:
 
 
 def update_aux(ftp: ftplib.FTP, metadata_dir_path: Path):
+    shutil.rmtree(metadata_dir_path, ignore_errors=True)
     metadata_dir_path.mkdir(parents=True, exist_ok=True)
     for aux in auxiliary_tables:
         print("Listing auxiliary files of", aux)
