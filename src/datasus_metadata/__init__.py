@@ -2,7 +2,7 @@ import ftplib
 import json
 from pathlib import Path
 
-from datasus_fetcher.fetcher import connect, list_dataset_files, list_files
+from datasus_fetcher.fetcher import list_dataset_files, list_files
 from datasus_fetcher.meta import auxiliary_tables, datasets, docs
 
 
@@ -11,9 +11,8 @@ def save_json(data: dict, filepath: Path):
         json.dump(data, f, indent=1, default=str, ensure_ascii=False)
 
 
-def update_data_files(metadata_dir_path: Path):
+def update_data_files(ftp: ftplib.FTP, metadata_dir_path: Path):
     metadata_dir_path.mkdir(parents=True, exist_ok=True)
-    ftp = connect()
     for dataset in datasets:
         print("Listing data files of", dataset)
         data = []
@@ -45,9 +44,8 @@ def list_documentation_files(ftp: ftplib.FTP, dataset: str) -> list[dict]:
     return files
 
 
-def update_docs(metadata_dir_path: Path):
+def update_docs(ftp: ftplib.FTP, metadata_dir_path: Path):
     metadata_dir_path.mkdir(parents=True, exist_ok=True)
-    ftp = connect()
     for doc in docs:
         print("Listing documentation files of", doc)
         data = []
@@ -73,9 +71,8 @@ def list_auxiliary_tables_files(ftp: ftplib.FTP, dataset: str) -> list[dict]:
     return files
 
 
-def update_aux(metadata_dir_path: Path):
+def update_aux(ftp: ftplib.FTP, metadata_dir_path: Path):
     metadata_dir_path.mkdir(parents=True, exist_ok=True)
-    ftp = connect()
     for aux in auxiliary_tables:
         print("Listing auxiliary files of", aux)
         data = []
