@@ -2940,6 +2940,20 @@
   }
  },
  {
+  "filename": "EPAC2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPAC2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 24883,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "ac",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "EPAL0704.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPAL0704.dbc",
   "datetime": "2014-06-04T18:15:00",
@@ -5876,6 +5890,20 @@
    "uf": "al",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "EPAL2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPAL2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 80079,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "al",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -8820,6 +8848,20 @@
   }
  },
  {
+  "filename": "EPAM2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPAM2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 85464,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "am",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "EPAP0704.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPAP0704.dbc",
   "datetime": "2014-06-04T18:16:00",
@@ -11756,6 +11798,20 @@
    "uf": "ap",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "EPAP2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPAP2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 19533,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "ap",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -14700,6 +14756,20 @@
   }
  },
  {
+  "filename": "EPBA2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPBA2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 351330,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "ba",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "EPCE0704.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPCE0704.dbc",
   "datetime": "2014-06-04T18:17:00",
@@ -17636,6 +17706,20 @@
    "uf": "ce",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "EPCE2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPCE2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 219528,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "ce",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -20580,6 +20664,20 @@
   }
  },
  {
+  "filename": "EPDF2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPDF2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 41715,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "df",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "EPES0704.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPES0704.dbc",
   "datetime": "2014-06-04T18:17:00",
@@ -23516,6 +23614,20 @@
    "uf": "es",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "EPES2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPES2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 85237,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "es",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -26460,6 +26572,20 @@
   }
  },
  {
+  "filename": "EPGO2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPGO2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 140300,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "go",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "EPMA0704.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPMA0704.dbc",
   "datetime": "2014-06-04T18:18:00",
@@ -29396,6 +29522,20 @@
    "uf": "ma",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "EPMA2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPMA2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 183448,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "ma",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -32340,6 +32480,20 @@
   }
  },
  {
+  "filename": "EPMG2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPMG2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 493441,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "mg",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "EPMS0704.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPMS0704.dbc",
   "datetime": "2014-06-04T18:19:00",
@@ -35276,6 +35430,20 @@
    "uf": "ms",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "EPMS2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPMS2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 66561,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "ms",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -38220,6 +38388,20 @@
   }
  },
  {
+  "filename": "EPMT2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPMT2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 80683,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "mt",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "EPPA0704.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPPA0704.dbc",
   "datetime": "2014-06-04T18:19:00",
@@ -41156,6 +41338,20 @@
    "uf": "pa",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "EPPA2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPPA2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 166213,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "pa",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -44100,6 +44296,20 @@
   }
  },
  {
+  "filename": "EPPB2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPPB2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 130658,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "pb",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "EPPE0704.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPPE0704.dbc",
   "datetime": "2014-06-04T18:20:00",
@@ -47036,6 +47246,20 @@
    "uf": "pe",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "EPPE2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPPE2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 211345,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "pe",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -49980,6 +50204,20 @@
   }
  },
  {
+  "filename": "EPPI2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPPI2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 112528,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "pi",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "EPPR0704.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPPR0704.dbc",
   "datetime": "2014-06-04T18:21:00",
@@ -52916,6 +53154,20 @@
    "uf": "pr",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "EPPR2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPPR2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 230021,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "pr",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -55860,6 +56112,20 @@
   }
  },
  {
+  "filename": "EPRJ2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPRJ2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 233439,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "rj",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "EPRN0704.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPRN0704.dbc",
   "datetime": "2014-06-04T18:21:00",
@@ -58796,6 +59062,20 @@
    "uf": "rn",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "EPRN2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPRN2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 93150,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "rn",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -61740,6 +62020,20 @@
   }
  },
  {
+  "filename": "EPRO2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPRO2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 34849,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "ro",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "EPRR0704.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPRR0704.dbc",
   "datetime": "2014-06-04T18:22:00",
@@ -64676,6 +64970,20 @@
    "uf": "rr",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "EPRR2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPRR2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 17678,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "rr",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -67620,6 +67928,20 @@
   }
  },
  {
+  "filename": "EPRS2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPRS2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 229709,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "rs",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "EPSC0704.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPSC0704.dbc",
   "datetime": "2014-06-04T18:23:00",
@@ -70556,6 +70878,20 @@
    "uf": "sc",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "EPSC2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPSC2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 180331,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "sc",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -73500,6 +73836,20 @@
   }
  },
  {
+  "filename": "EPSE2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPSE2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 56754,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "se",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "EPSP0704.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPSP0704.dbc",
   "datetime": "2014-06-04T18:23:00",
@@ -76440,6 +76790,20 @@
   }
  },
  {
+  "filename": "EPSP2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPSP2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 637530,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "sp",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "EPTO0704.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPTO0704.dbc",
   "datetime": "2014-06-04T18:24:00",
@@ -79376,6 +79740,20 @@
    "uf": "to",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "EPTO2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EP/EPTO2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 50620,
+  "dataset": "cnes-ep",
+  "partition": {
+   "uf": "to",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  }

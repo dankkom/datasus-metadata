@@ -2954,6 +2954,20 @@
   }
  },
  {
+  "filename": "HBAC2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBAC2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 3515,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "ac",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "HBAL0703.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBAL0703.dbc",
   "datetime": "2014-06-04T18:44:00",
@@ -5904,6 +5918,20 @@
    "uf": "al",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "HBAL2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBAL2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 12916,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "al",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -8862,6 +8890,20 @@
   }
  },
  {
+  "filename": "HBAM2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBAM2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 9001,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "am",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "HBAP0703.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBAP0703.dbc",
   "datetime": "2014-06-04T18:44:00",
@@ -11812,6 +11854,20 @@
    "uf": "ap",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "HBAP2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBAP2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 2812,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "ap",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -14770,6 +14826,20 @@
   }
  },
  {
+  "filename": "HBBA2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBBA2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 50187,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "ba",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "HBCE0703.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBCE0703.dbc",
   "datetime": "2014-06-04T18:45:00",
@@ -17720,6 +17790,20 @@
    "uf": "ce",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "HBCE2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBCE2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 37553,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "ce",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -20678,6 +20762,20 @@
   }
  },
  {
+  "filename": "HBDF2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBDF2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 11728,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "df",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "HBES0703.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBES0703.dbc",
   "datetime": "2014-06-04T18:45:00",
@@ -23628,6 +23726,20 @@
    "uf": "es",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "HBES2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBES2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 13917,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "es",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -26586,6 +26698,20 @@
   }
  },
  {
+  "filename": "HBGO2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBGO2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 27424,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "go",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "HBMA0703.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBMA0703.dbc",
   "datetime": "2014-06-04T18:46:00",
@@ -29536,6 +29662,20 @@
    "uf": "ma",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "HBMA2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBMA2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 20126,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "ma",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -32494,6 +32634,20 @@
   }
  },
  {
+  "filename": "HBMG2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBMG2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 95615,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "mg",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "HBMS0703.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBMS0703.dbc",
   "datetime": "2014-06-04T18:47:00",
@@ -35444,6 +35598,20 @@
    "uf": "ms",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "HBMS2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBMS2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 13205,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "ms",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -38402,6 +38570,20 @@
   }
  },
  {
+  "filename": "HBMT2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBMT2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 13375,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "mt",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "HBPA0703.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBPA0703.dbc",
   "datetime": "2014-06-04T18:47:00",
@@ -41352,6 +41534,20 @@
    "uf": "pa",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "HBPA2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBPA2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 23172,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "pa",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -44310,6 +44506,20 @@
   }
  },
  {
+  "filename": "HBPB2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBPB2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 22780,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "pb",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "HBPE0703.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBPE0703.dbc",
   "datetime": "2014-06-04T18:48:00",
@@ -47260,6 +47470,20 @@
    "uf": "pe",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "HBPE2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBPE2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 32868,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "pe",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -50218,6 +50442,20 @@
   }
  },
  {
+  "filename": "HBPI2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBPI2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 12144,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "pi",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "HBPR0703.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBPR0703.dbc",
   "datetime": "2014-06-04T18:48:00",
@@ -53168,6 +53406,20 @@
    "uf": "pr",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "HBPR2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBPR2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 49651,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "pr",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -56126,6 +56378,20 @@
   }
  },
  {
+  "filename": "HBRJ2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBRJ2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 49428,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "rj",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "HBRN0703.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBRN0703.dbc",
   "datetime": "2014-06-04T18:49:00",
@@ -59076,6 +59342,20 @@
    "uf": "rn",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "HBRN2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBRN2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 15828,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "rn",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -62034,6 +62314,20 @@
   }
  },
  {
+  "filename": "HBRO2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBRO2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 7158,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "ro",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "HBRR0703.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBRR0703.dbc",
   "datetime": "2014-06-04T18:50:00",
@@ -64984,6 +65278,20 @@
    "uf": "rr",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "HBRR2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBRR2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 2702,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "rr",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -67942,6 +68250,20 @@
   }
  },
  {
+  "filename": "HBRS2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBRS2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 55057,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "rs",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "HBSC0703.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBSC0703.dbc",
   "datetime": "2014-06-04T18:50:00",
@@ -70892,6 +71214,20 @@
    "uf": "sc",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "HBSC2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBSC2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 41317,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "sc",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -73850,6 +74186,20 @@
   }
  },
  {
+  "filename": "HBSE2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBSE2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 9135,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "se",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "HBSP0703.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBSP0703.dbc",
   "datetime": "2014-06-04T18:51:00",
@@ -76804,6 +77154,20 @@
   }
  },
  {
+  "filename": "HBSP2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBSP2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 150294,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "sp",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "HBTO0703.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBTO0703.dbc",
   "datetime": "2014-06-04T18:51:00",
@@ -79754,6 +80118,20 @@
    "uf": "to",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "HBTO2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/HB/HBTO2410.dbc",
+  "datetime": "2024-11-13T13:25:00",
+  "extension": "dbc",
+  "size": 7297,
+  "dataset": "cnes-hb",
+  "partition": {
+   "uf": "to",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  }

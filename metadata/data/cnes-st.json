@@ -3206,6 +3206,20 @@
   }
  },
  {
+  "filename": "STAC2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STAC2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 65240,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ac",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "STAL0508.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STAL0508.dbc",
   "datetime": "2014-06-05T09:30:00",
@@ -6408,6 +6422,20 @@
    "uf": "al",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "STAL2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STAL2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 192391,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "al",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -9618,6 +9646,20 @@
   }
  },
  {
+  "filename": "STAM2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STAM2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 137501,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "am",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "STAP0508.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STAP0508.dbc",
   "datetime": "2014-06-05T09:31:00",
@@ -12820,6 +12862,20 @@
    "uf": "ap",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "STAP2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STAP2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 50351,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ap",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -16030,6 +16086,20 @@
   }
  },
  {
+  "filename": "STBA2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STBA2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 1011611,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ba",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "STCE0508.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STCE0508.dbc",
   "datetime": "2014-06-05T09:32:00",
@@ -19236,6 +19306,20 @@
   }
  },
  {
+  "filename": "STCE2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STCE2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 648107,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ce",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "STDF0508.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STDF0508.dbc",
   "datetime": "2014-06-05T09:32:00",
@@ -22438,6 +22522,20 @@
    "uf": "df",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "STDF2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STDF2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 348642,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "df",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -25662,6 +25760,20 @@
   }
  },
  {
+  "filename": "STES2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STES2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 441818,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "es",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "STGO0508.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STGO0508.dbc",
   "datetime": "2014-06-05T09:33:00",
@@ -28878,6 +28990,20 @@
    "uf": "go",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "STGO2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STGO2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 632722,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "go",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -32102,6 +32228,20 @@
   }
  },
  {
+  "filename": "STMA2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STMA2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 300930,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ma",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "STMG0508.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STMG0508.dbc",
   "datetime": "2014-06-05T09:34:00",
@@ -35318,6 +35458,20 @@
    "uf": "mg",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "STMG2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STMG2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 2564090,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "mg",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -38542,6 +38696,20 @@
   }
  },
  {
+  "filename": "STMS2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STMS2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 284966,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ms",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "STMT0508.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STMT0508.dbc",
   "datetime": "2014-06-05T09:35:00",
@@ -41758,6 +41926,20 @@
    "uf": "mt",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "STMT2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STMT2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 435663,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "mt",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -44982,6 +45164,20 @@
   }
  },
  {
+  "filename": "STPA2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STPA2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 374982,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "pa",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "STPB0508.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STPB0508.dbc",
   "datetime": "2014-06-05T09:36:00",
@@ -48198,6 +48394,20 @@
    "uf": "pb",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "STPB2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STPB2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 335506,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "pb",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -51422,6 +51632,20 @@
   }
  },
  {
+  "filename": "STPE2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STPE2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 534322,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "pe",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "STPI0508.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STPI0508.dbc",
   "datetime": "2014-06-05T09:36:00",
@@ -54638,6 +54862,20 @@
    "uf": "pi",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "STPI2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STPI2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 213293,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "pi",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -57862,6 +58100,20 @@
   }
  },
  {
+  "filename": "STPR2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STPR2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 1448044,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "pr",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "STRJ0508.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STRJ0508.dbc",
   "datetime": "2014-06-05T09:37:00",
@@ -61078,6 +61330,20 @@
    "uf": "rj",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "STRJ2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STRJ2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 1653389,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "rj",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -64302,6 +64568,20 @@
   }
  },
  {
+  "filename": "STRN2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STRN2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 258082,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "rn",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "STRO0508.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STRO0508.dbc",
   "datetime": "2014-06-05T09:38:00",
@@ -67518,6 +67798,20 @@
    "uf": "ro",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "STRO2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STRO2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 212784,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ro",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -70742,6 +71036,20 @@
   }
  },
  {
+  "filename": "STRR2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STRR2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 48792,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "rr",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "STRS0508.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STRS0508.dbc",
   "datetime": "2014-06-05T09:39:00",
@@ -73958,6 +74266,20 @@
    "uf": "rs",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "STRS2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STRS2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 1631834,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "rs",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -77182,6 +77504,20 @@
   }
  },
  {
+  "filename": "STSC2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STSC2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 1184506,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "sc",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "STSE0508.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STSE0508.dbc",
   "datetime": "2014-06-05T09:40:00",
@@ -80402,6 +80738,20 @@
   }
  },
  {
+  "filename": "STSE2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STSE2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 185960,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "se",
+   "year": 2024,
+   "month": 10,
+   "version": null
+  }
+ },
+ {
   "filename": "STSP0508.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STSP0508.dbc",
   "datetime": "2014-06-05T09:40:00",
@@ -83604,6 +83954,20 @@
    "uf": "sp",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "STSP2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STSP2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 4924287,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "sp",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  },
@@ -86824,6 +87188,20 @@
    "uf": "to",
    "year": 2024,
    "month": 9,
+   "version": null
+  }
+ },
+ {
+  "filename": "STTO2410.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STTO2410.dbc",
+  "datetime": "2024-11-13T13:26:00",
+  "extension": "dbc",
+  "size": 140289,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "to",
+   "year": 2024,
+   "month": 10,
    "version": null
   }
  }

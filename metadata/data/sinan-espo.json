@@ -1,0 +1,142 @@
+[
+ {
+  "filename": "ESPOBR13.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESPOBR13.dbc",
+  "datetime": "2024-01-18T10:43:00",
+  "extension": "dbc",
+  "size": 1385,
+  "dataset": "sinan-espo",
+  "partition": {
+   "uf": "br",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESPOBR14.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESPOBR14.dbc",
+  "datetime": "2024-01-08T16:00:00",
+  "extension": "dbc",
+  "size": 2478,
+  "dataset": "sinan-espo",
+  "partition": {
+   "uf": "br",
+   "year": 2014,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESPOBR15.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESPOBR15.dbc",
+  "datetime": "2024-01-08T16:00:00",
+  "extension": "dbc",
+  "size": 4868,
+  "dataset": "sinan-espo",
+  "partition": {
+   "uf": "br",
+   "year": 2015,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESPOBR16.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESPOBR16.dbc",
+  "datetime": "2024-01-18T10:43:00",
+  "extension": "dbc",
+  "size": 19830,
+  "dataset": "sinan-espo",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESPOBR17.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESPOBR17.dbc",
+  "datetime": "2024-01-08T16:00:00",
+  "extension": "dbc",
+  "size": 18835,
+  "dataset": "sinan-espo",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESPOBR18.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESPOBR18.dbc",
+  "datetime": "2024-01-08T16:00:00",
+  "extension": "dbc",
+  "size": 35688,
+  "dataset": "sinan-espo",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESPOBR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESPOBR19.dbc",
+  "datetime": "2024-01-08T16:00:00",
+  "extension": "dbc",
+  "size": 60579,
+  "dataset": "sinan-espo",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESPOBR20.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESPOBR20.dbc",
+  "datetime": "2024-01-08T16:00:00",
+  "extension": "dbc",
+  "size": 70362,
+  "dataset": "sinan-espo",
+  "partition": {
+   "uf": "br",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESPOBR21.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESPOBR21.dbc",
+  "datetime": "2024-01-08T16:00:00",
+  "extension": "dbc",
+  "size": 86458,
+  "dataset": "sinan-espo",
+  "partition": {
+   "uf": "br",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ESPOBR22.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ESPOBR22.dbc",
+  "datetime": "2024-01-08T16:00:00",
+  "extension": "dbc",
+  "size": 99427,
+  "dataset": "sinan-espo",
+  "partition": {
+   "uf": "br",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ }
+]
