@@ -672,13 +672,13 @@
   },
   "sinan-chik-preliminar": {
    "n_files": 1,
-   "total_size": 14694134,
+   "total_size": 14679901,
    "partition_n_ufs": 1,
    "partition_period_start": "2024",
    "partition_period_end": "2024",
    "partition_n_periods": 1,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-11-06T09:41:00"
+   "latest_update": "2024-11-14T15:33:00"
   },
   "sinan-chik": {
    "n_files": 9,
@@ -692,13 +692,13 @@
   },
   "sinan-cole-preliminar": {
    "n_files": 5,
-   "total_size": 14615,
+   "total_size": 14766,
    "partition_n_ufs": 1,
    "partition_period_start": "2020",
    "partition_period_end": "2024",
    "partition_n_periods": 5,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-06-20T16:11:00"
+   "latest_update": "2024-11-06T11:49:00"
   },
   "sinan-cole": {
    "n_files": 13,
@@ -712,13 +712,13 @@
   },
   "sinan-coqu-preliminar": {
    "n_files": 4,
-   "total_size": 1002491,
+   "total_size": 1057670,
    "partition_n_ufs": 1,
    "partition_period_start": "2021",
    "partition_period_end": "2024",
    "partition_n_periods": 4,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-11-06T11:14:00"
+   "latest_update": "2024-11-14T14:36:00"
   },
   "sinan-coqu": {
    "n_files": 14,
@@ -732,13 +732,13 @@
   },
   "sinan-deng-preliminar": {
    "n_files": 1,
-   "total_size": 310602352,
+   "total_size": 278478605,
    "partition_n_ufs": 1,
    "partition_period_start": "2024",
    "partition_period_end": "2024",
    "partition_n_periods": 1,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-11-06T09:41:00"
+   "latest_update": "2024-11-12T18:07:00"
   },
   "sinan-deng": {
    "n_files": 24,
@@ -1592,13 +1592,13 @@
   },
   "sinan-zika-preliminar": {
    "n_files": 1,
-   "total_size": 862293,
+   "total_size": 878941,
    "partition_n_ufs": 1,
    "partition_period_start": "2024",
    "partition_period_end": "2024",
    "partition_n_periods": 1,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-10-23T17:07:00"
+   "latest_update": "2024-11-14T15:33:00"
   },
   "sinan-zika": {
    "n_files": 8,
