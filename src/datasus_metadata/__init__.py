@@ -7,7 +7,7 @@ from datasus_fetcher.fetcher import list_dataset_files, list_files
 from datasus_fetcher.meta import auxiliary_tables, datasets, docs
 
 
-def save_json(data: dict, filepath: Path):
+def save_json(data: list | dict, filepath: Path):
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=1, default=str, ensure_ascii=False)
 
@@ -98,6 +98,8 @@ def update_aux(ftp: ftplib.FTP, metadata_dir_path: Path):
 def get_partition_periods(files: list[dict]) -> set[str]:
     periods = set()
     for file in files:
+        if not file["partition"]["year"]:
+            continue
         period = f"{file['partition']['year']}"
         if file["partition"]["month"]:
             period += f"-{file['partition']['month']:0>2}"
@@ -114,7 +116,7 @@ def update_index(metadata_dir_path: Path):
     }
 
     for metadata_filepath in sorted((metadata_dir_path / "data").glob("*.json")):
-        dataset = metadata_filepath.stem
+        dataset_name = metadata_filepath.stem
         with open(metadata_filepath, "r", encoding="utf-8") as f:
             data = json.load(f)
         n_files = len(data)
@@ -125,12 +127,14 @@ def update_index(metadata_dir_path: Path):
         first_period = min(partition_periods) if partition_periods else None
         last_period = max(partition_periods) if partition_periods else None
         n_partition_periods = len(partition_periods)
-        if all(len(date) == 7 for date in partition_periods):
-            partition_periodicity = "monthly"
-        else:
+        dataset_partition = datasets[dataset_name]["partition"]
+        partition_periodicity = None
+        if "year" in dataset_partition:
             partition_periodicity = "yearly"
+        if "yearmonth" in dataset_partition:
+            partition_periodicity = "monthly"
         latest_update = max(file["datetime"] for file in data) if data else None
-        metadata_index["data"][dataset] = {
+        metadata_index["data"][dataset_name] = {
             "n_files": n_files,
             "total_size": total_size,
             "partition_n_ufs": n_partition_ufs,
@@ -144,26 +148,26 @@ def update_index(metadata_dir_path: Path):
     for metadata_filepath in sorted(
         (metadata_dir_path / "documentation").glob("*.json")
     ):
-        dataset = metadata_filepath.stem
+        dataset_name = metadata_filepath.stem
         with open(metadata_filepath, "r", encoding="utf-8") as f:
             data = json.load(f)
         n_files = len(data)
         total_size = sum(file["size"] for file in data)
         latest_update = max(file["datetime"] for file in data)
-        metadata_index["documentation"][dataset] = {
+        metadata_index["documentation"][dataset_name] = {
             "n_files": n_files,
             "total_size": total_size,
             "latest_update": latest_update,
         }
 
     for metadata_filepath in sorted((metadata_dir_path / "auxiliary").glob("*.json")):
-        dataset = metadata_filepath.stem
+        dataset_name = metadata_filepath.stem
         with open(metadata_filepath, "r", encoding="utf-8") as f:
             data = json.load(f)
         n_files = len(data)
         total_size = sum(file["size"] for file in data)
         latest_update = max(file["datetime"] for file in data)
-        metadata_index["auxiliary"][dataset] = {
+        metadata_index["auxiliary"][dataset_name] = {
             "n_files": n_files,
             "total_size": total_size,
             "latest_update": latest_update,
