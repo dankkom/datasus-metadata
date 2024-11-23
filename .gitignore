@@ -6,8 +6,8 @@ dist/
 wheels/
 *.egg-info
 
-# venv
 .venv
 
-# transferencia
 transferencia/*.js
+data/
+public/
