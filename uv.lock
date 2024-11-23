@@ -1,0 +1,22 @@
+version = 1
+requires-python = ">=3.12"
+
+[[package]]
+name = "datasus-fetcher"
+version = "0.3.3"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/69/1d/4bf65b5cd443d7b4162fdb080e98bc5894bd8b7fb4d196fc6fffd01314aa/datasus_fetcher-0.3.3.tar.gz", hash = "sha256:b591fd501566af6d897f473e2132b9f78b2b12c8731ad03333260ecd963a561d", size = 23488 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/e6/ec/b82270171ef247839371b92498db0e3912fa7d2eca7175d5504ca3df0c2c/datasus_fetcher-0.3.3-py3-none-any.whl", hash = "sha256:addb36a540a691938c5600359150219e8505cd8b03a50627c9eb8c60bb6e49dc", size = 18366 },
+]
+
+[[package]]
+name = "datasus-metadata"
+version = "0.1.0"
+source = { editable = "." }
+dependencies = [
+    { name = "datasus-fetcher" },
+]
+
+[package.metadata]
+requires-dist = [{ name = "datasus-fetcher", specifier = ">=0.3.2" }]
