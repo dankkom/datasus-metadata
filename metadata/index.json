@@ -672,13 +672,13 @@
   },
   "sinan-chik-preliminar": {
    "n_files": 1,
-   "total_size": 16882133,
+   "total_size": 14311505,
    "partition_n_ufs": 1,
    "partition_period_start": "2024",
    "partition_period_end": "2024",
    "partition_n_periods": 1,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-11-19T11:39:00"
+   "latest_update": "2024-12-02T08:08:00"
   },
   "sinan-chik": {
    "n_files": 9,
@@ -732,13 +732,13 @@
   },
   "sinan-deng-preliminar": {
    "n_files": 1,
-   "total_size": 313393750,
+   "total_size": 287079940,
    "partition_n_ufs": 1,
    "partition_period_start": "2024",
    "partition_period_end": "2024",
    "partition_n_periods": 1,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-11-19T11:39:00"
+   "latest_update": "2024-12-02T08:07:00"
   },
   "sinan-deng": {
    "n_files": 24,
