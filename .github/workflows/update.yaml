@@ -94,8 +94,11 @@ jobs:
         run: sudo snap install dart-sass-embedded
 
       - name: Checkout main branch
-        run: |
-          git checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: 'main'  # checkout the main branch
+          submodules: recursive
+          fetch-depth: 0
 
       - name: Copy metadata
         run: |
