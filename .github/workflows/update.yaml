@@ -79,6 +79,7 @@ jobs:
   # Build job
   build:
     # Execute only if there was changes in the metadata
+    needs: getdataandrefreshmap
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.137.1
@@ -93,10 +94,8 @@ jobs:
         run: sudo snap install dart-sass-embedded
 
       - name: Checkout main branch
-        uses: actions/checkout@v4
-        with:
-          submodules: recursive
-          fetch-depth: 0
+        run: |
+          git checkout main
 
       - name: Copy metadata
         run: |
