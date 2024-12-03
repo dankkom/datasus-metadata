@@ -80,6 +80,7 @@ jobs:
   build:
     # Execute only if there was changes in the metadata
     needs: getdataandrefreshmap
+    if: needs.getdataandrefreshmap.outputs.changed == 'true'
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.137.1
