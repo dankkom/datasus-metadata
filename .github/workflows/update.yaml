@@ -105,11 +105,8 @@ jobs:
           python copy-files.py
 
       - name: Checkout site branch
-        uses: actions/checkout@v4
-        with:
-          ref: 'site'  # checkout the site branch
-          submodules: recursive
-          fetch-depth: 0
+        run: |
+          git checkout site
 
       - name: Setup Pages
         id: pages
