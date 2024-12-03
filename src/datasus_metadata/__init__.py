@@ -35,6 +35,15 @@ def update_data_files(ftp: ftplib.FTP, metadata_dir_path: Path):
                     },
                 }
             )
+        data = sorted(
+            data,
+            key=lambda x: (
+                x["partition"]["year"],
+                x["partition"]["month"],
+                x["partition"]["uf"],
+                x["partition"]["version"],
+            ),
+        )
         metadata_file_path = metadata_dir_path / f"{dataset}.json"
         save_json(data, metadata_file_path)
 
