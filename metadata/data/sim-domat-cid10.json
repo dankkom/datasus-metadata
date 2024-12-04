@@ -1,5 +1,61 @@
 [
  {
+  "filename": "DOMAT96.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOMAT96.DBC",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 52054,
+  "dataset": "sim-domat-cid10",
+  "partition": {
+   "uf": null,
+   "year": 1996,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOMAT97.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOMAT97.DBC",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 65193,
+  "dataset": "sim-domat-cid10",
+  "partition": {
+   "uf": null,
+   "year": 1997,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOMAT98.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOMAT98.DBC",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 72452,
+  "dataset": "sim-domat-cid10",
+  "partition": {
+   "uf": null,
+   "year": 1998,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOMAT99.DBC",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOMAT99.DBC",
+  "datetime": "2020-01-31T14:48:00",
+  "extension": "dbc",
+  "size": 90239,
+  "dataset": "sim-domat-cid10",
+  "partition": {
+   "uf": null,
+   "year": 1999,
+   "month": null,
+   "version": null
+  }
+ },
+ {
   "filename": "DOMAT00.DBC",
   "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOMAT00.DBC",
   "datetime": "2020-01-31T14:48:00",
@@ -317,62 +373,6 @@
   "partition": {
    "uf": null,
    "year": 2022,
-   "month": null,
-   "version": null
-  }
- },
- {
-  "filename": "DOMAT96.DBC",
-  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOMAT96.DBC",
-  "datetime": "2020-01-31T14:48:00",
-  "extension": "dbc",
-  "size": 52054,
-  "dataset": "sim-domat-cid10",
-  "partition": {
-   "uf": null,
-   "year": 1996,
-   "month": null,
-   "version": null
-  }
- },
- {
-  "filename": "DOMAT97.DBC",
-  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOMAT97.DBC",
-  "datetime": "2020-01-31T14:48:00",
-  "extension": "dbc",
-  "size": 65193,
-  "dataset": "sim-domat-cid10",
-  "partition": {
-   "uf": null,
-   "year": 1997,
-   "month": null,
-   "version": null
-  }
- },
- {
-  "filename": "DOMAT98.DBC",
-  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOMAT98.DBC",
-  "datetime": "2020-01-31T14:48:00",
-  "extension": "dbc",
-  "size": 72452,
-  "dataset": "sim-domat-cid10",
-  "partition": {
-   "uf": null,
-   "year": 1998,
-   "month": null,
-   "version": null
-  }
- },
- {
-  "filename": "DOMAT99.DBC",
-  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOMAT99.DBC",
-  "datetime": "2020-01-31T14:48:00",
-  "extension": "dbc",
-  "size": 90239,
-  "dataset": "sim-domat-cid10",
-  "partition": {
-   "uf": null,
-   "year": 1999,
    "month": null,
    "version": null
   }

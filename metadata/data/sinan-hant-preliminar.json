@@ -1,5 +1,19 @@
 [
  {
+  "filename": "HANTBR99.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANTBR99.dbc",
+  "datetime": "2023-07-03T13:55:00",
+  "extension": "dbc",
+  "size": 4042,
+  "dataset": "sinan-hant-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 1999,
+   "month": null,
+   "version": null
+  }
+ },
+ {
   "filename": "HANTBR00.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANTBR00.dbc",
   "datetime": "2023-07-03T13:55:00",
@@ -177,20 +191,6 @@
   "partition": {
    "uf": "br",
    "year": 2023,
-   "month": null,
-   "version": null
-  }
- },
- {
-  "filename": "HANTBR99.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANTBR99.dbc",
-  "datetime": "2023-07-03T13:55:00",
-  "extension": "dbc",
-  "size": 4042,
-  "dataset": "sinan-hant-preliminar",
-  "partition": {
-   "uf": "br",
-   "year": 1999,
    "month": null,
    "version": null
   }
