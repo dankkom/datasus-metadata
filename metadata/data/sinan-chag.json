@@ -306,5 +306,19 @@
    "month": null,
    "version": null
   }
+ },
+ {
+  "filename": "CHAGBR22.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/CHAGBR22.dbc",
+  "datetime": "2024-12-02T14:39:00",
+  "extension": "dbc",
+  "size": 408082,
+  "dataset": "sinan-chag",
+  "partition": {
+   "uf": "br",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
  }
 ]
