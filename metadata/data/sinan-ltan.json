@@ -320,5 +320,19 @@
    "month": null,
    "version": null
   }
+ },
+ {
+  "filename": "LTANBR23.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LTANBR23.dbc",
+  "datetime": "2024-12-11T10:32:00",
+  "extension": "dbc",
+  "size": 671061,
+  "dataset": "sinan-ltan",
+  "partition": {
+   "uf": "br",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
  }
 ]
