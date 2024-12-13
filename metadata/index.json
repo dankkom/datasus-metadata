@@ -712,13 +712,13 @@
   },
   "sinan-coqu-preliminar": {
    "n_files": 4,
-   "total_size": 1112206,
+   "total_size": 1281070,
    "partition_n_ufs": 1,
    "partition_period_start": "2021",
    "partition_period_end": "2024",
    "partition_n_periods": 4,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-11-22T16:41:00"
+   "latest_update": "2024-12-12T16:34:00"
   },
   "sinan-coqu": {
    "n_files": 14,
