@@ -32,13 +32,13 @@
   },
   "base-territorial-mapas": {
    "n_files": 83,
-   "total_size": 127783862,
+   "total_size": 128098824,
    "partition_n_ufs": 28,
    "partition_period_start": "1991",
    "partition_period_end": "2013",
    "partition_n_periods": 6,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-07-30T15:51:00"
+   "latest_update": "2024-12-18T12:29:00"
   },
   "cih-cr": {
    "n_files": 868,
@@ -202,13 +202,13 @@
   },
   "po": {
    "n_files": 12,
-   "total_size": 133685387,
+   "total_size": 135750066,
    "partition_n_ufs": 1,
    "partition_period_start": "2013",
    "partition_period_end": "2024",
    "partition_n_periods": 12,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-11-18T09:45:00"
+   "latest_update": "2024-12-18T11:47:00"
   },
   "resp": {
    "n_files": 280,
@@ -672,13 +672,13 @@
   },
   "sinan-chik-preliminar": {
    "n_files": 1,
-   "total_size": 15022132,
+   "total_size": 15110040,
    "partition_n_ufs": 1,
    "partition_period_start": "2024",
    "partition_period_end": "2024",
    "partition_n_periods": 1,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-10T17:03:00"
+   "latest_update": "2024-12-17T10:13:00"
   },
   "sinan-chik": {
    "n_files": 9,
@@ -732,13 +732,13 @@
   },
   "sinan-deng-preliminar": {
    "n_files": 1,
-   "total_size": 309876109,
+   "total_size": 313127070,
    "partition_n_ufs": 1,
    "partition_period_start": "2024",
    "partition_period_end": "2024",
    "partition_n_periods": 1,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-10T17:01:00"
+   "latest_update": "2024-12-17T10:14:00"
   },
   "sinan-deng": {
    "n_files": 24,
