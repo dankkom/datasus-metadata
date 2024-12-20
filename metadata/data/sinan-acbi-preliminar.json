@@ -44,13 +44,27 @@
  {
   "filename": "ACBIBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ACBIBR23.dbc",
-  "datetime": "2024-02-02T13:49:00",
+  "datetime": "2024-12-19T18:43:00",
   "extension": "dbc",
-  "size": 3706910,
+  "size": 4001795,
   "dataset": "sinan-acbi-preliminar",
   "partition": {
    "uf": "br",
    "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "ACBIBR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ACBIBR24.dbc",
+  "datetime": "2024-12-19T18:43:00",
+  "extension": "dbc",
+  "size": 2684944,
+  "dataset": "sinan-acbi-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
    "month": null,
    "version": null
   }

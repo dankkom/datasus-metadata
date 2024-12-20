@@ -44,13 +44,27 @@
  {
   "filename": "PAIRBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PAIRBR23.dbc",
-  "datetime": "2024-02-01T22:13:00",
+  "datetime": "2024-12-19T16:15:00",
   "extension": "dbc",
-  "size": 27432,
+  "size": 28630,
   "dataset": "sinan-pair-preliminar",
   "partition": {
    "uf": "br",
    "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "PAIRBR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PAIRBR24.dbc",
+  "datetime": "2024-12-19T16:15:00",
+  "extension": "dbc",
+  "size": 18424,
+  "dataset": "sinan-pair-preliminar",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
    "month": null,
    "version": null
   }
