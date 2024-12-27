@@ -138,5 +138,19 @@
    "month": null,
    "version": null
   }
+ },
+ {
+  "filename": "DOREXT23.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOREXT23.dbc",
+  "datetime": "2024-12-19T12:02:00",
+  "extension": "dbc",
+  "size": 49813,
+  "dataset": "sim-dorext-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
  }
 ]

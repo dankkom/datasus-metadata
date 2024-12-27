@@ -376,5 +376,19 @@
    "month": null,
    "version": null
   }
+ },
+ {
+  "filename": "DOMAT23.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOMAT23.dbc",
+  "datetime": "2024-12-26T12:53:00",
+  "extension": "dbc",
+  "size": 157428,
+  "dataset": "sim-domat-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
  }
 ]

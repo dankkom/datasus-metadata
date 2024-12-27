@@ -391,24 +391,24 @@
    "latest_update": "2020-01-31T14:48:00"
   },
   "sim-do-cid10-preliminar": {
-   "n_files": 28,
-   "total_size": 252111934,
-   "partition_n_ufs": 28,
-   "partition_period_start": "2023",
-   "partition_period_end": "2023",
-   "partition_n_periods": 1,
+   "n_files": 0,
+   "total_size": 0,
+   "partition_n_ufs": 0,
+   "partition_period_start": null,
+   "partition_period_end": null,
+   "partition_n_periods": 0,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-08-22T17:38:00"
+   "latest_update": null
   },
   "sim-do-cid10": {
-   "n_files": 733,
-   "total_size": 2660702356,
+   "n_files": 761,
+   "total_size": 2914544405,
    "partition_n_ufs": 28,
    "partition_period_start": "1996",
-   "partition_period_end": "2022",
-   "partition_n_periods": 27,
+   "partition_period_end": "2023",
+   "partition_n_periods": 28,
    "partition_periodicity": "yearly",
-   "latest_update": "2023-12-22T13:20:00"
+   "latest_update": "2024-12-26T12:53:00"
   },
   "sim-doext-cid09": {
    "n_files": 17,
@@ -421,14 +421,14 @@
    "latest_update": "2020-01-31T14:46:00"
   },
   "sim-doext-cid10": {
-   "n_files": 27,
-   "total_size": 258808230,
+   "n_files": 28,
+   "total_size": 272798245,
    "partition_n_ufs": 1,
    "partition_period_start": "1996",
-   "partition_period_end": "2022",
-   "partition_n_periods": 27,
+   "partition_period_end": "2023",
+   "partition_n_periods": 28,
    "partition_periodicity": "yearly",
-   "latest_update": "2023-12-21T16:19:00"
+   "latest_update": "2024-12-19T15:36:00"
   },
   "sim-dofet-cid09": {
    "n_files": 17,
@@ -441,14 +441,14 @@
    "latest_update": "2020-01-31T14:46:00"
   },
   "sim-dofet-cid10": {
-   "n_files": 27,
-   "total_size": 61217145,
+   "n_files": 28,
+   "total_size": 63812052,
    "partition_n_ufs": 1,
    "partition_period_start": "1996",
-   "partition_period_end": "2022",
-   "partition_n_periods": 27,
+   "partition_period_end": "2023",
+   "partition_n_periods": 28,
    "partition_periodicity": "yearly",
-   "latest_update": "2023-12-21T16:19:00"
+   "latest_update": "2024-12-19T11:55:00"
   },
   "sim-doinf-cid09": {
    "n_files": 17,
@@ -461,34 +461,34 @@
    "latest_update": "2020-01-31T14:46:00"
   },
   "sim-doinf-cid10": {
-   "n_files": 27,
-   "total_size": 92912597,
+   "n_files": 28,
+   "total_size": 96437224,
    "partition_n_ufs": 1,
    "partition_period_start": "1996",
-   "partition_period_end": "2022",
-   "partition_n_periods": 27,
+   "partition_period_end": "2023",
+   "partition_n_periods": 28,
    "partition_periodicity": "yearly",
-   "latest_update": "2023-12-21T16:19:00"
+   "latest_update": "2024-12-19T11:55:00"
   },
   "sim-domat-cid10": {
-   "n_files": 27,
-   "total_size": 4134220,
+   "n_files": 28,
+   "total_size": 4291648,
    "partition_n_ufs": 1,
    "partition_period_start": "1996",
-   "partition_period_end": "2022",
-   "partition_n_periods": 27,
+   "partition_period_end": "2023",
+   "partition_n_periods": 28,
    "partition_periodicity": "yearly",
-   "latest_update": "2023-12-21T16:19:00"
+   "latest_update": "2024-12-26T12:53:00"
   },
   "sim-dorext-cid10": {
-   "n_files": 10,
-   "total_size": 410854,
+   "n_files": 11,
+   "total_size": 460667,
    "partition_n_ufs": 1,
    "partition_period_start": "2013",
-   "partition_period_end": "2022",
-   "partition_n_periods": 10,
+   "partition_period_end": "2023",
+   "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2023-12-20T16:35:00"
+   "latest_update": "2024-12-19T12:02:00"
   },
   "sinan-acbi-preliminar": {
    "n_files": 5,
@@ -1611,34 +1611,34 @@
    "latest_update": "2024-08-15T17:27:00"
   },
   "sinasc-dn-preliminar": {
-   "n_files": 27,
-   "total_size": 125038651,
-   "partition_n_ufs": 27,
-   "partition_period_start": "2023",
-   "partition_period_end": "2023",
-   "partition_n_periods": 1,
+   "n_files": 0,
+   "total_size": 0,
+   "partition_n_ufs": 0,
+   "partition_period_start": null,
+   "partition_period_end": null,
+   "partition_n_periods": 0,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-08-22T17:28:00"
+   "latest_update": null
   },
   "sinasc-dn": {
-   "n_files": 787,
-   "total_size": 3850731353,
+   "n_files": 814,
+   "total_size": 3976062788,
    "partition_n_ufs": 28,
    "partition_period_start": "1994",
-   "partition_period_end": "2022",
-   "partition_n_periods": 29,
+   "partition_period_end": "2023",
+   "partition_n_periods": 30,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-01-11T17:54:00"
+   "latest_update": "2024-12-20T11:41:00"
   },
   "sinasc-dnex": {
-   "n_files": 9,
-   "total_size": 502807,
+   "n_files": 10,
+   "total_size": 544998,
    "partition_n_ufs": 1,
    "partition_period_start": "2014",
-   "partition_period_end": "2022",
-   "partition_n_periods": 9,
+   "partition_period_end": "2023",
+   "partition_n_periods": 10,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-01-11T17:54:00"
+   "latest_update": "2024-12-20T11:31:00"
   },
   "siscolo-cc": {
    "n_files": 2858,
