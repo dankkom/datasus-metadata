@@ -11,14 +11,14 @@
    "latest_update": "2015-11-10T14:44:00"
   },
   "base-populacional-ibge-popt": {
-   "n_files": 29,
-   "total_size": 2366267,
+   "n_files": 32,
+   "total_size": 2555849,
    "partition_n_ufs": 1,
    "partition_period_start": "1992",
-   "partition_period_end": "2021",
-   "partition_n_periods": 29,
+   "partition_period_end": "2024",
+   "partition_n_periods": 32,
    "partition_periodicity": "yearly",
-   "latest_update": "2022-05-19T12:08:00"
+   "latest_update": "2025-01-07T09:40:00"
   },
   "base-territorial-conversao": {
    "n_files": 28,
@@ -1693,9 +1693,9 @@
  },
  "documentation": {
   "base-populacional-ibge": {
-   "n_files": 2,
-   "total_size": 1215351,
-   "latest_update": "2014-09-07T15:28:00"
+   "n_files": 4,
+   "total_size": 2185902,
+   "latest_update": "2025-01-07T10:20:00"
   },
   "base-territorial": {
    "n_files": 2,
@@ -1771,8 +1771,8 @@
  "auxiliary": {
   "base-populacional-ibge": {
    "n_files": 1,
-   "total_size": 347099,
-   "latest_update": "2018-08-29T13:08:00"
+   "total_size": 14497,
+   "latest_update": "2025-01-07T12:02:00"
   },
   "cih": {
    "n_files": 1,

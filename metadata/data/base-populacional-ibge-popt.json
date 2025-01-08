@@ -404,5 +404,47 @@
    "month": null,
    "version": null
   }
+ },
+ {
+  "filename": "POPTBR22.zip",
+  "full_path": "/dissemin/publicos/IBGE/POPTCU/POPTBR22.zip",
+  "datetime": "2025-01-07T09:38:00",
+  "extension": "zip",
+  "size": 77041,
+  "dataset": "base-populacional-ibge-popt",
+  "partition": {
+   "uf": "br",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPTBR23.zip",
+  "full_path": "/dissemin/publicos/IBGE/POPTCU/POPTBR23.zip",
+  "datetime": "2025-01-07T09:38:00",
+  "extension": "zip",
+  "size": 77027,
+  "dataset": "base-populacional-ibge-popt",
+  "partition": {
+   "uf": "br",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "POPTBR24.zip",
+  "full_path": "/dissemin/publicos/IBGE/POPTCU/POPTBR24.zip",
+  "datetime": "2025-01-07T09:40:00",
+  "extension": "zip",
+  "size": 35514,
+  "dataset": "base-populacional-ibge-popt",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
+   "month": null,
+   "version": null
+  }
  }
 ]
