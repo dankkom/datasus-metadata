@@ -1311,24 +1311,24 @@
    "latest_update": "2023-03-16T16:26:00"
   },
   "sinan-rota-preliminar": {
-   "n_files": 5,
-   "total_size": 262264,
+   "n_files": 1,
+   "total_size": 122064,
    "partition_n_ufs": 1,
-   "partition_period_start": "2020",
+   "partition_period_start": "2024",
    "partition_period_end": "2024",
-   "partition_n_periods": 5,
+   "partition_n_periods": 1,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-11-07T11:18:00"
+   "latest_update": "2025-01-10T09:56:00"
   },
   "sinan-rota": {
-   "n_files": 11,
-   "total_size": 1026388,
+   "n_files": 15,
+   "total_size": 1181795,
    "partition_n_ufs": 1,
    "partition_period_start": "2009",
-   "partition_period_end": "2019",
-   "partition_n_periods": 11,
+   "partition_period_end": "2023",
+   "partition_n_periods": 15,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-04-09T10:31:00"
+   "latest_update": "2024-11-07T11:18:00"
   },
   "sinan-sdta-preliminar": {
    "n_files": 3,
