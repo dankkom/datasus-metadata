@@ -86938,5 +86938,383 @@
    "month": 11,
    "version": null
   }
+ },
+ {
+  "filename": "LTAC2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTAC2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 3675,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "ac",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTAL2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTAL2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 9227,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "al",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTAM2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTAM2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 9689,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "am",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTAP2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTAP2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 2505,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "ap",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTBA2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTBA2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 49292,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "ba",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTCE2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTCE2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 25181,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "ce",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTDF2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTDF2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 8237,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "df",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTES2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTES2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 12801,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "es",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTGO2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTGO2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 33498,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "go",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTMA2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTMA2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 22108,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "ma",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTMG2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTMG2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 62574,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "mg",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTMS2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTMS2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 12105,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "ms",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTMT2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTMT2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 15121,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "mt",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTPA2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTPA2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 23810,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "pa",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTPB2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTPB2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 15488,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "pb",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTPE2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTPE2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 28755,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "pe",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTPI2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTPI2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 12716,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "pi",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTPR2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTPR2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 39024,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "pr",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTRJ2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTRJ2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 46335,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "rj",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTRN2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTRN2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 13611,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "rn",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTRO2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTRO2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 9268,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "ro",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTRR2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTRR2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 2399,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "rr",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTRS2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTRS2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 34424,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "rs",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTSC2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTSC2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 24243,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "sc",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTSE2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTSE2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 5516,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "se",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTSP2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTSP2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 100095,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "sp",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "LTTO2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/LT/LTTO2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 7467,
+  "dataset": "cnes-lt",
+  "partition": {
+   "uf": "to",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
  }
 ]

@@ -87582,5 +87582,383 @@
    "month": 11,
    "version": null
   }
+ },
+ {
+  "filename": "STAC2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STAC2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 65525,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ac",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STAL2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STAL2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 193387,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "al",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STAM2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STAM2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 139496,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "am",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STAP2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STAP2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 50712,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ap",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STBA2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STBA2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 1020945,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ba",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STCE2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STCE2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 652312,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ce",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STDF2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STDF2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 351736,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "df",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STES2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STES2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 445505,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "es",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STGO2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STGO2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 636189,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "go",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STMA2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STMA2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 303621,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ma",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STMG2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STMG2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 2585098,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "mg",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STMS2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STMS2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 287523,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ms",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STMT2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STMT2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 441370,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "mt",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STPA2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STPA2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 380168,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "pa",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STPB2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STPB2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 338452,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "pb",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STPE2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STPE2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 539710,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "pe",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STPI2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STPI2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 214762,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "pi",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STPR2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STPR2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 1458693,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "pr",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STRJ2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STRJ2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 1672908,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "rj",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STRN2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STRN2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 260341,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "rn",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STRO2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STRO2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 217478,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ro",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STRR2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STRR2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 48643,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "rr",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STRS2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STRS2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 1645049,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "rs",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STSC2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STSC2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 1192605,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "sc",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STSE2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STSE2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 187941,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "se",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STSP2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STSP2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 4961428,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "sp",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "STTO2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STTO2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 141502,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "to",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
  }
 ]

@@ -79658,5 +79658,383 @@
    "month": 11,
    "version": null
   }
+ },
+ {
+  "filename": "RCAC2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCAC2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 2826,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "ac",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCAL2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCAL2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 9517,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "al",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCAM2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCAM2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 6609,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "am",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCAP2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCAP2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 2780,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "ap",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCBA2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCBA2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 47298,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "ba",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCCE2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCCE2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 21134,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "ce",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCDF2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCDF2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 4020,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "df",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCES2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCES2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 5928,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "es",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCGO2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCGO2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 18168,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "go",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCMA2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCMA2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 16917,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "ma",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCMG2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCMG2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 97591,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "mg",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCMS2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCMS2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 11086,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "ms",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCMT2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCMT2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 8790,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "mt",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCPA2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCPA2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 11107,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "pa",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCPB2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCPB2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 22748,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "pb",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCPE2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCPE2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 18435,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "pe",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCPI2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCPI2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 26038,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "pi",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCPR2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCPR2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 37854,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "pr",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCRJ2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCRJ2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 18955,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "rj",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCRN2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCRN2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 13119,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "rn",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCRO2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCRO2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 3357,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "ro",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCRR2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCRR2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 2251,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "rr",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCRS2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCRS2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 27079,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "rs",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCSC2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCSC2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 28890,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "sc",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCSE2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCSE2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 8995,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "se",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCSP2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCSP2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 70646,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "sp",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
+ },
+ {
+  "filename": "RCTO2412.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/RC/RCTO2412.dbc",
+  "datetime": "2025-01-17T11:04:00",
+  "extension": "dbc",
+  "size": 10188,
+  "dataset": "cnes-rc",
+  "partition": {
+   "uf": "to",
+   "year": 2024,
+   "month": 12,
+   "version": null
+  }
  }
 ]
