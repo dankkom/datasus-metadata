@@ -28,7 +28,7 @@
    "partition_period_end": null,
    "partition_n_periods": 0,
    "partition_periodicity": null,
-   "latest_update": "2025-01-17T17:44:00"
+   "latest_update": "2025-01-18T21:50:00"
   },
   "base-territorial-mapas": {
    "n_files": 83,
@@ -1781,8 +1781,8 @@
   },
   "ciha": {
    "n_files": 1,
-   "total_size": 59299492,
-   "latest_update": "2025-01-17T16:40:00"
+   "total_size": 60918162,
+   "latest_update": "2025-01-18T22:01:00"
   },
   "cmd": {
    "n_files": 1,
@@ -1791,8 +1791,8 @@
   },
   "cnes": {
    "n_files": 1,
-   "total_size": 119863452,
-   "latest_update": "2025-01-17T16:39:00"
+   "total_size": 120077951,
+   "latest_update": "2025-01-18T22:14:00"
   },
   "pce": {
    "n_files": 1,
@@ -1811,13 +1811,13 @@
   },
   "sia": {
    "n_files": 4,
-   "total_size": 79015812,
-   "latest_update": "2025-01-17T16:39:00"
+   "total_size": 82421607,
+   "latest_update": "2025-01-18T22:24:00"
   },
   "sih": {
    "n_files": 4,
-   "total_size": 16974165,
-   "latest_update": "2025-01-17T16:40:00"
+   "total_size": 16976372,
+   "latest_update": "2025-01-18T22:30:00"
   },
   "sim-cid09": {
    "n_files": 1,
