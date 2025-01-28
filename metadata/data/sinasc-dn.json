@@ -826,6 +826,20 @@
   }
  },
  {
+  "filename": "DNBR1996.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR1996.dbc",
+  "datetime": "2025-01-24T10:42:00",
+  "extension": "dbc",
+  "size": 52371329,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
+   "year": 1996,
+   "month": null,
+   "version": null
+  }
+ },
+ {
   "filename": "DNCE1996.DBC",
   "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNCE1996.DBC",
   "datetime": "2020-01-27T11:32:00",
@@ -1198,6 +1212,20 @@
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "ba",
+   "year": 1997,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNBR1997.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR1997.dbc",
+  "datetime": "2025-01-24T10:43:00",
+  "extension": "dbc",
+  "size": 59375642,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
    "year": 1997,
    "month": null,
    "version": null
@@ -1582,6 +1610,20 @@
   }
  },
  {
+  "filename": "DNBR1998.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR1998.dbc",
+  "datetime": "2025-01-24T10:43:00",
+  "extension": "dbc",
+  "size": 61012339,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
+   "year": 1998,
+   "month": null,
+   "version": null
+  }
+ },
+ {
   "filename": "DNCE1998.DBC",
   "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNCE1998.DBC",
   "datetime": "2020-01-27T11:32:00",
@@ -1954,6 +1996,20 @@
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "ba",
+   "year": 1999,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNBR1999.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR1999.dbc",
+  "datetime": "2025-01-24T10:44:00",
+  "extension": "dbc",
+  "size": 63963812,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
    "year": 1999,
    "month": null,
    "version": null
@@ -2338,6 +2394,20 @@
   }
  },
  {
+  "filename": "DNBR2000.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2000.dbc",
+  "datetime": "2025-01-24T10:44:00",
+  "extension": "dbc",
+  "size": 64149465,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
+   "year": 2000,
+   "month": null,
+   "version": null
+  }
+ },
+ {
   "filename": "DNCE2000.DBC",
   "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNCE2000.DBC",
   "datetime": "2020-01-27T11:32:00",
@@ -2710,6 +2780,20 @@
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "ba",
+   "year": 2001,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNBR2001.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2001.dbc",
+  "datetime": "2025-01-24T10:45:00",
+  "extension": "dbc",
+  "size": 69018410,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
    "year": 2001,
    "month": null,
    "version": null
@@ -3094,6 +3178,20 @@
   }
  },
  {
+  "filename": "DNBR2002.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2002.dbc",
+  "datetime": "2025-01-24T10:46:00",
+  "extension": "dbc",
+  "size": 75107064,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
+   "year": 2002,
+   "month": null,
+   "version": null
+  }
+ },
+ {
   "filename": "DNCE2002.DBC",
   "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNCE2002.DBC",
   "datetime": "2020-01-27T11:32:00",
@@ -3466,6 +3564,20 @@
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "ba",
+   "year": 2003,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNBR2003.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2003.dbc",
+  "datetime": "2025-01-24T10:47:00",
+  "extension": "dbc",
+  "size": 78186093,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
    "year": 2003,
    "month": null,
    "version": null
@@ -3850,6 +3962,20 @@
   }
  },
  {
+  "filename": "DNBR2004.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2004.dbc",
+  "datetime": "2025-01-24T10:47:00",
+  "extension": "dbc",
+  "size": 75387348,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
+   "year": 2004,
+   "month": null,
+   "version": null
+  }
+ },
+ {
   "filename": "DNCE2004.DBC",
   "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNCE2004.DBC",
   "datetime": "2020-01-27T11:32:00",
@@ -4222,6 +4348,20 @@
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "ba",
+   "year": 2005,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNBR2005.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2005.dbc",
+  "datetime": "2025-01-24T10:48:00",
+  "extension": "dbc",
+  "size": 76993177,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
    "year": 2005,
    "month": null,
    "version": null
@@ -4606,6 +4746,20 @@
   }
  },
  {
+  "filename": "DNBR2006.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2006.dbc",
+  "datetime": "2025-01-24T10:49:00",
+  "extension": "dbc",
+  "size": 86754763,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
+   "year": 2006,
+   "month": null,
+   "version": null
+  }
+ },
+ {
   "filename": "DNCE2006.DBC",
   "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNCE2006.DBC",
   "datetime": "2020-01-27T11:32:00",
@@ -4978,6 +5132,20 @@
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "ba",
+   "year": 2007,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNBR2007.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2007.dbc",
+  "datetime": "2025-01-24T10:50:00",
+  "extension": "dbc",
+  "size": 83725787,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
    "year": 2007,
    "month": null,
    "version": null
@@ -5362,6 +5530,20 @@
   }
  },
  {
+  "filename": "DNBR2008.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2008.dbc",
+  "datetime": "2025-01-24T10:51:00",
+  "extension": "dbc",
+  "size": 86995967,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
+   "year": 2008,
+   "month": null,
+   "version": null
+  }
+ },
+ {
   "filename": "DNCE2008.dbc",
   "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNCE2008.dbc",
   "datetime": "2020-01-27T11:32:00",
@@ -5734,6 +5916,20 @@
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "ba",
+   "year": 2009,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNBR2009.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2009.dbc",
+  "datetime": "2025-01-24T10:51:00",
+  "extension": "dbc",
+  "size": 85850017,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
    "year": 2009,
    "month": null,
    "version": null
@@ -6118,6 +6314,20 @@
   }
  },
  {
+  "filename": "DNBR2010.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2010.dbc",
+  "datetime": "2025-01-24T10:53:00",
+  "extension": "dbc",
+  "size": 99899864,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
+   "year": 2010,
+   "month": null,
+   "version": null
+  }
+ },
+ {
   "filename": "DNCE2010.DBC",
   "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNCE2010.DBC",
   "datetime": "2020-01-27T11:32:00",
@@ -6490,6 +6700,20 @@
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "ba",
+   "year": 2011,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNBR2011.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2011.dbc",
+  "datetime": "2025-01-24T10:56:00",
+  "extension": "dbc",
+  "size": 150989089,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
    "year": 2011,
    "month": null,
    "version": null
@@ -6874,6 +7098,20 @@
   }
  },
  {
+  "filename": "DNBR2012.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2012.dbc",
+  "datetime": "2025-01-24T10:58:00",
+  "extension": "dbc",
+  "size": 180478983,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
+   "year": 2012,
+   "month": null,
+   "version": null
+  }
+ },
+ {
   "filename": "DNCE2012.DBC",
   "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNCE2012.DBC",
   "datetime": "2020-01-27T11:32:00",
@@ -7246,6 +7484,20 @@
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "ba",
+   "year": 2013,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNBR2013.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2013.dbc",
+  "datetime": "2025-01-24T11:01:00",
+  "extension": "dbc",
+  "size": 182114871,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
    "year": 2013,
    "month": null,
    "version": null
@@ -9198,6 +9450,20 @@
   }
  },
  {
+  "filename": "DNBR2018.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2018.dbc",
+  "datetime": "2025-01-24T11:02:00",
+  "extension": "dbc",
+  "size": 145084576,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
   "filename": "DNCE2018.dbc",
   "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNCE2018.dbc",
   "datetime": "2020-04-02T14:10:00",
@@ -9570,6 +9836,20 @@
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "ba",
+   "year": 2019,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNBR2019.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2019.dbc",
+  "datetime": "2025-01-24T11:02:00",
+  "extension": "dbc",
+  "size": 140032877,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
    "year": 2019,
    "month": null,
    "version": null
@@ -9954,6 +10234,20 @@
   }
  },
  {
+  "filename": "DNBR2020.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2020.dbc",
+  "datetime": "2025-01-24T11:03:00",
+  "extension": "dbc",
+  "size": 134429338,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
+   "year": 2020,
+   "month": null,
+   "version": null
+  }
+ },
+ {
   "filename": "DNCE2020.dbc",
   "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNCE2020.dbc",
   "datetime": "2022-04-01T14:52:00",
@@ -10326,6 +10620,20 @@
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "ba",
+   "year": 2021,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNBR2021.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2021.dbc",
+  "datetime": "2025-01-24T11:04:00",
+  "extension": "dbc",
+  "size": 131594988,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
    "year": 2021,
    "month": null,
    "version": null
@@ -10710,6 +11018,20 @@
   }
  },
  {
+  "filename": "DNBR2022.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2022.dbc",
+  "datetime": "2025-01-24T11:05:00",
+  "extension": "dbc",
+  "size": 126589728,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
+   "year": 2022,
+   "month": null,
+   "version": null
+  }
+ },
+ {
   "filename": "DNCE2022.dbc",
   "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNCE2022.dbc",
   "datetime": "2024-01-11T17:53:00",
@@ -11082,6 +11404,20 @@
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "ba",
+   "year": 2023,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DNBR2023.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNBR2023.dbc",
+  "datetime": "2025-01-24T11:05:00",
+  "extension": "dbc",
+  "size": 125549172,
+  "dataset": "sinasc-dn",
+  "partition": {
+   "uf": "br",
    "year": 2023,
    "month": null,
    "version": null

@@ -401,14 +401,14 @@
    "latest_update": null
   },
   "sim-do-cid10": {
-   "n_files": 761,
-   "total_size": 2914544402,
+   "n_files": 781,
+   "total_size": 4145890381,
    "partition_n_ufs": 28,
    "partition_period_start": "1996",
    "partition_period_end": "2023",
    "partition_n_periods": 28,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-01-21T13:43:00"
+   "latest_update": "2025-01-24T14:30:00"
   },
   "sim-doext-cid09": {
    "n_files": 17,
@@ -1621,14 +1621,14 @@
    "latest_update": null
   },
   "sinasc-dn": {
-   "n_files": 814,
-   "total_size": 3976062788,
+   "n_files": 838,
+   "total_size": 6411717487,
    "partition_n_ufs": 28,
    "partition_period_start": "1994",
    "partition_period_end": "2023",
    "partition_n_periods": 30,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-20T11:41:00"
+   "latest_update": "2025-01-24T11:05:00"
   },
   "sinasc-dnex": {
    "n_files": 10,
