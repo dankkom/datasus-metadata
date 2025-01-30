@@ -7910,6 +7910,20 @@
   }
  },
  {
+  "filename": "DOBR2016.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DORES/DOBR2016.dbc",
+  "datetime": "2025-01-24T14:32:00",
+  "extension": "dbc",
+  "size": 134856658,
+  "dataset": "sim-do-cid10",
+  "partition": {
+   "uf": "br",
+   "year": 2016,
+   "month": null,
+   "version": null
+  }
+ },
+ {
   "filename": "DOCE2016.dbc",
   "full_path": "/dissemin/publicos/SIM/CID10/DORES/DOCE2016.dbc",
   "datetime": "2020-01-31T14:49:00",
@@ -8288,6 +8302,20 @@
   }
  },
  {
+  "filename": "DOBR2017.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DORES/DOBR2017.dbc",
+  "datetime": "2025-01-24T14:34:00",
+  "extension": "dbc",
+  "size": 130537318,
+  "dataset": "sim-do-cid10",
+  "partition": {
+   "uf": "br",
+   "year": 2017,
+   "month": null,
+   "version": null
+  }
+ },
+ {
   "filename": "DOCE2017.dbc",
   "full_path": "/dissemin/publicos/SIM/CID10/DORES/DOCE2017.dbc",
   "datetime": "2020-01-31T14:49:00",
@@ -8660,6 +8688,20 @@
   "dataset": "sim-do-cid10",
   "partition": {
    "uf": "ba",
+   "year": 2018,
+   "month": null,
+   "version": null
+  }
+ },
+ {
+  "filename": "DOBR2018.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DORES/DOBR2018.dbc",
+  "datetime": "2025-01-24T14:35:00",
+  "extension": "dbc",
+  "size": 105417747,
+  "dataset": "sim-do-cid10",
+  "partition": {
+   "uf": "br",
    "year": 2018,
    "month": null,
    "version": null
