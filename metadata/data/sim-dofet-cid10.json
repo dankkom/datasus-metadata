@@ -11,7 +11,8 @@
    "year": 1996,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET97.dbc",
@@ -25,7 +26,8 @@
    "year": 1997,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET98.dbc",
@@ -39,7 +41,8 @@
    "year": 1998,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET99.dbc",
@@ -53,7 +56,8 @@
    "year": 1999,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET00.dbc",
@@ -67,7 +71,8 @@
    "year": 2000,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET01.dbc",
@@ -81,7 +86,8 @@
    "year": 2001,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET02.dbc",
@@ -95,7 +101,8 @@
    "year": 2002,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET03.dbc",
@@ -109,7 +116,8 @@
    "year": 2003,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET04.dbc",
@@ -123,7 +131,8 @@
    "year": 2004,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET05.dbc",
@@ -137,7 +146,8 @@
    "year": 2005,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET06.dbc",
@@ -151,7 +161,8 @@
    "year": 2006,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET07.DBC",
@@ -165,7 +176,8 @@
    "year": 2007,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET08.DBC",
@@ -179,7 +191,8 @@
    "year": 2008,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET09.DBC",
@@ -193,7 +206,8 @@
    "year": 2009,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET10.DBC",
@@ -207,7 +221,8 @@
    "year": 2010,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET11.DBC",
@@ -221,7 +236,8 @@
    "year": 2011,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET12.DBC",
@@ -235,7 +251,8 @@
    "year": 2012,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET13.dbc",
@@ -249,7 +266,8 @@
    "year": 2013,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET14.dbc",
@@ -263,7 +281,8 @@
    "year": 2014,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET15.dbc",
@@ -277,7 +296,8 @@
    "year": 2015,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET16.dbc",
@@ -291,7 +311,8 @@
    "year": 2016,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET17.dbc",
@@ -305,7 +326,8 @@
    "year": 2017,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET18.dbc",
@@ -319,7 +341,8 @@
    "year": 2018,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET19.dbc",
@@ -333,7 +356,8 @@
    "year": 2019,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET20.dbc",
@@ -347,7 +371,8 @@
    "year": 2020,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET21.dbc",
@@ -361,7 +386,8 @@
    "year": 2021,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET22.dbc",
@@ -375,7 +401,8 @@
    "year": 2022,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOFET23.dbc",
@@ -389,6 +416,7 @@
    "year": 2023,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  }
 ]

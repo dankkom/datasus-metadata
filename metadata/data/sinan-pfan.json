@@ -11,7 +11,8 @@
    "year": 2012,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PFANBR13.dbc",
@@ -25,7 +26,8 @@
    "year": 2013,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PFANBR14.dbc",
@@ -39,7 +41,8 @@
    "year": 2014,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PFANBR15.dbc",
@@ -53,7 +56,8 @@
    "year": 2015,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PFANBR16.dbc",
@@ -67,7 +71,8 @@
    "year": 2016,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PFANBR17.dbc",
@@ -81,7 +86,8 @@
    "year": 2017,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PFANBR18.dbc",
@@ -95,7 +101,8 @@
    "year": 2018,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PFANBR19.dbc",
@@ -109,6 +116,37 @@
    "year": 2019,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PFANBR20.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PFANBR20.dbc",
+  "datetime": "2021-11-23T16:34:00",
+  "extension": "dbc",
+  "size": 33444,
+  "dataset": "sinan-pfan",
+  "partition": {
+   "uf": "br",
+   "year": 2020,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "PFANBR21.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PFANBR21.dbc",
+  "datetime": "2021-11-23T16:34:00",
+  "extension": "dbc",
+  "size": 6772,
+  "dataset": "sinan-pfan",
+  "partition": {
+   "uf": "br",
+   "year": 2021,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
  }
 ]

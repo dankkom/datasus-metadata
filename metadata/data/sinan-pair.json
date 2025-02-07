@@ -11,7 +11,8 @@
    "year": 2006,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PAIRBR07.dbc",
@@ -25,7 +26,8 @@
    "year": 2007,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PAIRBR08.dbc",
@@ -39,7 +41,8 @@
    "year": 2008,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PAIRBR09.dbc",
@@ -53,7 +56,8 @@
    "year": 2009,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PAIRBR10.dbc",
@@ -67,7 +71,8 @@
    "year": 2010,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PAIRBR11.dbc",
@@ -81,7 +86,8 @@
    "year": 2011,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PAIRBR12.dbc",
@@ -95,7 +101,8 @@
    "year": 2012,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PAIRBR13.dbc",
@@ -109,7 +116,8 @@
    "year": 2013,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PAIRBR14.dbc",
@@ -123,7 +131,8 @@
    "year": 2014,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PAIRBR15.dbc",
@@ -137,7 +146,8 @@
    "year": 2015,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PAIRBR16.dbc",
@@ -151,7 +161,8 @@
    "year": 2016,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PAIRBR17.dbc",
@@ -165,7 +176,8 @@
    "year": 2017,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PAIRBR18.dbc",
@@ -179,7 +191,8 @@
    "year": 2018,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PAIRBR19.dbc",
@@ -193,6 +206,82 @@
    "year": 2019,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAIRBR20.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PAIRBR20.dbc",
+  "datetime": "2023-08-28T20:40:00",
+  "extension": "dbc",
+  "size": 17836,
+  "dataset": "sinan-pair",
+  "partition": {
+   "uf": "br",
+   "year": 2020,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "PAIRBR21.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PAIRBR21.dbc",
+  "datetime": "2023-08-28T20:40:00",
+  "extension": "dbc",
+  "size": 28610,
+  "dataset": "sinan-pair",
+  "partition": {
+   "uf": "br",
+   "year": 2021,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "PAIRBR22.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PAIRBR22.dbc",
+  "datetime": "2023-08-28T20:40:00",
+  "extension": "dbc",
+  "size": 29161,
+  "dataset": "sinan-pair",
+  "partition": {
+   "uf": "br",
+   "year": 2022,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "PAIRBR23.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PAIRBR23.dbc",
+  "datetime": "2024-12-19T16:15:00",
+  "extension": "dbc",
+  "size": 28630,
+  "dataset": "sinan-pair",
+  "partition": {
+   "uf": "br",
+   "year": 2023,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "PAIRBR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PAIRBR24.dbc",
+  "datetime": "2024-12-19T16:15:00",
+  "extension": "dbc",
+  "size": 18424,
+  "dataset": "sinan-pair",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
  }
 ]

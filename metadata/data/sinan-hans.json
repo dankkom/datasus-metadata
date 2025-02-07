@@ -11,7 +11,8 @@
    "year": 2001,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "HANSBR02.dbc",
@@ -25,7 +26,8 @@
    "year": 2002,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "HANSBR03.dbc",
@@ -39,7 +41,8 @@
    "year": 2003,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "HANSBR04.dbc",
@@ -53,7 +56,8 @@
    "year": 2004,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "HANSBR05.dbc",
@@ -67,7 +71,8 @@
    "year": 2005,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "HANSBR06.dbc",
@@ -81,7 +86,8 @@
    "year": 2006,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "HANSBR07.dbc",
@@ -95,7 +101,8 @@
    "year": 2007,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "HANSBR08.dbc",
@@ -109,7 +116,8 @@
    "year": 2008,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "HANSBR09.dbc",
@@ -123,7 +131,8 @@
    "year": 2009,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "HANSBR10.dbc",
@@ -137,7 +146,8 @@
    "year": 2010,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "HANSBR11.dbc",
@@ -151,7 +161,8 @@
    "year": 2011,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "HANSBR12.dbc",
@@ -165,7 +176,8 @@
    "year": 2012,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "HANSBR13.dbc",
@@ -179,7 +191,8 @@
    "year": 2013,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "HANSBR14.dbc",
@@ -193,7 +206,8 @@
    "year": 2014,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "HANSBR15.dbc",
@@ -207,7 +221,8 @@
    "year": 2015,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "HANSBR16.dbc",
@@ -221,7 +236,8 @@
    "year": 2016,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "HANSBR17.dbc",
@@ -235,7 +251,8 @@
    "year": 2017,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "HANSBR18.dbc",
@@ -249,7 +266,8 @@
    "year": 2018,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "HANSBR19.dbc",
@@ -263,7 +281,8 @@
    "year": 2019,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "HANSBR20.dbc",
@@ -277,6 +296,67 @@
    "year": 2020,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "HANSBR21.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANSBR21.dbc",
+  "datetime": "2024-09-11T12:04:00",
+  "extension": "dbc",
+  "size": 1607981,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2021,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "HANSBR22.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANSBR22.dbc",
+  "datetime": "2024-09-11T12:04:00",
+  "extension": "dbc",
+  "size": 1675201,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2022,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "HANSBR23.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANSBR23.dbc",
+  "datetime": "2024-09-11T12:04:00",
+  "extension": "dbc",
+  "size": 1796653,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2023,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "HANSBR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANSBR24.dbc",
+  "datetime": "2024-09-11T12:04:00",
+  "extension": "dbc",
+  "size": 387281,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
  }
 ]

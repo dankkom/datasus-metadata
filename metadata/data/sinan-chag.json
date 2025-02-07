@@ -11,7 +11,8 @@
    "year": 2000,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR01.dbc",
@@ -25,7 +26,8 @@
    "year": 2001,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR02.dbc",
@@ -39,7 +41,8 @@
    "year": 2002,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR03.dbc",
@@ -53,7 +56,8 @@
    "year": 2003,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR04.dbc",
@@ -67,7 +71,8 @@
    "year": 2004,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR05.dbc",
@@ -81,7 +86,8 @@
    "year": 2005,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR06.dbc",
@@ -95,7 +101,8 @@
    "year": 2006,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR07.dbc",
@@ -109,7 +116,8 @@
    "year": 2007,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR08.dbc",
@@ -123,7 +131,8 @@
    "year": 2008,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR09.dbc",
@@ -137,7 +146,8 @@
    "year": 2009,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR10.dbc",
@@ -151,7 +161,8 @@
    "year": 2010,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR11.dbc",
@@ -165,7 +176,8 @@
    "year": 2011,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR12.dbc",
@@ -179,7 +191,8 @@
    "year": 2012,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR13.dbc",
@@ -193,7 +206,8 @@
    "year": 2013,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR14.dbc",
@@ -207,7 +221,8 @@
    "year": 2014,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR15.dbc",
@@ -221,7 +236,8 @@
    "year": 2015,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR16.dbc",
@@ -235,7 +251,8 @@
    "year": 2016,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR17.dbc",
@@ -249,7 +266,8 @@
    "year": 2017,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR18.dbc",
@@ -263,7 +281,8 @@
    "year": 2018,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR19.dbc",
@@ -277,7 +296,8 @@
    "year": 2019,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR20.dbc",
@@ -291,7 +311,8 @@
    "year": 2020,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR21.dbc",
@@ -305,7 +326,8 @@
    "year": 2021,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHAGBR22.dbc",
@@ -319,6 +341,22 @@
    "year": 2022,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "CHAGBR23.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/CHAGBR23.dbc",
+  "datetime": "2024-12-02T14:39:00",
+  "extension": "dbc",
+  "size": 411945,
+  "dataset": "sinan-chag",
+  "partition": {
+   "uf": "br",
+   "year": 2023,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
  }
 ]

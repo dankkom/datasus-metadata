@@ -11,7 +11,8 @@
    "year": 2008,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0802.dbc",
@@ -25,7 +26,8 @@
    "year": 2008,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0803.dbc",
@@ -39,7 +41,8 @@
    "year": 2008,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0804.dbc",
@@ -53,7 +56,8 @@
    "year": 2008,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0805.dbc",
@@ -67,7 +71,8 @@
    "year": 2008,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0806.dbc",
@@ -81,7 +86,8 @@
    "year": 2008,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0807.dbc",
@@ -95,7 +101,8 @@
    "year": 2008,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0808.dbc",
@@ -109,7 +116,8 @@
    "year": 2008,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0809.dbc",
@@ -123,7 +131,8 @@
    "year": 2008,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS0810.dbc",
@@ -137,7 +146,8 @@
    "year": 2008,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0810.dbc",
@@ -151,7 +161,8 @@
    "year": 2008,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS0811.dbc",
@@ -165,7 +176,8 @@
    "year": 2008,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0811.dbc",
@@ -179,7 +191,8 @@
    "year": 2008,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS0812.dbc",
@@ -193,7 +206,8 @@
    "year": 2008,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0812.dbc",
@@ -207,7 +221,8 @@
    "year": 2008,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR0901.dbc",
@@ -221,7 +236,8 @@
    "year": 2009,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS0901.dbc",
@@ -235,7 +251,8 @@
    "year": 2009,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0901.dbc",
@@ -249,7 +266,8 @@
    "year": 2009,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR0902.dbc",
@@ -263,7 +281,8 @@
    "year": 2009,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0902.dbc",
@@ -277,7 +296,8 @@
    "year": 2009,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR0903.dbc",
@@ -291,7 +311,8 @@
    "year": 2009,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0903.dbc",
@@ -305,7 +326,8 @@
    "year": 2009,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0904.dbc",
@@ -319,7 +341,8 @@
    "year": 2009,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR0905.dbc",
@@ -333,7 +356,8 @@
    "year": 2009,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0905.dbc",
@@ -347,7 +371,8 @@
    "year": 2009,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE0906.dbc",
@@ -361,7 +386,8 @@
    "year": 2009,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0906.dbc",
@@ -375,7 +401,8 @@
    "year": 2009,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE0907.dbc",
@@ -389,7 +416,8 @@
    "year": 2009,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR0907.dbc",
@@ -403,7 +431,8 @@
    "year": 2009,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0907.dbc",
@@ -417,7 +446,8 @@
    "year": 2009,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE0908.dbc",
@@ -431,7 +461,8 @@
    "year": 2009,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR0908.dbc",
@@ -445,7 +476,8 @@
    "year": 2009,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0908.dbc",
@@ -459,7 +491,8 @@
    "year": 2009,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE0909.dbc",
@@ -473,7 +506,8 @@
    "year": 2009,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR0909.dbc",
@@ -487,7 +521,8 @@
    "year": 2009,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0909.dbc",
@@ -501,7 +536,8 @@
    "year": 2009,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE0910.dbc",
@@ -515,7 +551,8 @@
    "year": 2009,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR0910.dbc",
@@ -529,7 +566,8 @@
    "year": 2009,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0910.dbc",
@@ -543,7 +581,8 @@
    "year": 2009,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE0911.dbc",
@@ -557,7 +596,8 @@
    "year": 2009,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR0911.dbc",
@@ -571,7 +611,8 @@
    "year": 2009,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS0911.dbc",
@@ -585,7 +626,8 @@
    "year": 2009,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0911.dbc",
@@ -599,7 +641,8 @@
    "year": 2009,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE0912.dbc",
@@ -613,7 +656,8 @@
    "year": 2009,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR0912.dbc",
@@ -627,7 +671,8 @@
    "year": 2009,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS0912.dbc",
@@ -641,7 +686,8 @@
    "year": 2009,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP0912.dbc",
@@ -655,7 +701,8 @@
    "year": 2009,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1001.dbc",
@@ -669,7 +716,8 @@
    "year": 2010,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1001.dbc",
@@ -683,7 +731,8 @@
    "year": 2010,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1001.dbc",
@@ -697,7 +746,8 @@
    "year": 2010,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1001.dbc",
@@ -711,7 +761,8 @@
    "year": 2010,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1002.dbc",
@@ -725,7 +776,8 @@
    "year": 2010,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1002.dbc",
@@ -739,7 +791,8 @@
    "year": 2010,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1002.dbc",
@@ -753,7 +806,8 @@
    "year": 2010,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1002.dbc",
@@ -767,7 +821,8 @@
    "year": 2010,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1002.dbc",
@@ -781,7 +836,8 @@
    "year": 2010,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1003.dbc",
@@ -795,7 +851,8 @@
    "year": 2010,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1003.dbc",
@@ -809,7 +866,8 @@
    "year": 2010,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1003.dbc",
@@ -823,7 +881,8 @@
    "year": 2010,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1003.dbc",
@@ -837,7 +896,8 @@
    "year": 2010,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1003.dbc",
@@ -851,7 +911,8 @@
    "year": 2010,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1004.dbc",
@@ -865,7 +926,8 @@
    "year": 2010,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1004.dbc",
@@ -879,7 +941,8 @@
    "year": 2010,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1004.dbc",
@@ -893,7 +956,8 @@
    "year": 2010,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1004.dbc",
@@ -907,7 +971,8 @@
    "year": 2010,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1004.dbc",
@@ -921,7 +986,8 @@
    "year": 2010,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1004.dbc",
@@ -935,7 +1001,8 @@
    "year": 2010,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1005.dbc",
@@ -949,7 +1016,8 @@
    "year": 2010,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1005.dbc",
@@ -963,7 +1031,8 @@
    "year": 2010,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1005.dbc",
@@ -977,7 +1046,8 @@
    "year": 2010,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1005.dbc",
@@ -991,7 +1061,8 @@
    "year": 2010,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1005.dbc",
@@ -1005,7 +1076,8 @@
    "year": 2010,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1005.dbc",
@@ -1019,7 +1091,8 @@
    "year": 2010,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1006.dbc",
@@ -1033,7 +1106,8 @@
    "year": 2010,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1006.dbc",
@@ -1047,7 +1121,8 @@
    "year": 2010,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1006.dbc",
@@ -1061,7 +1136,8 @@
    "year": 2010,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1006.dbc",
@@ -1075,7 +1151,8 @@
    "year": 2010,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1006.dbc",
@@ -1089,7 +1166,8 @@
    "year": 2010,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1006.dbc",
@@ -1103,7 +1181,8 @@
    "year": 2010,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1007.dbc",
@@ -1117,7 +1196,8 @@
    "year": 2010,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1007.dbc",
@@ -1131,7 +1211,8 @@
    "year": 2010,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1007.dbc",
@@ -1145,7 +1226,8 @@
    "year": 2010,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1007.dbc",
@@ -1159,7 +1241,8 @@
    "year": 2010,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1007.dbc",
@@ -1173,7 +1256,8 @@
    "year": 2010,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1007.dbc",
@@ -1187,7 +1271,8 @@
    "year": 2010,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1008.dbc",
@@ -1201,7 +1286,8 @@
    "year": 2010,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1008.dbc",
@@ -1215,7 +1301,8 @@
    "year": 2010,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1008.dbc",
@@ -1229,7 +1316,8 @@
    "year": 2010,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1008.dbc",
@@ -1243,7 +1331,8 @@
    "year": 2010,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1008.dbc",
@@ -1257,7 +1346,8 @@
    "year": 2010,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1008.dbc",
@@ -1271,7 +1361,8 @@
    "year": 2010,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1009.dbc",
@@ -1285,7 +1376,8 @@
    "year": 2010,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1009.dbc",
@@ -1299,7 +1391,8 @@
    "year": 2010,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1009.dbc",
@@ -1313,7 +1406,8 @@
    "year": 2010,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1009.dbc",
@@ -1327,7 +1421,8 @@
    "year": 2010,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1009.dbc",
@@ -1341,7 +1436,8 @@
    "year": 2010,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1009.dbc",
@@ -1355,7 +1451,8 @@
    "year": 2010,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1010.dbc",
@@ -1369,7 +1466,8 @@
    "year": 2010,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1010.dbc",
@@ -1383,7 +1481,8 @@
    "year": 2010,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1010.dbc",
@@ -1397,7 +1496,8 @@
    "year": 2010,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1010.dbc",
@@ -1411,7 +1511,8 @@
    "year": 2010,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1010.dbc",
@@ -1425,7 +1526,8 @@
    "year": 2010,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1010.dbc",
@@ -1439,7 +1541,8 @@
    "year": 2010,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1011.dbc",
@@ -1453,7 +1556,8 @@
    "year": 2010,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1011.dbc",
@@ -1467,7 +1571,8 @@
    "year": 2010,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1011.dbc",
@@ -1481,7 +1586,8 @@
    "year": 2010,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1011.dbc",
@@ -1495,7 +1601,8 @@
    "year": 2010,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1011.dbc",
@@ -1509,7 +1616,8 @@
    "year": 2010,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1011.dbc",
@@ -1523,7 +1631,8 @@
    "year": 2010,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1012.dbc",
@@ -1537,7 +1646,8 @@
    "year": 2010,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1012.dbc",
@@ -1551,7 +1661,8 @@
    "year": 2010,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1012.dbc",
@@ -1565,7 +1676,8 @@
    "year": 2010,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1012.dbc",
@@ -1579,7 +1691,8 @@
    "year": 2010,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1012.dbc",
@@ -1593,7 +1706,8 @@
    "year": 2010,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1012.dbc",
@@ -1607,7 +1721,8 @@
    "year": 2010,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1101.dbc",
@@ -1621,7 +1736,8 @@
    "year": 2011,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1101.dbc",
@@ -1635,7 +1751,8 @@
    "year": 2011,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1101.dbc",
@@ -1649,7 +1766,8 @@
    "year": 2011,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1101.dbc",
@@ -1663,7 +1781,8 @@
    "year": 2011,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1101.dbc",
@@ -1677,7 +1796,8 @@
    "year": 2011,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1102.dbc",
@@ -1691,7 +1811,8 @@
    "year": 2011,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1102.dbc",
@@ -1705,7 +1826,8 @@
    "year": 2011,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1102.dbc",
@@ -1719,7 +1841,8 @@
    "year": 2011,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1102.dbc",
@@ -1733,7 +1856,8 @@
    "year": 2011,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1102.dbc",
@@ -1747,7 +1871,8 @@
    "year": 2011,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1103.dbc",
@@ -1761,7 +1886,8 @@
    "year": 2011,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1103.dbc",
@@ -1775,7 +1901,8 @@
    "year": 2011,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1103.dbc",
@@ -1789,7 +1916,8 @@
    "year": 2011,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1103.dbc",
@@ -1803,7 +1931,8 @@
    "year": 2011,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1103.dbc",
@@ -1817,7 +1946,8 @@
    "year": 2011,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1103.dbc",
@@ -1831,7 +1961,8 @@
    "year": 2011,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1104.dbc",
@@ -1845,7 +1976,8 @@
    "year": 2011,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1104.dbc",
@@ -1859,7 +1991,8 @@
    "year": 2011,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1104.dbc",
@@ -1873,7 +2006,8 @@
    "year": 2011,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1104.dbc",
@@ -1887,7 +2021,8 @@
    "year": 2011,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1104.dbc",
@@ -1901,7 +2036,8 @@
    "year": 2011,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1104.dbc",
@@ -1915,7 +2051,8 @@
    "year": 2011,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1105.dbc",
@@ -1929,7 +2066,8 @@
    "year": 2011,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1105.dbc",
@@ -1943,7 +2081,8 @@
    "year": 2011,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1105.dbc",
@@ -1957,7 +2096,8 @@
    "year": 2011,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1105.dbc",
@@ -1971,7 +2111,8 @@
    "year": 2011,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1105.dbc",
@@ -1985,7 +2126,8 @@
    "year": 2011,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1105.dbc",
@@ -1999,7 +2141,8 @@
    "year": 2011,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1106.dbc",
@@ -2013,7 +2156,8 @@
    "year": 2011,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1106.dbc",
@@ -2027,7 +2171,8 @@
    "year": 2011,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1106.dbc",
@@ -2041,7 +2186,8 @@
    "year": 2011,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1106.dbc",
@@ -2055,7 +2201,8 @@
    "year": 2011,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1106.dbc",
@@ -2069,7 +2216,8 @@
    "year": 2011,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1106.dbc",
@@ -2083,7 +2231,8 @@
    "year": 2011,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1107.dbc",
@@ -2097,7 +2246,8 @@
    "year": 2011,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1107.dbc",
@@ -2111,7 +2261,8 @@
    "year": 2011,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1107.dbc",
@@ -2125,7 +2276,8 @@
    "year": 2011,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1107.dbc",
@@ -2139,7 +2291,8 @@
    "year": 2011,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1107.dbc",
@@ -2153,7 +2306,8 @@
    "year": 2011,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1107.dbc",
@@ -2167,7 +2321,8 @@
    "year": 2011,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1108.dbc",
@@ -2181,7 +2336,8 @@
    "year": 2011,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1108.dbc",
@@ -2195,7 +2351,8 @@
    "year": 2011,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1108.dbc",
@@ -2209,7 +2366,8 @@
    "year": 2011,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1108.dbc",
@@ -2223,7 +2381,8 @@
    "year": 2011,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1108.dbc",
@@ -2237,7 +2396,8 @@
    "year": 2011,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1108.dbc",
@@ -2251,7 +2411,8 @@
    "year": 2011,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1109.dbc",
@@ -2265,7 +2426,8 @@
    "year": 2011,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1109.dbc",
@@ -2279,7 +2441,8 @@
    "year": 2011,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1109.dbc",
@@ -2293,7 +2456,8 @@
    "year": 2011,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1109.dbc",
@@ -2307,7 +2471,8 @@
    "year": 2011,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1109.dbc",
@@ -2321,7 +2486,8 @@
    "year": 2011,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1109.dbc",
@@ -2335,7 +2501,8 @@
    "year": 2011,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1110.dbc",
@@ -2349,7 +2516,8 @@
    "year": 2011,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1110.dbc",
@@ -2363,7 +2531,8 @@
    "year": 2011,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1110.dbc",
@@ -2377,7 +2546,8 @@
    "year": 2011,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1110.dbc",
@@ -2391,7 +2561,8 @@
    "year": 2011,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1110.dbc",
@@ -2405,7 +2576,8 @@
    "year": 2011,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1110.dbc",
@@ -2419,7 +2591,8 @@
    "year": 2011,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1111.dbc",
@@ -2433,7 +2606,8 @@
    "year": 2011,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1111.dbc",
@@ -2447,7 +2621,8 @@
    "year": 2011,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1111.dbc",
@@ -2461,7 +2636,8 @@
    "year": 2011,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1111.dbc",
@@ -2475,7 +2651,8 @@
    "year": 2011,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1111.dbc",
@@ -2489,7 +2666,8 @@
    "year": 2011,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1111.dbc",
@@ -2503,7 +2681,8 @@
    "year": 2011,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABDF1112.dbc",
@@ -2517,7 +2696,8 @@
    "year": 2011,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABMG1112.dbc",
@@ -2531,7 +2711,8 @@
    "year": 2011,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1112.dbc",
@@ -2545,7 +2726,8 @@
    "year": 2011,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1112.dbc",
@@ -2559,7 +2741,8 @@
    "year": 2011,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1112.dbc",
@@ -2573,7 +2756,8 @@
    "year": 2011,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1112.dbc",
@@ -2587,7 +2771,8 @@
    "year": 2011,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1112.dbc",
@@ -2601,7 +2786,8 @@
    "year": 2011,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1112.dbc",
@@ -2615,7 +2801,8 @@
    "year": 2011,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1201.dbc",
@@ -2629,7 +2816,8 @@
    "year": 2012,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1201.dbc",
@@ -2643,7 +2831,8 @@
    "year": 2012,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1201.dbc",
@@ -2657,7 +2846,8 @@
    "year": 2012,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1201.dbc",
@@ -2671,7 +2861,8 @@
    "year": 2012,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1201.dbc",
@@ -2685,7 +2876,8 @@
    "year": 2012,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1201.dbc",
@@ -2699,7 +2891,8 @@
    "year": 2012,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1202.dbc",
@@ -2713,7 +2906,8 @@
    "year": 2012,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1202.dbc",
@@ -2727,7 +2921,8 @@
    "year": 2012,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1202.dbc",
@@ -2741,7 +2936,8 @@
    "year": 2012,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1202.dbc",
@@ -2755,7 +2951,8 @@
    "year": 2012,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1202.dbc",
@@ -2769,7 +2966,8 @@
    "year": 2012,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1202.dbc",
@@ -2783,7 +2981,8 @@
    "year": 2012,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1203.dbc",
@@ -2797,7 +2996,8 @@
    "year": 2012,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1203.dbc",
@@ -2811,7 +3011,8 @@
    "year": 2012,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1203.dbc",
@@ -2825,7 +3026,8 @@
    "year": 2012,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1203.dbc",
@@ -2839,7 +3041,8 @@
    "year": 2012,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1203.dbc",
@@ -2853,7 +3056,8 @@
    "year": 2012,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1203.dbc",
@@ -2867,7 +3071,8 @@
    "year": 2012,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1204.dbc",
@@ -2881,7 +3086,8 @@
    "year": 2012,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1204.dbc",
@@ -2895,7 +3101,8 @@
    "year": 2012,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1204.dbc",
@@ -2909,7 +3116,8 @@
    "year": 2012,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1204.dbc",
@@ -2923,7 +3131,8 @@
    "year": 2012,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1204.dbc",
@@ -2937,7 +3146,8 @@
    "year": 2012,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1204.dbc",
@@ -2951,7 +3161,8 @@
    "year": 2012,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1205.dbc",
@@ -2965,7 +3176,8 @@
    "year": 2012,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1205.dbc",
@@ -2979,7 +3191,8 @@
    "year": 2012,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1205.dbc",
@@ -2993,7 +3206,8 @@
    "year": 2012,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1205.dbc",
@@ -3007,7 +3221,8 @@
    "year": 2012,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1205.dbc",
@@ -3021,7 +3236,8 @@
    "year": 2012,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1205.dbc",
@@ -3035,7 +3251,8 @@
    "year": 2012,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1206.dbc",
@@ -3049,7 +3266,8 @@
    "year": 2012,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1206.dbc",
@@ -3063,7 +3281,8 @@
    "year": 2012,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1206.dbc",
@@ -3077,7 +3296,8 @@
    "year": 2012,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1206.dbc",
@@ -3091,7 +3311,8 @@
    "year": 2012,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1206.dbc",
@@ -3105,7 +3326,8 @@
    "year": 2012,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1206.dbc",
@@ -3119,7 +3341,8 @@
    "year": 2012,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1207.dbc",
@@ -3133,7 +3356,8 @@
    "year": 2012,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1207.dbc",
@@ -3147,7 +3371,8 @@
    "year": 2012,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1207.dbc",
@@ -3161,7 +3386,8 @@
    "year": 2012,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1207.dbc",
@@ -3175,7 +3401,8 @@
    "year": 2012,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1207.dbc",
@@ -3189,7 +3416,8 @@
    "year": 2012,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1207.dbc",
@@ -3203,7 +3431,8 @@
    "year": 2012,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1208.dbc",
@@ -3217,7 +3446,8 @@
    "year": 2012,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1208.dbc",
@@ -3231,7 +3461,8 @@
    "year": 2012,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1208.dbc",
@@ -3245,7 +3476,8 @@
    "year": 2012,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1208.dbc",
@@ -3259,7 +3491,8 @@
    "year": 2012,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1208.dbc",
@@ -3273,7 +3506,8 @@
    "year": 2012,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1208.dbc",
@@ -3287,7 +3521,8 @@
    "year": 2012,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1209.dbc",
@@ -3301,7 +3536,8 @@
    "year": 2012,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1209.dbc",
@@ -3315,7 +3551,8 @@
    "year": 2012,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1209.dbc",
@@ -3329,7 +3566,8 @@
    "year": 2012,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1209.dbc",
@@ -3343,7 +3581,8 @@
    "year": 2012,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1209.dbc",
@@ -3357,7 +3596,8 @@
    "year": 2012,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1209.dbc",
@@ -3371,7 +3611,8 @@
    "year": 2012,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1210.dbc",
@@ -3385,7 +3626,8 @@
    "year": 2012,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1210.dbc",
@@ -3399,7 +3641,8 @@
    "year": 2012,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1210.dbc",
@@ -3413,7 +3656,8 @@
    "year": 2012,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1210.dbc",
@@ -3427,7 +3671,8 @@
    "year": 2012,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1210.dbc",
@@ -3441,7 +3686,8 @@
    "year": 2012,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1210.dbc",
@@ -3455,7 +3701,8 @@
    "year": 2012,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1211.dbc",
@@ -3469,7 +3716,8 @@
    "year": 2012,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1211.dbc",
@@ -3483,7 +3731,8 @@
    "year": 2012,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1211.dbc",
@@ -3497,7 +3746,8 @@
    "year": 2012,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1211.dbc",
@@ -3511,7 +3761,8 @@
    "year": 2012,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1211.dbc",
@@ -3525,7 +3776,8 @@
    "year": 2012,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1211.dbc",
@@ -3539,7 +3791,8 @@
    "year": 2012,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1212.dbc",
@@ -3553,7 +3806,8 @@
    "year": 2012,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1212.dbc",
@@ -3567,7 +3821,8 @@
    "year": 2012,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1212.dbc",
@@ -3581,7 +3836,8 @@
    "year": 2012,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1212.dbc",
@@ -3595,7 +3851,8 @@
    "year": 2012,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1212.dbc",
@@ -3609,7 +3866,8 @@
    "year": 2012,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1212.dbc",
@@ -3623,7 +3881,8 @@
    "year": 2012,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1301.dbc",
@@ -3637,7 +3896,8 @@
    "year": 2013,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1301.dbc",
@@ -3651,7 +3911,8 @@
    "year": 2013,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1301.dbc",
@@ -3665,7 +3926,8 @@
    "year": 2013,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1301.dbc",
@@ -3679,7 +3941,8 @@
    "year": 2013,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1301.dbc",
@@ -3693,7 +3956,8 @@
    "year": 2013,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1301.dbc",
@@ -3707,7 +3971,8 @@
    "year": 2013,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1302.dbc",
@@ -3721,7 +3986,8 @@
    "year": 2013,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1302.dbc",
@@ -3735,7 +4001,8 @@
    "year": 2013,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1302.dbc",
@@ -3749,7 +4016,8 @@
    "year": 2013,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1302.dbc",
@@ -3763,7 +4031,8 @@
    "year": 2013,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1302.dbc",
@@ -3777,7 +4046,8 @@
    "year": 2013,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1302.dbc",
@@ -3791,7 +4061,8 @@
    "year": 2013,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1303.dbc",
@@ -3805,7 +4076,8 @@
    "year": 2013,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1303.dbc",
@@ -3819,7 +4091,8 @@
    "year": 2013,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1303.dbc",
@@ -3833,7 +4106,8 @@
    "year": 2013,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1303.dbc",
@@ -3847,7 +4121,8 @@
    "year": 2013,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1303.dbc",
@@ -3861,7 +4136,8 @@
    "year": 2013,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1303.dbc",
@@ -3875,7 +4151,8 @@
    "year": 2013,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1304.dbc",
@@ -3889,7 +4166,8 @@
    "year": 2013,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1304.dbc",
@@ -3903,7 +4181,8 @@
    "year": 2013,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1304.dbc",
@@ -3917,7 +4196,8 @@
    "year": 2013,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1304.dbc",
@@ -3931,7 +4211,8 @@
    "year": 2013,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1304.dbc",
@@ -3945,7 +4226,8 @@
    "year": 2013,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1304.dbc",
@@ -3959,7 +4241,8 @@
    "year": 2013,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1305.dbc",
@@ -3973,7 +4256,8 @@
    "year": 2013,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1305.dbc",
@@ -3987,7 +4271,8 @@
    "year": 2013,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1305.dbc",
@@ -4001,7 +4286,8 @@
    "year": 2013,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1305.dbc",
@@ -4015,7 +4301,8 @@
    "year": 2013,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1305.dbc",
@@ -4029,7 +4316,8 @@
    "year": 2013,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1305.dbc",
@@ -4043,7 +4331,8 @@
    "year": 2013,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1306.dbc",
@@ -4057,7 +4346,8 @@
    "year": 2013,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1306.dbc",
@@ -4071,7 +4361,8 @@
    "year": 2013,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1306.dbc",
@@ -4085,7 +4376,8 @@
    "year": 2013,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1306.dbc",
@@ -4099,7 +4391,8 @@
    "year": 2013,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1306.dbc",
@@ -4113,7 +4406,8 @@
    "year": 2013,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1306.dbc",
@@ -4127,7 +4421,8 @@
    "year": 2013,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1307.dbc",
@@ -4141,7 +4436,8 @@
    "year": 2013,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1307.dbc",
@@ -4155,7 +4451,8 @@
    "year": 2013,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1307.dbc",
@@ -4169,7 +4466,8 @@
    "year": 2013,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1307.dbc",
@@ -4183,7 +4481,8 @@
    "year": 2013,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1307.dbc",
@@ -4197,7 +4496,8 @@
    "year": 2013,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1308.dbc",
@@ -4211,7 +4511,8 @@
    "year": 2013,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1308.dbc",
@@ -4225,7 +4526,8 @@
    "year": 2013,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1308.dbc",
@@ -4239,7 +4541,8 @@
    "year": 2013,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1308.dbc",
@@ -4253,7 +4556,8 @@
    "year": 2013,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1308.dbc",
@@ -4267,7 +4571,8 @@
    "year": 2013,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1309.dbc",
@@ -4281,7 +4586,8 @@
    "year": 2013,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1309.dbc",
@@ -4295,7 +4601,8 @@
    "year": 2013,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1309.dbc",
@@ -4309,7 +4616,8 @@
    "year": 2013,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1309.dbc",
@@ -4323,7 +4631,8 @@
    "year": 2013,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1309.dbc",
@@ -4337,7 +4646,8 @@
    "year": 2013,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1310.dbc",
@@ -4351,7 +4661,8 @@
    "year": 2013,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1310.dbc",
@@ -4365,7 +4676,8 @@
    "year": 2013,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1310.dbc",
@@ -4379,7 +4691,8 @@
    "year": 2013,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1310.dbc",
@@ -4393,7 +4706,8 @@
    "year": 2013,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1310.dbc",
@@ -4407,7 +4721,8 @@
    "year": 2013,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1311.dbc",
@@ -4421,7 +4736,8 @@
    "year": 2013,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1311.dbc",
@@ -4435,7 +4751,8 @@
    "year": 2013,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1311.dbc",
@@ -4449,7 +4766,8 @@
    "year": 2013,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1311.dbc",
@@ -4463,7 +4781,8 @@
    "year": 2013,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1311.dbc",
@@ -4477,7 +4796,8 @@
    "year": 2013,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1311.dbc",
@@ -4491,7 +4811,8 @@
    "year": 2013,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1312.dbc",
@@ -4505,7 +4826,8 @@
    "year": 2013,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1312.dbc",
@@ -4519,7 +4841,8 @@
    "year": 2013,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1312.dbc",
@@ -4533,7 +4856,8 @@
    "year": 2013,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1312.dbc",
@@ -4547,7 +4871,8 @@
    "year": 2013,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1312.dbc",
@@ -4561,7 +4886,8 @@
    "year": 2013,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1312.dbc",
@@ -4575,7 +4901,8 @@
    "year": 2013,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1401.dbc",
@@ -4589,7 +4916,8 @@
    "year": 2014,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1401.dbc",
@@ -4603,7 +4931,8 @@
    "year": 2014,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1401.dbc",
@@ -4617,7 +4946,8 @@
    "year": 2014,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1401.dbc",
@@ -4631,7 +4961,8 @@
    "year": 2014,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1401.dbc",
@@ -4645,7 +4976,8 @@
    "year": 2014,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1401.dbc",
@@ -4659,7 +4991,8 @@
    "year": 2014,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1402.dbc",
@@ -4673,7 +5006,8 @@
    "year": 2014,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1402.dbc",
@@ -4687,7 +5021,8 @@
    "year": 2014,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1402.dbc",
@@ -4701,7 +5036,8 @@
    "year": 2014,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1402.dbc",
@@ -4715,7 +5051,8 @@
    "year": 2014,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1402.dbc",
@@ -4729,7 +5066,8 @@
    "year": 2014,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1402.dbc",
@@ -4743,7 +5081,8 @@
    "year": 2014,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1403.dbc",
@@ -4757,7 +5096,8 @@
    "year": 2014,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1403.dbc",
@@ -4771,7 +5111,8 @@
    "year": 2014,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1403.dbc",
@@ -4785,7 +5126,8 @@
    "year": 2014,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1403.dbc",
@@ -4799,7 +5141,8 @@
    "year": 2014,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1403.dbc",
@@ -4813,7 +5156,8 @@
    "year": 2014,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1403.dbc",
@@ -4827,7 +5171,8 @@
    "year": 2014,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1404.dbc",
@@ -4841,7 +5186,8 @@
    "year": 2014,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1404.dbc",
@@ -4855,7 +5201,8 @@
    "year": 2014,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1404.dbc",
@@ -4869,7 +5216,8 @@
    "year": 2014,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1404.dbc",
@@ -4883,7 +5231,8 @@
    "year": 2014,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1404.dbc",
@@ -4897,7 +5246,8 @@
    "year": 2014,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1404.dbc",
@@ -4911,7 +5261,8 @@
    "year": 2014,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1405.dbc",
@@ -4925,7 +5276,8 @@
    "year": 2014,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1405.dbc",
@@ -4939,7 +5291,8 @@
    "year": 2014,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1405.dbc",
@@ -4953,7 +5306,8 @@
    "year": 2014,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1405.dbc",
@@ -4967,7 +5321,8 @@
    "year": 2014,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1406.dbc",
@@ -4981,7 +5336,8 @@
    "year": 2014,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1406.dbc",
@@ -4995,7 +5351,8 @@
    "year": 2014,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1406.dbc",
@@ -5009,7 +5366,8 @@
    "year": 2014,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1406.dbc",
@@ -5023,7 +5381,8 @@
    "year": 2014,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1406.dbc",
@@ -5037,7 +5396,8 @@
    "year": 2014,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1406.dbc",
@@ -5051,7 +5411,8 @@
    "year": 2014,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1407.dbc",
@@ -5065,7 +5426,8 @@
    "year": 2014,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1407.dbc",
@@ -5079,7 +5441,8 @@
    "year": 2014,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1407.dbc",
@@ -5093,7 +5456,8 @@
    "year": 2014,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1407.dbc",
@@ -5107,7 +5471,8 @@
    "year": 2014,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1407.dbc",
@@ -5121,7 +5486,8 @@
    "year": 2014,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1407.dbc",
@@ -5135,7 +5501,8 @@
    "year": 2014,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1408.dbc",
@@ -5149,7 +5516,8 @@
    "year": 2014,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1408.dbc",
@@ -5163,7 +5531,8 @@
    "year": 2014,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1408.dbc",
@@ -5177,7 +5546,8 @@
    "year": 2014,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1408.dbc",
@@ -5191,7 +5561,8 @@
    "year": 2014,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1408.dbc",
@@ -5205,7 +5576,8 @@
    "year": 2014,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1409.dbc",
@@ -5219,7 +5591,8 @@
    "year": 2014,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1409.dbc",
@@ -5233,7 +5606,8 @@
    "year": 2014,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1409.dbc",
@@ -5247,7 +5621,8 @@
    "year": 2014,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1409.dbc",
@@ -5261,7 +5636,8 @@
    "year": 2014,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1409.dbc",
@@ -5275,7 +5651,8 @@
    "year": 2014,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1410.dbc",
@@ -5289,7 +5666,8 @@
    "year": 2014,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1410.dbc",
@@ -5303,7 +5681,8 @@
    "year": 2014,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1410.dbc",
@@ -5317,7 +5696,8 @@
    "year": 2014,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1410.dbc",
@@ -5331,7 +5711,8 @@
    "year": 2014,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1410.dbc",
@@ -5345,7 +5726,8 @@
    "year": 2014,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1411.dbc",
@@ -5359,7 +5741,8 @@
    "year": 2014,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1411.dbc",
@@ -5373,7 +5756,8 @@
    "year": 2014,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1411.dbc",
@@ -5387,7 +5771,8 @@
    "year": 2014,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1411.dbc",
@@ -5401,7 +5786,8 @@
    "year": 2014,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1411.dbc",
@@ -5415,7 +5801,8 @@
    "year": 2014,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1412.dbc",
@@ -5429,7 +5816,8 @@
    "year": 2014,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1412.dbc",
@@ -5443,7 +5831,8 @@
    "year": 2014,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1412.dbc",
@@ -5457,7 +5846,8 @@
    "year": 2014,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1412.dbc",
@@ -5471,7 +5861,8 @@
    "year": 2014,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1412.dbc",
@@ -5485,7 +5876,8 @@
    "year": 2014,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1501.dbc",
@@ -5499,7 +5891,8 @@
    "year": 2015,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1501.dbc",
@@ -5513,7 +5906,8 @@
    "year": 2015,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1501.dbc",
@@ -5527,7 +5921,8 @@
    "year": 2015,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1501.dbc",
@@ -5541,7 +5936,8 @@
    "year": 2015,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1501.dbc",
@@ -5555,7 +5951,8 @@
    "year": 2015,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1502.dbc",
@@ -5569,7 +5966,8 @@
    "year": 2015,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1502.dbc",
@@ -5583,7 +5981,8 @@
    "year": 2015,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1502.dbc",
@@ -5597,7 +5996,8 @@
    "year": 2015,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1502.dbc",
@@ -5611,7 +6011,8 @@
    "year": 2015,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1502.dbc",
@@ -5625,7 +6026,8 @@
    "year": 2015,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1503.dbc",
@@ -5639,7 +6041,8 @@
    "year": 2015,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1503.dbc",
@@ -5653,7 +6056,8 @@
    "year": 2015,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1503.dbc",
@@ -5667,7 +6071,8 @@
    "year": 2015,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1503.dbc",
@@ -5681,7 +6086,8 @@
    "year": 2015,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1503.dbc",
@@ -5695,7 +6101,8 @@
    "year": 2015,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1504.dbc",
@@ -5709,7 +6116,8 @@
    "year": 2015,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1504.dbc",
@@ -5723,7 +6131,8 @@
    "year": 2015,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1504.dbc",
@@ -5737,7 +6146,8 @@
    "year": 2015,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1504.dbc",
@@ -5751,7 +6161,8 @@
    "year": 2015,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1504.dbc",
@@ -5765,7 +6176,8 @@
    "year": 2015,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1505.dbc",
@@ -5779,7 +6191,8 @@
    "year": 2015,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1505.dbc",
@@ -5793,7 +6206,8 @@
    "year": 2015,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1505.dbc",
@@ -5807,7 +6221,8 @@
    "year": 2015,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1505.dbc",
@@ -5821,7 +6236,8 @@
    "year": 2015,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1505.dbc",
@@ -5835,7 +6251,8 @@
    "year": 2015,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1505.dbc",
@@ -5849,7 +6266,8 @@
    "year": 2015,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1506.dbc",
@@ -5863,7 +6281,8 @@
    "year": 2015,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1506.dbc",
@@ -5877,7 +6296,8 @@
    "year": 2015,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1506.dbc",
@@ -5891,7 +6311,8 @@
    "year": 2015,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1506.dbc",
@@ -5905,7 +6326,8 @@
    "year": 2015,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1506.dbc",
@@ -5919,7 +6341,8 @@
    "year": 2015,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1507.dbc",
@@ -5933,7 +6356,8 @@
    "year": 2015,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1507.dbc",
@@ -5947,7 +6371,8 @@
    "year": 2015,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1507.dbc",
@@ -5961,7 +6386,8 @@
    "year": 2015,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1507.dbc",
@@ -5975,7 +6401,8 @@
    "year": 2015,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1507.dbc",
@@ -5989,7 +6416,8 @@
    "year": 2015,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1508.dbc",
@@ -6003,7 +6431,8 @@
    "year": 2015,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1508.dbc",
@@ -6017,7 +6446,8 @@
    "year": 2015,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1508.dbc",
@@ -6031,7 +6461,8 @@
    "year": 2015,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1508.dbc",
@@ -6045,7 +6476,8 @@
    "year": 2015,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1508.dbc",
@@ -6059,7 +6491,8 @@
    "year": 2015,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1508.dbc",
@@ -6073,7 +6506,8 @@
    "year": 2015,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1509.dbc",
@@ -6087,7 +6521,8 @@
    "year": 2015,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1509.dbc",
@@ -6101,7 +6536,8 @@
    "year": 2015,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1509.dbc",
@@ -6115,7 +6551,8 @@
    "year": 2015,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1509.dbc",
@@ -6129,7 +6566,8 @@
    "year": 2015,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1509.dbc",
@@ -6143,7 +6581,8 @@
    "year": 2015,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1509.dbc",
@@ -6157,7 +6596,8 @@
    "year": 2015,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1510.dbc",
@@ -6171,7 +6611,8 @@
    "year": 2015,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1510.dbc",
@@ -6185,7 +6626,8 @@
    "year": 2015,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1510.dbc",
@@ -6199,7 +6641,8 @@
    "year": 2015,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1510.dbc",
@@ -6213,7 +6656,8 @@
    "year": 2015,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1510.dbc",
@@ -6227,7 +6671,8 @@
    "year": 2015,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1510.dbc",
@@ -6241,7 +6686,8 @@
    "year": 2015,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1511.dbc",
@@ -6255,7 +6701,8 @@
    "year": 2015,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1511.dbc",
@@ -6269,7 +6716,8 @@
    "year": 2015,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1511.dbc",
@@ -6283,7 +6731,8 @@
    "year": 2015,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1511.dbc",
@@ -6297,7 +6746,8 @@
    "year": 2015,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1511.dbc",
@@ -6311,7 +6761,8 @@
    "year": 2015,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1511.dbc",
@@ -6325,7 +6776,8 @@
    "year": 2015,
    "month": 11,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1512.dbc",
@@ -6339,7 +6791,8 @@
    "year": 2015,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1512.dbc",
@@ -6353,7 +6806,8 @@
    "year": 2015,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1512.dbc",
@@ -6367,7 +6821,8 @@
    "year": 2015,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1512.dbc",
@@ -6381,7 +6836,8 @@
    "year": 2015,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1512.dbc",
@@ -6395,7 +6851,8 @@
    "year": 2015,
    "month": 12,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1601.dbc",
@@ -6409,7 +6866,8 @@
    "year": 2016,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1601.dbc",
@@ -6423,7 +6881,8 @@
    "year": 2016,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1601.dbc",
@@ -6437,7 +6896,8 @@
    "year": 2016,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1601.dbc",
@@ -6451,7 +6911,8 @@
    "year": 2016,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1601.dbc",
@@ -6465,7 +6926,8 @@
    "year": 2016,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1601.dbc",
@@ -6479,7 +6941,8 @@
    "year": 2016,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1602.dbc",
@@ -6493,7 +6956,8 @@
    "year": 2016,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1602.dbc",
@@ -6507,7 +6971,8 @@
    "year": 2016,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1602.dbc",
@@ -6521,7 +6986,8 @@
    "year": 2016,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1602.dbc",
@@ -6535,7 +7001,8 @@
    "year": 2016,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1602.dbc",
@@ -6549,7 +7016,8 @@
    "year": 2016,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1602.dbc",
@@ -6563,7 +7031,8 @@
    "year": 2016,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1603.dbc",
@@ -6577,7 +7046,8 @@
    "year": 2016,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1603.dbc",
@@ -6591,7 +7061,8 @@
    "year": 2016,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRN1603.dbc",
@@ -6605,7 +7076,8 @@
    "year": 2016,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1603.dbc",
@@ -6619,7 +7091,8 @@
    "year": 2016,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1603.dbc",
@@ -6633,7 +7106,8 @@
    "year": 2016,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1603.dbc",
@@ -6647,7 +7121,8 @@
    "year": 2016,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1603.dbc",
@@ -6661,7 +7136,8 @@
    "year": 2016,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1604.dbc",
@@ -6675,7 +7151,8 @@
    "year": 2016,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1604.dbc",
@@ -6689,7 +7166,8 @@
    "year": 2016,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1604.dbc",
@@ -6703,7 +7181,8 @@
    "year": 2016,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1604.dbc",
@@ -6717,7 +7196,8 @@
    "year": 2016,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1604.dbc",
@@ -6731,7 +7211,8 @@
    "year": 2016,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1604.dbc",
@@ -6745,7 +7226,8 @@
    "year": 2016,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1605.dbc",
@@ -6759,7 +7241,8 @@
    "year": 2016,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1605.dbc",
@@ -6773,7 +7256,8 @@
    "year": 2016,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1605.dbc",
@@ -6787,7 +7271,8 @@
    "year": 2016,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1605.dbc",
@@ -6801,7 +7286,8 @@
    "year": 2016,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1605.dbc",
@@ -6815,7 +7301,8 @@
    "year": 2016,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1605.dbc",
@@ -6829,7 +7316,8 @@
    "year": 2016,
    "month": 5,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1606.dbc",
@@ -6843,7 +7331,8 @@
    "year": 2016,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1606.dbc",
@@ -6857,7 +7346,8 @@
    "year": 2016,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1606.dbc",
@@ -6871,7 +7361,8 @@
    "year": 2016,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1606.dbc",
@@ -6885,7 +7376,8 @@
    "year": 2016,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1606.dbc",
@@ -6899,7 +7391,8 @@
    "year": 2016,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1606.dbc",
@@ -6913,7 +7406,8 @@
    "year": 2016,
    "month": 6,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1607.dbc",
@@ -6927,7 +7421,8 @@
    "year": 2016,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1607.dbc",
@@ -6941,7 +7436,8 @@
    "year": 2016,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1607.dbc",
@@ -6955,7 +7451,8 @@
    "year": 2016,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1607.dbc",
@@ -6969,7 +7466,8 @@
    "year": 2016,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1607.dbc",
@@ -6983,7 +7481,8 @@
    "year": 2016,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1607.dbc",
@@ -6997,7 +7496,8 @@
    "year": 2016,
    "month": 7,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1608.dbc",
@@ -7011,7 +7511,8 @@
    "year": 2016,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1608.dbc",
@@ -7025,7 +7526,8 @@
    "year": 2016,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1608.dbc",
@@ -7039,7 +7541,8 @@
    "year": 2016,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1608.dbc",
@@ -7053,7 +7556,8 @@
    "year": 2016,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1608.dbc",
@@ -7067,7 +7571,8 @@
    "year": 2016,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1608.dbc",
@@ -7081,7 +7586,8 @@
    "year": 2016,
    "month": 8,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1609.dbc",
@@ -7095,7 +7601,8 @@
    "year": 2016,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1609.dbc",
@@ -7109,7 +7616,8 @@
    "year": 2016,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1609.dbc",
@@ -7123,7 +7631,8 @@
    "year": 2016,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1609.dbc",
@@ -7137,7 +7646,8 @@
    "year": 2016,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1609.dbc",
@@ -7151,7 +7661,8 @@
    "year": 2016,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1609.dbc",
@@ -7165,7 +7676,8 @@
    "year": 2016,
    "month": 9,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1610.dbc",
@@ -7179,7 +7691,8 @@
    "year": 2016,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1610.dbc",
@@ -7193,7 +7706,8 @@
    "year": 2016,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1610.dbc",
@@ -7207,7 +7721,8 @@
    "year": 2016,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1610.dbc",
@@ -7221,7 +7736,8 @@
    "year": 2016,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1610.dbc",
@@ -7235,7 +7751,8 @@
    "year": 2016,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1610.dbc",
@@ -7249,7 +7766,8 @@
    "year": 2016,
    "month": 10,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1701.dbc",
@@ -7263,7 +7781,8 @@
    "year": 2017,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1701.dbc",
@@ -7277,7 +7796,8 @@
    "year": 2017,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1701.dbc",
@@ -7291,7 +7811,8 @@
    "year": 2017,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1701.dbc",
@@ -7305,7 +7826,8 @@
    "year": 2017,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1701.dbc",
@@ -7319,7 +7841,8 @@
    "year": 2017,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1701.dbc",
@@ -7333,7 +7856,8 @@
    "year": 2017,
    "month": 1,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1702.dbc",
@@ -7347,7 +7871,8 @@
    "year": 2017,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1702.dbc",
@@ -7361,7 +7886,8 @@
    "year": 2017,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRN1702.dbc",
@@ -7375,7 +7901,8 @@
    "year": 2017,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1702.dbc",
@@ -7389,7 +7916,8 @@
    "year": 2017,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1702.dbc",
@@ -7403,7 +7931,8 @@
    "year": 2017,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1702.dbc",
@@ -7417,7 +7946,8 @@
    "year": 2017,
    "month": 2,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1703.dbc",
@@ -7431,7 +7961,8 @@
    "year": 2017,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1703.dbc",
@@ -7445,7 +7976,8 @@
    "year": 2017,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRN1703.dbc",
@@ -7459,7 +7991,8 @@
    "year": 2017,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1703.dbc",
@@ -7473,7 +8006,8 @@
    "year": 2017,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1703.dbc",
@@ -7487,7 +8021,8 @@
    "year": 2017,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1703.dbc",
@@ -7501,7 +8036,8 @@
    "year": 2017,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1703.dbc",
@@ -7515,7 +8051,8 @@
    "year": 2017,
    "month": 3,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPE1704.dbc",
@@ -7529,7 +8066,8 @@
    "year": 2017,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABPR1704.dbc",
@@ -7543,7 +8081,8 @@
    "year": 2017,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRN1704.dbc",
@@ -7557,7 +8096,8 @@
    "year": 2017,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABRS1704.dbc",
@@ -7571,7 +8111,8 @@
    "year": 2017,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSC1704.dbc",
@@ -7585,7 +8126,8 @@
    "year": 2017,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABSP1704.dbc",
@@ -7599,7 +8141,8 @@
    "year": 2017,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ABTO1704.dbc",
@@ -7613,6 +8156,7 @@
    "year": 2017,
    "month": 4,
    "version": null
-  }
+  },
+  "preliminary": false
  }
 ]

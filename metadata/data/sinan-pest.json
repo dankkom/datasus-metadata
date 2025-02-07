@@ -11,7 +11,8 @@
    "year": 2007,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PESTBR08.dbc",
@@ -25,7 +26,8 @@
    "year": 2008,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PESTBR09.dbc",
@@ -39,7 +41,8 @@
    "year": 2009,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PESTBR10.dbc",
@@ -53,7 +56,8 @@
    "year": 2010,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PESTBR11.dbc",
@@ -67,7 +71,8 @@
    "year": 2011,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PESTBR12.dbc",
@@ -81,7 +86,8 @@
    "year": 2012,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PESTBR13.dbc",
@@ -95,7 +101,8 @@
    "year": 2013,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PESTBR14.dbc",
@@ -109,7 +116,8 @@
    "year": 2014,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PESTBR15.dbc",
@@ -123,7 +131,8 @@
    "year": 2015,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PESTBR16.dbc",
@@ -137,7 +146,8 @@
    "year": 2016,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "PESTBR17.dbc",
@@ -151,6 +161,52 @@
    "year": 2017,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PESTBR18.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PESTBR18.dbc",
+  "datetime": "2021-11-23T16:32:00",
+  "extension": "dbc",
+  "size": 1932,
+  "dataset": "sinan-pest",
+  "partition": {
+   "uf": "br",
+   "year": 2018,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "PESTBR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PESTBR19.dbc",
+  "datetime": "2021-11-23T16:32:00",
+  "extension": "dbc",
+  "size": 2030,
+  "dataset": "sinan-pest",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "PESTBR20.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PESTBR20.dbc",
+  "datetime": "2021-11-23T16:31:00",
+  "extension": "dbc",
+  "size": 1707,
+  "dataset": "sinan-pest",
+  "partition": {
+   "uf": "br",
+   "year": 2020,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
  }
 ]

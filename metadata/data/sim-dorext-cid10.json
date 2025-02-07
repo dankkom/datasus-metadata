@@ -11,7 +11,8 @@
    "year": 2013,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOREXT14.dbc",
@@ -25,7 +26,8 @@
    "year": 2014,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOREXT15.dbc",
@@ -39,7 +41,8 @@
    "year": 2015,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOREXT16.dbc",
@@ -53,7 +56,8 @@
    "year": 2016,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOREXT17.dbc",
@@ -67,7 +71,8 @@
    "year": 2017,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOREXT18.dbc",
@@ -81,7 +86,8 @@
    "year": 2018,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOREXT19.dbc",
@@ -95,7 +101,8 @@
    "year": 2019,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOREXT20.dbc",
@@ -109,7 +116,8 @@
    "year": 2020,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOREXT21.dbc",
@@ -123,7 +131,8 @@
    "year": 2021,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOREXT22.dbc",
@@ -137,7 +146,8 @@
    "year": 2022,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DOREXT23.dbc",
@@ -151,6 +161,7 @@
    "year": 2023,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  }
 ]

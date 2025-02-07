@@ -11,7 +11,8 @@
    "year": 2007,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "SDTABR08.dbc",
@@ -25,7 +26,8 @@
    "year": 2008,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "SDTABR09.dbc",
@@ -39,7 +41,8 @@
    "year": 2009,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "SDTABR10.dbc",
@@ -53,7 +56,8 @@
    "year": 2010,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "SDTABR11.dbc",
@@ -67,7 +71,8 @@
    "year": 2011,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "SDTABR12.dbc",
@@ -81,7 +86,8 @@
    "year": 2012,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "SDTABR13.dbc",
@@ -95,7 +101,8 @@
    "year": 2013,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "SDTABR15.dbc",
@@ -109,7 +116,8 @@
    "year": 2015,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "SDTABR16.dbc",
@@ -123,7 +131,8 @@
    "year": 2016,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "SDTABR17.dbc",
@@ -137,7 +146,8 @@
    "year": 2017,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "SDTABR18.dbc",
@@ -151,6 +161,52 @@
    "year": 2018,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "SDTABR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SDTABR19.dbc",
+  "datetime": "2023-02-06T15:45:00",
+  "extension": "dbc",
+  "size": 63671,
+  "dataset": "sinan-sdta",
+  "partition": {
+   "uf": "br",
+   "year": 2019,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "SDTABR20.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SDTABR20.dbc",
+  "datetime": "2023-02-06T15:45:00",
+  "extension": "dbc",
+  "size": 28900,
+  "dataset": "sinan-sdta",
+  "partition": {
+   "uf": "br",
+   "year": 2020,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "SDTABR21.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SDTABR21.dbc",
+  "datetime": "2023-02-06T15:45:00",
+  "extension": "dbc",
+  "size": 52036,
+  "dataset": "sinan-sdta",
+  "partition": {
+   "uf": "br",
+   "year": 2021,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
  }
 ]

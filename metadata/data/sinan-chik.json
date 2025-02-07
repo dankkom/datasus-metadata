@@ -11,7 +11,8 @@
    "year": 2015,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHIKBR16.dbc",
@@ -25,7 +26,8 @@
    "year": 2016,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHIKBR17.dbc",
@@ -39,7 +41,8 @@
    "year": 2017,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHIKBR18.dbc",
@@ -53,7 +56,8 @@
    "year": 2018,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHIKBR19.dbc",
@@ -67,7 +71,8 @@
    "year": 2019,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHIKBR20.dbc",
@@ -81,7 +86,8 @@
    "year": 2020,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHIKBR21.dbc",
@@ -95,7 +101,8 @@
    "year": 2021,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHIKBR22.dbc",
@@ -109,7 +116,8 @@
    "year": 2022,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "CHIKBR23.dbc",
@@ -123,6 +131,37 @@
    "year": 2023,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "CHIKBR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/CHIKBR24.dbc",
+  "datetime": "2025-01-29T10:51:00",
+  "extension": "dbc",
+  "size": 14626530,
+  "dataset": "sinan-chik",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "CHIKBR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/CHIKBR25.dbc",
+  "datetime": "2025-02-06T10:35:00",
+  "extension": "dbc",
+  "size": 615529,
+  "dataset": "sinan-chik",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
  }
 ]

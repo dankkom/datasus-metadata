@@ -11,7 +11,8 @@
    "year": 2009,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ROTABR10.dbc",
@@ -25,7 +26,8 @@
    "year": 2010,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ROTABR11.dbc",
@@ -39,7 +41,8 @@
    "year": 2011,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ROTABR12.dbc",
@@ -53,7 +56,8 @@
    "year": 2012,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ROTABR13.dbc",
@@ -67,7 +71,8 @@
    "year": 2013,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ROTABR14.dbc",
@@ -81,7 +86,8 @@
    "year": 2014,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ROTABR15.dbc",
@@ -95,7 +101,8 @@
    "year": 2015,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ROTABR16.dbc",
@@ -109,7 +116,8 @@
    "year": 2016,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ROTABR17.dbc",
@@ -123,7 +131,8 @@
    "year": 2017,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ROTABR18.dbc",
@@ -137,7 +146,8 @@
    "year": 2018,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ROTABR19.dbc",
@@ -151,7 +161,8 @@
    "year": 2019,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ROTABR20.dbc",
@@ -165,7 +176,8 @@
    "year": 2020,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ROTABR21.dbc",
@@ -179,7 +191,8 @@
    "year": 2021,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ROTABR22.dbc",
@@ -193,7 +206,8 @@
    "year": 2022,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "ROTABR23.dbc",
@@ -207,6 +221,22 @@
    "year": 2023,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ROTABR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ROTABR24.dbc",
+  "datetime": "2025-01-10T09:56:00",
+  "extension": "dbc",
+  "size": 122064,
+  "dataset": "sinan-rota",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
  }
 ]

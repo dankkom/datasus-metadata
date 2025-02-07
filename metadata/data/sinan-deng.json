@@ -11,7 +11,8 @@
    "year": 2000,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR01.dbc",
@@ -25,7 +26,8 @@
    "year": 2001,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR02.dbc",
@@ -39,7 +41,8 @@
    "year": 2002,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR03.dbc",
@@ -53,7 +56,8 @@
    "year": 2003,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR04.dbc",
@@ -67,7 +71,8 @@
    "year": 2004,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR05.dbc",
@@ -81,7 +86,8 @@
    "year": 2005,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR06.dbc",
@@ -95,7 +101,8 @@
    "year": 2006,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR07.dbc",
@@ -109,7 +116,8 @@
    "year": 2007,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR08.dbc",
@@ -123,7 +131,8 @@
    "year": 2008,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR09.dbc",
@@ -137,7 +146,8 @@
    "year": 2009,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR10.dbc",
@@ -151,7 +161,8 @@
    "year": 2010,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR11.dbc",
@@ -165,7 +176,8 @@
    "year": 2011,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR12.dbc",
@@ -179,7 +191,8 @@
    "year": 2012,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR13.dbc",
@@ -193,7 +206,8 @@
    "year": 2013,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR14.dbc",
@@ -207,7 +221,8 @@
    "year": 2014,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR15.dbc",
@@ -221,7 +236,8 @@
    "year": 2015,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR16.dbc",
@@ -235,7 +251,8 @@
    "year": 2016,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR17.dbc",
@@ -249,7 +266,8 @@
    "year": 2017,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR18.dbc",
@@ -263,7 +281,8 @@
    "year": 2018,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR19.dbc",
@@ -277,7 +296,8 @@
    "year": 2019,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR20.dbc",
@@ -291,7 +311,8 @@
    "year": 2020,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR21.dbc",
@@ -305,7 +326,8 @@
    "year": 2021,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR22.dbc",
@@ -319,7 +341,8 @@
    "year": 2022,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "DENGBR23.dbc",
@@ -333,6 +356,37 @@
    "year": 2023,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "DENGBR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/DENGBR24.dbc",
+  "datetime": "2025-01-29T10:50:00",
+  "extension": "dbc",
+  "size": 310713039,
+  "dataset": "sinan-deng",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "DENGBR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/DENGBR25.dbc",
+  "datetime": "2025-02-05T15:15:00",
+  "extension": "dbc",
+  "size": 7569774,
+  "dataset": "sinan-deng",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
  }
 ]

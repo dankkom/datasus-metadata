@@ -11,7 +11,8 @@
    "year": 2014,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "TETNBR15.dbc",
@@ -25,7 +26,8 @@
    "year": 2015,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "TETNBR16.dbc",
@@ -39,7 +41,8 @@
    "year": 2016,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "TETNBR17.dbc",
@@ -53,7 +56,8 @@
    "year": 2017,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "TETNBR18.dbc",
@@ -67,7 +71,8 @@
    "year": 2018,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
  },
  {
   "filename": "TETNBR19.dbc",
@@ -81,6 +86,37 @@
    "year": 2019,
    "month": null,
    "version": null
-  }
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "TETNBR20.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TETNBR20.dbc",
+  "datetime": "2021-11-23T17:54:00",
+  "extension": "dbc",
+  "size": 2443,
+  "dataset": "sinan-tetn",
+  "partition": {
+   "uf": "br",
+   "year": 2020,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "TETNBR21.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TETNBR21.dbc",
+  "datetime": "2021-11-23T17:54:00",
+  "extension": "dbc",
+  "size": 2443,
+  "dataset": "sinan-tetn",
+  "partition": {
+   "uf": "br",
+   "year": 2021,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
  }
 ]
