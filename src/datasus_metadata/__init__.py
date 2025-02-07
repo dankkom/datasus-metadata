@@ -33,6 +33,7 @@ def update_data_files(ftp: ftplib.FTP, metadata_dir_path: Path):
                         "month": remote_file.partition.month,
                         "version": remote_file.partition.version,
                     },
+                    "preliminary": remote_file.preliminary,
                 }
             )
         data = sorted(
