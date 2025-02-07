@@ -7,7 +7,3 @@ wheels/
 *.egg-info
 
 .venv
-
-transferencia/*.js
-data/
-public/
