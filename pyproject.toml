@@ -9,7 +9,7 @@ authors = [
     { name = "Daniel Komesu", email = "danielkomesu@gmail.com" }
 ]
 dependencies = [
-    "datasus-fetcher",
+    "datasus-fetcher>=0.4.0",
 ]
 readme = "README.md"
 requires-python = ">= 3.12"
@@ -20,6 +20,3 @@ build-backend = "hatchling.build"
 
 [tool.hatch.metadata]
 allow-direct-references = true
-
-[tool.uv.sources]
-datasus-fetcher = { git = "https://github.com/dankkom/datasus-fetcher.git", branch = "streamline-datasets" }
