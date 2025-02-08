@@ -1,43 +1,31 @@
-import json
-import time
 from pathlib import Path
 
+from datasus_metadata.storage import save_json
+from datasus_metadata.transferencia import api
 from datasus_metadata.transferencia.extract import (
+    extract_abrangencia_br,
+    extract_abrangencia_todos,
+    extract_abrangencia_uf,
+    extract_ano_mapa,
+    extract_arquivos,
     extract_fonte,
     extract_fontes_anuais,
-    extract_programas_datasus,
-    extract_modalidade,
     extract_modadalidade_datasus,
     extract_modadalidade_territorial,
-    extract_arquivos,
+    extract_modalidade,
+    extract_programas_datasus,
     extract_tipo_arquivo,
-    extract_ano_mapa,
-    extract_abrangencia_br,
-    extract_abrangencia_uf,
-    extract_abrangencia_todos,
 )
-from datasus_metadata.transferencia import api
 
 
-def load_transferenciajs():
-    transferenciajs_filepath = Path("transferencia", "transferencia.js")
-    file_exists = transferenciajs_filepath.exists()
-    is_old = transferenciajs_filepath.stat().st_mtime < time.time() - 60 * 60 * 24
-    if not file_exists or is_old:
-        transferenciajs = api.get_transferenciajs()
-        with open(transferenciajs_filepath, "w", encoding="utf-8") as f:
-            f.write(transferenciajs)
-    else:
-        with open(transferenciajs_filepath, "r", encoding="utf-8") as f:
-            transferenciajs = f.read()
+def load_transferenciajs(transferencia_dir: Path):
+    transferenciajs_filepath = transferencia_dir / "transferencia.js"
+
+    transferenciajs = api.get_transferenciajs()
+    with open(transferenciajs_filepath, "w", encoding="utf-8") as f:
+        f.write(transferenciajs)
+
     return transferenciajs
-
-
-def save_json(data, filepath: Path):
-    print("Saving JSON:", filepath)
-    filepath.parent.mkdir(exist_ok=True, parents=True)
-    with open(filepath, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
 
 
 def main():

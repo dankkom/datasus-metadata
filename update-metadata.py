@@ -1,7 +1,12 @@
 from pathlib import Path
-from datasus_fetcher.fetcher import connect
-from datasus_metadata import update_aux, update_docs, update_data_files, update_index
 
+from datasus_metadata.fetcher import connect
+from datasus_metadata.updater import (
+    update_aux,
+    update_data_files,
+    update_docs,
+    update_index,
+)
 
 if __name__ == "__main__":
     metadata_dir = Path("metadata")
