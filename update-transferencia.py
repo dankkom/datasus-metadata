@@ -1,3 +1,4 @@
+import shutil
 from pathlib import Path
 from typing import Any
 
@@ -37,6 +38,7 @@ def remove_links(data: list[dict[str, Any]]) -> list[dict[str, Any]]:
 
 def main():
     dest_dir = Path("transferencia")
+    shutil.rmtree(dest_dir, ignore_errors=True)
     dest_dir.mkdir(exist_ok=True)
 
     transferenciajs = load_transferenciajs(dest_dir)
@@ -82,21 +84,24 @@ def main():
             ufs=abrangencia_todos,
         )
         metadados = remove_links(metadados)
-        save_json(metadados, dest_filepath)
+        if metadados:
+            save_json(metadados, dest_filepath)
 
     dest_dir = Path("transferencia", "documentacao")
     for fonte in fontes:
         dest_filepath = dest_dir / f"{fonte['sigla']}.json"
         metadados = api.get_documentacao_metadata(dataset_source=fonte["sigla"])
         metadados = remove_links(metadados)
-        save_json(metadados, dest_filepath)
+        if metadados:
+            save_json(metadados, dest_filepath)
 
     dest_dir = Path("transferencia", "auxiliares")
     for fonte in fontes:
         dest_filepath = dest_dir / f"{fonte['sigla']}.json"
         metadados = api.get_auxiliares_metadata(dataset_source=fonte["sigla"])
         metadados = remove_links(metadados)
-        save_json(metadados, dest_filepath)
+        if metadados:
+            save_json(metadados, dest_filepath)
 
     dest_dir = Path("transferencia", "programas-datasus")
     for programa in programas_datasus:
@@ -105,25 +110,29 @@ def main():
             tipo_arquivo=programa["sigla_arquivo"],
         )
         metadados = remove_links(metadados)
-        save_json(metadados, dest_filepath)
+        if metadados:
+            save_json(metadados, dest_filepath)
 
     dest_dir = Path("transferencia", "base-territorial")
     dest_filepath = dest_dir / "base-territorial.json"
     metadados = api.get_bases_territoriais_metadata()
     metadados = remove_links(metadados)
-    save_json(metadados, dest_filepath)
+    if metadados:
+        save_json(metadados, dest_filepath)
 
     dest_dir = Path("transferencia", "mapas")
     dest_filepath = dest_dir / "mapas.json"
     metadados = api.get_mapas_metadata(years=ano_mapa, ufs=abrangencia_todos)
     metadados = remove_links(metadados)
-    save_json(metadados, dest_filepath)
+    if metadados:
+        save_json(metadados, dest_filepath)
 
     dest_dir = Path("transferencia", "conversoes")
     dest_filepath = dest_dir / "conversoes.json"
     metadados = api.get_conversoes_metadata(ufs=abrangencia_todos)
     metadados = remove_links(metadados)
-    save_json(metadados, dest_filepath)
+    if metadados:
+        save_json(metadados, dest_filepath)
 
 
 if __name__ == "__main__":
