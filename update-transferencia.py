@@ -1,4 +1,5 @@
 from pathlib import Path
+from typing import Any
 
 from datasus_metadata.storage import save_json
 from datasus_metadata.transferencia import api
@@ -28,8 +29,17 @@ def load_transferenciajs(transferencia_dir: Path):
     return transferenciajs
 
 
+def remove_links(data: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    for item in data:
+        item.pop("link", None)
+    return data
+
+
 def main():
-    transferenciajs = load_transferenciajs()
+    dest_dir = Path("transferencia")
+    dest_dir.mkdir(exist_ok=True)
+
+    transferenciajs = load_transferenciajs(dest_dir)
 
     fontes = extract_fonte(transferenciajs)
     fontes_anuais = extract_fontes_anuais(transferenciajs)
@@ -46,7 +56,6 @@ def main():
     years = list(map(str, range(1979, 2024 + 1)))
     months = list(map(lambda x: f"{x:02d}", range(1, 12 + 1)))
 
-    dest_dir = Path("transferencia")
     save_json(fontes, dest_dir / "fontes.json")
     save_json(fontes_anuais, dest_dir / "fontes_anuais.json")
     save_json(programas_datasus, dest_dir / "programas_datasus.json")
@@ -65,8 +74,6 @@ def main():
         if arquivo["fonte"].lower().endswith("_p"):
             continue
         dest_filepath = dest_dir / f"{arquivo['fonte']}-{arquivo['sigla_arquivo']}.json"
-        # if dest_filepath.exists():
-        #     continue
         metadados = api.get_arquivos_metadata(
             dataset_abbr=arquivo["sigla_arquivo"],
             dataset_source=arquivo["fonte"],
@@ -74,18 +81,21 @@ def main():
             months=months,
             ufs=abrangencia_todos,
         )
+        metadados = remove_links(metadados)
         save_json(metadados, dest_filepath)
 
     dest_dir = Path("transferencia", "documentacao")
     for fonte in fontes:
         dest_filepath = dest_dir / f"{fonte['sigla']}.json"
         metadados = api.get_documentacao_metadata(dataset_source=fonte["sigla"])
+        metadados = remove_links(metadados)
         save_json(metadados, dest_filepath)
 
     dest_dir = Path("transferencia", "auxiliares")
     for fonte in fontes:
         dest_filepath = dest_dir / f"{fonte['sigla']}.json"
         metadados = api.get_auxiliares_metadata(dataset_source=fonte["sigla"])
+        metadados = remove_links(metadados)
         save_json(metadados, dest_filepath)
 
     dest_dir = Path("transferencia", "programas-datasus")
@@ -94,21 +104,25 @@ def main():
         metadados = api.get_programas_datasus_metadata(
             tipo_arquivo=programa["sigla_arquivo"],
         )
+        metadados = remove_links(metadados)
         save_json(metadados, dest_filepath)
 
     dest_dir = Path("transferencia", "base-territorial")
     dest_filepath = dest_dir / "base-territorial.json"
     metadados = api.get_bases_territoriais_metadata()
+    metadados = remove_links(metadados)
     save_json(metadados, dest_filepath)
 
     dest_dir = Path("transferencia", "mapas")
     dest_filepath = dest_dir / "mapas.json"
     metadados = api.get_mapas_metadata(years=ano_mapa, ufs=abrangencia_todos)
+    metadados = remove_links(metadados)
     save_json(metadados, dest_filepath)
 
     dest_dir = Path("transferencia", "conversoes")
     dest_filepath = dest_dir / "conversoes.json"
     metadados = api.get_conversoes_metadata(ufs=abrangencia_todos)
+    metadados = remove_links(metadados)
     save_json(metadados, dest_filepath)
 
 
