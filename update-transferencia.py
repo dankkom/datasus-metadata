@@ -20,16 +20,6 @@ from datasus_metadata.transferencia.extract import (
 )
 
 
-def load_transferenciajs(transferencia_dir: Path):
-    transferenciajs_filepath = transferencia_dir / "transferencia.js"
-
-    transferenciajs = api.get_transferenciajs()
-    with open(transferenciajs_filepath, "w", encoding="utf-8") as f:
-        f.write(transferenciajs)
-
-    return transferenciajs
-
-
 def remove_links(data: list[dict[str, Any]]) -> list[dict[str, Any]]:
     for item in data:
         item.pop("link", None)
@@ -41,7 +31,7 @@ def main():
     shutil.rmtree(dest_dir, ignore_errors=True)
     dest_dir.mkdir(exist_ok=True)
 
-    transferenciajs = load_transferenciajs(dest_dir)
+    transferenciajs = api.get_transferenciajs()
 
     fontes = extract_fonte(transferenciajs)
     fontes_anuais = extract_fontes_anuais(transferenciajs)
