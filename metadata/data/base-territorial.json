@@ -15,8 +15,38 @@
   "preliminary": false
  },
  {
+  "filename": "02-base_territorial_fev25.zip",
+  "full_path": "/territorio/tabelas/02-base_territorial_fev25.zip",
+  "datetime": "2025-02-18T14:30:00",
+  "extension": "zip",
+  "size": 1422311,
+  "dataset": "base-territorial",
+  "partition": {
+   "uf": null,
+   "year": null,
+   "month": null,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "base_territorial_2023.zip",
+  "full_path": "/territorio/tabelas/2023/base_territorial_2023.zip",
+  "datetime": "2023-08-30T12:08:00",
+  "extension": "zip",
+  "size": 2434673,
+  "dataset": "base-territorial",
+  "partition": {
+   "uf": null,
+   "year": null,
+   "month": null,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "02-base_territorio_fev24.zip",
-  "full_path": "/territorio/tabelas/02-base_territorio_fev24.zip",
+  "full_path": "/territorio/tabelas/2024/02-base_territorio_fev24.zip",
   "datetime": "2024-07-02T13:07:00",
   "extension": "zip",
   "size": 1567218,
@@ -31,7 +61,7 @@
  },
  {
   "filename": "03-base_territorial_mar.zip",
-  "full_path": "/territorio/tabelas/03-base_territorial_mar.zip",
+  "full_path": "/territorio/tabelas/2024/03-base_territorial_mar.zip",
   "datetime": "2024-07-02T11:17:00",
   "extension": "zip",
   "size": 1343397,
@@ -46,7 +76,7 @@
  },
  {
   "filename": "04-base_territorial_abr.zip",
-  "full_path": "/territorio/tabelas/04-base_territorial_abr.zip",
+  "full_path": "/territorio/tabelas/2024/04-base_territorial_abr.zip",
   "datetime": "2024-07-02T11:17:00",
   "extension": "zip",
   "size": 1334413,
@@ -61,7 +91,7 @@
  },
  {
   "filename": "05-base_territorial_mai24.zip",
-  "full_path": "/territorio/tabelas/05-base_territorial_mai24.zip",
+  "full_path": "/territorio/tabelas/2024/05-base_territorial_mai24.zip",
   "datetime": "2024-07-02T12:16:00",
   "extension": "zip",
   "size": 1547793,
@@ -76,7 +106,7 @@
  },
  {
   "filename": "06-base_territorial_jun24.zip",
-  "full_path": "/territorio/tabelas/06-base_territorial_jun24.zip",
+  "full_path": "/territorio/tabelas/2024/06-base_territorial_jun24.zip",
   "datetime": "2024-07-08T12:04:00",
   "extension": "zip",
   "size": 1527995,
@@ -91,7 +121,7 @@
  },
  {
   "filename": "07-base_territorial_jul24.zip",
-  "full_path": "/territorio/tabelas/07-base_territorial_jul24.zip",
+  "full_path": "/territorio/tabelas/2024/07-base_territorial_jul24.zip",
   "datetime": "2024-07-26T14:45:00",
   "extension": "zip",
   "size": 1692103,
@@ -106,7 +136,7 @@
  },
  {
   "filename": "08-base_territorial_ago24.zip",
-  "full_path": "/territorio/tabelas/08-base_territorial_ago24.zip",
+  "full_path": "/territorio/tabelas/2024/08-base_territorial_ago24.zip",
   "datetime": "2024-08-16T15:59:00",
   "extension": "zip",
   "size": 1528981,
@@ -121,7 +151,7 @@
  },
  {
   "filename": "09-base_territorial_set24.zip",
-  "full_path": "/territorio/tabelas/09-base_territorial_set24.zip",
+  "full_path": "/territorio/tabelas/2024/09-base_territorial_set24.zip",
   "datetime": "2024-09-16T13:41:00",
   "extension": "zip",
   "size": 1529003,
@@ -136,7 +166,7 @@
  },
  {
   "filename": "10-base_territorial_out24.zip",
-  "full_path": "/territorio/tabelas/10-base_territorial_out24.zip",
+  "full_path": "/territorio/tabelas/2024/10-base_territorial_out24.zip",
   "datetime": "2024-10-15T14:09:00",
   "extension": "zip",
   "size": 1606420,
@@ -151,7 +181,7 @@
  },
  {
   "filename": "11-base territorial_nov24.zip",
-  "full_path": "/territorio/tabelas/11-base territorial_nov24.zip",
+  "full_path": "/territorio/tabelas/2024/11-base territorial_nov24.zip",
   "datetime": "2024-11-27T14:35:00",
   "extension": "zip",
   "size": 1446531,
@@ -166,25 +196,10 @@
  },
  {
   "filename": "12-base territorial_dez24.zip",
-  "full_path": "/territorio/tabelas/12-base territorial_dez24.zip",
+  "full_path": "/territorio/tabelas/2024/12-base territorial_dez24.zip",
   "datetime": "2024-12-19T14:49:00",
   "extension": "zip",
   "size": 1517583,
-  "dataset": "base-territorial",
-  "partition": {
-   "uf": null,
-   "year": null,
-   "month": null,
-   "version": null
-  },
-  "preliminary": false
- },
- {
-  "filename": "base_territorial_2023.zip",
-  "full_path": "/territorio/tabelas/base_territorial_2023.zip",
-  "datetime": "2023-08-30T12:08:00",
-  "extension": "zip",
-  "size": 2434673,
   "dataset": "base-territorial",
   "partition": {
    "uf": null,
