@@ -222,13 +222,13 @@
   },
   "po": {
    "n_files": 12,
-   "total_size": 135750066,
+   "total_size": 139275754,
    "partition_n_ufs": 1,
    "partition_period_start": "2013",
    "partition_period_end": "2024",
    "partition_n_periods": 12,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-18T11:47:00"
+   "latest_update": "2025-02-19T17:04:00"
   },
   "resp": {
    "n_files": 280,
@@ -1221,8 +1221,8 @@
   },
   "ciha": {
    "n_files": 1,
-   "total_size": 61119695,
-   "latest_update": "2025-02-18T11:42:00"
+   "total_size": 61112181,
+   "latest_update": "2025-02-19T16:56:00"
   },
   "cmd": {
    "n_files": 1,
@@ -1231,8 +1231,8 @@
   },
   "cnes": {
    "n_files": 1,
-   "total_size": 120279484,
-   "latest_update": "2025-02-18T11:42:00"
+   "total_size": 120271970,
+   "latest_update": "2025-02-19T16:57:00"
   },
   "pce": {
    "n_files": 1,
@@ -1251,13 +1251,13 @@
   },
   "sia": {
    "n_files": 4,
-   "total_size": 80832739,
-   "latest_update": "2025-02-18T11:43:00"
+   "total_size": 80825225,
+   "latest_update": "2025-02-19T16:57:00"
   },
   "sih": {
    "n_files": 4,
-   "total_size": 15110389,
-   "latest_update": "2025-02-18T11:43:00"
+   "total_size": 15102875,
+   "latest_update": "2025-02-19T16:58:00"
   },
   "sim-cid09": {
    "n_files": 1,
