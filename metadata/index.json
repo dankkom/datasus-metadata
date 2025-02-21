@@ -71,14 +71,14 @@
    "latest_update": "2017-07-06T15:13:00"
   },
   "ciha": {
-   "n_files": 4201,
-   "total_size": 4566062384,
+   "n_files": 4247,
+   "total_size": 4615219567,
    "partition_n_ufs": 26,
    "partition_period_start": "2011-01",
-   "partition_period_end": "2024-09",
-   "partition_n_periods": 165,
+   "partition_period_end": "2024-11",
+   "partition_n_periods": 167,
    "partition_periodicity": "monthly",
-   "latest_update": "2024-11-05T08:14:00"
+   "latest_update": "2025-02-20T17:20:00"
   },
   "cnes-dc": {
    "n_files": 6318,
@@ -221,14 +221,14 @@
    "latest_update": "2022-11-11T17:21:00"
   },
   "po": {
-   "n_files": 12,
-   "total_size": 139275754,
+   "n_files": 13,
+   "total_size": 139335556,
    "partition_n_ufs": 1,
    "partition_period_start": "2013",
-   "partition_period_end": "2024",
-   "partition_n_periods": 12,
+   "partition_period_end": "2025",
+   "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-02-19T17:04:00"
+   "latest_update": "2025-02-20T16:58:00"
   },
   "resp": {
    "n_files": 280,
@@ -612,13 +612,13 @@
   },
   "sinan-coqu": {
    "n_files": 19,
-   "total_size": 9588401,
+   "total_size": 9691017,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-01-31T15:16:00"
+   "latest_update": "2025-02-20T17:10:00"
   },
   "sinan-deng": {
    "n_files": 26,
@@ -1221,8 +1221,8 @@
   },
   "ciha": {
    "n_files": 1,
-   "total_size": 61112181,
-   "latest_update": "2025-02-19T16:56:00"
+   "total_size": 60316523,
+   "latest_update": "2025-02-20T16:48:00"
   },
   "cmd": {
    "n_files": 1,
@@ -1231,8 +1231,8 @@
   },
   "cnes": {
    "n_files": 1,
-   "total_size": 120271970,
-   "latest_update": "2025-02-19T16:57:00"
+   "total_size": 119274808,
+   "latest_update": "2025-02-20T16:45:00"
   },
   "pce": {
    "n_files": 1,
@@ -1251,13 +1251,13 @@
   },
   "sia": {
    "n_files": 4,
-   "total_size": 80825225,
-   "latest_update": "2025-02-19T16:57:00"
+   "total_size": 79931232,
+   "latest_update": "2025-02-20T16:37:00"
   },
   "sih": {
    "n_files": 4,
-   "total_size": 15102875,
-   "latest_update": "2025-02-19T16:58:00"
+   "total_size": 15041956,
+   "latest_update": "2025-02-20T16:39:00"
   },
   "sim-cid09": {
    "n_files": 1,
