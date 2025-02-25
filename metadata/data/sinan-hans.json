@@ -301,8 +301,8 @@
  },
  {
   "filename": "HANSBR21.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANSBR21.dbc",
-  "datetime": "2024-09-11T12:04:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR21.dbc",
+  "datetime": "2025-02-24T16:17:00",
   "extension": "dbc",
   "size": 1607981,
   "dataset": "sinan-hans",
@@ -312,12 +312,12 @@
    "month": null,
    "version": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "HANSBR22.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANSBR22.dbc",
-  "datetime": "2024-09-11T12:04:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR22.dbc",
+  "datetime": "2025-02-24T16:17:00",
   "extension": "dbc",
   "size": 1675201,
   "dataset": "sinan-hans",
@@ -327,12 +327,12 @@
    "month": null,
    "version": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "HANSBR23.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANSBR23.dbc",
-  "datetime": "2024-09-11T12:04:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANSBR23.dbc",
+  "datetime": "2025-02-24T16:17:00",
   "extension": "dbc",
   "size": 1796653,
   "dataset": "sinan-hans",
@@ -342,18 +342,33 @@
    "month": null,
    "version": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "HANSBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANSBR24.dbc",
-  "datetime": "2024-09-11T12:04:00",
+  "datetime": "2025-02-24T11:26:00",
   "extension": "dbc",
-  "size": 387281,
+  "size": 1546506,
   "dataset": "sinan-hans",
   "partition": {
    "uf": "br",
    "year": 2024,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "HANSBR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANSBR25.dbc",
+  "datetime": "2025-02-24T11:26:00",
+  "extension": "dbc",
+  "size": 47655,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
    "month": null,
    "version": null
   },

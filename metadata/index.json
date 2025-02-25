@@ -701,14 +701,14 @@
    "latest_update": "2025-01-20T10:44:00"
   },
   "sinan-hans": {
-   "n_files": 24,
-   "total_size": 56187560,
+   "n_files": 25,
+   "total_size": 57394440,
    "partition_n_ufs": 1,
    "partition_period_start": "2001",
-   "partition_period_end": "2024",
-   "partition_n_periods": 24,
+   "partition_period_end": "2025",
+   "partition_n_periods": 25,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-09-11T12:08:00"
+   "latest_update": "2025-02-24T16:17:00"
   },
   "sinan-hant": {
    "n_files": 25,
