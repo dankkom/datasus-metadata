@@ -42,13 +42,13 @@
   },
   "base-territorial-mapas": {
    "n_files": 83,
-   "total_size": 128098824,
+   "total_size": 131367181,
    "partition_n_ufs": 28,
    "partition_period_start": "1991",
    "partition_period_end": "2013",
    "partition_n_periods": 6,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-18T12:29:00"
+   "latest_update": "2025-02-25T12:23:00"
   },
   "base-territorial": {
    "n_files": 14,
@@ -412,13 +412,13 @@
   },
   "sim-do-cid10": {
    "n_files": 784,
-   "total_size": 4516702104,
+   "total_size": 4517912026,
    "partition_n_ufs": 28,
    "partition_period_start": "1996",
    "partition_period_end": "2023",
    "partition_n_periods": 28,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-01-24T14:35:00"
+   "latest_update": "2025-02-25T12:19:00"
   },
   "sim-doext-cid09": {
    "n_files": 17,
@@ -432,13 +432,13 @@
   },
   "sim-doext-cid10": {
    "n_files": 28,
-   "total_size": 272798245,
+   "total_size": 272602438,
    "partition_n_ufs": 1,
    "partition_period_start": "1996",
    "partition_period_end": "2023",
    "partition_n_periods": 28,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-19T15:36:00"
+   "latest_update": "2025-02-25T12:17:00"
   },
   "sim-dofet-cid09": {
    "n_files": 17,
@@ -472,23 +472,23 @@
   },
   "sim-doinf-cid10": {
    "n_files": 28,
-   "total_size": 96437224,
+   "total_size": 96390013,
    "partition_n_ufs": 1,
    "partition_period_start": "1996",
    "partition_period_end": "2023",
    "partition_n_periods": 28,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-19T11:55:00"
+   "latest_update": "2025-02-25T12:17:00"
   },
   "sim-domat-cid10": {
    "n_files": 28,
-   "total_size": 4291648,
+   "total_size": 4289433,
    "partition_n_ufs": 1,
    "partition_period_start": "1996",
    "partition_period_end": "2023",
    "partition_n_periods": 28,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-26T12:53:00"
+   "latest_update": "2025-02-25T12:17:00"
   },
   "sim-dorext-cid10": {
    "n_files": 11,
