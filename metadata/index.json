@@ -592,13 +592,13 @@
   },
   "sinan-chik": {
    "n_files": 11,
-   "total_size": 74093993,
+   "total_size": 75442257,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2025",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-02-18T08:07:00"
+   "latest_update": "2025-02-25T11:59:00"
   },
   "sinan-cole": {
    "n_files": 18,
@@ -622,13 +622,13 @@
   },
   "sinan-deng": {
    "n_files": 26,
-   "total_size": 1288741808,
+   "total_size": 1299330563,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-02-18T08:07:00"
+   "latest_update": "2025-02-25T11:46:00"
   },
   "sinan-derm": {
    "n_files": 19,
@@ -1281,8 +1281,8 @@
   },
   "sinasc-nova": {
    "n_files": 1,
-   "total_size": 2494788,
-   "latest_update": "2024-06-07T14:50:00"
+   "total_size": 2581079,
+   "latest_update": "2025-02-27T17:21:00"
   },
   "siscolo": {
    "n_files": 1,
