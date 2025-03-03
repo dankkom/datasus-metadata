@@ -7,12 +7,13 @@ URL = "https://datasus.saude.gov.br/wp-content/ftp.php"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
 }
+TIMEOUT = 300
 
 
 def get_transferenciajs() -> str:
     transferencia_url = "https://datasus.saude.gov.br/wp-content/transferencia.js"
     req = Request(transferencia_url)
-    response = urlopen(req)
+    response = urlopen(req, timeout=TIMEOUT)
     data = response.read()
 
     return data.decode("utf-8")
@@ -31,7 +32,7 @@ def get_auxiliares_metadata(dataset_source: str) -> list[Any]:
     req.data = payload.encode("utf-8")
     req.method = "POST"
 
-    response = urlopen(req)
+    response = urlopen(req, timeout=TIMEOUT)
     response_json = json.loads(response.read())
 
     return response_json
@@ -59,7 +60,7 @@ def get_arquivos_metadata(
     req.data = payload.encode("utf-8")
     req.method = "POST"
 
-    response = urlopen(req)
+    response = urlopen(req, timeout=TIMEOUT)
     response_json = json.loads(response.read())
 
     return response_json
@@ -78,7 +79,7 @@ def get_documentacao_metadata(dataset_source: str) -> list[Any]:
     req.data = payload.encode("utf-8")
     req.method = "POST"
 
-    response = urlopen(req)
+    response = urlopen(req, timeout=TIMEOUT)
     response_json = json.loads(response.read())
 
     return response_json
@@ -97,7 +98,7 @@ def get_programas_datasus_metadata(tipo_arquivo: str) -> list[Any]:
     req.data = payload.encode("utf-8")
     req.method = "POST"
 
-    response = urlopen(req)
+    response = urlopen(req, timeout=TIMEOUT)
     response_json = json.loads(response.read())
 
     return response_json
@@ -116,7 +117,7 @@ def get_bases_territoriais_metadata():
     req.data = payload.encode("utf-8")
     req.method = "POST"
 
-    response = urlopen(req)
+    response = urlopen(req, timeout=TIMEOUT)
     response_json = json.loads(response.read())
 
     return response_json
@@ -137,7 +138,7 @@ def get_mapas_metadata(years: list[int], ufs: list[str]) -> list[Any]:
     req.data = payload.encode("utf-8")
     req.method = "POST"
 
-    response = urlopen(req)
+    response = urlopen(req, timeout=TIMEOUT)
     response_json = json.loads(response.read())
 
     return response_json
@@ -157,7 +158,7 @@ def get_conversoes_metadata(ufs: list[str]) -> list[Any]:
     req.data = payload.encode("utf-8")
     req.method = "POST"
 
-    response = urlopen(req)
+    response = urlopen(req, timeout=TIMEOUT)
     response_json = json.loads(response.read())
 
     return response_json
