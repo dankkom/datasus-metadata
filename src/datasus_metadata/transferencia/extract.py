@@ -56,7 +56,7 @@ def extract_modalidade(transferenciajs: str) -> list[dict]:
     return []
 
 
-def extract_modadalidade_datasus(transferenciajs: str) -> list[dict]:
+def extract_modalidade_datasus(transferenciajs: str) -> list[dict]:
     pattern = re.compile(r"modadalidadeDATASUS = (\[.*?\])", re.M + re.DOTALL)
     modadalidade_datasus_match = pattern.search(transferenciajs)
     if modadalidade_datasus_match:
@@ -70,7 +70,7 @@ def extract_modadalidade_datasus(transferenciajs: str) -> list[dict]:
     return []
 
 
-def extract_modadalidade_territorial(transferenciajs: str) -> list[dict]:
+def extract_modalidade_territorial(transferenciajs: str) -> list[dict]:
     pattern = re.compile(r"modadalidadeTerritorial = (\[.*?\])", re.M + re.DOTALL)
     modadalidade_territorial_match = pattern.search(transferenciajs)
     if modadalidade_territorial_match:
