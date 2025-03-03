@@ -3,8 +3,8 @@ from typing import Any
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
-url = "https://datasus.saude.gov.br/wp-content/ftp.php"
-headers = {
+URL = "https://datasus.saude.gov.br/wp-content/ftp.php"
+HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
 }
 
@@ -27,7 +27,7 @@ def get_auxiliares_metadata(dataset_source: str) -> list[Any]:
 
     payload = urlencode(payload_dict, doseq=True)
 
-    req = Request(url, headers=headers)
+    req = Request(URL, headers=HEADERS)
     req.data = payload.encode("utf-8")
     req.method = "POST"
 
@@ -55,7 +55,7 @@ def get_arquivos_metadata(
 
     payload = urlencode(payload_dict, doseq=True)
 
-    req = Request(url, headers=headers)
+    req = Request(URL, headers=HEADERS)
     req.data = payload.encode("utf-8")
     req.method = "POST"
 
@@ -74,7 +74,7 @@ def get_documentacao_metadata(dataset_source: str) -> list[Any]:
 
     payload = urlencode(payload_dict, doseq=True)
 
-    req = Request(url, headers=headers)
+    req = Request(URL, headers=HEADERS)
     req.data = payload.encode("utf-8")
     req.method = "POST"
 
@@ -93,7 +93,7 @@ def get_programas_datasus_metadata(tipo_arquivo: str) -> list[Any]:
 
     payload = urlencode(payload_dict, doseq=True)
 
-    req = Request(url, headers=headers)
+    req = Request(URL, headers=HEADERS)
     req.data = payload.encode("utf-8")
     req.method = "POST"
 
@@ -112,7 +112,7 @@ def get_bases_territoriais_metadata():
 
     payload = urlencode(payload_dict, doseq=True)
 
-    req = Request(url, headers=headers)
+    req = Request(URL, headers=HEADERS)
     req.data = payload.encode("utf-8")
     req.method = "POST"
 
@@ -133,7 +133,7 @@ def get_mapas_metadata(years: list[int], ufs: list[str]) -> list[Any]:
 
     payload = urlencode(payload_dict, doseq=True)
 
-    req = Request(url, headers=headers)
+    req = Request(URL, headers=HEADERS)
     req.data = payload.encode("utf-8")
     req.method = "POST"
 
@@ -153,7 +153,7 @@ def get_conversoes_metadata(ufs: list[str]) -> list[Any]:
 
     payload = urlencode(payload_dict, doseq=True)
 
-    req = Request(url, headers=headers)
+    req = Request(URL, headers=HEADERS)
     req.data = payload.encode("utf-8")
     req.method = "POST"
 
