@@ -361,44 +361,44 @@
    "latest_update": "2020-01-10T09:45:00"
   },
   "sih-er": {
-   "n_files": 4419,
-   "total_size": 283497222,
+   "n_files": 4445,
+   "total_size": 285304907,
    "partition_n_ufs": 27,
    "partition_period_start": "2011-01",
-   "partition_period_end": "2024-12",
-   "partition_n_periods": 168,
+   "partition_period_end": "2025-01",
+   "partition_n_periods": 169,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-02-09T21:24:00"
+   "latest_update": "2025-03-11T23:45:00"
   },
   "sih-rd": {
-   "n_files": 10673,
-   "total_size": 23738797044,
+   "n_files": 10698,
+   "total_size": 23829512764,
    "partition_n_ufs": 27,
    "partition_period_start": "1992-01",
-   "partition_period_end": "2024-12",
-   "partition_n_periods": 396,
+   "partition_period_end": "2025-01",
+   "partition_n_periods": 397,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-02-09T21:33:00"
+   "latest_update": "2025-03-11T23:45:00"
   },
   "sih-rj": {
-   "n_files": 5348,
-   "total_size": 855402810,
+   "n_files": 5374,
+   "total_size": 859703930,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2024-12",
-   "partition_n_periods": 204,
+   "partition_period_end": "2025-01",
+   "partition_n_periods": 205,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-02-09T21:37:00"
+   "latest_update": "2025-03-11T23:44:00"
   },
   "sih-sp": {
-   "n_files": 8928,
-   "total_size": 50727365301,
+   "n_files": 8953,
+   "total_size": 50840677330,
    "partition_n_ufs": 27,
    "partition_period_start": "1997-06",
-   "partition_period_end": "2024-12",
-   "partition_n_periods": 331,
+   "partition_period_end": "2025-01",
+   "partition_n_periods": 332,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-02-09T21:58:00"
+   "latest_update": "2025-03-11T23:43:00"
   },
   "sim-do-cid09": {
    "n_files": 466,
@@ -1221,8 +1221,8 @@
   },
   "ciha": {
    "n_files": 1,
-   "total_size": 60316523,
-   "latest_update": "2025-02-20T16:48:00"
+   "total_size": 60303950,
+   "latest_update": "2025-03-11T21:41:00"
   },
   "cmd": {
    "n_files": 1,
@@ -1251,13 +1251,13 @@
   },
   "sia": {
    "n_files": 4,
-   "total_size": 79931232,
-   "latest_update": "2025-02-20T16:37:00"
+   "total_size": 79917331,
+   "latest_update": "2025-03-11T21:41:00"
   },
   "sih": {
    "n_files": 4,
-   "total_size": 15041956,
-   "latest_update": "2025-02-20T16:39:00"
+   "total_size": 15027943,
+   "latest_update": "2025-03-11T21:50:00"
   },
   "sim-cid09": {
    "n_files": 1,
