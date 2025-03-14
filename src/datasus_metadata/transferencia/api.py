@@ -1,5 +1,7 @@
 import json
+import time
 from typing import Any
+from urllib.error import HTTPError
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
@@ -8,6 +10,28 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
 }
 TIMEOUT = 300
+
+
+def request_post(payload: dict[str, Any], retries: int = 3) -> Any:
+    req = Request(URL, headers=HEADERS)
+    req.data = urlencode(payload, doseq=True).encode("utf-8")
+    req.method = "POST"
+
+    for _ in range(retries):
+        try:
+            response = urlopen(req, timeout=TIMEOUT)
+            response_json = json.loads(response.read())
+            break
+        except HTTPError as e:
+            if e.code == 504:
+                print("Gateway Timeout. Retrying in 5 seconds...")
+                time.sleep(5)
+                continue
+
+    if response_json is None:
+        raise Exception("Failed to fetch metadata")
+
+    return response_json
 
 
 def get_transferenciajs() -> str:
@@ -26,14 +50,7 @@ def get_auxiliares_metadata(dataset_source: str) -> list[Any]:
         "fonte[]": dataset_source,
     }
 
-    payload = urlencode(payload_dict, doseq=True)
-
-    req = Request(URL, headers=HEADERS)
-    req.data = payload.encode("utf-8")
-    req.method = "POST"
-
-    response = urlopen(req, timeout=TIMEOUT)
-    response_json = json.loads(response.read())
+    response_json = request_post(payload_dict)
 
     return response_json
 
@@ -54,14 +71,7 @@ def get_arquivos_metadata(
         "uf[]": ufs,
     }
 
-    payload = urlencode(payload_dict, doseq=True)
-
-    req = Request(URL, headers=HEADERS)
-    req.data = payload.encode("utf-8")
-    req.method = "POST"
-
-    response = urlopen(req, timeout=TIMEOUT)
-    response_json = json.loads(response.read())
+    response_json = request_post(payload_dict)
 
     return response_json
 
@@ -73,14 +83,7 @@ def get_documentacao_metadata(dataset_source: str) -> list[Any]:
         "fonte[]": dataset_source,
     }
 
-    payload = urlencode(payload_dict, doseq=True)
-
-    req = Request(URL, headers=HEADERS)
-    req.data = payload.encode("utf-8")
-    req.method = "POST"
-
-    response = urlopen(req, timeout=TIMEOUT)
-    response_json = json.loads(response.read())
+    response_json = request_post(payload_dict)
 
     return response_json
 
@@ -92,14 +95,7 @@ def get_programas_datasus_metadata(tipo_arquivo: str) -> list[Any]:
         "fonte[]": "DATASUS",
     }
 
-    payload = urlencode(payload_dict, doseq=True)
-
-    req = Request(URL, headers=HEADERS)
-    req.data = payload.encode("utf-8")
-    req.method = "POST"
-
-    response = urlopen(req, timeout=TIMEOUT)
-    response_json = json.loads(response.read())
+    response_json = request_post(payload_dict)
 
     return response_json
 
@@ -111,14 +107,7 @@ def get_bases_territoriais_metadata():
         "fonte[]": "Base Territorial",
     }
 
-    payload = urlencode(payload_dict, doseq=True)
-
-    req = Request(URL, headers=HEADERS)
-    req.data = payload.encode("utf-8")
-    req.method = "POST"
-
-    response = urlopen(req, timeout=TIMEOUT)
-    response_json = json.loads(response.read())
+    response_json = request_post(payload_dict)
 
     return response_json
 
@@ -132,14 +121,7 @@ def get_mapas_metadata(years: list[int], ufs: list[str]) -> list[Any]:
         "uf[]": ufs,
     }
 
-    payload = urlencode(payload_dict, doseq=True)
-
-    req = Request(URL, headers=HEADERS)
-    req.data = payload.encode("utf-8")
-    req.method = "POST"
-
-    response = urlopen(req, timeout=TIMEOUT)
-    response_json = json.loads(response.read())
+    response_json = request_post(payload_dict)
 
     return response_json
 
@@ -152,13 +134,6 @@ def get_conversoes_metadata(ufs: list[str]) -> list[Any]:
         "uf[]": ufs,
     }
 
-    payload = urlencode(payload_dict, doseq=True)
-
-    req = Request(URL, headers=HEADERS)
-    req.data = payload.encode("utf-8")
-    req.method = "POST"
-
-    response = urlopen(req, timeout=TIMEOUT)
-    response_json = json.loads(response.read())
+    response_json = request_post(payload_dict)
 
     return response_json
