@@ -94648,5 +94648,410 @@
    "version": null
   },
   "preliminary": false
+ },
+ {
+  "filename": "STAC2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STAC2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 66334,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STAL2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STAL2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 194474,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "al",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STAM2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STAM2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 141165,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "am",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STAP2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STAP2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 50916,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STBA2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STBA2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1027791,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STCE2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STCE2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 657246,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STDF2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STDF2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 347763,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "df",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STES2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STES2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 448419,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STGO2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STGO2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 642852,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "go",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STMA2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STMA2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 306034,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STMG2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STMG2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 2611578,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STMS2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STMS2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 290561,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ms",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STMT2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STMT2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 450899,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "mt",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STPA2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STPA2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 383949,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STPB2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STPB2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 342478,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STPE2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STPE2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 546547,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STPI2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STPI2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 216798,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "pi",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STPR2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STPR2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1472043,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STRJ2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STRJ2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1695124,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STRN2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STRN2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 261407,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STRO2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STRO2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 221582,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ro",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STRR2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STRR2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 49444,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "rr",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STRS2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STRS2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1659344,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STSC2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STSC2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1209248,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STSE2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STSE2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 190050,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STSP2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STSP2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 5015924,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STTO2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STTO2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 143032,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "to",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
  }
 ]

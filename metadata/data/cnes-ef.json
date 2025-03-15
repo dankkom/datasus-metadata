@@ -80608,5 +80608,380 @@
    "version": null
   },
   "preliminary": false
+ },
+ {
+  "filename": "EFAC2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFAC2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1134,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFAL2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFAL2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1398,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "al",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFAM2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFAM2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1172,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "am",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFAP2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFAP2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1129,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFBA2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFBA2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 2344,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFCE2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFCE2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 2035,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFES2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFES2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1858,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFGO2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFGO2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1601,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "go",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFMA2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFMA2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1271,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFMG2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFMG2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 4752,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFMS2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFMS2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1556,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "ms",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFMT2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFMT2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1339,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "mt",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFPA2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFPA2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1440,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFPB2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFPB2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1343,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFPE2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFPE2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1892,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFPI2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFPI2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1233,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "pi",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFPR2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFPR2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 2345,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFRJ2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFRJ2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 2258,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFRN2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFRN2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1191,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFRO2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFRO2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1131,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "ro",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFRS2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFRS2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 3210,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFSC2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFSC2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 2694,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFSE2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFSE2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1338,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFSP2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFSP2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 5568,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFTO2502.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFTO2502.dbc",
+  "datetime": "2025-03-14T15:15:00",
+  "extension": "dbc",
+  "size": 1135,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "to",
+   "year": 2025,
+   "month": 2,
+   "version": null
+  },
+  "preliminary": false
  }
 ]
