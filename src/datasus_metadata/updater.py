@@ -122,6 +122,8 @@ def update_index(metadata_dir_path: Path):
 
     for metadata_filepath in sorted((metadata_dir_path / "data").glob("*.json")):
         slug = metadata_filepath.stem
+        name = datasets[slug]["name"]
+        source = datasets[slug]["source"]
         data = load_json(metadata_filepath)
         n_files = len(data)
         total_size = sum(file["size"] for file in data)
@@ -139,6 +141,8 @@ def update_index(metadata_dir_path: Path):
             partition_periodicity = "monthly"
         latest_update = max(file["datetime"] for file in data) if data else None
         metadata_index["data"][slug] = {
+            "name": name,
+            "source": source,
             "n_files": n_files,
             "total_size": total_size,
             "partition_n_ufs": n_partition_ufs,
