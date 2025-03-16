@@ -121,7 +121,7 @@ def update_index(metadata_dir_path: Path):
     }
 
     for metadata_filepath in sorted((metadata_dir_path / "data").glob("*.json")):
-        dataset_name = metadata_filepath.stem
+        slug = metadata_filepath.stem
         data = load_json(metadata_filepath)
         n_files = len(data)
         total_size = sum(file["size"] for file in data)
@@ -131,14 +131,14 @@ def update_index(metadata_dir_path: Path):
         first_period = min(partition_periods) if partition_periods else None
         last_period = max(partition_periods) if partition_periods else None
         n_partition_periods = len(partition_periods)
-        dataset_partition = datasets[dataset_name]["partition"]
+        dataset_partition = datasets[slug]["partition"]
         partition_periodicity = None
         if "year" in dataset_partition:
             partition_periodicity = "yearly"
         if "yearmonth" in dataset_partition:
             partition_periodicity = "monthly"
         latest_update = max(file["datetime"] for file in data) if data else None
-        metadata_index["data"][dataset_name] = {
+        metadata_index["data"][slug] = {
             "n_files": n_files,
             "total_size": total_size,
             "partition_n_ufs": n_partition_ufs,
@@ -152,24 +152,24 @@ def update_index(metadata_dir_path: Path):
     for metadata_filepath in sorted(
         (metadata_dir_path / "documentation").glob("*.json")
     ):
-        dataset_name = metadata_filepath.stem
+        slug = metadata_filepath.stem
         data = load_json(metadata_filepath)
         n_files = len(data)
         total_size = sum(file["size"] for file in data)
         latest_update = max(file["datetime"] for file in data)
-        metadata_index["documentation"][dataset_name] = {
+        metadata_index["documentation"][slug] = {
             "n_files": n_files,
             "total_size": total_size,
             "latest_update": latest_update,
         }
 
     for metadata_filepath in sorted((metadata_dir_path / "auxiliary").glob("*.json")):
-        dataset_name = metadata_filepath.stem
+        slug = metadata_filepath.stem
         data = load_json(metadata_filepath)
         n_files = len(data)
         total_size = sum(file["size"] for file in data)
         latest_update = max(file["datetime"] for file in data)
-        metadata_index["auxiliary"][dataset_name] = {
+        metadata_index["auxiliary"][slug] = {
             "n_files": n_files,
             "total_size": total_size,
             "latest_update": latest_update,
