@@ -1,6 +1,8 @@
 {
  "data": {
   "base-populacional-ibge-pop": {
+   "name": "POP - Censo e Estimativas",
+   "source": "base-populacional-ibge",
    "n_files": 33,
    "total_size": 157679128,
    "partition_n_ufs": 1,
@@ -11,6 +13,8 @@
    "latest_update": "2015-11-10T14:44:00"
   },
   "base-populacional-ibge-pops": {
+   "name": "POPS - Estimativas por Sexo e Idade",
+   "source": "base-populacional-ibge",
    "n_files": 25,
    "total_size": 85270690,
    "partition_n_ufs": 1,
@@ -21,6 +25,8 @@
    "latest_update": "2025-01-07T11:21:00"
   },
   "base-populacional-ibge-popt": {
+   "name": "POPT - Estimativas TCU",
+   "source": "base-populacional-ibge",
    "n_files": 32,
    "total_size": 2555849,
    "partition_n_ufs": 1,
@@ -31,6 +37,8 @@
    "latest_update": "2025-01-07T09:40:00"
   },
   "base-territorial-conversao": {
+   "name": "Base Territorial - Conversão",
+   "source": "base-territorial",
    "n_files": 28,
    "total_size": 40653151,
    "partition_n_ufs": 28,
@@ -41,6 +49,8 @@
    "latest_update": "2025-03-14T21:21:00"
   },
   "base-territorial-mapas": {
+   "name": "Base Territorial - Mapas",
+   "source": "base-territorial",
    "n_files": 83,
    "total_size": 131367181,
    "partition_n_ufs": 28,
@@ -51,6 +61,8 @@
    "latest_update": "2025-02-25T12:23:00"
   },
   "base-territorial": {
+   "name": "Base Territorial",
+   "source": "base-territorial",
    "n_files": 14,
    "total_size": 21942552,
    "partition_n_ufs": 1,
@@ -61,6 +73,8 @@
    "latest_update": "2025-02-18T14:30:00"
   },
   "cih-cr": {
+   "name": "Comunicação de Internação Hospitalar",
+   "source": "cih",
    "n_files": 868,
    "total_size": 165114178,
    "partition_n_ufs": 24,
@@ -71,6 +85,8 @@
    "latest_update": "2017-07-06T15:13:00"
   },
   "ciha": {
+   "name": "Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
+   "source": "ciha",
    "n_files": 4247,
    "total_size": 4615219567,
    "partition_n_ufs": 26,
@@ -81,6 +97,8 @@
    "latest_update": "2025-02-20T17:20:00"
   },
   "cnes-dc": {
+   "name": "Dados Complementares",
+   "source": "cnes",
    "n_files": 6345,
    "total_size": 121433106,
    "partition_n_ufs": 27,
@@ -91,6 +109,8 @@
    "latest_update": "2025-03-14T15:15:00"
   },
   "cnes-ee": {
+   "name": "Estabelecimento de Ensino",
+   "source": "cnes",
    "n_files": 3201,
    "total_size": 4559046,
    "partition_n_ufs": 23,
@@ -101,6 +121,8 @@
    "latest_update": "2021-08-18T11:10:00"
   },
   "cnes-ef": {
+   "name": "Estabelecimento Filantrópico",
+   "source": "cnes",
    "n_files": 5399,
    "total_size": 10578597,
    "partition_n_ufs": 25,
@@ -111,6 +133,8 @@
    "latest_update": "2025-03-14T15:15:00"
   },
   "cnes-ep": {
+   "name": "Equipes",
+   "source": "cnes",
    "n_files": 5805,
    "total_size": 527319318,
    "partition_n_ufs": 27,
@@ -121,6 +145,8 @@
    "latest_update": "2025-03-14T15:15:00"
   },
   "cnes-eq": {
+   "name": "Equipamentos",
+   "source": "cnes",
    "n_files": 6344,
    "total_size": 1403989042,
    "partition_n_ufs": 27,
@@ -131,6 +157,8 @@
    "latest_update": "2025-03-14T15:15:00"
   },
   "cnes-gm": {
+   "name": "Gestão e Metas",
+   "source": "cnes",
    "n_files": 5484,
    "total_size": 12526760,
    "partition_n_ufs": 27,
@@ -141,6 +169,8 @@
    "latest_update": "2025-03-14T15:15:00"
   },
   "cnes-hb": {
+   "name": "Habilitação",
+   "source": "cnes",
    "n_files": 5832,
    "total_size": 128979021,
    "partition_n_ufs": 27,
@@ -151,6 +181,8 @@
    "latest_update": "2025-03-14T15:15:00"
   },
   "cnes-in": {
+   "name": "Incentivos",
+   "source": "cnes",
    "n_files": 5547,
    "total_size": 38561093,
    "partition_n_ufs": 27,
@@ -161,6 +193,8 @@
    "latest_update": "2025-03-14T15:15:00"
   },
   "cnes-lt": {
+   "name": "Leitos",
+   "source": "cnes",
    "n_files": 6291,
    "total_size": 138359184,
    "partition_n_ufs": 27,
@@ -171,6 +205,8 @@
    "latest_update": "2025-03-14T15:15:00"
   },
   "cnes-pf": {
+   "name": "Profissional",
+   "source": "cnes",
    "n_files": 6345,
    "total_size": 40408115147,
    "partition_n_ufs": 27,
@@ -181,6 +217,8 @@
    "latest_update": "2025-03-14T15:15:00"
   },
   "cnes-rc": {
+   "name": "Regra Contratual",
+   "source": "cnes",
    "n_files": 5771,
    "total_size": 71059773,
    "partition_n_ufs": 27,
@@ -191,6 +229,8 @@
    "latest_update": "2025-03-14T15:15:00"
   },
   "cnes-sr": {
+   "name": "Serviço Especializado",
+   "source": "cnes",
    "n_files": 6343,
    "total_size": 1467405896,
    "partition_n_ufs": 27,
@@ -201,6 +241,8 @@
    "latest_update": "2025-03-14T15:15:00"
   },
   "cnes-st": {
+   "name": "Estabelecimentos",
+   "source": "cnes",
    "n_files": 6337,
    "total_size": 2962440370,
    "partition_n_ufs": 27,
@@ -211,6 +253,8 @@
    "latest_update": "2025-03-14T15:15:00"
   },
   "pce": {
+   "name": "Programa de Controle da Esquistossomose",
+   "source": "pce",
    "n_files": 409,
    "total_size": 14820694,
    "partition_n_ufs": 20,
@@ -221,6 +265,8 @@
    "latest_update": "2022-11-11T17:21:00"
   },
   "po": {
+   "name": "Painel de Oncologia",
+   "source": "po",
    "n_files": 13,
    "total_size": 139335556,
    "partition_n_ufs": 1,
@@ -231,6 +277,8 @@
    "latest_update": "2025-02-20T16:58:00"
   },
   "resp": {
+   "name": "Notificações de casos suspeitos de SCZ",
+   "source": "resp",
    "n_files": 280,
    "total_size": 3519492,
    "partition_n_ufs": 28,
@@ -241,6 +289,8 @@
    "latest_update": "2024-07-01T17:33:00"
   },
   "sia-ab": {
+   "name": "APAC de Acompanhamento a Cirurgia Bariátrica",
+   "source": "sia",
    "n_files": 544,
    "total_size": 14622114,
    "partition_n_ufs": 9,
@@ -251,6 +301,8 @@
    "latest_update": "2019-03-12T12:03:00"
   },
   "sia-abo": {
+   "name": "APAC Acompanhamento Pós Cirurgia Bariátrica",
+   "source": "sia",
    "n_files": 1366,
    "total_size": 34035801,
    "partition_n_ufs": 17,
@@ -261,6 +313,8 @@
    "latest_update": "2025-03-07T18:56:00"
   },
   "sia-acf": {
+   "name": "APAC Confeção de Fístula Arteriovenosa",
+   "source": "sia",
    "n_files": 3290,
    "total_size": 28181498,
    "partition_n_ufs": 27,
@@ -271,6 +325,8 @@
    "latest_update": "2025-03-07T18:56:00"
   },
   "sia-ad": {
+   "name": "APAC de Laudos Diversos",
+   "source": "sia",
    "n_files": 5533,
    "total_size": 2828579626,
    "partition_n_ufs": 27,
@@ -281,6 +337,8 @@
    "latest_update": "2025-03-07T18:56:00"
   },
   "sia-am": {
+   "name": "APAC de Medicamentos",
+   "source": "sia",
    "n_files": 5474,
    "total_size": 15630099686,
    "partition_n_ufs": 27,
@@ -291,6 +349,8 @@
    "latest_update": "2025-03-07T18:57:00"
   },
   "sia-an": {
+   "name": "APAC de Nefrologia",
+   "source": "sia",
    "n_files": 2145,
    "total_size": 458824790,
    "partition_n_ufs": 27,
@@ -301,6 +361,8 @@
    "latest_update": "2019-06-07T09:31:00"
   },
   "sia-aq": {
+   "name": "APAC de Quimioterapia",
+   "source": "sia",
    "n_files": 5494,
    "total_size": 4444808276,
    "partition_n_ufs": 27,
@@ -311,6 +373,8 @@
    "latest_update": "2025-03-07T18:57:00"
   },
   "sia-ar": {
+   "name": "APAC de Radioterapia",
+   "source": "sia",
    "n_files": 5008,
    "total_size": 335643871,
    "partition_n_ufs": 25,
@@ -321,6 +385,8 @@
    "latest_update": "2025-03-07T18:57:00"
   },
   "sia-atd": {
+   "name": "APAC de Tratamento Dialítico",
+   "source": "sia",
    "n_files": 3398,
    "total_size": 904062370,
    "partition_n_ufs": 27,
@@ -331,6 +397,8 @@
    "latest_update": "2025-03-07T18:57:00"
   },
   "sia-pa": {
+   "name": "Produção Ambulatorial",
+   "source": "sia",
    "n_files": 10224,
    "total_size": 174175812701,
    "partition_n_ufs": 27,
@@ -341,6 +409,8 @@
    "latest_update": "2025-03-07T19:02:00"
   },
   "sia-ps": {
+   "name": "Psicossocial",
+   "source": "sia",
    "n_files": 3908,
    "total_size": 2719539214,
    "partition_n_ufs": 27,
@@ -351,6 +421,8 @@
    "latest_update": "2025-03-07T19:02:00"
   },
   "sia-sad": {
+   "name": "Atenção Domiciliar",
+   "source": "sia",
    "n_files": 1088,
    "total_size": 53440628,
    "partition_n_ufs": 25,
@@ -361,6 +433,8 @@
    "latest_update": "2020-01-10T09:45:00"
   },
   "sih-er": {
+   "name": "ER - AIH Rejeitadas com código de erro",
+   "source": "sih",
    "n_files": 4445,
    "total_size": 285304907,
    "partition_n_ufs": 27,
@@ -371,6 +445,8 @@
    "latest_update": "2025-03-11T23:45:00"
   },
   "sih-rd": {
+   "name": "RD - AIH Reduzida",
+   "source": "sih",
    "n_files": 10698,
    "total_size": 23829512764,
    "partition_n_ufs": 27,
@@ -381,6 +457,8 @@
    "latest_update": "2025-03-11T23:45:00"
   },
   "sih-rj": {
+   "name": "RJ - AIH Rejeitadas",
+   "source": "sih",
    "n_files": 5374,
    "total_size": 859703930,
    "partition_n_ufs": 27,
@@ -391,6 +469,8 @@
    "latest_update": "2025-03-11T23:44:00"
   },
   "sih-sp": {
+   "name": "SP - Serviços Profissionais",
+   "source": "sih",
    "n_files": 8953,
    "total_size": 50840677330,
    "partition_n_ufs": 27,
@@ -401,6 +481,8 @@
    "latest_update": "2025-03-11T23:43:00"
   },
   "sim-do-cid09": {
+   "name": "Declarações de Óbito CID-9",
+   "source": "sim",
    "n_files": 466,
    "total_size": 757269036,
    "partition_n_ufs": 28,
@@ -411,6 +493,8 @@
    "latest_update": "2025-01-24T14:45:00"
   },
   "sim-do-cid10": {
+   "name": "Declarações de Óbito CID-10",
+   "source": "sim",
    "n_files": 784,
    "total_size": 4517912026,
    "partition_n_ufs": 28,
@@ -421,6 +505,8 @@
    "latest_update": "2025-02-25T12:19:00"
   },
   "sim-doext-cid09": {
+   "name": "Declarações de Óbito Externas CID-9",
+   "source": "sim",
    "n_files": 17,
    "total_size": 44014514,
    "partition_n_ufs": 1,
@@ -431,6 +517,8 @@
    "latest_update": "2020-01-31T14:46:00"
   },
   "sim-doext-cid10": {
+   "name": "Declarações de Óbito Externas CID-10",
+   "source": "sim",
    "n_files": 28,
    "total_size": 272602438,
    "partition_n_ufs": 1,
@@ -441,6 +529,8 @@
    "latest_update": "2025-02-25T12:17:00"
   },
   "sim-dofet-cid09": {
+   "name": "Declarações de Óbito Fetais CID-9",
+   "source": "sim",
    "n_files": 17,
    "total_size": 24133099,
    "partition_n_ufs": 1,
@@ -451,6 +541,8 @@
    "latest_update": "2020-01-31T14:46:00"
   },
   "sim-dofet-cid10": {
+   "name": "Declarações de Óbito Fetais CID-10",
+   "source": "sim",
    "n_files": 28,
    "total_size": 63812052,
    "partition_n_ufs": 1,
@@ -461,6 +553,8 @@
    "latest_update": "2024-12-19T11:55:00"
   },
   "sim-doinf-cid09": {
+   "name": "Declarações de Óbito Infantis CID-9",
+   "source": "sim",
    "n_files": 17,
    "total_size": 60790328,
    "partition_n_ufs": 1,
@@ -471,6 +565,8 @@
    "latest_update": "2020-01-31T14:46:00"
   },
   "sim-doinf-cid10": {
+   "name": "Declarações de Óbito Infantis CID-10",
+   "source": "sim",
    "n_files": 28,
    "total_size": 96390013,
    "partition_n_ufs": 1,
@@ -481,6 +577,8 @@
    "latest_update": "2025-02-25T12:17:00"
   },
   "sim-domat-cid10": {
+   "name": "Declarações de Óbitos Maternos CID-10",
+   "source": "sim",
    "n_files": 28,
    "total_size": 4289433,
    "partition_n_ufs": 1,
@@ -491,6 +589,8 @@
    "latest_update": "2025-02-25T12:17:00"
   },
   "sim-dorext-cid10": {
+   "name": "Mortalidade de Residentes no Exterior CID-10",
+   "source": "sim",
    "n_files": 11,
    "total_size": 460667,
    "partition_n_ufs": 1,
@@ -501,6 +601,8 @@
    "latest_update": "2024-12-19T12:02:00"
   },
   "sinan-acbi": {
+   "name": "Acidente de trabalho com material biológico",
+   "source": "sinan",
    "n_files": 19,
    "total_size": 46338578,
    "partition_n_ufs": 1,
@@ -511,6 +613,8 @@
    "latest_update": "2024-12-19T18:43:00"
   },
   "sinan-acgr": {
+   "name": "Acidente de trabalho",
+   "source": "sinan",
    "n_files": 19,
    "total_size": 117854496,
    "partition_n_ufs": 1,
@@ -521,6 +625,8 @@
    "latest_update": "2024-12-19T18:28:00"
   },
   "sinan-aida": {
+   "name": "AIDS em adultos",
+   "source": "sinan",
    "n_files": 17,
    "total_size": 17947694,
    "partition_n_ufs": 1,
@@ -531,6 +637,8 @@
    "latest_update": "2024-02-07T08:16:00"
   },
   "sinan-aidc": {
+   "name": "AIDS em crianças",
+   "source": "sinan",
    "n_files": 17,
    "total_size": 345132,
    "partition_n_ufs": 1,
@@ -541,6 +649,8 @@
    "latest_update": "2024-02-07T15:59:00"
   },
   "sinan-anim": {
+   "name": "Acidente por Animais Peçonhentos",
+   "source": "sinan",
    "n_files": 17,
    "total_size": 133738934,
    "partition_n_ufs": 1,
@@ -551,6 +661,8 @@
    "latest_update": "2024-06-24T08:15:00"
   },
   "sinan-antr": {
+   "name": "Atendimento Antirrábico",
+   "source": "sinan",
    "n_files": 19,
    "total_size": 453674766,
    "partition_n_ufs": 1,
@@ -561,6 +673,8 @@
    "latest_update": "2024-10-23T18:15:00"
   },
   "sinan-botu": {
+   "name": "Botulismo",
+   "source": "sinan",
    "n_files": 18,
    "total_size": 155307,
    "partition_n_ufs": 1,
@@ -571,6 +685,8 @@
    "latest_update": "2024-11-06T10:15:00"
   },
   "sinan-canc": {
+   "name": "Câncer relacionado ao trabalho",
+   "source": "sinan",
    "n_files": 18,
    "total_size": 326240,
    "partition_n_ufs": 1,
@@ -581,6 +697,8 @@
    "latest_update": "2024-12-19T18:15:00"
   },
   "sinan-chag": {
+   "name": "Doença de Chagas Aguda",
+   "source": "sinan",
    "n_files": 24,
    "total_size": 4142339,
    "partition_n_ufs": 1,
@@ -591,6 +709,8 @@
    "latest_update": "2024-12-02T14:39:00"
   },
   "sinan-chik": {
+   "name": "Febre de Chikungunya",
+   "source": "sinan",
    "n_files": 11,
    "total_size": 75960708,
    "partition_n_ufs": 1,
@@ -601,6 +721,8 @@
    "latest_update": "2025-03-10T12:05:00"
   },
   "sinan-cole": {
+   "name": "Cólera",
+   "source": "sinan",
    "n_files": 18,
    "total_size": 49518,
    "partition_n_ufs": 1,
@@ -611,6 +733,8 @@
    "latest_update": "2024-11-06T11:49:00"
   },
   "sinan-coqu": {
+   "name": "Coqueluche",
+   "source": "sinan",
    "n_files": 19,
    "total_size": 9800376,
    "partition_n_ufs": 1,
@@ -621,6 +745,8 @@
    "latest_update": "2025-03-14T11:24:00"
   },
   "sinan-deng": {
+   "name": "Dengue",
+   "source": "sinan",
    "n_files": 26,
    "total_size": 1304225948,
    "partition_n_ufs": 1,
@@ -631,6 +757,8 @@
    "latest_update": "2025-03-10T12:05:00"
   },
   "sinan-derm": {
+   "name": "Dermatoses ocupacionais",
+   "source": "sinan",
    "n_files": 19,
    "total_size": 525380,
    "partition_n_ufs": 1,
@@ -641,6 +769,8 @@
    "latest_update": "2024-12-19T18:02:00"
   },
   "sinan-dift": {
+   "name": "Difteria",
+   "source": "sinan",
    "n_files": 16,
    "total_size": 123305,
    "partition_n_ufs": 1,
@@ -651,6 +781,8 @@
    "latest_update": "2023-03-15T12:08:00"
   },
   "sinan-espo": {
+   "name": "Esporotricose (Epizootia)",
+   "source": "sinan",
    "n_files": 10,
    "total_size": 399910,
    "partition_n_ufs": 1,
@@ -661,6 +793,8 @@
    "latest_update": "2024-01-18T10:43:00"
   },
   "sinan-esqu": {
+   "name": "Esquistossomose",
+   "source": "sinan",
    "n_files": 17,
    "total_size": 7965058,
    "partition_n_ufs": 1,
@@ -671,6 +805,8 @@
    "latest_update": "2024-02-20T11:49:00"
   },
   "sinan-exan": {
+   "name": "Doenças exantemáticas",
+   "source": "sinan",
    "n_files": 18,
    "total_size": 14717439,
    "partition_n_ufs": 1,
@@ -681,6 +817,8 @@
    "latest_update": "2024-08-28T09:35:00"
   },
   "sinan-fmac": {
+   "name": "Febre Maculosa",
+   "source": "sinan",
    "n_files": 17,
    "total_size": 4126092,
    "partition_n_ufs": 1,
@@ -691,6 +829,8 @@
    "latest_update": "2024-05-02T13:57:00"
   },
   "sinan-ftif": {
+   "name": "Febre Tifoide",
+   "source": "sinan",
    "n_files": 18,
    "total_size": 813425,
    "partition_n_ufs": 1,
@@ -701,6 +841,8 @@
    "latest_update": "2025-01-20T10:44:00"
   },
   "sinan-hans": {
+   "name": "Hanseníase",
+   "source": "sinan",
    "n_files": 25,
    "total_size": 57394440,
    "partition_n_ufs": 1,
@@ -711,6 +853,8 @@
    "latest_update": "2025-02-24T16:17:00"
   },
   "sinan-hant": {
+   "name": "Hantavirose",
+   "source": "sinan",
    "n_files": 25,
    "total_size": 2200314,
    "partition_n_ufs": 1,
@@ -721,6 +865,8 @@
    "latest_update": "2024-05-02T11:08:00"
   },
   "sinan-hepa": {
+   "name": "Hepatites Virais",
+   "source": "sinan",
    "n_files": 17,
    "total_size": 29471809,
    "partition_n_ufs": 1,
@@ -731,6 +877,8 @@
    "latest_update": "2024-10-24T13:16:00"
   },
   "sinan-hiva": {
+   "name": "HIV em adultos",
+   "source": "sinan",
    "n_files": 17,
    "total_size": 16001345,
    "partition_n_ufs": 1,
@@ -741,6 +889,8 @@
    "latest_update": "2024-02-07T16:00:00"
   },
   "sinan-hivc": {
+   "name": "HIV em crianças",
+   "source": "sinan",
    "n_files": 17,
    "total_size": 148285,
    "partition_n_ufs": 1,
@@ -751,6 +901,8 @@
    "latest_update": "2024-02-19T18:06:00"
   },
   "sinan-hive": {
+   "name": "HIV em crianças expostas",
+   "source": "sinan",
    "n_files": 9,
    "total_size": 1085674,
    "partition_n_ufs": 1,
@@ -761,6 +913,8 @@
    "latest_update": "2024-02-07T08:19:00"
   },
   "sinan-hivg": {
+   "name": "HIV em gestante",
+   "source": "sinan",
    "n_files": 17,
    "total_size": 3591333,
    "partition_n_ufs": 1,
@@ -771,6 +925,8 @@
    "latest_update": "2024-05-22T11:05:00"
   },
   "sinan-iexo": {
+   "name": "Intoxicação Exógena",
+   "source": "sinan",
    "n_files": 19,
    "total_size": 157640737,
    "partition_n_ufs": 1,
@@ -781,6 +937,8 @@
    "latest_update": "2024-12-19T17:26:00"
   },
   "sinan-leiv": {
+   "name": "Leishmaniose Visceral",
+   "source": "sinan",
    "n_files": 25,
    "total_size": 12664059,
    "partition_n_ufs": 1,
@@ -791,6 +949,8 @@
    "latest_update": "2024-12-11T10:21:00"
   },
   "sinan-lept": {
+   "name": "Leptospirose",
+   "source": "sinan",
    "n_files": 18,
    "total_size": 22562762,
    "partition_n_ufs": 1,
@@ -801,6 +961,8 @@
    "latest_update": "2024-07-09T16:42:00"
   },
   "sinan-lerd": {
+   "name": "LER/Dort",
+   "source": "sinan",
    "n_files": 19,
    "total_size": 6858290,
    "partition_n_ufs": 1,
@@ -811,6 +973,8 @@
    "latest_update": "2024-12-19T17:04:00"
   },
   "sinan-ltan": {
+   "name": "Leishmaniose Tegumentar Americana",
+   "source": "sinan",
    "n_files": 25,
    "total_size": 37960400,
    "partition_n_ufs": 1,
@@ -821,6 +985,8 @@
    "latest_update": "2024-12-11T10:32:00"
   },
   "sinan-mala": {
+   "name": "Malária",
+   "source": "sinan",
    "n_files": 20,
    "total_size": 2611608,
    "partition_n_ufs": 1,
@@ -831,6 +997,8 @@
    "latest_update": "2024-02-19T09:01:00"
   },
   "sinan-meni": {
+   "name": "Meningite",
+   "source": "sinan",
    "n_files": 18,
    "total_size": 42849981,
    "partition_n_ufs": 1,
@@ -841,6 +1009,8 @@
    "latest_update": "2024-07-10T15:03:00"
   },
   "sinan-ment": {
+   "name": "Transtornos mentais relacionados ao trabalho",
+   "source": "sinan",
    "n_files": 19,
    "total_size": 1256669,
    "partition_n_ufs": 1,
@@ -851,6 +1021,8 @@
    "latest_update": "2024-12-19T16:04:00"
   },
   "sinan-ntra": {
+   "name": "Notificação de Tracoma",
+   "source": "sinan",
    "n_files": 13,
    "total_size": 652878,
    "partition_n_ufs": 1,
@@ -861,6 +1033,8 @@
    "latest_update": "2023-01-24T14:40:00"
   },
   "sinan-pair": {
+   "name": "Perda auditiva por ruído relacionado ao trabalho",
+   "source": "sinan",
    "n_files": 19,
    "total_size": 532443,
    "partition_n_ufs": 1,
@@ -871,6 +1045,8 @@
    "latest_update": "2024-12-19T16:15:00"
   },
   "sinan-pest": {
+   "name": "Peste",
+   "source": "sinan",
    "n_files": 14,
    "total_size": 31614,
    "partition_n_ufs": 1,
@@ -881,6 +1057,8 @@
    "latest_update": "2021-11-23T16:32:00"
   },
   "sinan-pfan": {
+   "name": "Paralisia Flácida Aguda",
+   "source": "sinan",
    "n_files": 10,
    "total_size": 551483,
    "partition_n_ufs": 1,
@@ -891,6 +1069,8 @@
    "latest_update": "2021-11-23T16:34:00"
   },
   "sinan-pneu": {
+   "name": "Pneumoconioses relacionadas ao trabalho",
+   "source": "sinan",
    "n_files": 19,
    "total_size": 309056,
    "partition_n_ufs": 1,
@@ -901,6 +1081,8 @@
    "latest_update": "2024-12-19T16:26:00"
   },
   "sinan-raiv": {
+   "name": "Raiva",
+   "source": "sinan",
    "n_files": 15,
    "total_size": 143589,
    "partition_n_ufs": 1,
@@ -911,6 +1093,8 @@
    "latest_update": "2023-03-16T16:26:00"
   },
   "sinan-rota": {
+   "name": "Rotavírus",
+   "source": "sinan",
    "n_files": 16,
    "total_size": 1303859,
    "partition_n_ufs": 1,
@@ -921,6 +1105,8 @@
    "latest_update": "2025-01-10T09:56:00"
   },
   "sinan-sdta": {
+   "name": "Surto Doenças Transmitidas por Alimentos",
+   "source": "sinan",
    "n_files": 14,
    "total_size": 841614,
    "partition_n_ufs": 1,
@@ -931,6 +1117,8 @@
    "latest_update": "2023-02-06T15:45:00"
   },
   "sinan-sifa": {
+   "name": "Sífilis Adquirida",
+   "source": "sinan",
    "n_files": 15,
    "total_size": 29663661,
    "partition_n_ufs": 1,
@@ -941,6 +1129,8 @@
    "latest_update": "2024-10-24T12:25:00"
   },
   "sinan-sifc": {
+   "name": "Sífilis Congênita",
+   "source": "sinan",
    "n_files": 18,
    "total_size": 13983527,
    "partition_n_ufs": 1,
@@ -951,6 +1141,8 @@
    "latest_update": "2024-10-24T14:31:00"
   },
   "sinan-sifg": {
+   "name": "Sífilis em Gestante",
+   "source": "sinan",
    "n_files": 17,
    "total_size": 17494615,
    "partition_n_ufs": 1,
@@ -961,6 +1153,8 @@
    "latest_update": "2024-02-20T11:03:00"
   },
   "sinan-src": {
+   "name": "Síndrome da Rubéola Congênita",
+   "source": "sinan",
    "n_files": 16,
    "total_size": 167767,
    "partition_n_ufs": 1,
@@ -971,6 +1165,8 @@
    "latest_update": "2023-01-16T11:51:00"
   },
   "sinan-teta": {
+   "name": "Tétano Acidental",
+   "source": "sinan",
    "n_files": 16,
    "total_size": 596206,
    "partition_n_ufs": 1,
@@ -981,6 +1177,8 @@
    "latest_update": "2023-02-27T16:42:00"
   },
   "sinan-tetn": {
+   "name": "Tétano Neonatal",
+   "source": "sinan",
    "n_files": 8,
    "total_size": 19566,
    "partition_n_ufs": 1,
@@ -991,6 +1189,8 @@
    "latest_update": "2021-11-23T17:54:00"
   },
   "sinan-toxc": {
+   "name": "Toxoplasmose Congênita",
+   "source": "sinan",
    "n_files": 6,
    "total_size": 818575,
    "partition_n_ufs": 1,
@@ -1001,6 +1201,8 @@
    "latest_update": "2024-10-30T17:01:00"
   },
   "sinan-toxg": {
+   "name": "Toxoplasmose Gestacional",
+   "source": "sinan",
    "n_files": 6,
    "total_size": 2444820,
    "partition_n_ufs": 1,
@@ -1011,6 +1213,8 @@
    "latest_update": "2024-10-30T17:08:00"
   },
   "sinan-trac": {
+   "name": "Inquérito de Tracoma",
+   "source": "sinan",
    "n_files": 14,
    "total_size": 1677438,
    "partition_n_ufs": 1,
@@ -1021,6 +1225,8 @@
    "latest_update": "2023-12-14T11:08:00"
   },
   "sinan-tube": {
+   "name": "Tuberculose",
+   "source": "sinan",
    "n_files": 23,
    "total_size": 102512336,
    "partition_n_ufs": 1,
@@ -1031,6 +1237,8 @@
    "latest_update": "2024-10-18T16:42:00"
   },
   "sinan-varc": {
+   "name": "Varicela",
+   "source": "sinan",
    "n_files": 17,
    "total_size": 34793612,
    "partition_n_ufs": 1,
@@ -1041,6 +1249,8 @@
    "latest_update": "2023-12-14T11:17:00"
   },
   "sinan-viol": {
+   "name": "Violência doméstica, sexual e/ou outras violências",
+   "source": "sinan",
    "n_files": 15,
    "total_size": 254146474,
    "partition_n_ufs": 1,
@@ -1051,6 +1261,8 @@
    "latest_update": "2024-11-01T15:50:00"
   },
   "sinan-zika": {
+   "name": "Zika Vírus",
+   "source": "sinan",
    "n_files": 10,
    "total_size": 9433271,
    "partition_n_ufs": 1,
@@ -1061,6 +1273,8 @@
    "latest_update": "2025-03-06T08:46:00"
   },
   "sinasc-dn": {
+   "name": "Declarações de nascidos vivos",
+   "source": "sinasc",
    "n_files": 838,
    "total_size": 6411717487,
    "partition_n_ufs": 28,
@@ -1071,6 +1285,8 @@
    "latest_update": "2025-01-24T11:05:00"
   },
   "sinasc-dnex": {
+   "name": "Declarações de nascidos vivos no exterior",
+   "source": "sinasc",
    "n_files": 10,
    "total_size": 544998,
    "partition_n_ufs": 1,
@@ -1081,6 +1297,8 @@
    "latest_update": "2024-12-20T11:31:00"
   },
   "siscolo-cc": {
+   "name": "Citopatológico de Colo de Útero",
+   "source": "siscolo",
    "n_files": 2858,
    "total_size": 2496564322,
    "partition_n_ufs": 27,
@@ -1091,6 +1309,8 @@
    "latest_update": "2022-08-17T12:18:00"
   },
   "siscolo-hc": {
+   "name": "Histopatológico de Colo de Útero",
+   "source": "siscolo",
    "n_files": 2858,
    "total_size": 40837119,
    "partition_n_ufs": 27,
@@ -1101,6 +1321,8 @@
    "latest_update": "2022-08-17T14:22:00"
   },
   "sismama-cm": {
+   "name": "Citopatológico de Mama",
+   "source": "sismama",
    "n_files": 1675,
    "total_size": 5035816,
    "partition_n_ufs": 27,
@@ -1111,6 +1333,8 @@
    "latest_update": "2022-08-31T17:05:00"
   },
   "sismama-hm": {
+   "name": "Histopatológico de Mama",
+   "source": "sismama",
    "n_files": 1674,
    "total_size": 5926506,
    "partition_n_ufs": 27,
@@ -1121,6 +1345,8 @@
    "latest_update": "2022-08-31T17:07:00"
   },
   "sisprenatal-pn": {
+   "name": "Pré-Natal",
+   "source": "sisprenatal",
    "n_files": 944,
    "total_size": 232410320,
    "partition_n_ufs": 27,
