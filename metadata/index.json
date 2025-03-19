@@ -52,13 +52,13 @@
    "name": "Base Territorial - Mapas",
    "source": "base-territorial",
    "n_files": 83,
-   "total_size": 131367181,
+   "total_size": 141684549,
    "partition_n_ufs": 28,
    "partition_period_start": "1991",
    "partition_period_end": "2013",
    "partition_n_periods": 6,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-02-25T12:23:00"
+   "latest_update": "2025-03-18T16:56:00"
   },
   "base-territorial": {
    "name": "Base Territorial",
@@ -268,13 +268,13 @@
    "name": "Painel de Oncologia",
    "source": "po",
    "n_files": 13,
-   "total_size": 139335556,
+   "total_size": 309531519,
    "partition_n_ufs": 1,
    "partition_period_start": "2013",
    "partition_period_end": "2025",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-02-20T16:58:00"
+   "latest_update": "2025-03-18T10:20:00"
   },
   "resp": {
    "name": "Notificações de casos suspeitos de SCZ",
@@ -1467,8 +1467,8 @@
   },
   "po": {
    "n_files": 1,
-   "total_size": 203942,
-   "latest_update": "2023-12-20T18:09:00"
+   "total_size": 210524,
+   "latest_update": "2025-03-18T10:22:00"
   },
   "resp": {
    "n_files": 1,
