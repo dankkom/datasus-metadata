@@ -868,13 +868,13 @@
    "name": "Hepatites Virais",
    "source": "sinan",
    "n_files": 17,
-   "total_size": 29471809,
+   "total_size": 28303137,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2023",
    "partition_n_periods": 17,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-10-24T13:16:00"
+   "latest_update": "2025-03-26T10:23:00"
   },
   "sinan-hiva": {
    "name": "HIV em adultos",
@@ -1420,8 +1420,8 @@
   },
   "sinan": {
    "n_files": 12,
-   "total_size": 66887509,
-   "latest_update": "2024-06-12T11:43:00"
+   "total_size": 67039766,
+   "latest_update": "2025-03-26T14:38:00"
   },
   "sinasc-anterior": {
    "n_files": 1,
