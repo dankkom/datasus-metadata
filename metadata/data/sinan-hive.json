@@ -2,9 +2,9 @@
  {
   "filename": "HIVEBR15.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HIVEBR15.dbc",
-  "datetime": "2024-02-07T08:19:00",
+  "datetime": "2025-02-25T10:51:00",
   "extension": "dbc",
-  "size": 123643,
+  "size": 97611,
   "dataset": "sinan-hive",
   "partition": {
    "uf": "br",
@@ -17,9 +17,9 @@
  {
   "filename": "HIVEBR16.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HIVEBR16.dbc",
-  "datetime": "2024-02-07T08:19:00",
+  "datetime": "2025-02-25T10:51:00",
   "extension": "dbc",
-  "size": 121481,
+  "size": 111643,
   "dataset": "sinan-hive",
   "partition": {
    "uf": "br",
@@ -32,9 +32,9 @@
  {
   "filename": "HIVEBR17.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HIVEBR17.dbc",
-  "datetime": "2024-02-07T08:19:00",
+  "datetime": "2025-02-25T10:51:00",
   "extension": "dbc",
-  "size": 134244,
+  "size": 122392,
   "dataset": "sinan-hive",
   "partition": {
    "uf": "br",
@@ -47,9 +47,9 @@
  {
   "filename": "HIVEBR18.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HIVEBR18.dbc",
-  "datetime": "2024-02-07T08:19:00",
+  "datetime": "2025-02-25T10:51:00",
   "extension": "dbc",
-  "size": 128416,
+  "size": 126523,
   "dataset": "sinan-hive",
   "partition": {
    "uf": "br",
@@ -62,9 +62,9 @@
  {
   "filename": "HIVEBR19.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HIVEBR19.dbc",
-  "datetime": "2024-02-07T08:19:00",
+  "datetime": "2025-02-25T10:51:00",
   "extension": "dbc",
-  "size": 134049,
+  "size": 130161,
   "dataset": "sinan-hive",
   "partition": {
    "uf": "br",
@@ -77,9 +77,9 @@
  {
   "filename": "HIVEBR20.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HIVEBR20.dbc",
-  "datetime": "2024-02-07T08:19:00",
+  "datetime": "2025-02-25T10:51:00",
   "extension": "dbc",
-  "size": 122324,
+  "size": 121985,
   "dataset": "sinan-hive",
   "partition": {
    "uf": "br",
@@ -92,9 +92,9 @@
  {
   "filename": "HIVEBR21.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HIVEBR21.dbc",
-  "datetime": "2024-02-07T08:19:00",
+  "datetime": "2025-02-25T10:51:00",
   "extension": "dbc",
-  "size": 119314,
+  "size": 124335,
   "dataset": "sinan-hive",
   "partition": {
    "uf": "br",
@@ -107,9 +107,9 @@
  {
   "filename": "HIVEBR22.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HIVEBR22.dbc",
-  "datetime": "2024-02-07T08:19:00",
+  "datetime": "2025-02-25T10:51:00",
   "extension": "dbc",
-  "size": 123422,
+  "size": 129882,
   "dataset": "sinan-hive",
   "partition": {
    "uf": "br",
@@ -122,13 +122,28 @@
  {
   "filename": "HIVEBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HIVEBR23.dbc",
-  "datetime": "2024-02-07T08:19:00",
+  "datetime": "2025-02-25T10:51:00",
   "extension": "dbc",
-  "size": 78781,
+  "size": 127667,
   "dataset": "sinan-hive",
   "partition": {
    "uf": "br",
    "year": 2023,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "HIVEBR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HIVEBR24.dbc",
+  "datetime": "2025-02-25T10:51:00",
+  "extension": "dbc",
+  "size": 18201,
+  "dataset": "sinan-hive",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
    "month": null,
    "version": null
   },

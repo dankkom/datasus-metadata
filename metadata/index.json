@@ -627,26 +627,26 @@
   "sinan-aida": {
    "name": "AIDS em adultos",
    "source": "sinan",
-   "n_files": 17,
-   "total_size": 17947694,
+   "n_files": 18,
+   "total_size": 18883540,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2023",
-   "partition_n_periods": 17,
+   "partition_period_end": "2024",
+   "partition_n_periods": 18,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-02-07T08:16:00"
+   "latest_update": "2025-02-25T10:48:00"
   },
   "sinan-aidc": {
    "name": "AIDS em crianças",
    "source": "sinan",
-   "n_files": 17,
-   "total_size": 345132,
+   "n_files": 18,
+   "total_size": 354128,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2023",
-   "partition_n_periods": 17,
+   "partition_period_end": "2024",
+   "partition_n_periods": 18,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-02-07T15:59:00"
+   "latest_update": "2025-02-25T10:50:00"
   },
   "sinan-anim": {
    "name": "Acidente por Animais Peçonhentos",
@@ -903,14 +903,14 @@
   "sinan-hive": {
    "name": "HIV em crianças expostas",
    "source": "sinan",
-   "n_files": 9,
-   "total_size": 1085674,
+   "n_files": 10,
+   "total_size": 1110400,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
-   "partition_period_end": "2023",
-   "partition_n_periods": 9,
+   "partition_period_end": "2024",
+   "partition_n_periods": 10,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-02-07T08:19:00"
+   "latest_update": "2025-02-25T10:51:00"
   },
   "sinan-hivg": {
    "name": "HIV em gestante",
