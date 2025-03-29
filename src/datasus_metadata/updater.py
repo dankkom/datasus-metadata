@@ -3,7 +3,7 @@ import shutil
 from pathlib import Path
 
 from .fetcher import list_dataset_files, list_files
-from .meta import auxiliary_tables, datasets, docs
+from .meta import auxiliary_tables, datasets, datasets_sources, docs
 from .storage import load_json, save_json
 
 
@@ -157,11 +157,13 @@ def update_index(metadata_dir_path: Path):
         (metadata_dir_path / "documentation").glob("*.json")
     ):
         slug = metadata_filepath.stem
+        source_name = datasets_sources.get(slug, {}).get("name")
         data = load_json(metadata_filepath)
         n_files = len(data)
         total_size = sum(file["size"] for file in data)
         latest_update = max(file["datetime"] for file in data)
         metadata_index["documentation"][slug] = {
+            "source_name": source_name,
             "n_files": n_files,
             "total_size": total_size,
             "latest_update": latest_update,
@@ -169,11 +171,13 @@ def update_index(metadata_dir_path: Path):
 
     for metadata_filepath in sorted((metadata_dir_path / "auxiliary").glob("*.json")):
         slug = metadata_filepath.stem
+        source_name = datasets_sources.get(slug, {}).get("name")
         data = load_json(metadata_filepath)
         n_files = len(data)
         total_size = sum(file["size"] for file in data)
         latest_update = max(file["datetime"] for file in data)
         metadata_index["auxiliary"][slug] = {
+            "source_name": source_name,
             "n_files": n_files,
             "total_size": total_size,
             "latest_update": latest_update,
