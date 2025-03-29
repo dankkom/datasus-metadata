@@ -2089,6 +2089,9 @@ datasets_sources = {
     "ciha": {
         "name": "CIHA: Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
     },
+    "cmd": {
+        "name": "CMD: Conjunto Mínimo de Dados",
+    },
     "cnes": {
         "name": "CNES: Cadastro Nacional de Estabelecimentos de Saúde",
     },
