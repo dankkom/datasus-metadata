@@ -1359,76 +1359,91 @@
  },
  "documentation": {
   "base-populacional-ibge": {
+   "source_name": "Base Populacional - IBGE",
    "n_files": 4,
    "total_size": 2185902,
    "latest_update": "2025-01-07T10:20:00"
   },
   "base-territorial": {
+   "source_name": "Base Territorial",
    "n_files": 2,
    "total_size": 1169515,
    "latest_update": "2016-05-30T16:44:00"
   },
   "ciha": {
+   "source_name": "CIHA: Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "n_files": 1,
    "total_size": 10577,
    "latest_update": "2014-08-22T17:32:00"
   },
   "cmd": {
+   "source_name": "CMD: Conjunto Mínimo de Dados",
    "n_files": 1,
    "total_size": 534301,
    "latest_update": "2018-07-18T14:53:00"
   },
   "cnes": {
+   "source_name": "CNES: Cadastro Nacional de Estabelecimentos de Saúde",
    "n_files": 1,
    "total_size": 743162,
    "latest_update": "2017-10-17T11:43:00"
   },
   "pce": {
+   "source_name": "PCE: Programa de Controle da Esquistossomose",
    "n_files": 1,
    "total_size": 157191,
    "latest_update": "2022-11-21T12:58:00"
   },
   "po": {
+   "source_name": "PO: Painel de Oncologia",
    "n_files": 1,
    "total_size": 148313,
    "latest_update": "2022-12-14T14:19:00"
   },
   "resp": {
+   "source_name": "RESP: Notificações de casos suspeitos de SCZ",
    "n_files": 1,
    "total_size": 350057,
    "latest_update": "2021-10-04T15:51:00"
   },
   "sia": {
+   "source_name": "SIA: Sistema de Informações Ambulatoriais",
    "n_files": 1,
    "total_size": 1103131,
    "latest_update": "2019-07-31T17:32:00"
   },
   "sih": {
+   "source_name": "SIH: Sistema de Informação Hospitalar",
    "n_files": 1,
    "total_size": 57465,
    "latest_update": "2016-05-11T12:19:00"
   },
   "sim-cid09": {
+   "source_name": null,
    "n_files": 4,
    "total_size": 3190564,
    "latest_update": "2018-06-05T16:27:00"
   },
   "sim-cid10": {
+   "source_name": null,
    "n_files": 5,
    "total_size": 3767981,
    "latest_update": "2020-03-11T14:48:00"
   },
   "sinan": {
+   "source_name": "SINAN: Sistema de Informação de Agravos de Notificação",
    "n_files": 12,
    "total_size": 67039766,
    "latest_update": "2025-03-26T14:38:00"
   },
   "sinasc-anterior": {
+   "source_name": null,
    "n_files": 1,
    "total_size": 77087,
    "latest_update": "2011-08-24T11:34:00"
   },
   "sinasc-nova": {
+   "source_name": null,
    "n_files": 3,
    "total_size": 1014972,
    "latest_update": "2011-08-24T11:48:00"
@@ -1436,91 +1451,109 @@
  },
  "auxiliary": {
   "base-populacional-ibge": {
+   "source_name": "Base Populacional - IBGE",
    "n_files": 1,
    "total_size": 14497,
    "latest_update": "2025-01-07T12:02:00"
   },
   "cih": {
+   "source_name": "CIH: Sistema de Comunicação de Informação Hospitalar",
    "n_files": 2,
    "total_size": 135940070,
    "latest_update": "2025-03-14T22:34:00"
   },
   "ciha": {
+   "source_name": "CIHA: Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "n_files": 1,
    "total_size": 61433356,
    "latest_update": "2025-03-14T21:33:00"
   },
   "cmd": {
+   "source_name": "CMD: Conjunto Mínimo de Dados",
    "n_files": 1,
    "total_size": 18591723,
    "latest_update": "2019-07-08T15:40:00"
   },
   "cnes": {
+   "source_name": "CNES: Cadastro Nacional de Estabelecimentos de Saúde",
    "n_files": 1,
    "total_size": 120593404,
    "latest_update": "2025-03-17T11:12:00"
   },
   "pce": {
+   "source_name": "PCE: Programa de Controle da Esquistossomose",
    "n_files": 1,
    "total_size": 135639,
    "latest_update": "2022-11-21T14:13:00"
   },
   "po": {
+   "source_name": "PO: Painel de Oncologia",
    "n_files": 1,
    "total_size": 210524,
    "latest_update": "2025-03-18T10:22:00"
   },
   "resp": {
+   "source_name": "RESP: Notificações de casos suspeitos de SCZ",
    "n_files": 1,
    "total_size": 98526,
    "latest_update": "2021-06-25T11:46:00"
   },
   "sia": {
+   "source_name": "SIA: Sistema de Informações Ambulatoriais",
    "n_files": 4,
    "total_size": 82937299,
    "latest_update": "2025-03-14T21:52:00"
   },
   "sih": {
+   "source_name": "SIH: Sistema de Informação Hospitalar",
    "n_files": 4,
    "total_size": 16900413,
    "latest_update": "2025-03-14T21:58:00"
   },
   "sim-cid09": {
+   "source_name": null,
    "n_files": 1,
    "total_size": 431152,
    "latest_update": "2015-05-19T22:14:00"
   },
   "sim-cid10": {
+   "source_name": null,
    "n_files": 1,
    "total_size": 6410964,
    "latest_update": "2025-01-21T23:09:00"
   },
   "sinan": {
+   "source_name": "SINAN: Sistema de Informação de Agravos de Notificação",
    "n_files": 3,
    "total_size": 45307628,
    "latest_update": "2025-01-23T16:46:00"
   },
   "sinasc-anterior": {
+   "source_name": null,
    "n_files": 1,
    "total_size": 435383,
    "latest_update": "2015-05-19T22:15:00"
   },
   "sinasc-nova": {
+   "source_name": null,
    "n_files": 1,
    "total_size": 2581079,
    "latest_update": "2025-02-27T17:21:00"
   },
   "siscolo": {
+   "source_name": "SISCOLO: Sistema de Informações de Cânceres de Colo de Útero",
    "n_files": 1,
    "total_size": 1702125,
    "latest_update": "2023-03-31T16:04:00"
   },
   "sismama": {
+   "source_name": "SISMAMA: Sistema de Informações de Cânceres de Mama",
    "n_files": 1,
    "total_size": 3170234,
    "latest_update": "2023-03-31T16:05:00"
   },
   "sisprenatal": {
+   "source_name": "SISPRENATAL: Sistema de Monitoramento e Avaliação do Pré-Natal, Parto, Puepério e Criança",
    "n_files": 1,
    "total_size": 3767947,
    "latest_update": "2014-06-18T12:08:00"
