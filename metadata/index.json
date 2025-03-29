@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 75965003,
+   "total_size": 74888182,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2025",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-03-17T12:01:00"
+   "latest_update": "2025-03-27T14:58:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 1306961604,
+   "total_size": 1239430987,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-03-17T12:01:00"
+   "latest_update": "2025-03-27T16:08:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -879,26 +879,26 @@
   "sinan-hiva": {
    "name": "HIV em adultos",
    "source": "sinan",
-   "n_files": 17,
-   "total_size": 16001345,
+   "n_files": 18,
+   "total_size": 17557409,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2023",
-   "partition_n_periods": 17,
+   "partition_period_end": "2024",
+   "partition_n_periods": 18,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-02-07T16:00:00"
+   "latest_update": "2025-02-24T10:51:00"
   },
   "sinan-hivc": {
    "name": "HIV em crianças",
    "source": "sinan",
-   "n_files": 17,
-   "total_size": 148285,
+   "n_files": 18,
+   "total_size": 156046,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2023",
-   "partition_n_periods": 17,
+   "partition_period_end": "2024",
+   "partition_n_periods": 18,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-02-19T18:06:00"
+   "latest_update": "2025-02-24T10:55:00"
   },
   "sinan-hive": {
    "name": "HIV em crianças expostas",
@@ -915,14 +915,14 @@
   "sinan-hivg": {
    "name": "HIV em gestante",
    "source": "sinan",
-   "n_files": 17,
-   "total_size": 3591333,
+   "n_files": 18,
+   "total_size": 3823758,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2023",
-   "partition_n_periods": 17,
+   "partition_period_end": "2024",
+   "partition_n_periods": 18,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-05-22T11:05:00"
+   "latest_update": "2025-02-24T10:56:00"
   },
   "sinan-iexo": {
    "name": "Intoxicação Exógena",
@@ -1143,14 +1143,14 @@
   "sinan-sifg": {
    "name": "Sífilis em Gestante",
    "source": "sinan",
-   "n_files": 17,
-   "total_size": 17494615,
+   "n_files": 18,
+   "total_size": 20135150,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2023",
-   "partition_n_periods": 17,
+   "partition_period_end": "2024",
+   "partition_n_periods": 18,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-02-20T11:03:00"
+   "latest_update": "2025-02-25T10:45:00"
   },
   "sinan-src": {
    "name": "Síndrome da Rubéola Congênita",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 10,
-   "total_size": 9454622,
+   "total_size": 9481180,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2025",
    "partition_n_periods": 10,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-03-20T08:15:00"
+   "latest_update": "2025-03-27T14:57:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
