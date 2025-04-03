@@ -736,13 +736,13 @@
    "name": "Coqueluche",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 9800376,
+   "total_size": 9888040,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-03-14T11:24:00"
+   "latest_update": "2025-03-31T15:42:00"
   },
   "sinan-deng": {
    "name": "Dengue",
