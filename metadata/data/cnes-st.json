@@ -70065,6 +70065,111 @@
   "preliminary": false
  },
  {
+  "filename": "STAC2001.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STAC2001.dbc",
+  "datetime": "2025-04-03T16:40:00",
+  "extension": "dbc",
+  "size": 9691,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ac",
+   "year": 2020,
+   "month": 1,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STAL2001.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STAL2001.dbc",
+  "datetime": "2025-04-03T16:40:00",
+  "extension": "dbc",
+  "size": 154454,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "al",
+   "year": 2020,
+   "month": 1,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STAM2001.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STAM2001.dbc",
+  "datetime": "2025-04-03T16:40:00",
+  "extension": "dbc",
+  "size": 108245,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "am",
+   "year": 2020,
+   "month": 1,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STAP2001.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STAP2001.dbc",
+  "datetime": "2025-04-03T16:40:00",
+  "extension": "dbc",
+  "size": 34578,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ap",
+   "year": 2020,
+   "month": 1,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STBA2001.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STBA2001.dbc",
+  "datetime": "2025-04-03T16:40:00",
+  "extension": "dbc",
+  "size": 794343,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ba",
+   "year": 2020,
+   "month": 1,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STCE2001.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STCE2001.dbc",
+  "datetime": "2025-04-03T16:40:00",
+  "extension": "dbc",
+  "size": 518977,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "ce",
+   "year": 2020,
+   "month": 1,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "STDF2001.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STDF2001.dbc",
+  "datetime": "2025-04-03T16:40:00",
+  "extension": "dbc",
+  "size": 17009,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "df",
+   "year": 2020,
+   "month": 1,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "STES2001.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STES2001.dbc",
   "datetime": "2020-05-08T12:01:00",

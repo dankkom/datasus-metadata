@@ -63,14 +63,14 @@
   "base-territorial": {
    "name": "Base Territorial",
    "source": "base-territorial",
-   "n_files": 14,
-   "total_size": 21942552,
+   "n_files": 15,
+   "total_size": 23878838,
    "partition_n_ufs": 1,
    "partition_period_start": null,
    "partition_period_end": null,
    "partition_n_periods": 0,
    "partition_periodicity": null,
-   "latest_update": "2025-02-18T14:30:00"
+   "latest_update": "2025-04-03T17:40:00"
   },
   "cih-cr": {
    "name": "Comunicação de Internação Hospitalar",
@@ -243,14 +243,14 @@
   "cnes-st": {
    "name": "Estabelecimentos",
    "source": "cnes",
-   "n_files": 6337,
-   "total_size": 2962440370,
+   "n_files": 6344,
+   "total_size": 2964077667,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
    "partition_period_end": "2025-02",
    "partition_n_periods": 235,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-03-14T15:15:00"
+   "latest_update": "2025-04-03T16:40:00"
   },
   "pce": {
    "name": "Programa de Controle da Esquistossomose",
@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 74888182,
+   "total_size": 75284134,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2025",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-03-27T14:58:00"
+   "latest_update": "2025-04-01T17:06:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 1239430987,
+   "total_size": 1242310615,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-03-27T16:08:00"
+   "latest_update": "2025-04-01T17:06:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 10,
-   "total_size": 9481180,
+   "total_size": 9499021,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2025",
    "partition_n_periods": 10,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-03-27T14:57:00"
+   "latest_update": "2025-04-01T17:07:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
