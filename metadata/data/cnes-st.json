@@ -71250,6 +71250,21 @@
   "preliminary": false
  },
  {
+  "filename": "STSP2003.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STSP2003.dbc",
+  "datetime": "2025-04-04T13:29:00",
+  "extension": "dbc",
+  "size": 3274759,
+  "dataset": "cnes-st",
+  "partition": {
+   "uf": "sp",
+   "year": 2020,
+   "month": 3,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "STTO2003.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STTO2003.dbc",
   "datetime": "2020-05-12T06:18:00",
