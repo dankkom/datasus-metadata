@@ -87,14 +87,14 @@
   "ciha": {
    "name": "Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "source": "ciha",
-   "n_files": 4359,
-   "total_size": 4729699175,
+   "n_files": 4360,
+   "total_size": 4732190984,
    "partition_n_ufs": 26,
    "partition_period_start": "2011-01",
    "partition_period_end": "2025-02",
    "partition_n_periods": 170,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-04-04T14:42:00"
+   "latest_update": "2025-04-08T15:20:00"
   },
   "cnes-dc": {
    "name": "Dados Complementares",
@@ -303,50 +303,50 @@
   "sia-abo": {
    "name": "APAC Acompanhamento Pós Cirurgia Bariátrica",
    "source": "sia",
-   "n_files": 1366,
-   "total_size": 34035801,
+   "n_files": 1379,
+   "total_size": 34259660,
    "partition_n_ufs": 17,
    "partition_period_start": "2014-01",
-   "partition_period_end": "2025-01",
-   "partition_n_periods": 133,
+   "partition_period_end": "2025-02",
+   "partition_n_periods": 134,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-03-07T18:56:00"
+   "latest_update": "2025-04-08T06:54:00"
   },
   "sia-acf": {
    "name": "APAC Confeção de Fístula Arteriovenosa",
    "source": "sia",
-   "n_files": 3290,
-   "total_size": 28181498,
+   "n_files": 3317,
+   "total_size": 28423043,
    "partition_n_ufs": 27,
    "partition_period_start": "2014-08",
-   "partition_period_end": "2025-01",
-   "partition_n_periods": 126,
+   "partition_period_end": "2025-02",
+   "partition_n_periods": 127,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-03-07T18:56:00"
+   "latest_update": "2025-04-08T06:54:00"
   },
   "sia-ad": {
    "name": "APAC de Laudos Diversos",
    "source": "sia",
-   "n_files": 5533,
-   "total_size": 2828579626,
+   "n_files": 5560,
+   "total_size": 2862474774,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2025-01",
-   "partition_n_periods": 205,
+   "partition_period_end": "2025-02",
+   "partition_n_periods": 206,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-03-07T18:56:00"
+   "latest_update": "2025-04-08T06:54:00"
   },
   "sia-am": {
    "name": "APAC de Medicamentos",
    "source": "sia",
-   "n_files": 5474,
-   "total_size": 15630099686,
+   "n_files": 5502,
+   "total_size": 15859857146,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2025-01",
-   "partition_n_periods": 205,
+   "partition_period_end": "2025-02",
+   "partition_n_periods": 206,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-03-07T18:57:00"
+   "latest_update": "2025-04-08T06:54:00"
   },
   "sia-an": {
    "name": "APAC de Nefrologia",
@@ -363,62 +363,62 @@
   "sia-aq": {
    "name": "APAC de Quimioterapia",
    "source": "sia",
-   "n_files": 5494,
-   "total_size": 4444808276,
+   "n_files": 5521,
+   "total_size": 4490107993,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2025-01",
-   "partition_n_periods": 205,
+   "partition_period_end": "2025-02",
+   "partition_n_periods": 206,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-03-07T18:57:00"
+   "latest_update": "2025-04-08T06:55:00"
   },
   "sia-ar": {
    "name": "APAC de Radioterapia",
    "source": "sia",
-   "n_files": 5008,
-   "total_size": 335643871,
+   "n_files": 5033,
+   "total_size": 336899918,
    "partition_n_ufs": 25,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2025-01",
-   "partition_n_periods": 205,
+   "partition_period_end": "2025-02",
+   "partition_n_periods": 206,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-03-07T18:57:00"
+   "latest_update": "2025-04-08T06:55:00"
   },
   "sia-atd": {
    "name": "APAC de Tratamento Dialítico",
    "source": "sia",
-   "n_files": 3398,
-   "total_size": 904062370,
+   "n_files": 3425,
+   "total_size": 913004745,
    "partition_n_ufs": 27,
    "partition_period_start": "2014-08",
-   "partition_period_end": "2025-01",
-   "partition_n_periods": 126,
+   "partition_period_end": "2025-02",
+   "partition_n_periods": 127,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-03-07T18:57:00"
+   "latest_update": "2025-04-08T06:55:00"
   },
   "sia-pa": {
    "name": "Produção Ambulatorial",
    "source": "sia",
-   "n_files": 10224,
-   "total_size": 174175812701,
+   "n_files": 10255,
+   "total_size": 176619155808,
    "partition_n_ufs": 27,
    "partition_period_start": "1994-07",
-   "partition_period_end": "2025-01",
-   "partition_n_periods": 367,
+   "partition_period_end": "2025-02",
+   "partition_n_periods": 368,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-03-07T19:02:00"
+   "latest_update": "2025-04-08T07:10:00"
   },
   "sia-ps": {
    "name": "Psicossocial",
    "source": "sia",
-   "n_files": 3908,
-   "total_size": 2719539214,
+   "n_files": 3935,
+   "total_size": 2752127693,
    "partition_n_ufs": 27,
    "partition_period_start": "2012-11",
-   "partition_period_end": "2025-01",
-   "partition_n_periods": 147,
+   "partition_period_end": "2025-02",
+   "partition_n_periods": 148,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-03-07T19:02:00"
+   "latest_update": "2025-04-08T07:11:00"
   },
   "sia-sad": {
    "name": "Atenção Domiciliar",
@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 75284134,
+   "total_size": 75525670,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2025",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-04-01T17:06:00"
+   "latest_update": "2025-04-07T11:44:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 1242310615,
+   "total_size": 1246471580,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-04-01T17:06:00"
+   "latest_update": "2025-04-07T11:44:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 10,
-   "total_size": 9499021,
+   "total_size": 9527127,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2025",
    "partition_n_periods": 10,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-04-01T17:07:00"
+   "latest_update": "2025-04-08T10:27:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
