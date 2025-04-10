@@ -1227,14 +1227,14 @@
   "sinan-tube": {
    "name": "Tuberculose",
    "source": "sinan",
-   "n_files": 23,
-   "total_size": 102512336,
+   "n_files": 24,
+   "total_size": 109836843,
    "partition_n_ufs": 1,
    "partition_period_start": "2001",
-   "partition_period_end": "2023",
-   "partition_n_periods": 23,
+   "partition_period_end": "2024",
+   "partition_n_periods": 24,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-10-18T16:42:00"
+   "latest_update": "2025-04-07T14:35:00"
   },
   "sinan-varc": {
    "name": "Varicela",

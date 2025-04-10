@@ -271,7 +271,7 @@
  },
  {
   "filename": "TUBEBR19.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TUBEBR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TUBEBR19.dbc",
   "datetime": "2024-10-18T16:42:00",
   "extension": "dbc",
   "size": 5477792,
@@ -282,14 +282,14 @@
    "month": null,
    "version": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "TUBEBR20.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TUBEBR20.dbc",
-  "datetime": "2024-10-18T16:42:00",
+  "datetime": "2025-04-07T14:35:00",
   "extension": "dbc",
-  "size": 4936869,
+  "size": 5215171,
   "dataset": "sinan-tube",
   "partition": {
    "uf": "br",
@@ -302,9 +302,9 @@
  {
   "filename": "TUBEBR21.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TUBEBR21.dbc",
-  "datetime": "2024-10-18T16:42:00",
+  "datetime": "2025-04-07T14:35:00",
   "extension": "dbc",
-  "size": 5267292,
+  "size": 5540151,
   "dataset": "sinan-tube",
   "partition": {
    "uf": "br",
@@ -317,9 +317,9 @@
  {
   "filename": "TUBEBR22.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TUBEBR22.dbc",
-  "datetime": "2024-10-18T16:42:00",
+  "datetime": "2025-04-07T14:35:00",
   "extension": "dbc",
-  "size": 5963152,
+  "size": 6252308,
   "dataset": "sinan-tube",
   "partition": {
    "uf": "br",
@@ -332,13 +332,28 @@
  {
   "filename": "TUBEBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TUBEBR23.dbc",
-  "datetime": "2024-10-18T16:42:00",
+  "datetime": "2025-04-07T14:35:00",
   "extension": "dbc",
-  "size": 6276121,
+  "size": 6574281,
   "dataset": "sinan-tube",
   "partition": {
    "uf": "br",
    "year": 2023,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "TUBEBR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TUBEBR24.dbc",
+  "datetime": "2025-04-07T14:35:00",
+  "extension": "dbc",
+  "size": 6186030,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
    "month": null,
    "version": null
   },
