@@ -211,14 +211,29 @@
  },
  {
   "filename": "VIOLBR23.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/VIOLBR23.dbc",
-  "datetime": "2024-07-16T16:23:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/VIOLBR23.dbc",
+  "datetime": "2025-04-07T08:16:00",
   "extension": "dbc",
-  "size": 38880103,
+  "size": 37545898,
   "dataset": "sinan-viol",
   "partition": {
    "uf": "br",
    "year": 2023,
+   "month": null,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "VIOLBR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/VIOLBR24.dbc",
+  "datetime": "2025-04-07T08:16:00",
+  "extension": "dbc",
+  "size": 36945118,
+  "dataset": "sinan-viol",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
    "month": null,
    "version": null
   },
