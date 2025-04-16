@@ -52,13 +52,13 @@
    "name": "Base Territorial - Mapas",
    "source": "base-territorial",
    "n_files": 83,
-   "total_size": 141684549,
+   "total_size": 131672738,
    "partition_n_ufs": 28,
    "partition_period_start": "1991",
    "partition_period_end": "2013",
    "partition_n_periods": 6,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-03-18T16:56:00"
+   "latest_update": "2025-04-15T15:45:00"
   },
   "base-territorial": {
    "name": "Base Territorial",
@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 75525670,
+   "total_size": 75679967,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2025",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-04-07T11:44:00"
+   "latest_update": "2025-04-14T16:04:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -736,25 +736,25 @@
    "name": "Coqueluche",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 9888040,
+   "total_size": 9960350,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-03-31T15:42:00"
+   "latest_update": "2025-04-14T09:01:00"
   },
   "sinan-deng": {
    "name": "Dengue",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 1246471580,
+   "total_size": 1250441765,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-04-07T11:44:00"
+   "latest_update": "2025-04-14T16:04:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1107,14 +1107,14 @@
   "sinan-sdta": {
    "name": "Surto Doenças Transmitidas por Alimentos",
    "source": "sinan",
-   "n_files": 14,
-   "total_size": 841614,
+   "n_files": 16,
+   "total_size": 1098003,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2021",
-   "partition_n_periods": 14,
+   "partition_period_end": "2023",
+   "partition_n_periods": 16,
    "partition_periodicity": "yearly",
-   "latest_update": "2023-02-06T15:45:00"
+   "latest_update": "2025-02-18T10:49:00"
   },
   "sinan-sifa": {
    "name": "Sífilis Adquirida",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 10,
-   "total_size": 9527127,
+   "total_size": 9549724,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2025",
    "partition_n_periods": 10,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-04-08T10:27:00"
+   "latest_update": "2025-04-14T16:04:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",

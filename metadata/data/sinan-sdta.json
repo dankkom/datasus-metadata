@@ -208,5 +208,35 @@
    "version": null
   },
   "preliminary": true
+ },
+ {
+  "filename": "SDTABR22.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SDTABR22.dbc",
+  "datetime": "2025-02-18T10:49:00",
+  "extension": "dbc",
+  "size": 107696,
+  "dataset": "sinan-sdta",
+  "partition": {
+   "uf": "br",
+   "year": 2022,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "SDTABR23.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SDTABR23.dbc",
+  "datetime": "2025-02-18T10:49:00",
+  "extension": "dbc",
+  "size": 148693,
+  "dataset": "sinan-sdta",
+  "partition": {
+   "uf": "br",
+   "year": 2023,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
  }
 ]
