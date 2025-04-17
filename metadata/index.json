@@ -63,14 +63,14 @@
   "base-territorial": {
    "name": "Base Territorial",
    "source": "base-territorial",
-   "n_files": 15,
-   "total_size": 23878838,
+   "n_files": 16,
+   "total_size": 25716620,
    "partition_n_ufs": 1,
    "partition_period_start": null,
    "partition_period_end": null,
    "partition_n_periods": 0,
    "partition_periodicity": null,
-   "latest_update": "2025-04-03T17:40:00"
+   "latest_update": "2025-04-16T20:16:00"
   },
   "cih-cr": {
    "name": "Comunicação de Internação Hospitalar",
@@ -268,13 +268,13 @@
    "name": "Painel de Oncologia",
    "source": "po",
    "n_files": 13,
-   "total_size": 309531519,
+   "total_size": 175338969,
    "partition_n_ufs": 1,
    "partition_period_start": "2013",
    "partition_period_end": "2025",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-03-18T10:20:00"
+   "latest_update": "2025-04-16T11:41:00"
   },
   "resp": {
    "name": "Notificações de casos suspeitos de SCZ",
