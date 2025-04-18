@@ -88,13 +88,13 @@
    "name": "Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "source": "ciha",
    "n_files": 4360,
-   "total_size": 4732190984,
+   "total_size": 4905831641,
    "partition_n_ufs": 26,
    "partition_period_start": "2011-01",
    "partition_period_end": "2025-02",
    "partition_n_periods": 170,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-04-08T15:20:00"
+   "latest_update": "2025-04-17T12:38:00"
   },
   "cnes-dc": {
    "name": "Dados Complementares",
@@ -1432,9 +1432,9 @@
   },
   "sinan": {
    "source_name": "SINAN: Sistema de Informação de Agravos de Notificação",
-   "n_files": 5,
-   "total_size": 66984315,
-   "latest_update": "2025-04-04T15:35:00"
+   "n_files": 7,
+   "total_size": 67085597,
+   "latest_update": "2025-04-17T15:10:00"
   },
   "sinasc-anterior": {
    "source_name": null,
