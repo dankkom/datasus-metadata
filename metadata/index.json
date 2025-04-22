@@ -1419,13 +1419,13 @@
    "latest_update": "2016-05-11T12:19:00"
   },
   "sim-cid09": {
-   "source_name": null,
+   "source_name": "SIM: Sistema de Informação de Mortalidade",
    "n_files": 4,
    "total_size": 3190564,
    "latest_update": "2018-06-05T16:27:00"
   },
   "sim-cid10": {
-   "source_name": null,
+   "source_name": "SIM: Sistema de Informação de Mortalidade",
    "n_files": 5,
    "total_size": 3767981,
    "latest_update": "2020-03-11T14:48:00"
@@ -1437,13 +1437,13 @@
    "latest_update": "2025-04-17T15:10:00"
   },
   "sinasc-anterior": {
-   "source_name": null,
+   "source_name": "SINASC: Sistema de Informação de Nascidos Vivos",
    "n_files": 1,
    "total_size": 77087,
    "latest_update": "2011-08-24T11:34:00"
   },
   "sinasc-nova": {
-   "source_name": null,
+   "source_name": "SINASC: Sistema de Informação de Nascidos Vivos",
    "n_files": 3,
    "total_size": 1014972,
    "latest_update": "2011-08-24T11:48:00"
@@ -1511,13 +1511,13 @@
    "latest_update": "2025-04-14T22:58:00"
   },
   "sim-cid09": {
-   "source_name": null,
+   "source_name": "SIM: Sistema de Informação de Mortalidade",
    "n_files": 1,
    "total_size": 431152,
    "latest_update": "2015-05-19T22:14:00"
   },
   "sim-cid10": {
-   "source_name": null,
+   "source_name": "SIM: Sistema de Informação de Mortalidade",
    "n_files": 1,
    "total_size": 6410964,
    "latest_update": "2025-01-21T23:09:00"
@@ -1529,13 +1529,13 @@
    "latest_update": "2025-01-23T16:46:00"
   },
   "sinasc-anterior": {
-   "source_name": null,
+   "source_name": "SINASC: Sistema de Informação de Nascidos Vivos",
    "n_files": 1,
    "total_size": 435383,
    "latest_update": "2015-05-19T22:15:00"
   },
   "sinasc-nova": {
-   "source_name": null,
+   "source_name": "SINASC: Sistema de Informação de Nascidos Vivos",
    "n_files": 1,
    "total_size": 2581079,
    "latest_update": "2025-02-27T17:21:00"
