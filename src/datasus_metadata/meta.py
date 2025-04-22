@@ -2113,10 +2113,22 @@ datasets_sources = {
     "sim": {
         "name": "SIM: Sistema de Informação de Mortalidade",
     },
+    "sim-cid09": {
+        "name": "SIM: Sistema de Informação de Mortalidade",
+    },
+    "sim-cid10": {
+        "name": "SIM: Sistema de Informação de Mortalidade",
+    },
     "sinan": {
         "name": "SINAN: Sistema de Informação de Agravos de Notificação",
     },
     "sinasc": {
+        "name": "SINASC: Sistema de Informação de Nascidos Vivos",
+    },
+    "sinasc-anterior": {
+        "name": "SINASC: Sistema de Informação de Nascidos Vivos",
+    },
+    "sinasc-nova": {
         "name": "SINASC: Sistema de Informação de Nascidos Vivos",
     },
     "siscolo": {
