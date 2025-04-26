@@ -651,14 +651,14 @@
   "sinan-anim": {
    "name": "Acidente por Animais Peçonhentos",
    "source": "sinan",
-   "n_files": 17,
-   "total_size": 133738934,
+   "n_files": 18,
+   "total_size": 146319281,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2023",
-   "partition_n_periods": 17,
+   "partition_period_end": "2024",
+   "partition_n_periods": 18,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-06-24T08:15:00"
+   "latest_update": "2025-04-15T16:09:00"
   },
   "sinan-antr": {
    "name": "Atendimento Antirrábico",
