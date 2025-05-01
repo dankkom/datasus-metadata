@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 76272942,
+   "total_size": 76587304,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2025",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-04-22T16:05:00"
+   "latest_update": "2025-04-28T16:57:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 1256762628,
+   "total_size": 1251020710,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-04-22T16:05:00"
+   "latest_update": "2025-04-28T16:56:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 10,
-   "total_size": 9549724,
+   "total_size": 9572880,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2025",
    "partition_n_periods": 10,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-04-14T16:04:00"
+   "latest_update": "2025-04-30T11:45:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
@@ -1465,8 +1465,8 @@
   "ciha": {
    "source_name": "CIHA: Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "n_files": 1,
-   "total_size": 61819004,
-   "latest_update": "2025-04-14T21:49:00"
+   "total_size": 61014055,
+   "latest_update": "2025-04-30T18:10:00"
   },
   "cmd": {
    "source_name": "CMD: Conjunto Mínimo de Dados",
@@ -1501,14 +1501,14 @@
   "sia": {
    "source_name": "SIA: Sistema de Informações Ambulatoriais",
    "n_files": 4,
-   "total_size": 82558876,
-   "latest_update": "2025-04-23T10:32:00"
+   "total_size": 82550258,
+   "latest_update": "2025-04-30T18:05:00"
   },
   "sih": {
    "source_name": "SIH: Sistema de Informação Hospitalar",
    "n_files": 4,
-   "total_size": 15110922,
-   "latest_update": "2025-04-14T22:58:00"
+   "total_size": 16849395,
+   "latest_update": "2025-04-30T18:08:00"
   },
   "sim-cid09": {
    "source_name": "SIM: Sistema de Informação de Mortalidade",
