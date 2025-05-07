@@ -603,26 +603,26 @@
   "sinan-acbi": {
    "name": "Acidente de trabalho com material biológico",
    "source": "sinan",
-   "n_files": 19,
-   "total_size": 46338578,
+   "n_files": 20,
+   "total_size": 48933257,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
-   "partition_period_end": "2024",
-   "partition_n_periods": 19,
+   "partition_period_end": "2025",
+   "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-19T18:43:00"
+   "latest_update": "2025-05-06T12:10:00"
   },
   "sinan-acgr": {
    "name": "Acidente de trabalho",
    "source": "sinan",
-   "n_files": 19,
-   "total_size": 117854496,
+   "n_files": 20,
+   "total_size": 133518857,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
-   "partition_period_end": "2024",
-   "partition_n_periods": 19,
+   "partition_period_end": "2025",
+   "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-19T18:28:00"
+   "latest_update": "2025-05-06T16:05:00"
   },
   "sinan-aida": {
    "name": "AIDS em adultos",
@@ -687,14 +687,14 @@
   "sinan-canc": {
    "name": "Câncer relacionado ao trabalho",
    "source": "sinan",
-   "n_files": 18,
-   "total_size": 326240,
+   "n_files": 19,
+   "total_size": 397264,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2024",
-   "partition_n_periods": 18,
+   "partition_period_end": "2025",
+   "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-19T18:15:00"
+   "latest_update": "2025-05-06T16:06:00"
   },
   "sinan-chag": {
    "name": "Doença de Chagas Aguda",
@@ -759,14 +759,14 @@
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
    "source": "sinan",
-   "n_files": 19,
-   "total_size": 525380,
+   "n_files": 20,
+   "total_size": 554385,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
-   "partition_period_end": "2024",
-   "partition_n_periods": 19,
+   "partition_period_end": "2025",
+   "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-19T18:02:00"
+   "latest_update": "2025-05-06T12:01:00"
   },
   "sinan-dift": {
    "name": "Difteria",
@@ -927,14 +927,14 @@
   "sinan-iexo": {
    "name": "Intoxicação Exógena",
    "source": "sinan",
-   "n_files": 19,
-   "total_size": 157640737,
+   "n_files": 20,
+   "total_size": 169398723,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
-   "partition_period_end": "2024",
-   "partition_n_periods": 19,
+   "partition_period_end": "2025",
+   "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-19T17:26:00"
+   "latest_update": "2025-05-06T12:02:00"
   },
   "sinan-leiv": {
    "name": "Leishmaniose Visceral",
@@ -963,14 +963,14 @@
   "sinan-lerd": {
    "name": "LER/Dort",
    "source": "sinan",
-   "n_files": 19,
-   "total_size": 6858290,
+   "n_files": 20,
+   "total_size": 7292759,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
-   "partition_period_end": "2024",
-   "partition_n_periods": 19,
+   "partition_period_end": "2025",
+   "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-19T17:04:00"
+   "latest_update": "2025-05-06T12:02:00"
   },
   "sinan-ltan": {
    "name": "Leishmaniose Tegumentar Americana",
@@ -1011,14 +1011,14 @@
   "sinan-ment": {
    "name": "Transtornos mentais relacionados ao trabalho",
    "source": "sinan",
-   "n_files": 19,
-   "total_size": 1256669,
+   "n_files": 20,
+   "total_size": 1419919,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
-   "partition_period_end": "2024",
-   "partition_n_periods": 19,
+   "partition_period_end": "2025",
+   "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-19T16:04:00"
+   "latest_update": "2025-05-06T12:03:00"
   },
   "sinan-ntra": {
    "name": "Notificação de Tracoma",
@@ -1035,14 +1035,14 @@
   "sinan-pair": {
    "name": "Perda auditiva por ruído relacionado ao trabalho",
    "source": "sinan",
-   "n_files": 19,
-   "total_size": 532443,
+   "n_files": 20,
+   "total_size": 554115,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
-   "partition_period_end": "2024",
-   "partition_n_periods": 19,
+   "partition_period_end": "2025",
+   "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-19T16:15:00"
+   "latest_update": "2025-05-06T12:03:00"
   },
   "sinan-pest": {
    "name": "Peste",
@@ -1071,14 +1071,14 @@
   "sinan-pneu": {
    "name": "Pneumoconioses relacionadas ao trabalho",
    "source": "sinan",
-   "n_files": 19,
-   "total_size": 309056,
+   "n_files": 20,
+   "total_size": 322604,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
-   "partition_period_end": "2024",
-   "partition_n_periods": 19,
+   "partition_period_end": "2025",
+   "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-19T16:26:00"
+   "latest_update": "2025-05-06T12:03:00"
   },
   "sinan-raiv": {
    "name": "Raiva",

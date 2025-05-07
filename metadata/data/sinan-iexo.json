@@ -227,9 +227,9 @@
  {
   "filename": "IEXOBR21.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/IEXOBR21.dbc",
-  "datetime": "2023-08-29T21:03:00",
+  "datetime": "2025-05-06T12:02:00",
   "extension": "dbc",
-  "size": 11940066,
+  "size": 12048529,
   "dataset": "sinan-iexo",
   "partition": {
    "uf": "br",
@@ -242,9 +242,9 @@
  {
   "filename": "IEXOBR22.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/IEXOBR22.dbc",
-  "datetime": "2023-08-29T21:03:00",
+  "datetime": "2025-05-06T12:02:00",
   "extension": "dbc",
-  "size": 14411537,
+  "size": 14505073,
   "dataset": "sinan-iexo",
   "partition": {
    "uf": "br",
@@ -257,9 +257,9 @@
  {
   "filename": "IEXOBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/IEXOBR23.dbc",
-  "datetime": "2024-12-19T17:26:00",
+  "datetime": "2025-05-06T12:02:00",
   "extension": "dbc",
-  "size": 18305336,
+  "size": 18304544,
   "dataset": "sinan-iexo",
   "partition": {
    "uf": "br",
@@ -272,13 +272,28 @@
  {
   "filename": "IEXOBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/IEXOBR24.dbc",
-  "datetime": "2024-12-19T17:26:00",
+  "datetime": "2025-05-06T12:02:00",
   "extension": "dbc",
-  "size": 11169176,
+  "size": 18571125,
   "dataset": "sinan-iexo",
   "partition": {
    "uf": "br",
    "year": 2024,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "IEXOBR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/IEXOBR25.dbc",
+  "datetime": "2025-05-06T12:02:00",
+  "extension": "dbc",
+  "size": 4154830,
+  "dataset": "sinan-iexo",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
    "month": null,
    "version": null
   },

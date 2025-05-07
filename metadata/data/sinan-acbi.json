@@ -227,9 +227,9 @@
  {
   "filename": "ACBIBR21.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ACBIBR21.dbc",
-  "datetime": "2023-08-15T09:28:00",
+  "datetime": "2025-05-06T12:10:00",
   "extension": "dbc",
-  "size": 3402302,
+  "size": 3410560,
   "dataset": "sinan-acbi",
   "partition": {
    "uf": "br",
@@ -242,9 +242,9 @@
  {
   "filename": "ACBIBR22.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ACBIBR22.dbc",
-  "datetime": "2023-08-15T09:28:00",
+  "datetime": "2025-05-06T12:10:00",
   "extension": "dbc",
-  "size": 3553610,
+  "size": 3595719,
   "dataset": "sinan-acbi",
   "partition": {
    "uf": "br",
@@ -257,9 +257,9 @@
  {
   "filename": "ACBIBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ACBIBR23.dbc",
-  "datetime": "2024-12-19T18:43:00",
+  "datetime": "2025-05-06T12:10:00",
   "extension": "dbc",
-  "size": 4001795,
+  "size": 4017956,
   "dataset": "sinan-acbi",
   "partition": {
    "uf": "br",
@@ -272,13 +272,28 @@
  {
   "filename": "ACBIBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ACBIBR24.dbc",
-  "datetime": "2024-12-19T18:43:00",
+  "datetime": "2025-05-06T12:10:00",
   "extension": "dbc",
-  "size": 2684944,
+  "size": 4373737,
   "dataset": "sinan-acbi",
   "partition": {
    "uf": "br",
    "year": 2024,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "ACBIBR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ACBIBR25.dbc",
+  "datetime": "2025-05-06T12:10:00",
+  "extension": "dbc",
+  "size": 839358,
+  "dataset": "sinan-acbi",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
    "month": null,
    "version": null
   },

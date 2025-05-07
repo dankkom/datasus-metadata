@@ -227,9 +227,9 @@
  {
   "filename": "ACGRBR21.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ACGRBR21.dbc",
-  "datetime": "2023-08-15T09:29:00",
+  "datetime": "2025-05-06T16:05:00",
   "extension": "dbc",
-  "size": 10449832,
+  "size": 10512553,
   "dataset": "sinan-acgr",
   "partition": {
    "uf": "br",
@@ -242,9 +242,9 @@
  {
   "filename": "ACGRBR22.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ACGRBR22.dbc",
-  "datetime": "2023-08-15T09:29:00",
+  "datetime": "2025-05-06T16:05:00",
   "extension": "dbc",
-  "size": 14770116,
+  "size": 14868900,
   "dataset": "sinan-acgr",
   "partition": {
    "uf": "br",
@@ -257,9 +257,9 @@
  {
   "filename": "ACGRBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ACGRBR23.dbc",
-  "datetime": "2024-12-19T18:28:00",
+  "datetime": "2025-05-06T16:05:00",
   "extension": "dbc",
-  "size": 22569483,
+  "size": 22462383,
   "dataset": "sinan-acgr",
   "partition": {
    "uf": "br",
@@ -272,13 +272,28 @@
  {
   "filename": "ACGRBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ACGRBR24.dbc",
-  "datetime": "2024-12-19T18:28:00",
+  "datetime": "2025-05-06T16:05:00",
   "extension": "dbc",
-  "size": 15593207,
+  "size": 25673546,
   "dataset": "sinan-acgr",
   "partition": {
    "uf": "br",
    "year": 2024,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "ACGRBR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ACGRBR25.dbc",
+  "datetime": "2025-05-06T16:05:00",
+  "extension": "dbc",
+  "size": 5529617,
+  "dataset": "sinan-acgr",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
    "month": null,
    "version": null
   },
