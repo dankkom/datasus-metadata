@@ -736,13 +736,13 @@
    "name": "Coqueluche",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 9960350,
+   "total_size": 10063332,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-04-14T09:01:00"
+   "latest_update": "2025-05-09T08:47:00"
   },
   "sinan-deng": {
    "name": "Dengue",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 10,
-   "total_size": 9572880,
+   "total_size": 9617285,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2025",
    "partition_n_periods": 10,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-04-30T11:45:00"
+   "latest_update": "2025-05-09T11:30:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
