@@ -310,7 +310,7 @@
    "partition_period_end": "2025-03",
    "partition_n_periods": 135,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-11T12:00:00"
+   "latest_update": "2025-05-12T13:41:00"
   },
   "sia-acf": {
    "name": "APAC Confeção de Fístula Arteriovenosa",
@@ -322,7 +322,7 @@
    "partition_period_end": "2025-03",
    "partition_n_periods": 128,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-11T12:00:00"
+   "latest_update": "2025-05-12T13:41:00"
   },
   "sia-ad": {
    "name": "APAC de Laudos Diversos",
@@ -334,7 +334,7 @@
    "partition_period_end": "2025-03",
    "partition_n_periods": 207,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-11T12:00:00"
+   "latest_update": "2025-05-12T13:41:00"
   },
   "sia-am": {
    "name": "APAC de Medicamentos",
@@ -346,7 +346,7 @@
    "partition_period_end": "2025-03",
    "partition_n_periods": 207,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-11T12:00:00"
+   "latest_update": "2025-05-12T13:42:00"
   },
   "sia-an": {
    "name": "APAC de Nefrologia",
@@ -370,7 +370,7 @@
    "partition_period_end": "2025-03",
    "partition_n_periods": 207,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-11T12:00:00"
+   "latest_update": "2025-05-12T13:43:00"
   },
   "sia-ar": {
    "name": "APAC de Radioterapia",
@@ -382,19 +382,19 @@
    "partition_period_end": "2025-03",
    "partition_n_periods": 207,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-11T12:00:00"
+   "latest_update": "2025-05-12T13:43:00"
   },
   "sia-atd": {
    "name": "APAC de Tratamento Dialítico",
    "source": "sia",
-   "n_files": 3450,
-   "total_size": 923323448,
+   "n_files": 3451,
+   "total_size": 923359295,
    "partition_n_ufs": 27,
    "partition_period_start": "2014-08",
    "partition_period_end": "2025-03",
    "partition_n_periods": 128,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-11T12:00:00"
+   "latest_update": "2025-05-12T13:43:00"
   },
   "sia-pa": {
    "name": "Produção Ambulatorial",
@@ -1228,13 +1228,13 @@
    "name": "Tuberculose",
    "source": "sinan",
    "n_files": 24,
-   "total_size": 109836843,
+   "total_size": 110002414,
    "partition_n_ufs": 1,
    "partition_period_start": "2001",
    "partition_period_end": "2024",
    "partition_n_periods": 24,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-04-07T14:35:00"
+   "latest_update": "2025-05-09T11:14:00"
   },
   "sinan-varc": {
    "name": "Varicela",
