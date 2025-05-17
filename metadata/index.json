@@ -219,38 +219,38 @@
   "cnes-rc": {
    "name": "Regra Contratual",
    "source": "cnes",
-   "n_files": 5798,
-   "total_size": 71611926,
+   "n_files": 5825,
+   "total_size": 72164628,
    "partition_n_ufs": 27,
    "partition_period_start": "2007-03",
-   "partition_period_end": "2025-03",
-   "partition_n_periods": 217,
+   "partition_period_end": "2025-04",
+   "partition_n_periods": 218,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-04-14T10:57:00"
+   "latest_update": "2025-05-16T19:50:00"
   },
   "cnes-sr": {
    "name": "Serviço Especializado",
    "source": "cnes",
-   "n_files": 6370,
-   "total_size": 1477588734,
+   "n_files": 6397,
+   "total_size": 1487814187,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
-   "partition_period_end": "2025-03",
-   "partition_n_periods": 236,
+   "partition_period_end": "2025-04",
+   "partition_n_periods": 237,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-04-14T10:57:00"
+   "latest_update": "2025-05-16T19:49:00"
   },
   "cnes-st": {
    "name": "Estabelecimentos",
    "source": "cnes",
-   "n_files": 6372,
-   "total_size": 2988144069,
+   "n_files": 6399,
+   "total_size": 3009034047,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
-   "partition_period_end": "2025-03",
-   "partition_n_periods": 236,
+   "partition_period_end": "2025-04",
+   "partition_n_periods": 237,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-04-14T10:57:00"
+   "latest_update": "2025-05-16T19:49:00"
   },
   "pce": {
    "name": "Programa de Controle da Esquistossomose",
