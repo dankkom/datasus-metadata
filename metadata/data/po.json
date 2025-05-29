@@ -2,9 +2,9 @@
  {
   "filename": "POBR2013.dbc",
   "full_path": "/dissemin/publicos/PAINEL_ONCOLOGIA/DADOS/POBR2013.dbc",
-  "datetime": "2025-04-16T11:38:00",
+  "datetime": "2025-05-28T16:30:00",
   "extension": "dbc",
-  "size": 6862226,
+  "size": 6730190,
   "dataset": "po",
   "partition": {
    "uf": "br",
@@ -17,9 +17,9 @@
  {
   "filename": "POBR2014.dbc",
   "full_path": "/dissemin/publicos/PAINEL_ONCOLOGIA/DADOS/POBR2014.dbc",
-  "datetime": "2025-04-16T11:41:00",
+  "datetime": "2025-05-28T16:31:00",
   "extension": "dbc",
-  "size": 6887580,
+  "size": 6765254,
   "dataset": "po",
   "partition": {
    "uf": "br",
@@ -32,9 +32,9 @@
  {
   "filename": "POBR2015.dbc",
   "full_path": "/dissemin/publicos/PAINEL_ONCOLOGIA/DADOS/POBR2015.dbc",
-  "datetime": "2025-04-16T11:41:00",
+  "datetime": "2025-05-28T16:31:00",
   "extension": "dbc",
-  "size": 7003445,
+  "size": 6879660,
   "dataset": "po",
   "partition": {
    "uf": "br",
@@ -47,9 +47,9 @@
  {
   "filename": "POBR2016.dbc",
   "full_path": "/dissemin/publicos/PAINEL_ONCOLOGIA/DADOS/POBR2016.dbc",
-  "datetime": "2025-04-16T11:41:00",
+  "datetime": "2025-05-28T16:32:00",
   "extension": "dbc",
-  "size": 7236929,
+  "size": 7109826,
   "dataset": "po",
   "partition": {
    "uf": "br",
@@ -62,9 +62,9 @@
  {
   "filename": "POBR2017.dbc",
   "full_path": "/dissemin/publicos/PAINEL_ONCOLOGIA/DADOS/POBR2017.dbc",
-  "datetime": "2025-04-16T11:41:00",
+  "datetime": "2025-05-28T16:32:00",
   "extension": "dbc",
-  "size": 7513398,
+  "size": 7385317,
   "dataset": "po",
   "partition": {
    "uf": "br",
@@ -77,9 +77,9 @@
  {
   "filename": "POBR2018.dbc",
   "full_path": "/dissemin/publicos/PAINEL_ONCOLOGIA/DADOS/POBR2018.dbc",
-  "datetime": "2025-04-16T11:41:00",
+  "datetime": "2025-05-28T16:33:00",
   "extension": "dbc",
-  "size": 13003660,
+  "size": 12633759,
   "dataset": "po",
   "partition": {
    "uf": "br",
@@ -92,9 +92,9 @@
  {
   "filename": "POBR2019.dbc",
   "full_path": "/dissemin/publicos/PAINEL_ONCOLOGIA/DADOS/POBR2019.dbc",
-  "datetime": "2025-04-16T11:40:00",
+  "datetime": "2025-05-28T16:35:00",
   "extension": "dbc",
-  "size": 20076919,
+  "size": 19190149,
   "dataset": "po",
   "partition": {
    "uf": "br",
@@ -107,9 +107,9 @@
  {
   "filename": "POBR2020.dbc",
   "full_path": "/dissemin/publicos/PAINEL_ONCOLOGIA/DADOS/POBR2020.dbc",
-  "datetime": "2025-04-16T11:40:00",
+  "datetime": "2025-05-28T16:36:00",
   "extension": "dbc",
-  "size": 18214168,
+  "size": 17450061,
   "dataset": "po",
   "partition": {
    "uf": "br",
@@ -122,9 +122,9 @@
  {
   "filename": "POBR2021.dbc",
   "full_path": "/dissemin/publicos/PAINEL_ONCOLOGIA/DADOS/POBR2021.dbc",
-  "datetime": "2025-04-16T11:40:00",
+  "datetime": "2025-05-28T16:38:00",
   "extension": "dbc",
-  "size": 20322063,
+  "size": 19393276,
   "dataset": "po",
   "partition": {
    "uf": "br",
@@ -137,9 +137,9 @@
  {
   "filename": "POBR2022.dbc",
   "full_path": "/dissemin/publicos/PAINEL_ONCOLOGIA/DADOS/POBR2022.dbc",
-  "datetime": "2025-04-16T11:39:00",
+  "datetime": "2025-05-28T16:40:00",
   "extension": "dbc",
-  "size": 22362600,
+  "size": 21240301,
   "dataset": "po",
   "partition": {
    "uf": "br",
@@ -152,9 +152,9 @@
  {
   "filename": "POBR2023.dbc",
   "full_path": "/dissemin/publicos/PAINEL_ONCOLOGIA/DADOS/POBR2023.dbc",
-  "datetime": "2025-04-16T11:39:00",
+  "datetime": "2025-05-28T16:42:00",
   "extension": "dbc",
-  "size": 23697813,
+  "size": 22478507,
   "dataset": "po",
   "partition": {
    "uf": "br",
@@ -167,7 +167,7 @@
  {
   "filename": "POBR2024.dbc",
   "full_path": "/dissemin/publicos/PAINEL_ONCOLOGIA/DADOS/POBR2024.dbc",
-  "datetime": "2025-04-16T11:39:00",
+  "datetime": "2025-05-28T16:43:00",
   "extension": "dbc",
   "size": 20607503,
   "dataset": "po",
@@ -182,7 +182,7 @@
  {
   "filename": "POBR2025.dbc",
   "full_path": "/dissemin/publicos/PAINEL_ONCOLOGIA/DADOS/POBR2025.dbc",
-  "datetime": "2025-04-16T11:38:00",
+  "datetime": "2025-05-28T16:44:00",
   "extension": "dbc",
   "size": 1550665,
   "dataset": "po",

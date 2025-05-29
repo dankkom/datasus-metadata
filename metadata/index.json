@@ -268,13 +268,13 @@
    "name": "Painel de Oncologia",
    "source": "po",
    "n_files": 13,
-   "total_size": 175338969,
+   "total_size": 169414468,
    "partition_n_ufs": 1,
    "partition_period_start": "2013",
    "partition_period_end": "2025",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-04-16T11:41:00"
+   "latest_update": "2025-05-28T16:44:00"
   },
   "resp": {
    "name": "Notificações de casos suspeitos de SCZ",
@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 77014699,
+   "total_size": 79218894,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2025",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-05-20T15:23:00"
+   "latest_update": "2025-05-27T16:28:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -736,25 +736,25 @@
    "name": "Coqueluche",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 10063332,
+   "total_size": 10131941,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-05-09T08:47:00"
+   "latest_update": "2025-05-26T16:14:00"
   },
   "sinan-deng": {
    "name": "Dengue",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 1262924970,
+   "total_size": 1272665432,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-05-20T15:23:00"
+   "latest_update": "2025-05-27T16:29:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 10,
-   "total_size": 9643657,
+   "total_size": 9672650,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2025",
    "partition_n_periods": 10,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-05-20T15:23:00"
+   "latest_update": "2025-05-27T16:29:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
