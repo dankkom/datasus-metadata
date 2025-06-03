@@ -268,13 +268,13 @@
    "name": "Painel de Oncologia",
    "source": "po",
    "n_files": 13,
-   "total_size": 169414468,
+   "total_size": 169713992,
    "partition_n_ufs": 1,
    "partition_period_start": "2013",
    "partition_period_end": "2025",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-05-28T16:44:00"
+   "latest_update": "2025-06-02T14:52:00"
   },
   "resp": {
    "name": "Notificações de casos suspeitos de SCZ",
