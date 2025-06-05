@@ -87,14 +87,14 @@
   "ciha": {
    "name": "Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "source": "ciha",
-   "n_files": 4398,
-   "total_size": 4953602199,
+   "n_files": 4411,
+   "total_size": 4978834813,
    "partition_n_ufs": 26,
    "partition_period_start": "2011-01",
    "partition_period_end": "2025-04",
    "partition_n_periods": 172,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-15T15:02:00"
+   "latest_update": "2025-06-04T15:45:00"
   },
   "cnes-dc": {
    "name": "Dados Complementares",
@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 79218894,
+   "total_size": 78994917,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2025",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-05-27T16:28:00"
+   "latest_update": "2025-06-03T09:25:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 1272665432,
+   "total_size": 1273914831,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-05-27T16:29:00"
+   "latest_update": "2025-06-03T09:26:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1191,26 +1191,26 @@
   "sinan-toxc": {
    "name": "Toxoplasmose Congênita",
    "source": "sinan",
-   "n_files": 6,
-   "total_size": 818575,
+   "n_files": 7,
+   "total_size": 905083,
    "partition_n_ufs": 1,
    "partition_period_start": "2019",
-   "partition_period_end": "2024",
-   "partition_n_periods": 6,
+   "partition_period_end": "2025",
+   "partition_n_periods": 7,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-10-30T17:01:00"
+   "latest_update": "2025-06-03T10:11:00"
   },
   "sinan-toxg": {
    "name": "Toxoplasmose Gestacional",
    "source": "sinan",
-   "n_files": 6,
-   "total_size": 2444820,
+   "n_files": 7,
+   "total_size": 2871521,
    "partition_n_ufs": 1,
    "partition_period_start": "2019",
-   "partition_period_end": "2024",
-   "partition_n_periods": 6,
+   "partition_period_end": "2025",
+   "partition_n_periods": 7,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-10-30T17:08:00"
+   "latest_update": "2025-06-03T10:11:00"
   },
   "sinan-trac": {
    "name": "Inquérito de Tracoma",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 10,
-   "total_size": 9672650,
+   "total_size": 9698329,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2025",
    "partition_n_periods": 10,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-05-27T16:29:00"
+   "latest_update": "2025-06-03T09:26:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
