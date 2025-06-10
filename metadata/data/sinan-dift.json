@@ -137,7 +137,7 @@
  {
   "filename": "DIFTBR16.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/DIFTBR16.dbc",
-  "datetime": "2023-03-15T12:07:00",
+  "datetime": "2025-05-27T11:58:00",
   "extension": "dbc",
   "size": 6758,
   "dataset": "sinan-dift",
@@ -226,14 +226,59 @@
  },
  {
   "filename": "DIFTBR22.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/DIFTBR22.dbc",
-  "datetime": "2023-03-15T12:08:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/DIFTBR22.dbc",
+  "datetime": "2025-05-27T11:58:00",
   "extension": "dbc",
-  "size": 5871,
+  "size": 5847,
   "dataset": "sinan-dift",
   "partition": {
    "uf": "br",
    "year": 2022,
+   "month": null,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "DIFTBR23.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/DIFTBR23.dbc",
+  "datetime": "2025-05-27T11:58:00",
+  "extension": "dbc",
+  "size": 7581,
+  "dataset": "sinan-dift",
+  "partition": {
+   "uf": "br",
+   "year": 2023,
+   "month": null,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "DIFTBR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/DIFTBR24.dbc",
+  "datetime": "2025-05-27T11:58:00",
+  "extension": "dbc",
+  "size": 7628,
+  "dataset": "sinan-dift",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "DIFTBR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/DIFTBR25.dbc",
+  "datetime": "2025-05-27T11:58:00",
+  "extension": "dbc",
+  "size": 4492,
+  "dataset": "sinan-dift",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
    "month": null,
    "version": null
   },

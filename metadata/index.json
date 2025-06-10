@@ -771,14 +771,14 @@
   "sinan-dift": {
    "name": "Difteria",
    "source": "sinan",
-   "n_files": 16,
-   "total_size": 123305,
+   "n_files": 19,
+   "total_size": 142982,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2022",
-   "partition_n_periods": 16,
+   "partition_period_end": "2025",
+   "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2023-03-15T12:08:00"
+   "latest_update": "2025-05-27T11:58:00"
   },
   "sinan-espo": {
    "name": "Esporotricose (Epizootia)",
@@ -1276,13 +1276,13 @@
    "name": "Declarações de nascidos vivos",
    "source": "sinasc",
    "n_files": 838,
-   "total_size": 6411717487,
+   "total_size": 6427298031,
    "partition_n_ufs": 28,
    "partition_period_start": "1994",
    "partition_period_end": "2023",
    "partition_n_periods": 30,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-01-24T11:05:00"
+   "latest_update": "2025-06-09T09:40:00"
   },
   "sinasc-dnex": {
    "name": "Declarações de nascidos vivos no exterior",
@@ -1426,9 +1426,9 @@
   },
   "sim-cid10": {
    "source_name": "SIM: Sistema de Informação de Mortalidade",
-   "n_files": 5,
-   "total_size": 3767981,
-   "latest_update": "2020-03-11T14:48:00"
+   "n_files": 6,
+   "total_size": 4403520,
+   "latest_update": "2025-06-09T11:29:00"
   },
   "sinan": {
    "source_name": "SINAN: Sistema de Informação de Agravos de Notificação",
