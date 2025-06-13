@@ -736,13 +736,13 @@
    "name": "Coqueluche",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 10131941,
+   "total_size": 10171716,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-05-26T16:14:00"
+   "latest_update": "2025-06-10T14:15:00"
   },
   "sinan-deng": {
    "name": "Dengue",
@@ -1167,14 +1167,14 @@
   "sinan-teta": {
    "name": "Tétano Acidental",
    "source": "sinan",
-   "n_files": 16,
-   "total_size": 596206,
+   "n_files": 19,
+   "total_size": 692442,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2022",
-   "partition_n_periods": 16,
+   "partition_period_end": "2025",
+   "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2023-02-27T16:42:00"
+   "latest_update": "2025-06-10T16:08:00"
   },
   "sinan-tetn": {
    "name": "Tétano Neonatal",

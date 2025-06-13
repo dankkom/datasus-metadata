@@ -107,9 +107,9 @@
  {
   "filename": "TETABR14.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETABR14.dbc",
-  "datetime": "2023-02-17T11:25:00",
+  "datetime": "2025-06-04T14:56:00",
   "extension": "dbc",
-  "size": 34355,
+  "size": 33401,
   "dataset": "sinan-teta",
   "partition": {
    "uf": "br",
@@ -122,9 +122,9 @@
  {
   "filename": "TETABR15.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETABR15.dbc",
-  "datetime": "2023-02-17T11:25:00",
+  "datetime": "2025-06-04T14:56:00",
   "extension": "dbc",
-  "size": 31605,
+  "size": 30686,
   "dataset": "sinan-teta",
   "partition": {
    "uf": "br",
@@ -137,9 +137,9 @@
  {
   "filename": "TETABR16.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETABR16.dbc",
-  "datetime": "2023-02-17T11:25:00",
+  "datetime": "2025-06-04T14:56:00",
   "extension": "dbc",
-  "size": 28337,
+  "size": 27546,
   "dataset": "sinan-teta",
   "partition": {
    "uf": "br",
@@ -152,9 +152,9 @@
  {
   "filename": "TETABR17.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETABR17.dbc",
-  "datetime": "2023-02-17T11:25:00",
+  "datetime": "2025-06-04T14:56:00",
   "extension": "dbc",
-  "size": 27307,
+  "size": 26561,
   "dataset": "sinan-teta",
   "partition": {
    "uf": "br",
@@ -167,9 +167,9 @@
  {
   "filename": "TETABR18.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETABR18.dbc",
-  "datetime": "2023-02-27T16:42:00",
+  "datetime": "2025-06-04T14:56:00",
   "extension": "dbc",
-  "size": 25342,
+  "size": 25680,
   "dataset": "sinan-teta",
   "partition": {
    "uf": "br",
@@ -182,9 +182,9 @@
  {
   "filename": "TETABR19.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETABR19.dbc",
-  "datetime": "2023-02-27T16:42:00",
+  "datetime": "2025-06-04T14:56:00",
   "extension": "dbc",
-  "size": 28560,
+  "size": 28929,
   "dataset": "sinan-teta",
   "partition": {
    "uf": "br",
@@ -197,9 +197,9 @@
  {
   "filename": "TETABR20.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETABR20.dbc",
-  "datetime": "2023-02-27T16:42:00",
+  "datetime": "2025-06-04T14:56:00",
   "extension": "dbc",
-  "size": 24359,
+  "size": 24066,
   "dataset": "sinan-teta",
   "partition": {
    "uf": "br",
@@ -211,10 +211,10 @@
  },
  {
   "filename": "TETABR21.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TETABR21.dbc",
-  "datetime": "2023-02-27T16:42:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETABR21.dbc",
+  "datetime": "2025-06-04T14:56:00",
   "extension": "dbc",
-  "size": 28823,
+  "size": 29427,
   "dataset": "sinan-teta",
   "partition": {
    "uf": "br",
@@ -222,18 +222,63 @@
    "month": null,
    "version": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "TETABR22.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TETABR22.dbc",
-  "datetime": "2023-02-27T16:42:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETABR22.dbc",
+  "datetime": "2025-06-04T14:56:00",
   "extension": "dbc",
-  "size": 34587,
+  "size": 31249,
   "dataset": "sinan-teta",
   "partition": {
    "uf": "br",
    "year": 2022,
+   "month": null,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "TETABR23.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TETABR23.dbc",
+  "datetime": "2025-06-04T14:56:00",
+  "extension": "dbc",
+  "size": 34776,
+  "dataset": "sinan-teta",
+  "partition": {
+   "uf": "br",
+   "year": 2023,
+   "month": null,
+   "version": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "TETABR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TETABR24.dbc",
+  "datetime": "2025-06-10T16:08:00",
+  "extension": "dbc",
+  "size": 44997,
+  "dataset": "sinan-teta",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
+   "month": null,
+   "version": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "TETABR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TETABR25.dbc",
+  "datetime": "2025-06-10T16:08:00",
+  "extension": "dbc",
+  "size": 22193,
+  "dataset": "sinan-teta",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
    "month": null,
    "version": null
   },
