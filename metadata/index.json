@@ -99,14 +99,14 @@
   "cnes-dc": {
    "name": "Dados Complementares",
    "source": "cnes",
-   "n_files": 6399,
-   "total_size": 122190663,
+   "n_files": 6426,
+   "total_size": 122569729,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
-   "partition_period_end": "2025-04",
-   "partition_n_periods": 237,
+   "partition_period_end": "2025-05",
+   "partition_n_periods": 238,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-14T15:01:00"
+   "latest_update": "2025-06-13T12:55:00"
   },
   "cnes-ee": {
    "name": "Estabelecimento de Ensino",
@@ -123,110 +123,110 @@
   "cnes-ef": {
    "name": "Estabelecimento Filantrópico",
    "source": "cnes",
-   "n_files": 5449,
-   "total_size": 10675320,
+   "n_files": 5474,
+   "total_size": 10723717,
    "partition_n_ufs": 25,
    "partition_period_start": "2007-03",
-   "partition_period_end": "2025-04",
-   "partition_n_periods": 218,
+   "partition_period_end": "2025-05",
+   "partition_n_periods": 219,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-14T15:11:00"
+   "latest_update": "2025-06-13T12:55:00"
   },
   "cnes-ep": {
    "name": "Equipes",
    "source": "cnes",
-   "n_files": 5859,
-   "total_size": 535953783,
+   "n_files": 5886,
+   "total_size": 540285880,
    "partition_n_ufs": 27,
    "partition_period_start": "2007-04",
-   "partition_period_end": "2025-04",
-   "partition_n_periods": 217,
+   "partition_period_end": "2025-05",
+   "partition_n_periods": 218,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-14T15:11:00"
+   "latest_update": "2025-06-13T12:55:00"
   },
   "cnes-eq": {
    "name": "Equipamentos",
    "source": "cnes",
-   "n_files": 6398,
-   "total_size": 1424556225,
+   "n_files": 6425,
+   "total_size": 1434905079,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
-   "partition_period_end": "2025-04",
-   "partition_n_periods": 237,
+   "partition_period_end": "2025-05",
+   "partition_n_periods": 238,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-14T15:11:00"
+   "latest_update": "2025-06-13T12:55:00"
   },
   "cnes-gm": {
    "name": "Gestão e Metas",
    "source": "cnes",
-   "n_files": 5534,
-   "total_size": 12640887,
+   "n_files": 5561,
+   "total_size": 12711886,
    "partition_n_ufs": 27,
    "partition_period_start": "2007-03",
-   "partition_period_end": "2025-04",
-   "partition_n_periods": 218,
+   "partition_period_end": "2025-05",
+   "partition_n_periods": 219,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-14T14:57:00"
+   "latest_update": "2025-06-13T12:55:00"
   },
   "cnes-hb": {
    "name": "Habilitação",
    "source": "cnes",
-   "n_files": 5886,
-   "total_size": 130660415,
+   "n_files": 5913,
+   "total_size": 131521548,
    "partition_n_ufs": 27,
    "partition_period_start": "2007-03",
-   "partition_period_end": "2025-04",
-   "partition_n_periods": 218,
+   "partition_period_end": "2025-05",
+   "partition_n_periods": 219,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-14T15:12:00"
+   "latest_update": "2025-06-13T12:55:00"
   },
   "cnes-in": {
    "name": "Incentivos",
    "source": "cnes",
-   "n_files": 5601,
-   "total_size": 39347371,
+   "n_files": 5628,
+   "total_size": 39741101,
    "partition_n_ufs": 27,
    "partition_period_start": "2007-10",
-   "partition_period_end": "2025-04",
-   "partition_n_periods": 211,
+   "partition_period_end": "2025-05",
+   "partition_n_periods": 212,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-14T15:13:00"
+   "latest_update": "2025-06-13T12:55:00"
   },
   "cnes-lt": {
    "name": "Leitos",
    "source": "cnes",
-   "n_files": 6345,
-   "total_size": 139622254,
+   "n_files": 6372,
+   "total_size": 140254826,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-10",
-   "partition_period_end": "2025-04",
-   "partition_n_periods": 235,
+   "partition_period_end": "2025-05",
+   "partition_n_periods": 236,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-14T15:13:00"
+   "latest_update": "2025-06-13T12:55:00"
   },
   "cnes-pf": {
    "name": "Profissional",
    "source": "cnes",
-   "n_files": 6399,
-   "total_size": 41039469748,
+   "n_files": 6426,
+   "total_size": 41357931118,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
-   "partition_period_end": "2025-04",
-   "partition_n_periods": 237,
+   "partition_period_end": "2025-05",
+   "partition_n_periods": 238,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-14T15:13:00"
+   "latest_update": "2025-06-13T12:55:00"
   },
   "cnes-rc": {
    "name": "Regra Contratual",
    "source": "cnes",
-   "n_files": 5825,
-   "total_size": 72164628,
+   "n_files": 5852,
+   "total_size": 72727452,
    "partition_n_ufs": 27,
    "partition_period_start": "2007-03",
-   "partition_period_end": "2025-04",
-   "partition_n_periods": 218,
+   "partition_period_end": "2025-05",
+   "partition_n_periods": 219,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-16T19:50:00"
+   "latest_update": "2025-06-13T12:55:00"
   },
   "cnes-sr": {
    "name": "Serviço Especializado",
@@ -243,14 +243,14 @@
   "cnes-st": {
    "name": "Estabelecimentos",
    "source": "cnes",
-   "n_files": 6399,
-   "total_size": 3009034047,
+   "n_files": 6426,
+   "total_size": 3030075322,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
-   "partition_period_end": "2025-04",
-   "partition_n_periods": 237,
+   "partition_period_end": "2025-05",
+   "partition_n_periods": 238,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-16T19:49:00"
+   "latest_update": "2025-06-13T12:55:00"
   },
   "pce": {
    "name": "Programa de Controle da Esquistossomose",
@@ -1072,13 +1072,13 @@
    "name": "Pneumoconioses relacionadas ao trabalho",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 322604,
+   "total_size": 327758,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
    "partition_period_end": "2025",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-05-06T12:03:00"
+   "latest_update": "2025-06-06T09:34:00"
   },
   "sinan-raiv": {
    "name": "Raiva",
