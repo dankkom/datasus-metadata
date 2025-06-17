@@ -231,14 +231,14 @@
   "cnes-sr": {
    "name": "Serviço Especializado",
    "source": "cnes",
-   "n_files": 6397,
-   "total_size": 1487814187,
+   "n_files": 6424,
+   "total_size": 1498103654,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
-   "partition_period_end": "2025-04",
-   "partition_n_periods": 237,
+   "partition_period_end": "2025-05",
+   "partition_n_periods": 238,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-05-16T19:49:00"
+   "latest_update": "2025-06-16T16:24:00"
   },
   "cnes-st": {
    "name": "Estabelecimentos",
