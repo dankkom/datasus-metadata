@@ -1,11 +1,43 @@
 [
  {
+  "filename": "Docs-Tabs-CID9.zip",
+  "full_path": "/dissemin/publicos/SIM/CID9/DOCS/Docs-Tabs-CID9.zip",
+  "datetime": "2018-06-05T16:27:00",
+  "extension": "zip",
+  "size": 746737,
+  "dataset": "sim"
+ },
+ {
+  "filename": "INTRO.pdf",
+  "full_path": "/dissemin/publicos/SIM/CID9/DOCS/INTRO.pdf",
+  "datetime": "2011-08-24T12:04:00",
+  "extension": "pdf",
+  "size": 31374,
+  "dataset": "sim"
+ },
+ {
+  "filename": "MORT98.HLP",
+  "full_path": "/dissemin/publicos/SIM/CID9/DOCS/MORT98.HLP",
+  "datetime": "2011-08-24T12:04:00",
+  "extension": "hlp",
+  "size": 136584,
+  "dataset": "sim"
+ },
+ {
+  "filename": "MTAB16M.pdf",
+  "full_path": "/dissemin/publicos/SIM/CID9/DOCS/MTAB16M.pdf",
+  "datetime": "2011-08-24T12:04:00",
+  "extension": "pdf",
+  "size": 2275869,
+  "dataset": "sim"
+ },
+ {
   "filename": "Docs_Tabs_CID10.zip",
   "full_path": "/dissemin/publicos/SIM/CID10/DOCS/Docs_Tabs_CID10.zip",
   "datetime": "2018-06-05T16:26:00",
   "extension": "zip",
   "size": 2301039,
-  "dataset": "sim-cid10"
+  "dataset": "sim"
  },
  {
   "filename": "Estrutura_do_SIM_2025.pdf",
@@ -13,7 +45,7 @@
   "datetime": "2025-06-09T11:29:00",
   "extension": "pdf",
   "size": 635539,
-  "dataset": "sim-cid10"
+  "dataset": "sim"
  },
  {
   "filename": "Estrutura_SIM_Anterior.pdf",
@@ -21,7 +53,7 @@
   "datetime": "2011-08-24T12:14:00",
   "extension": "pdf",
   "size": 55572,
-  "dataset": "sim-cid10"
+  "dataset": "sim"
  },
  {
   "filename": "Estrutura_SIM_para_CD.pdf",
@@ -29,7 +61,7 @@
   "datetime": "2020-03-11T14:48:00",
   "extension": "pdf",
   "size": 435397,
-  "dataset": "sim-cid10"
+  "dataset": "sim"
  },
  {
   "filename": "Legislacao_PDF.pdf",
@@ -37,7 +69,7 @@
   "datetime": "2011-08-24T12:14:00",
   "extension": "pdf",
   "size": 945786,
-  "dataset": "sim-cid10"
+  "dataset": "sim"
  },
  {
   "filename": "Portaria.pdf",
@@ -45,6 +77,6 @@
   "datetime": "2011-08-24T12:14:00",
   "extension": "pdf",
   "size": 30187,
-  "dataset": "sim-cid10"
+  "dataset": "sim"
  }
 ]

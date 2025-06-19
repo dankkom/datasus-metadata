@@ -1,11 +1,19 @@
 [
  {
+  "filename": "NASC98.HLP",
+  "full_path": "/dissemin/publicos/SINASC/ANT/DOCS/NASC98.HLP",
+  "datetime": "2011-08-24T11:34:00",
+  "extension": "hlp",
+  "size": 77087,
+  "dataset": "sinasc"
+ },
+ {
   "filename": "Estrutura_SINASC_para_CD.pdf",
   "full_path": "/dissemin/publicos/SINASC/NOV/DOCS/Estrutura_SINASC_para_CD.pdf",
   "datetime": "2011-08-24T11:48:00",
   "extension": "pdf",
   "size": 38999,
-  "dataset": "sinasc-nova"
+  "dataset": "sinasc"
  },
  {
   "filename": "Legislacao_PDF.pdf",
@@ -13,7 +21,7 @@
   "datetime": "2011-08-24T11:48:00",
   "extension": "pdf",
   "size": 945786,
-  "dataset": "sinasc-nova"
+  "dataset": "sinasc"
  },
  {
   "filename": "Portaria.pdf",
@@ -21,6 +29,6 @@
   "datetime": "2011-08-24T11:48:00",
   "extension": "pdf",
   "size": 30187,
-  "dataset": "sinasc-nova"
+  "dataset": "sinasc"
  }
 ]

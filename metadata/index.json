@@ -1418,16 +1418,10 @@
    "total_size": 57465,
    "latest_update": "2016-05-11T12:19:00"
   },
-  "sim-cid09": {
+  "sim": {
    "source_name": "SIM: Sistema de Informação de Mortalidade",
-   "n_files": 4,
-   "total_size": 3190564,
-   "latest_update": "2018-06-05T16:27:00"
-  },
-  "sim-cid10": {
-   "source_name": "SIM: Sistema de Informação de Mortalidade",
-   "n_files": 6,
-   "total_size": 4403520,
+   "n_files": 10,
+   "total_size": 7594084,
    "latest_update": "2025-06-09T11:29:00"
   },
   "sinan": {
@@ -1436,16 +1430,10 @@
    "total_size": 67085597,
    "latest_update": "2025-04-17T15:10:00"
   },
-  "sinasc-anterior": {
+  "sinasc": {
    "source_name": "SINASC: Sistema de Informação de Nascidos Vivos",
-   "n_files": 1,
-   "total_size": 77087,
-   "latest_update": "2011-08-24T11:34:00"
-  },
-  "sinasc-nova": {
-   "source_name": "SINASC: Sistema de Informação de Nascidos Vivos",
-   "n_files": 3,
-   "total_size": 1014972,
+   "n_files": 4,
+   "total_size": 1092059,
    "latest_update": "2011-08-24T11:48:00"
   }
  },
@@ -1469,7 +1457,7 @@
    "latest_update": "2025-06-14T14:23:00"
   },
   "cmd": {
-   "source_name": "CMD: Conjunto Mínimo de Dados",
+   "source_name": null,
    "n_files": 1,
    "total_size": 18591723,
    "latest_update": "2019-07-08T15:40:00"
@@ -1510,16 +1498,10 @@
    "total_size": 15182083,
    "latest_update": "2025-06-14T14:45:00"
   },
-  "sim-cid09": {
+  "sim": {
    "source_name": "SIM: Sistema de Informação de Mortalidade",
-   "n_files": 1,
-   "total_size": 431152,
-   "latest_update": "2015-05-19T22:14:00"
-  },
-  "sim-cid10": {
-   "source_name": "SIM: Sistema de Informação de Mortalidade",
-   "n_files": 1,
-   "total_size": 6410964,
+   "n_files": 2,
+   "total_size": 6842116,
    "latest_update": "2025-01-21T23:09:00"
   },
   "sinan": {
@@ -1528,16 +1510,10 @@
    "total_size": 45307628,
    "latest_update": "2025-01-23T16:46:00"
   },
-  "sinasc-anterior": {
+  "sinasc": {
    "source_name": "SINASC: Sistema de Informação de Nascidos Vivos",
-   "n_files": 1,
-   "total_size": 435383,
-   "latest_update": "2015-05-19T22:15:00"
-  },
-  "sinasc-nova": {
-   "source_name": "SINASC: Sistema de Informação de Nascidos Vivos",
-   "n_files": 1,
-   "total_size": 2581079,
+   "n_files": 2,
+   "total_size": 3016462,
    "latest_update": "2025-02-27T17:21:00"
   },
   "siscolo": {
