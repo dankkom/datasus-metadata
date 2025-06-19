@@ -45,9 +45,10 @@ def update_data_files(ftp: ftplib.FTP, metadata_dir_path: Path):
 
 
 def list_documentation_files(ftp: ftplib.FTP, dataset: str) -> list[dict]:
-    ftp_dir = docs[dataset]["dir"]
-    ftp.cwd(ftp_dir)
-    files = list_files(ftp, directory=ftp_dir)
+    files = []
+    for ftp_dir in docs[dataset]["dir"]:
+        ftp.cwd(ftp_dir)
+        files.extend(list_files(ftp, directory=ftp_dir))
     return files
 
 
@@ -73,9 +74,10 @@ def update_docs(ftp: ftplib.FTP, metadata_dir_path: Path):
 
 
 def list_auxiliary_tables_files(ftp: ftplib.FTP, dataset: str) -> list[dict]:
-    ftp_dir = auxiliary_tables[dataset]["dir"]
-    ftp.cwd(ftp_dir)
-    files = list_files(ftp, directory=ftp_dir)
+    files = []
+    for ftp_dir in auxiliary_tables[dataset]["dir"]:
+        ftp.cwd(ftp_dir)
+        files.extend(list_files(ftp, directory=ftp_dir))
     return files
 
 
