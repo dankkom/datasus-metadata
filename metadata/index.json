@@ -268,13 +268,13 @@
    "name": "Painel de Oncologia",
    "source": "po",
    "n_files": 13,
-   "total_size": 169713992,
+   "total_size": 174933305,
    "partition_n_ufs": 1,
    "partition_period_start": "2013",
    "partition_period_end": "2025",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-06-02T14:52:00"
+   "latest_update": "2025-06-18T22:17:00"
   },
   "resp": {
    "name": "Notificações de casos suspeitos de SCZ",
@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 79672470,
+   "total_size": 79873797,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2025",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-06-09T14:33:00"
+   "latest_update": "2025-06-18T11:53:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 1275372196,
+   "total_size": 1278147858,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-06-09T14:33:00"
+   "latest_update": "2025-06-18T11:30:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 10,
-   "total_size": 9722783,
+   "total_size": 9739605,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2025",
    "partition_n_periods": 10,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-06-09T14:33:00"
+   "latest_update": "2025-06-18T14:43:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
@@ -1477,8 +1477,8 @@
   "cnes": {
    "source_name": "CNES: Cadastro Nacional de Estabelecimentos de Saúde",
    "n_files": 1,
-   "total_size": 121746320,
-   "latest_update": "2025-06-14T14:33:00"
+   "total_size": 120736671,
+   "latest_update": "2025-06-18T17:47:00"
   },
   "pce": {
    "source_name": "PCE: Programa de Controle da Esquistossomose",
