@@ -26,7 +26,7 @@ def update_data_files(ftp: ftplib.FTP, metadata_dir_path: Path):
                         "uf": remote_file.partition.uf,
                         "year": remote_file.partition.year,
                         "month": remote_file.partition.month,
-                        "version": remote_file.partition.version,
+                        "subpartition": remote_file.partition.subpartition,
                     },
                     "preliminary": remote_file.preliminary,
                 }
@@ -37,7 +37,7 @@ def update_data_files(ftp: ftplib.FTP, metadata_dir_path: Path):
                 x["partition"]["year"],
                 x["partition"]["month"],
                 x["partition"]["uf"],
-                x["partition"]["version"],
+                x["partition"]["subpartition"],
             ),
         )
         metadata_file_path = metadata_dir_path / f"{dataset}.json"

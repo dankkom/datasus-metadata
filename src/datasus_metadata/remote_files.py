@@ -11,7 +11,7 @@ class DataPartition:
     uf: Optional[str] = None
     year: Optional[int] = None
     month: Optional[int] = None
-    version: Optional[str] = None
+    subpartition: Optional[str] = None
 
     def __str__(self) -> str:
         uf, year, month = self.uf, self.year, self.month
@@ -26,8 +26,8 @@ class DataPartition:
                 partition = f"{year}{month:02}-{uf}"
             case _:
                 partition = ""
-        if version := self.version:
-            partition += f"-{version}"
+        if subpartition := self.subpartition:
+            partition += f"-{subpartition}"
         return partition.lower()
 
 
@@ -109,12 +109,12 @@ def _parse_uf_year2_month_filename_sia_pa(m: re.Match) -> dict:
     year_ = m.group(2)
     year = _get_year2(year_)
     month = int(m.group(3))
-    version = m.group(4)
+    subpartition = m.group(4)
     return {
         "uf": uf,
         "year": year,
         "month": month,
-        "version": version,
+        "subpartition": subpartition,
     }
 
 
