@@ -1095,14 +1095,14 @@
   "sinan-rota": {
    "name": "Rotavírus",
    "source": "sinan",
-   "n_files": 16,
-   "total_size": 1303859,
+   "n_files": 17,
+   "total_size": 1304305,
    "partition_n_ufs": 1,
    "partition_period_start": "2009",
-   "partition_period_end": "2024",
-   "partition_n_periods": 16,
+   "partition_period_end": "2025",
+   "partition_n_periods": 17,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-01-10T09:56:00"
+   "latest_update": "2025-06-25T18:58:00"
   },
   "sinan-sdta": {
    "name": "Surto Doenças Transmitidas por Alimentos",
