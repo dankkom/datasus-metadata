@@ -844,13 +844,13 @@
    "name": "Hanseníase",
    "source": "sinan",
    "n_files": 25,
-   "total_size": 57394440,
+   "total_size": 58752666,
    "partition_n_ufs": 1,
    "partition_period_start": "2001",
    "partition_period_end": "2025",
    "partition_n_periods": 25,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-02-24T16:17:00"
+   "latest_update": "2025-06-24T12:27:00"
   },
   "sinan-hant": {
    "name": "Hantavirose",
