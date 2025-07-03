@@ -8,11 +8,19 @@
   "dataset": "sim"
  },
  {
-  "filename": "OBITOS_CID10_TAB.ZIP",
-  "full_path": "/dissemin/publicos/SIM/CID10/TAB/OBITOS_CID10_TAB.ZIP",
-  "datetime": "2025-01-21T23:09:00",
-  "extension": "zip",
-  "size": 6410964,
+  "filename": "CNVs_CID10_v2019.rar",
+  "full_path": "/dissemin/publicos/SIM/CID10/TAB/CNVs_CID10_v2019.rar",
+  "datetime": "2025-07-02T15:49:00",
+  "extension": "rar",
+  "size": 2408868,
+  "dataset": "sim"
+ },
+ {
+  "filename": "OBITOS_CID10_TAB.rar",
+  "full_path": "/dissemin/publicos/SIM/CID10/TAB/OBITOS_CID10_TAB.rar",
+  "datetime": "2025-07-02T15:47:00",
+  "extension": "rar",
+  "size": 8388702,
   "dataset": "sim"
  }
 ]
