@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 80109198,
+   "total_size": 80432884,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2025",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-06-24T15:59:00"
+   "latest_update": "2025-07-01T08:57:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 1272105846,
+   "total_size": 1276844237,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-06-24T16:00:00"
+   "latest_update": "2025-07-01T08:57:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1426,9 +1426,9 @@
   },
   "sinan": {
    "source_name": "SINAN: Sistema de Informação de Agravos de Notificação",
-   "n_files": 7,
-   "total_size": 67085597,
-   "latest_update": "2025-04-17T15:10:00"
+   "n_files": 8,
+   "total_size": 67141477,
+   "latest_update": "2025-07-03T10:06:00"
   },
   "sinasc": {
    "source_name": "SINASC: Sistema de Informação de Nascidos Vivos",
@@ -1501,8 +1501,8 @@
   "sim": {
    "source_name": "SIM: Sistema de Informação de Mortalidade",
    "n_files": 3,
-   "total_size": 11228722,
-   "latest_update": "2025-07-02T15:49:00"
+   "total_size": 9940269,
+   "latest_update": "2025-07-03T11:23:00"
   },
   "sinan": {
    "source_name": "SINAN: Sistema de Informação de Agravos de Notificação",
