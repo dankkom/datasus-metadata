@@ -987,14 +987,14 @@
   "sinan-mala": {
    "name": "Malária",
    "source": "sinan",
-   "n_files": 20,
-   "total_size": 2611608,
+   "n_files": 21,
+   "total_size": 2749856,
    "partition_n_ufs": 1,
    "partition_period_start": "2004",
-   "partition_period_end": "2023",
-   "partition_n_periods": 20,
+   "partition_period_end": "2024",
+   "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-02-19T09:01:00"
+   "latest_update": "2025-06-27T08:53:00"
   },
   "sinan-meni": {
    "name": "Meningite",

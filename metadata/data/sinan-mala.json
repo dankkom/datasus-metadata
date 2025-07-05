@@ -241,10 +241,10 @@
  },
  {
   "filename": "MALABR20.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/MALABR20.dbc",
-  "datetime": "2024-02-19T09:01:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MALABR20.dbc",
+  "datetime": "2025-06-27T08:53:00",
   "extension": "dbc",
-  "size": 60551,
+  "size": 68977,
   "dataset": "sinan-mala",
   "partition": {
    "uf": "br",
@@ -252,14 +252,14 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "MALABR21.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/MALABR21.dbc",
-  "datetime": "2024-02-19T09:01:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MALABR21.dbc",
+  "datetime": "2025-06-27T08:53:00",
   "extension": "dbc",
-  "size": 104455,
+  "size": 113693,
   "dataset": "sinan-mala",
   "partition": {
    "uf": "br",
@@ -267,14 +267,14 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "MALABR22.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/MALABR22.dbc",
-  "datetime": "2024-02-19T09:01:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MALABR22.dbc",
+  "datetime": "2025-06-27T08:53:00",
   "extension": "dbc",
-  "size": 110174,
+  "size": 118812,
   "dataset": "sinan-mala",
   "partition": {
    "uf": "br",
@@ -282,18 +282,33 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "MALABR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/MALABR23.dbc",
-  "datetime": "2024-02-19T09:01:00",
+  "datetime": "2025-06-27T08:53:00",
   "extension": "dbc",
-  "size": 115194,
+  "size": 128897,
   "dataset": "sinan-mala",
   "partition": {
    "uf": "br",
    "year": 2023,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "MALABR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/MALABR24.dbc",
+  "datetime": "2025-06-27T08:53:00",
+  "extension": "dbc",
+  "size": 98243,
+  "dataset": "sinan-mala",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
    "month": null,
    "subpartition": null
   },
