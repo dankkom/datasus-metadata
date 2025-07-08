@@ -1192,13 +1192,13 @@
    "name": "Toxoplasmose Congênita",
    "source": "sinan",
    "n_files": 7,
-   "total_size": 905083,
+   "total_size": 904521,
    "partition_n_ufs": 1,
    "partition_period_start": "2019",
    "partition_period_end": "2025",
    "partition_n_periods": 7,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-06-03T10:11:00"
+   "latest_update": "2025-07-02T15:35:00"
   },
   "sinan-toxg": {
    "name": "Toxoplasmose Gestacional",
@@ -1421,8 +1421,8 @@
   "sim": {
    "source_name": "SIM: Sistema de Informação de Mortalidade",
    "n_files": 10,
-   "total_size": 7594084,
-   "latest_update": "2025-06-09T11:29:00"
+   "total_size": 7592691,
+   "latest_update": "2025-07-07T11:02:00"
   },
   "sinan": {
    "source_name": "SINAN: Sistema de Informação de Agravos de Notificação",
