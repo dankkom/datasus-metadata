@@ -87,14 +87,14 @@
   "ciha": {
    "name": "Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "source": "ciha",
-   "n_files": 4411,
-   "total_size": 4978834813,
+   "n_files": 4438,
+   "total_size": 5106482257,
    "partition_n_ufs": 26,
    "partition_period_start": "2011-01",
-   "partition_period_end": "2025-04",
-   "partition_n_periods": 172,
+   "partition_period_end": "2025-05",
+   "partition_n_periods": 173,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-06-04T15:45:00"
+   "latest_update": "2025-07-09T15:00:00"
   },
   "cnes-dc": {
    "name": "Dados Complementares",
