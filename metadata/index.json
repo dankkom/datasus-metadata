@@ -268,13 +268,13 @@
    "name": "Painel de Oncologia",
    "source": "po",
    "n_files": 13,
-   "total_size": 174933305,
+   "total_size": 176526345,
    "partition_n_ufs": 1,
    "partition_period_start": "2013",
    "partition_period_end": "2025",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-06-18T22:17:00"
+   "latest_update": "2025-07-18T14:04:00"
   },
   "resp": {
    "name": "Notificações de casos suspeitos de SCZ",
@@ -1446,15 +1446,15 @@
   },
   "cih": {
    "source_name": "CIH: Sistema de Comunicação de Informação Hospitalar",
-   "n_files": 2,
-   "total_size": 135940070,
-   "latest_update": "2025-03-14T22:34:00"
+   "n_files": 1,
+   "total_size": 15346666,
+   "latest_update": "2019-07-09T10:52:00"
   },
   "ciha": {
    "source_name": "CIHA: Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "n_files": 1,
-   "total_size": 62892307,
-   "latest_update": "2025-07-17T17:51:00"
+   "total_size": 62892619,
+   "latest_update": "2025-07-18T14:04:00"
   },
   "cmd": {
    "source_name": "CMD: Conjunto Mínimo de Dados",
@@ -1489,14 +1489,14 @@
   "sia": {
    "source_name": "SIA: Sistema de Informações Ambulatoriais",
    "n_files": 4,
-   "total_size": 82736867,
-   "latest_update": "2025-07-17T18:09:00"
+   "total_size": 82427734,
+   "latest_update": "2025-07-18T13:58:00"
   },
   "sih": {
    "source_name": "SIH: Sistema de Informação Hospitalar",
    "n_files": 4,
-   "total_size": 15180064,
-   "latest_update": "2025-07-17T18:15:00"
+   "total_size": 15180376,
+   "latest_update": "2025-07-18T14:01:00"
   },
   "sim": {
    "source_name": "SIM: Sistema de Informação de Mortalidade",
