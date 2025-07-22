@@ -855,14 +855,14 @@
   "sinan-hant": {
    "name": "Hantavirose",
    "source": "sinan",
-   "n_files": 25,
-   "total_size": 2200314,
+   "n_files": 26,
+   "total_size": 2297686,
    "partition_n_ufs": 1,
    "partition_period_start": "1999",
-   "partition_period_end": "2023",
-   "partition_n_periods": 25,
+   "partition_period_end": "2024",
+   "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-05-02T11:08:00"
+   "latest_update": "2025-07-17T15:46:00"
   },
   "sinan-hepa": {
    "name": "Hepatites Virais",
@@ -951,14 +951,14 @@
   "sinan-lept": {
    "name": "Leptospirose",
    "source": "sinan",
-   "n_files": 18,
-   "total_size": 22562762,
+   "n_files": 19,
+   "total_size": 24322584,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2024",
-   "partition_n_periods": 18,
+   "partition_period_end": "2025",
+   "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-07-09T16:42:00"
+   "latest_update": "2025-07-15T13:43:00"
   },
   "sinan-lerd": {
    "name": "LER/Dort",

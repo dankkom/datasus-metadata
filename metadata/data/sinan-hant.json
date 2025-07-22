@@ -1,7 +1,7 @@
 [
  {
   "filename": "HANTBR99.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANTBR99.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANTBR99.dbc",
   "datetime": "2023-07-03T13:55:00",
   "extension": "dbc",
   "size": 4042,
@@ -12,11 +12,11 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "HANTBR00.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANTBR00.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANTBR00.dbc",
   "datetime": "2023-07-03T13:55:00",
   "extension": "dbc",
   "size": 4606,
@@ -27,11 +27,11 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "HANTBR01.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANTBR01.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANTBR01.dbc",
   "datetime": "2023-07-03T13:55:00",
   "extension": "dbc",
   "size": 7535,
@@ -42,11 +42,11 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "HANTBR02.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANTBR02.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANTBR02.dbc",
   "datetime": "2023-07-03T13:55:00",
   "extension": "dbc",
   "size": 10646,
@@ -57,11 +57,11 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "HANTBR03.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANTBR03.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANTBR03.dbc",
   "datetime": "2023-07-03T13:55:00",
   "extension": "dbc",
   "size": 11235,
@@ -72,11 +72,11 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "HANTBR04.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANTBR04.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANTBR04.dbc",
   "datetime": "2023-07-03T13:55:00",
   "extension": "dbc",
   "size": 20544,
@@ -87,11 +87,11 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "HANTBR05.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANTBR05.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANTBR05.dbc",
   "datetime": "2023-07-03T13:55:00",
   "extension": "dbc",
   "size": 18985,
@@ -102,11 +102,11 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "HANTBR06.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANTBR06.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/HANTBR06.dbc",
   "datetime": "2023-07-03T13:55:00",
   "extension": "dbc",
   "size": 20375,
@@ -117,7 +117,7 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "HANTBR07.dbc",
@@ -347,9 +347,9 @@
  {
   "filename": "HANTBR22.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANTBR22.dbc",
-  "datetime": "2023-03-17T10:37:00",
+  "datetime": "2025-07-17T15:46:00",
   "extension": "dbc",
-  "size": 89577,
+  "size": 95155,
   "dataset": "sinan-hant",
   "partition": {
    "uf": "br",
@@ -362,13 +362,28 @@
  {
   "filename": "HANTBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANTBR23.dbc",
-  "datetime": "2024-05-02T11:08:00",
+  "datetime": "2025-07-17T15:46:00",
   "extension": "dbc",
-  "size": 131852,
+  "size": 113103,
   "dataset": "sinan-hant",
   "partition": {
    "uf": "br",
    "year": 2023,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "HANTBR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANTBR24.dbc",
+  "datetime": "2025-07-17T15:46:00",
+  "extension": "dbc",
+  "size": 110543,
+  "dataset": "sinan-hant",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
    "month": null,
    "subpartition": null
   },
