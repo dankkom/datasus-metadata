@@ -1107,14 +1107,14 @@
   "sinan-sdta": {
    "name": "Surto Doenças Transmitidas por Alimentos",
    "source": "sinan",
-   "n_files": 16,
-   "total_size": 1098003,
+   "n_files": 17,
+   "total_size": 1233169,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2023",
-   "partition_n_periods": 16,
+   "partition_period_end": "2024",
+   "partition_n_periods": 17,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-02-18T10:49:00"
+   "latest_update": "2025-07-24T16:52:00"
   },
   "sinan-sifa": {
    "name": "Sífilis Adquirida",

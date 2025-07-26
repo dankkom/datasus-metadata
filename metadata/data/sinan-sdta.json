@@ -238,5 +238,20 @@
    "subpartition": null
   },
   "preliminary": true
+ },
+ {
+  "filename": "SDTABR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SDTABR24.dbc",
+  "datetime": "2025-07-24T16:52:00",
+  "extension": "dbc",
+  "size": 135166,
+  "dataset": "sinan-sdta",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
  }
 ]
