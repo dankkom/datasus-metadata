@@ -819,14 +819,14 @@
   "sinan-fmac": {
    "name": "Febre Maculosa",
    "source": "sinan",
-   "n_files": 17,
-   "total_size": 4126092,
+   "n_files": 18,
+   "total_size": 2023827,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2023",
-   "partition_n_periods": 17,
+   "partition_period_end": "2024",
+   "partition_n_periods": 18,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-05-02T13:57:00"
+   "latest_update": "2025-07-24T11:04:00"
   },
   "sinan-ftif": {
    "name": "Febre Tifoide",
