@@ -136,10 +136,10 @@
  },
  {
   "filename": "CHIKBR24.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/CHIKBR24.dbc",
-  "datetime": "2025-05-27T16:28:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/CHIKBR24.dbc",
+  "datetime": "2025-07-29T17:17:00",
   "extension": "dbc",
-  "size": 15191690,
+  "size": 15456365,
   "dataset": "sinan-chik",
   "partition": {
    "uf": "br",
@@ -147,14 +147,14 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "CHIKBR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/CHIKBR25.dbc",
-  "datetime": "2025-07-21T15:50:00",
+  "datetime": "2025-07-29T17:17:00",
   "extension": "dbc",
-  "size": 7321484,
+  "size": 6960842,
   "dataset": "sinan-chik",
   "partition": {
    "uf": "br",

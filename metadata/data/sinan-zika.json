@@ -121,10 +121,10 @@
  },
  {
   "filename": "ZIKABR24.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ZIKABR24.dbc",
-  "datetime": "2025-05-27T16:29:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ZIKABR24.dbc",
+  "datetime": "2025-07-29T17:18:00",
   "extension": "dbc",
-  "size": 976095,
+  "size": 970206,
   "dataset": "sinan-zika",
   "partition": {
    "uf": "br",
@@ -132,14 +132,14 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "ZIKABR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ZIKABR25.dbc",
-  "datetime": "2025-07-21T15:50:00",
+  "datetime": "2025-07-29T17:18:00",
   "extension": "dbc",
-  "size": 424650,
+  "size": 436092,
   "dataset": "sinan-zika",
   "partition": {
    "uf": "br",
