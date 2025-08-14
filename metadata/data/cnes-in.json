@@ -84823,5 +84823,410 @@
    "subpartition": null
   },
   "preliminary": false
+ },
+ {
+  "filename": "INAC2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INAC2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 2629,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INAL2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INAL2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 6412,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "al",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INAM2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INAM2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 4526,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "am",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INAP2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INAP2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 2000,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INBA2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INBA2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 28903,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INCE2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INCE2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 20156,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INDF2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INDF2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 4002,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "df",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INES2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INES2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 7380,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INGO2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INGO2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 15368,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "go",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INMA2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INMA2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 9295,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INMG2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INMG2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 45487,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INMS2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INMS2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 7023,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "ms",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INMT2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INMT2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 5865,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "mt",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INPA2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INPA2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 12922,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INPB2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INPB2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 14359,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INPE2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INPE2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 17764,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INPI2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INPI2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 10681,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "pi",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INPR2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INPR2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 26101,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INRJ2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INRJ2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 22173,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INRN2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INRN2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 8173,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INRO2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INRO2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 3535,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "ro",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INRR2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INRR2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 2096,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "rr",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INRS2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INRS2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 27125,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INSC2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INSC2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 21295,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INSE2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INSE2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 4979,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INSP2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INSP2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 63668,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "INTO2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/IN/INTO2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 4238,
+  "dataset": "cnes-in",
+  "partition": {
+   "uf": "to",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
  }
 ]

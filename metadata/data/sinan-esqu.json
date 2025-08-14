@@ -227,9 +227,9 @@
  {
   "filename": "ESQUBR22.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ESQUBR22.dbc",
-  "datetime": "2024-02-20T11:49:00",
+  "datetime": "2025-08-04T17:15:00",
   "extension": "dbc",
-  "size": 175065,
+  "size": 187948,
   "dataset": "sinan-esqu",
   "partition": {
    "uf": "br",
@@ -242,13 +242,43 @@
  {
   "filename": "ESQUBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ESQUBR23.dbc",
-  "datetime": "2024-02-20T11:49:00",
+  "datetime": "2025-08-04T17:15:00",
   "extension": "dbc",
-  "size": 186132,
+  "size": 202735,
   "dataset": "sinan-esqu",
   "partition": {
    "uf": "br",
    "year": 2023,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "ESQUBR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ESQUBR24.dbc",
+  "datetime": "2025-08-04T17:15:00",
+  "extension": "dbc",
+  "size": 167020,
+  "dataset": "sinan-esqu",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "ESQUBR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ESQUBR25.dbc",
+  "datetime": "2025-08-04T17:15:00",
+  "extension": "dbc",
+  "size": 78882,
+  "dataset": "sinan-esqu",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
    "month": null,
    "subpartition": null
   },

@@ -83818,5 +83818,410 @@
    "subpartition": null
   },
   "preliminary": false
+ },
+ {
+  "filename": "GMAC2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMAC2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 1134,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMAL2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMAL2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 1202,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "al",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMAM2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMAM2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 1334,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "am",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMAP2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMAP2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 1200,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMBA2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMBA2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 3201,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMCE2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMCE2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 3721,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMDF2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMDF2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 1622,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "df",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMES2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMES2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 1760,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMGO2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMGO2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 1494,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "go",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMMA2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMMA2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 1677,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMMG2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMMG2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 6405,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMMS2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMMS2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 2603,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "ms",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMMT2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMMT2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 1730,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "mt",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMPA2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMPA2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 2032,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMPB2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMPB2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 1701,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMPE2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMPE2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 3090,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMPI2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMPI2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 3441,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "pi",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMPR2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMPR2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 4341,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMRJ2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMRJ2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 3805,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMRN2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMRN2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 1473,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMRO2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMRO2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 1193,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "ro",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMRR2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMRR2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 2178,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "rr",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMRS2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMRS2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 2940,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMSC2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMSC2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 7488,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMSE2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMSE2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 2243,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMSP2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMSP2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 8496,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "GMTO2507.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/GM/GMTO2507.dbc",
+  "datetime": "2025-08-13T14:55:00",
+  "extension": "dbc",
+  "size": 1295,
+  "dataset": "cnes-gm",
+  "partition": {
+   "uf": "to",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
  }
 ]
