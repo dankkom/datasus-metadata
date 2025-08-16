@@ -652,13 +652,13 @@
    "name": "Acidente por Animais Peçonhentos",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 188218658,
+   "total_size": 226904343,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-07-15T16:41:00"
+   "latest_update": "2025-08-11T16:26:00"
   },
   "sinan-antr": {
    "name": "Atendimento Antirrábico",
@@ -736,13 +736,13 @@
    "name": "Coqueluche",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 10296783,
+   "total_size": 10335515,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-07-31T17:42:00"
+   "latest_update": "2025-08-14T16:47:00"
   },
   "sinan-deng": {
    "name": "Dengue",
