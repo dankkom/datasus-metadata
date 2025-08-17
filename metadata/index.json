@@ -46,7 +46,7 @@
    "partition_period_end": null,
    "partition_n_periods": 0,
    "partition_periodicity": null,
-   "latest_update": "2025-07-17T09:44:00"
+   "latest_update": "2025-08-16T12:03:00"
   },
   "base-territorial-mapas": {
    "name": "Base Territorial - Mapas",
@@ -1453,8 +1453,8 @@
   "ciha": {
    "source_name": "CIHA: Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "n_files": 1,
-   "total_size": 62892619,
-   "latest_update": "2025-07-18T14:04:00"
+   "total_size": 63315100,
+   "latest_update": "2025-08-16T12:15:00"
   },
   "cmd": {
    "source_name": "CMD: Conjunto Mínimo de Dados",
@@ -1465,8 +1465,8 @@
   "cnes": {
    "source_name": "CNES: Cadastro Nacional de Estabelecimentos de Saúde",
    "n_files": 1,
-   "total_size": 122057417,
-   "latest_update": "2025-07-17T18:01:00"
+   "total_size": 122479435,
+   "latest_update": "2025-08-16T12:30:00"
   },
   "pce": {
    "source_name": "PCE: Programa de Controle da Esquistossomose",
@@ -1489,14 +1489,14 @@
   "sia": {
    "source_name": "SIA: Sistema de Informações Ambulatoriais",
    "n_files": 4,
-   "total_size": 82427734,
-   "latest_update": "2025-07-18T13:58:00"
+   "total_size": 83160404,
+   "latest_update": "2025-08-16T12:41:00"
   },
   "sih": {
    "source_name": "SIH: Sistema de Informação Hospitalar",
    "n_files": 4,
-   "total_size": 15180376,
-   "latest_update": "2025-07-18T14:01:00"
+   "total_size": 15185435,
+   "latest_update": "2025-08-16T12:48:00"
   },
   "sim": {
    "source_name": "SIM: Sistema de Informação de Mortalidade",
