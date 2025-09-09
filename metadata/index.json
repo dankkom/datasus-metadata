@@ -1252,13 +1252,13 @@
    "name": "Violência doméstica, sexual e/ou outras violências",
    "source": "sinan",
    "n_files": 16,
-   "total_size": 289757387,
+   "total_size": 294590905,
    "partition_n_ufs": 1,
    "partition_period_start": "2009",
    "partition_period_end": "2024",
    "partition_n_periods": 16,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-04-07T08:16:00"
+   "latest_update": "2025-09-05T13:56:00"
   },
   "sinan-zika": {
    "name": "Zika Vírus",
