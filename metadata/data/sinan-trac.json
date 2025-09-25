@@ -151,7 +151,7 @@
  },
  {
   "filename": "TRACBR19.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TRACBR19.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TRACBR19.dbc",
   "datetime": "2023-01-24T14:41:00",
   "extension": "dbc",
   "size": 63348,
@@ -162,11 +162,11 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "TRACBR20.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TRACBR20.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TRACBR20.dbc",
   "datetime": "2023-01-24T14:41:00",
   "extension": "dbc",
   "size": 4371,
@@ -177,11 +177,11 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "TRACBR21.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TRACBR21.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TRACBR21.dbc",
   "datetime": "2023-01-24T14:41:00",
   "extension": "dbc",
   "size": 1927,
@@ -192,18 +192,63 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "TRACBR22.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TRACBR22.dbc",
-  "datetime": "2023-01-24T14:41:00",
+  "datetime": "2025-09-16T11:12:00",
   "extension": "dbc",
-  "size": 22619,
+  "size": 32057,
   "dataset": "sinan-trac",
   "partition": {
    "uf": "br",
    "year": 2022,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "TRACBR23.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TRACBR23.dbc",
+  "datetime": "2025-09-16T11:12:00",
+  "extension": "dbc",
+  "size": 33006,
+  "dataset": "sinan-trac",
+  "partition": {
+   "uf": "br",
+   "year": 2023,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "TRACBR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TRACBR24.dbc",
+  "datetime": "2025-09-16T11:12:00",
+  "extension": "dbc",
+  "size": 27525,
+  "dataset": "sinan-trac",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "TRACBR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TRACBR25.dbc",
+  "datetime": "2025-09-16T11:12:00",
+  "extension": "dbc",
+  "size": 7813,
+  "dataset": "sinan-trac",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
    "month": null,
    "subpartition": null
   },

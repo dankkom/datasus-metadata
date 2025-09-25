@@ -40,13 +40,13 @@
    "name": "Base Territorial - Conversão",
    "source": "base-territorial",
    "n_files": 28,
-   "total_size": 41383085,
+   "total_size": 41383311,
    "partition_n_ufs": 28,
    "partition_period_start": null,
    "partition_period_end": null,
    "partition_n_periods": 0,
    "partition_periodicity": null,
-   "latest_update": "2025-08-16T12:03:00"
+   "latest_update": "2025-09-23T11:53:00"
   },
   "base-territorial-mapas": {
    "name": "Base Territorial - Mapas",
@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 82122789,
+   "total_size": 82079531,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2025",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-09-19T11:36:00"
+   "latest_update": "2025-09-22T16:38:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 1316713991,
+   "total_size": 1316017406,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-09-16T12:17:00"
+   "latest_update": "2025-09-22T16:38:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1023,14 +1023,14 @@
   "sinan-ntra": {
    "name": "Notificação de Tracoma",
    "source": "sinan",
-   "n_files": 13,
-   "total_size": 652878,
+   "n_files": 16,
+   "total_size": 737484,
    "partition_n_ufs": 1,
    "partition_period_start": "2010",
-   "partition_period_end": "2022",
-   "partition_n_periods": 13,
+   "partition_period_end": "2025",
+   "partition_n_periods": 16,
    "partition_periodicity": "yearly",
-   "latest_update": "2023-01-24T14:40:00"
+   "latest_update": "2025-09-16T11:12:00"
   },
   "sinan-pair": {
    "name": "Perda auditiva por ruído relacionado ao trabalho",
@@ -1215,14 +1215,14 @@
   "sinan-trac": {
    "name": "Inquérito de Tracoma",
    "source": "sinan",
-   "n_files": 14,
-   "total_size": 1677438,
+   "n_files": 17,
+   "total_size": 1755220,
    "partition_n_ufs": 1,
    "partition_period_start": "2009",
-   "partition_period_end": "2022",
-   "partition_n_periods": 14,
+   "partition_period_end": "2025",
+   "partition_n_periods": 17,
    "partition_periodicity": "yearly",
-   "latest_update": "2023-12-14T11:08:00"
+   "latest_update": "2025-09-16T11:12:00"
   },
   "sinan-tube": {
    "name": "Tuberculose",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 10,
-   "total_size": 9880869,
+   "total_size": 9893900,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2025",
    "partition_n_periods": 10,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-09-11T09:50:00"
+   "latest_update": "2025-09-22T16:38:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
@@ -1453,8 +1453,8 @@
   "ciha": {
    "source_name": "CIHA: Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "n_files": 1,
-   "total_size": 63315100,
-   "latest_update": "2025-08-16T12:15:00"
+   "total_size": 63655695,
+   "latest_update": "2025-09-23T12:06:00"
   },
   "cmd": {
    "source_name": "CMD: Conjunto Mínimo de Dados",
@@ -1465,8 +1465,8 @@
   "cnes": {
    "source_name": "CNES: Cadastro Nacional de Estabelecimentos de Saúde",
    "n_files": 1,
-   "total_size": 122479435,
-   "latest_update": "2025-08-16T12:30:00"
+   "total_size": 122819833,
+   "latest_update": "2025-09-23T12:22:00"
   },
   "pce": {
    "source_name": "PCE: Programa de Controle da Esquistossomose",
@@ -1489,14 +1489,14 @@
   "sia": {
    "source_name": "SIA: Sistema de Informações Ambulatoriais",
    "n_files": 4,
-   "total_size": 83160404,
-   "latest_update": "2025-08-16T12:41:00"
+   "total_size": 83500573,
+   "latest_update": "2025-09-23T12:35:00"
   },
   "sih": {
    "source_name": "SIH: Sistema de Informação Hospitalar",
    "n_files": 4,
-   "total_size": 15185435,
-   "latest_update": "2025-08-16T12:48:00"
+   "total_size": 15190004,
+   "latest_update": "2025-09-23T12:44:00"
   },
   "sim": {
    "source_name": "SIM: Sistema de Informação de Mortalidade",
