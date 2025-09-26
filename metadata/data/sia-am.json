@@ -79772,9 +79772,9 @@
  {
   "filename": "AMAC2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAC2408.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 217591,
+  "size": 198427,
   "dataset": "sia-am",
   "partition": {
    "uf": "ac",
@@ -79787,9 +79787,9 @@
  {
   "filename": "AMAL2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAL2408.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 1637751,
+  "size": 1569061,
   "dataset": "sia-am",
   "partition": {
    "uf": "al",
@@ -79802,9 +79802,9 @@
  {
   "filename": "AMAM2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAM2408.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 603532,
+  "size": 551618,
   "dataset": "sia-am",
   "partition": {
    "uf": "am",
@@ -79817,9 +79817,9 @@
  {
   "filename": "AMAP2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAP2408.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 172411,
+  "size": 153697,
   "dataset": "sia-am",
   "partition": {
    "uf": "ap",
@@ -79832,9 +79832,9 @@
  {
   "filename": "AMBA2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMBA2408.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 5024722,
+  "size": 4416492,
   "dataset": "sia-am",
   "partition": {
    "uf": "ba",
@@ -79847,9 +79847,9 @@
  {
   "filename": "AMCE2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMCE2408.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 7269348,
+  "size": 6576737,
   "dataset": "sia-am",
   "partition": {
    "uf": "ce",
@@ -79862,9 +79862,9 @@
  {
   "filename": "AMDF2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMDF2408.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2453638,
+  "size": 2244707,
   "dataset": "sia-am",
   "partition": {
    "uf": "df",
@@ -79877,9 +79877,9 @@
  {
   "filename": "AMES2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMES2408.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4106034,
+  "size": 3603310,
   "dataset": "sia-am",
   "partition": {
    "uf": "es",
@@ -79892,9 +79892,9 @@
  {
   "filename": "AMGO2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMGO2408.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4788435,
+  "size": 4600831,
   "dataset": "sia-am",
   "partition": {
    "uf": "go",
@@ -79907,9 +79907,9 @@
  {
   "filename": "AMMA2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMA2408.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1326220,
+  "size": 1192447,
   "dataset": "sia-am",
   "partition": {
    "uf": "ma",
@@ -79920,26 +79920,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMMG2408.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMG2408.dbc",
-  "datetime": "2025-09-21T13:24:00",
-  "extension": "dbc",
-  "size": 9450822,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "mg",
-   "year": 2024,
-   "month": 8,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMMS2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMS2408.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1503329,
+  "size": 1343420,
   "dataset": "sia-am",
   "partition": {
    "uf": "ms",
@@ -79952,9 +79937,9 @@
  {
   "filename": "AMMT2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMT2408.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1409452,
+  "size": 1304890,
   "dataset": "sia-am",
   "partition": {
    "uf": "mt",
@@ -79967,9 +79952,9 @@
  {
   "filename": "AMPA2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPA2408.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1074373,
+  "size": 964122,
   "dataset": "sia-am",
   "partition": {
    "uf": "pa",
@@ -79982,9 +79967,9 @@
  {
   "filename": "AMPB2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPB2408.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2962948,
+  "size": 2782793,
   "dataset": "sia-am",
   "partition": {
    "uf": "pb",
@@ -79997,9 +79982,9 @@
  {
   "filename": "AMPE2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPE2408.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3258623,
+  "size": 3090815,
   "dataset": "sia-am",
   "partition": {
    "uf": "pe",
@@ -80012,9 +79997,9 @@
  {
   "filename": "AMPI2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPI2408.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1041285,
+  "size": 958906,
   "dataset": "sia-am",
   "partition": {
    "uf": "pi",
@@ -80027,9 +80012,9 @@
  {
   "filename": "AMPR2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPR2408.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 18097330,
+  "size": 16226611,
   "dataset": "sia-am",
   "partition": {
    "uf": "pr",
@@ -80040,26 +80025,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMRJ2408.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRJ2408.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 4820796,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "rj",
-   "year": 2024,
-   "month": 8,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMRN2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRN2408.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2047853,
+  "size": 1881112,
   "dataset": "sia-am",
   "partition": {
    "uf": "rn",
@@ -80072,9 +80042,9 @@
  {
   "filename": "AMRO2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRO2408.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 722780,
+  "size": 662346,
   "dataset": "sia-am",
   "partition": {
    "uf": "ro",
@@ -80087,9 +80057,9 @@
  {
   "filename": "AMRR2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRR2408.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 70309,
+  "size": 64820,
   "dataset": "sia-am",
   "partition": {
    "uf": "rr",
@@ -80102,9 +80072,9 @@
  {
   "filename": "AMRS2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRS2408.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 7255200,
+  "size": 6513904,
   "dataset": "sia-am",
   "partition": {
    "uf": "rs",
@@ -80117,9 +80087,9 @@
  {
   "filename": "AMSC2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSC2408.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 7148994,
+  "size": 6677500,
   "dataset": "sia-am",
   "partition": {
    "uf": "sc",
@@ -80132,9 +80102,9 @@
  {
   "filename": "AMSE2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSE2408.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1100048,
+  "size": 1005232,
   "dataset": "sia-am",
   "partition": {
    "uf": "se",
@@ -80145,26 +80115,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMSP2408.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSP2408.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 56536134,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "sp",
-   "year": 2024,
-   "month": 8,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMTO2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMTO2408.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 336563,
+  "size": 299929,
   "dataset": "sia-am",
   "partition": {
    "uf": "to",
@@ -80177,9 +80132,9 @@
  {
   "filename": "AMAC2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAC2409.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 223634,
+  "size": 223458,
   "dataset": "sia-am",
   "partition": {
    "uf": "ac",
@@ -80192,9 +80147,9 @@
  {
   "filename": "AMAL2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAL2409.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 1868903,
+  "size": 1868733,
   "dataset": "sia-am",
   "partition": {
    "uf": "al",
@@ -80207,9 +80162,9 @@
  {
   "filename": "AMAM2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAM2409.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 591460,
+  "size": 591678,
   "dataset": "sia-am",
   "partition": {
    "uf": "am",
@@ -80222,9 +80177,9 @@
  {
   "filename": "AMBA2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMBA2409.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 4388067,
+  "size": 4387571,
   "dataset": "sia-am",
   "partition": {
    "uf": "ba",
@@ -80237,9 +80192,9 @@
  {
   "filename": "AMCE2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMCE2409.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 7244784,
+  "size": 7246711,
   "dataset": "sia-am",
   "partition": {
    "uf": "ce",
@@ -80252,9 +80207,9 @@
  {
   "filename": "AMDF2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMDF2409.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2494069,
+  "size": 2493457,
   "dataset": "sia-am",
   "partition": {
    "uf": "df",
@@ -80267,9 +80222,9 @@
  {
   "filename": "AMES2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMES2409.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4140109,
+  "size": 4137559,
   "dataset": "sia-am",
   "partition": {
    "uf": "es",
@@ -80282,9 +80237,9 @@
  {
   "filename": "AMGO2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMGO2409.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4820676,
+  "size": 4820728,
   "dataset": "sia-am",
   "partition": {
    "uf": "go",
@@ -80297,9 +80252,9 @@
  {
   "filename": "AMMA2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMA2409.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1278158,
+  "size": 1278146,
   "dataset": "sia-am",
   "partition": {
    "uf": "ma",
@@ -80310,26 +80265,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMMG2409.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMG2409.dbc",
-  "datetime": "2025-09-21T13:24:00",
-  "extension": "dbc",
-  "size": 9034083,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "mg",
-   "year": 2024,
-   "month": 9,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMMS2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMS2409.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1552995,
+  "size": 1477202,
   "dataset": "sia-am",
   "partition": {
    "uf": "ms",
@@ -80342,9 +80282,9 @@
  {
   "filename": "AMMT2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMT2409.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1428082,
+  "size": 1428052,
   "dataset": "sia-am",
   "partition": {
    "uf": "mt",
@@ -80357,9 +80297,9 @@
  {
   "filename": "AMPA2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPA2409.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1101421,
+  "size": 1100947,
   "dataset": "sia-am",
   "partition": {
    "uf": "pa",
@@ -80372,9 +80312,9 @@
  {
   "filename": "AMPB2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPB2409.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3018309,
+  "size": 3017734,
   "dataset": "sia-am",
   "partition": {
    "uf": "pb",
@@ -80387,9 +80327,9 @@
  {
   "filename": "AMPE2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPE2409.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3330035,
+  "size": 3327632,
   "dataset": "sia-am",
   "partition": {
    "uf": "pe",
@@ -80402,9 +80342,9 @@
  {
   "filename": "AMPI2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPI2409.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1060834,
+  "size": 1060474,
   "dataset": "sia-am",
   "partition": {
    "uf": "pi",
@@ -80417,9 +80357,9 @@
  {
   "filename": "AMPR2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPR2409.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 18628733,
+  "size": 18627607,
   "dataset": "sia-am",
   "partition": {
    "uf": "pr",
@@ -80430,26 +80370,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMRJ2409.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRJ2409.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 5016147,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "rj",
-   "year": 2024,
-   "month": 9,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMRN2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRN2409.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2117736,
+  "size": 2197404,
   "dataset": "sia-am",
   "partition": {
    "uf": "rn",
@@ -80462,9 +80387,9 @@
  {
   "filename": "AMRO2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRO2409.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 793014,
+  "size": 792889,
   "dataset": "sia-am",
   "partition": {
    "uf": "ro",
@@ -80477,9 +80402,9 @@
  {
   "filename": "AMRR2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRR2409.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 62561,
+  "size": 62539,
   "dataset": "sia-am",
   "partition": {
    "uf": "rr",
@@ -80492,9 +80417,9 @@
  {
   "filename": "AMRS2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRS2409.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 7314781,
+  "size": 7313041,
   "dataset": "sia-am",
   "partition": {
    "uf": "rs",
@@ -80507,9 +80432,9 @@
  {
   "filename": "AMSC2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSC2409.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 7195780,
+  "size": 7194742,
   "dataset": "sia-am",
   "partition": {
    "uf": "sc",
@@ -80522,9 +80447,9 @@
  {
   "filename": "AMSE2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSE2409.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1150686,
+  "size": 1151464,
   "dataset": "sia-am",
   "partition": {
    "uf": "se",
@@ -80535,26 +80460,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMSP2409.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSP2409.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 57683679,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "sp",
-   "year": 2024,
-   "month": 9,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMTO2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMTO2409.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 339609,
+  "size": 329365,
   "dataset": "sia-am",
   "partition": {
    "uf": "to",
@@ -80567,9 +80477,9 @@
  {
   "filename": "AMAC2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAC2410.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 224763,
+  "size": 205448,
   "dataset": "sia-am",
   "partition": {
    "uf": "ac",
@@ -80582,9 +80492,9 @@
  {
   "filename": "AMAL2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAL2410.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 1787186,
+  "size": 1706085,
   "dataset": "sia-am",
   "partition": {
    "uf": "al",
@@ -80597,9 +80507,9 @@
  {
   "filename": "AMBA2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMBA2410.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 3337674,
+  "size": 2950111,
   "dataset": "sia-am",
   "partition": {
    "uf": "ba",
@@ -80612,9 +80522,9 @@
  {
   "filename": "AMCE2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMCE2410.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 7252888,
+  "size": 6769444,
   "dataset": "sia-am",
   "partition": {
    "uf": "ce",
@@ -80627,9 +80537,9 @@
  {
   "filename": "AMDF2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMDF2410.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2498727,
+  "size": 2286622,
   "dataset": "sia-am",
   "partition": {
    "uf": "df",
@@ -80642,9 +80552,9 @@
  {
   "filename": "AMES2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMES2410.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4164892,
+  "size": 3644632,
   "dataset": "sia-am",
   "partition": {
    "uf": "es",
@@ -80657,9 +80567,9 @@
  {
   "filename": "AMGO2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMGO2410.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4915246,
+  "size": 4738917,
   "dataset": "sia-am",
   "partition": {
    "uf": "go",
@@ -80672,9 +80582,9 @@
  {
   "filename": "AMMA2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMA2410.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1348302,
+  "size": 1204661,
   "dataset": "sia-am",
   "partition": {
    "uf": "ma",
@@ -80685,26 +80595,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMMG2410.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMG2410.dbc",
-  "datetime": "2025-09-21T13:24:00",
-  "extension": "dbc",
-  "size": 9749299,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "mg",
-   "year": 2024,
-   "month": 10,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMMS2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMS2410.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1577055,
+  "size": 1409342,
   "dataset": "sia-am",
   "partition": {
    "uf": "ms",
@@ -80717,9 +80612,9 @@
  {
   "filename": "AMMT2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMT2410.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1442782,
+  "size": 1332917,
   "dataset": "sia-am",
   "partition": {
    "uf": "mt",
@@ -80732,9 +80627,9 @@
  {
   "filename": "AMPA2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPA2410.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1133786,
+  "size": 1017067,
   "dataset": "sia-am",
   "partition": {
    "uf": "pa",
@@ -80747,9 +80642,9 @@
  {
   "filename": "AMPB2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPB2410.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3234919,
+  "size": 3045931,
   "dataset": "sia-am",
   "partition": {
    "uf": "pb",
@@ -80762,9 +80657,9 @@
  {
   "filename": "AMPE2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPE2410.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3377428,
+  "size": 3196741,
   "dataset": "sia-am",
   "partition": {
    "uf": "pe",
@@ -80777,9 +80672,9 @@
  {
   "filename": "AMPI2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPI2410.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1088490,
+  "size": 1010091,
   "dataset": "sia-am",
   "partition": {
    "uf": "pi",
@@ -80792,9 +80687,9 @@
  {
   "filename": "AMPR2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPR2410.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 19130045,
+  "size": 17204391,
   "dataset": "sia-am",
   "partition": {
    "uf": "pr",
@@ -80805,26 +80700,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMRJ2410.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRJ2410.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 5155236,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "rj",
-   "year": 2024,
-   "month": 10,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMRN2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRN2410.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2139318,
+  "size": 1975518,
   "dataset": "sia-am",
   "partition": {
    "uf": "rn",
@@ -80837,9 +80717,9 @@
  {
   "filename": "AMRO2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRO2410.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 849440,
+  "size": 779299,
   "dataset": "sia-am",
   "partition": {
    "uf": "ro",
@@ -80852,9 +80732,9 @@
  {
   "filename": "AMRR2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRR2410.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 68268,
+  "size": 62295,
   "dataset": "sia-am",
   "partition": {
    "uf": "rr",
@@ -80867,9 +80747,9 @@
  {
   "filename": "AMRS2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRS2410.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 7626728,
+  "size": 6875553,
   "dataset": "sia-am",
   "partition": {
    "uf": "rs",
@@ -80882,9 +80762,9 @@
  {
   "filename": "AMSC2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSC2410.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 7220150,
+  "size": 6755061,
   "dataset": "sia-am",
   "partition": {
    "uf": "sc",
@@ -80897,9 +80777,9 @@
  {
   "filename": "AMSE2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSE2410.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1174234,
+  "size": 1072221,
   "dataset": "sia-am",
   "partition": {
    "uf": "se",
@@ -80910,26 +80790,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMSP2410.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSP2410.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 58932195,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "sp",
-   "year": 2024,
-   "month": 10,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMTO2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMTO2410.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 345035,
+  "size": 307349,
   "dataset": "sia-am",
   "partition": {
    "uf": "to",
@@ -80942,9 +80807,9 @@
  {
   "filename": "AMAC2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAC2411.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 222837,
+  "size": 222650,
   "dataset": "sia-am",
   "partition": {
    "uf": "ac",
@@ -80957,9 +80822,9 @@
  {
   "filename": "AMAL2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAL2411.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 1781765,
+  "size": 1781365,
   "dataset": "sia-am",
   "partition": {
    "uf": "al",
@@ -80972,9 +80837,9 @@
  {
   "filename": "AMAM2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAM2411.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 1124118,
+  "size": 1123884,
   "dataset": "sia-am",
   "partition": {
    "uf": "am",
@@ -80987,9 +80852,9 @@
  {
   "filename": "AMAP2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAP2411.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 217435,
+  "size": 217307,
   "dataset": "sia-am",
   "partition": {
    "uf": "ap",
@@ -81002,9 +80867,9 @@
  {
   "filename": "AMBA2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMBA2411.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 5910990,
+  "size": 5915120,
   "dataset": "sia-am",
   "partition": {
    "uf": "ba",
@@ -81017,9 +80882,9 @@
  {
   "filename": "AMCE2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMCE2411.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 7786532,
+  "size": 7782654,
   "dataset": "sia-am",
   "partition": {
    "uf": "ce",
@@ -81032,9 +80897,9 @@
  {
   "filename": "AMDF2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMDF2411.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2530423,
+  "size": 2530294,
   "dataset": "sia-am",
   "partition": {
    "uf": "df",
@@ -81047,9 +80912,9 @@
  {
   "filename": "AMES2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMES2411.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4157128,
+  "size": 4153234,
   "dataset": "sia-am",
   "partition": {
    "uf": "es",
@@ -81062,9 +80927,9 @@
  {
   "filename": "AMGO2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMGO2411.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3885432,
+  "size": 3894637,
   "dataset": "sia-am",
   "partition": {
    "uf": "go",
@@ -81077,9 +80942,9 @@
  {
   "filename": "AMMA2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMA2411.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1340395,
+  "size": 1341281,
   "dataset": "sia-am",
   "partition": {
    "uf": "ma",
@@ -81090,26 +80955,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMMG2411.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMG2411.dbc",
-  "datetime": "2025-09-21T13:24:00",
-  "extension": "dbc",
-  "size": 8732009,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "mg",
-   "year": 2024,
-   "month": 11,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMMS2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMS2411.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1581812,
+  "size": 1505400,
   "dataset": "sia-am",
   "partition": {
    "uf": "ms",
@@ -81122,9 +80972,9 @@
  {
   "filename": "AMMT2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMT2411.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2599512,
+  "size": 2600683,
   "dataset": "sia-am",
   "partition": {
    "uf": "mt",
@@ -81137,9 +80987,9 @@
  {
   "filename": "AMPA2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPA2411.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1126870,
+  "size": 1123625,
   "dataset": "sia-am",
   "partition": {
    "uf": "pa",
@@ -81152,9 +81002,9 @@
  {
   "filename": "AMPB2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPB2411.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3312110,
+  "size": 3323894,
   "dataset": "sia-am",
   "partition": {
    "uf": "pb",
@@ -81167,9 +81017,9 @@
  {
   "filename": "AMPE2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPE2411.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3374861,
+  "size": 3180459,
   "dataset": "sia-am",
   "partition": {
    "uf": "pe",
@@ -81182,9 +81032,9 @@
  {
   "filename": "AMPI2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPI2411.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1083747,
+  "size": 1003385,
   "dataset": "sia-am",
   "partition": {
    "uf": "pi",
@@ -81197,9 +81047,9 @@
  {
   "filename": "AMPR2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPR2411.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 19473160,
+  "size": 17514510,
   "dataset": "sia-am",
   "partition": {
    "uf": "pr",
@@ -81210,26 +81060,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMRJ2411.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRJ2411.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 5135389,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "rj",
-   "year": 2024,
-   "month": 11,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMRN2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRN2411.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1992846,
+  "size": 1836723,
   "dataset": "sia-am",
   "partition": {
    "uf": "rn",
@@ -81242,9 +81077,9 @@
  {
   "filename": "AMRO2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRO2411.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 827360,
+  "size": 758063,
   "dataset": "sia-am",
   "partition": {
    "uf": "ro",
@@ -81257,9 +81092,9 @@
  {
   "filename": "AMRR2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRR2411.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 67746,
+  "size": 62212,
   "dataset": "sia-am",
   "partition": {
    "uf": "rr",
@@ -81272,9 +81107,9 @@
  {
   "filename": "AMRS2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRS2411.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 7218230,
+  "size": 6502195,
   "dataset": "sia-am",
   "partition": {
    "uf": "rs",
@@ -81287,9 +81122,9 @@
  {
   "filename": "AMSC2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSC2411.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 7406700,
+  "size": 6915778,
   "dataset": "sia-am",
   "partition": {
    "uf": "sc",
@@ -81302,9 +81137,9 @@
  {
   "filename": "AMSE2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSE2411.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1176185,
+  "size": 1072905,
   "dataset": "sia-am",
   "partition": {
    "uf": "se",
@@ -81315,26 +81150,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMSP2411.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSP2411.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 58901908,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "sp",
-   "year": 2024,
-   "month": 11,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMTO2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMTO2411.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 241005,
+  "size": 217698,
   "dataset": "sia-am",
   "partition": {
    "uf": "to",
@@ -81347,9 +81167,9 @@
  {
   "filename": "AMAC2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAC2412.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 228265,
+  "size": 228135,
   "dataset": "sia-am",
   "partition": {
    "uf": "ac",
@@ -81362,9 +81182,9 @@
  {
   "filename": "AMAL2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAL2412.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 1796544,
+  "size": 1796876,
   "dataset": "sia-am",
   "partition": {
    "uf": "al",
@@ -81377,9 +81197,9 @@
  {
   "filename": "AMAM2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAM2412.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 410499,
+  "size": 410936,
   "dataset": "sia-am",
   "partition": {
    "uf": "am",
@@ -81392,9 +81212,9 @@
  {
   "filename": "AMAP2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAP2412.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 246189,
+  "size": 246692,
   "dataset": "sia-am",
   "partition": {
    "uf": "ap",
@@ -81407,9 +81227,9 @@
  {
   "filename": "AMBA2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMBA2412.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 4574462,
+  "size": 4575498,
   "dataset": "sia-am",
   "partition": {
    "uf": "ba",
@@ -81422,9 +81242,9 @@
  {
   "filename": "AMCE2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMCE2412.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 7692762,
+  "size": 7692116,
   "dataset": "sia-am",
   "partition": {
    "uf": "ce",
@@ -81437,9 +81257,9 @@
  {
   "filename": "AMDF2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMDF2412.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2555456,
+  "size": 2555762,
   "dataset": "sia-am",
   "partition": {
    "uf": "df",
@@ -81452,9 +81272,9 @@
  {
   "filename": "AMES2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMES2412.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4141790,
+  "size": 4144087,
   "dataset": "sia-am",
   "partition": {
    "uf": "es",
@@ -81467,9 +81287,9 @@
  {
   "filename": "AMGO2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMGO2412.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3909200,
+  "size": 3909100,
   "dataset": "sia-am",
   "partition": {
    "uf": "go",
@@ -81482,9 +81302,9 @@
  {
   "filename": "AMMA2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMA2412.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1361406,
+  "size": 1360111,
   "dataset": "sia-am",
   "partition": {
    "uf": "ma",
@@ -81495,26 +81315,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMMG2412.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMG2412.dbc",
-  "datetime": "2025-09-21T13:24:00",
-  "extension": "dbc",
-  "size": 10884152,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "mg",
-   "year": 2024,
-   "month": 12,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMMS2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMS2412.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1651451,
+  "size": 1517275,
   "dataset": "sia-am",
   "partition": {
    "uf": "ms",
@@ -81527,9 +81332,9 @@
  {
   "filename": "AMMT2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMT2412.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1607237,
+  "size": 1483698,
   "dataset": "sia-am",
   "partition": {
    "uf": "mt",
@@ -81542,9 +81347,9 @@
  {
   "filename": "AMPA2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPA2412.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1258207,
+  "size": 1173164,
   "dataset": "sia-am",
   "partition": {
    "uf": "pa",
@@ -81557,9 +81362,9 @@
  {
   "filename": "AMPB2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPB2412.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3700309,
+  "size": 3387005,
   "dataset": "sia-am",
   "partition": {
    "uf": "pb",
@@ -81572,9 +81377,9 @@
  {
   "filename": "AMPE2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPE2412.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3835883,
+  "size": 3437796,
   "dataset": "sia-am",
   "partition": {
    "uf": "pe",
@@ -81587,9 +81392,9 @@
  {
   "filename": "AMPI2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPI2412.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1200563,
+  "size": 1116717,
   "dataset": "sia-am",
   "partition": {
    "uf": "pi",
@@ -81602,9 +81407,9 @@
  {
   "filename": "AMPR2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPR2412.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 22331694,
+  "size": 19186353,
   "dataset": "sia-am",
   "partition": {
    "uf": "pr",
@@ -81615,26 +81420,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMRJ2412.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRJ2412.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 5287368,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "rj",
-   "year": 2024,
-   "month": 12,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMRN2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRN2412.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2067668,
+  "size": 2035312,
   "dataset": "sia-am",
   "partition": {
    "uf": "rn",
@@ -81647,9 +81437,9 @@
  {
   "filename": "AMRO2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRO2412.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 867473,
+  "size": 819920,
   "dataset": "sia-am",
   "partition": {
    "uf": "ro",
@@ -81662,9 +81452,9 @@
  {
   "filename": "AMRR2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRR2412.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 66129,
+  "size": 66688,
   "dataset": "sia-am",
   "partition": {
    "uf": "rr",
@@ -81677,9 +81467,9 @@
  {
   "filename": "AMRS2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRS2412.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 7736602,
+  "size": 6926227,
   "dataset": "sia-am",
   "partition": {
    "uf": "rs",
@@ -81692,9 +81482,9 @@
  {
   "filename": "AMSC2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSC2412.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 8023537,
+  "size": 7558672,
   "dataset": "sia-am",
   "partition": {
    "uf": "sc",
@@ -81707,9 +81497,9 @@
  {
   "filename": "AMSE2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSE2412.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1218824,
+  "size": 1186890,
   "dataset": "sia-am",
   "partition": {
    "uf": "se",
@@ -81720,26 +81510,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMSP2412.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSP2412.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 72976565,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "sp",
-   "year": 2024,
-   "month": 12,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMTO2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMTO2412.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 241084,
+  "size": 237050,
   "dataset": "sia-am",
   "partition": {
    "uf": "to",
@@ -81752,9 +81527,9 @@
  {
   "filename": "AMAC2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAC2501.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 229430,
+  "size": 225121,
   "dataset": "sia-am",
   "partition": {
    "uf": "ac",
@@ -81767,9 +81542,9 @@
  {
   "filename": "AMAL2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAL2501.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 1941199,
+  "size": 1787904,
   "dataset": "sia-am",
   "partition": {
    "uf": "al",
@@ -81782,9 +81557,9 @@
  {
   "filename": "AMAM2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAM2501.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 455606,
+  "size": 432458,
   "dataset": "sia-am",
   "partition": {
    "uf": "am",
@@ -81797,9 +81572,9 @@
  {
   "filename": "AMAP2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAP2501.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 125703,
+  "size": 125147,
   "dataset": "sia-am",
   "partition": {
    "uf": "ap",
@@ -81812,9 +81587,9 @@
  {
   "filename": "AMBA2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMBA2501.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 5230724,
+  "size": 4559203,
   "dataset": "sia-am",
   "partition": {
    "uf": "ba",
@@ -81827,9 +81602,9 @@
  {
   "filename": "AMCE2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMCE2501.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 8525005,
+  "size": 7794107,
   "dataset": "sia-am",
   "partition": {
    "uf": "ce",
@@ -81842,9 +81617,9 @@
  {
   "filename": "AMDF2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMDF2501.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2727047,
+  "size": 2618261,
   "dataset": "sia-am",
   "partition": {
    "uf": "df",
@@ -81857,9 +81632,9 @@
  {
   "filename": "AMES2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMES2501.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4743551,
+  "size": 4342769,
   "dataset": "sia-am",
   "partition": {
    "uf": "es",
@@ -81872,9 +81647,9 @@
  {
   "filename": "AMGO2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMGO2501.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4386254,
+  "size": 4097954,
   "dataset": "sia-am",
   "partition": {
    "uf": "go",
@@ -81887,9 +81662,9 @@
  {
   "filename": "AMMA2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMA2501.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1526800,
+  "size": 1444136,
   "dataset": "sia-am",
   "partition": {
    "uf": "ma",
@@ -81900,26 +81675,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMMG2501.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMG2501.dbc",
-  "datetime": "2025-09-21T13:24:00",
-  "extension": "dbc",
-  "size": 10945097,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "mg",
-   "year": 2025,
-   "month": 1,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMMS2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMS2501.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1657539,
+  "size": 1524321,
   "dataset": "sia-am",
   "partition": {
    "uf": "ms",
@@ -81932,9 +81692,9 @@
  {
   "filename": "AMMT2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMT2501.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1630055,
+  "size": 1503216,
   "dataset": "sia-am",
   "partition": {
    "uf": "mt",
@@ -81947,9 +81707,9 @@
  {
   "filename": "AMPA2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPA2501.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1263049,
+  "size": 1176578,
   "dataset": "sia-am",
   "partition": {
    "uf": "pa",
@@ -81962,9 +81722,9 @@
  {
   "filename": "AMPB2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPB2501.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3740638,
+  "size": 3421648,
   "dataset": "sia-am",
   "partition": {
    "uf": "pb",
@@ -81977,9 +81737,9 @@
  {
   "filename": "AMPE2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPE2501.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3859289,
+  "size": 3466518,
   "dataset": "sia-am",
   "partition": {
    "uf": "pe",
@@ -81992,9 +81752,9 @@
  {
   "filename": "AMPI2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPI2501.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1186305,
+  "size": 1102856,
   "dataset": "sia-am",
   "partition": {
    "uf": "pi",
@@ -82007,9 +81767,9 @@
  {
   "filename": "AMPR2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPR2501.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 23294168,
+  "size": 20010858,
   "dataset": "sia-am",
   "partition": {
    "uf": "pr",
@@ -82020,26 +81780,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMRJ2501.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRJ2501.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 5397222,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "rj",
-   "year": 2025,
-   "month": 1,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMRN2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRN2501.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2010904,
+  "size": 1983799,
   "dataset": "sia-am",
   "partition": {
    "uf": "rn",
@@ -82052,9 +81797,9 @@
  {
   "filename": "AMRO2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRO2501.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 904526,
+  "size": 853984,
   "dataset": "sia-am",
   "partition": {
    "uf": "ro",
@@ -82067,9 +81812,9 @@
  {
   "filename": "AMRR2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRR2501.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 69690,
+  "size": 70231,
   "dataset": "sia-am",
   "partition": {
    "uf": "rr",
@@ -82082,9 +81827,9 @@
  {
   "filename": "AMRS2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRS2501.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 8318195,
+  "size": 7556577,
   "dataset": "sia-am",
   "partition": {
    "uf": "rs",
@@ -82097,9 +81842,9 @@
  {
   "filename": "AMSC2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSC2501.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 7521713,
+  "size": 7783318,
   "dataset": "sia-am",
   "partition": {
    "uf": "sc",
@@ -82112,9 +81857,9 @@
  {
   "filename": "AMSE2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSE2501.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1213546,
+  "size": 1190072,
   "dataset": "sia-am",
   "partition": {
    "uf": "se",
@@ -82125,26 +81870,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMSP2501.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSP2501.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 74104597,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "sp",
-   "year": 2025,
-   "month": 1,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMTO2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMTO2501.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 216625,
+  "size": 216439,
   "dataset": "sia-am",
   "partition": {
    "uf": "to",
@@ -82157,9 +81887,9 @@
  {
   "filename": "AMAC2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAC2502.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 233085,
+  "size": 228792,
   "dataset": "sia-am",
   "partition": {
    "uf": "ac",
@@ -82172,9 +81902,9 @@
  {
   "filename": "AMAL2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAL2502.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 1829106,
+  "size": 1678264,
   "dataset": "sia-am",
   "partition": {
    "uf": "al",
@@ -82187,9 +81917,9 @@
  {
   "filename": "AMAM2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAM2502.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 633370,
+  "size": 594420,
   "dataset": "sia-am",
   "partition": {
    "uf": "am",
@@ -82202,9 +81932,9 @@
  {
   "filename": "AMAP2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAP2502.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 131529,
+  "size": 130712,
   "dataset": "sia-am",
   "partition": {
    "uf": "ap",
@@ -82217,9 +81947,9 @@
  {
   "filename": "AMBA2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMBA2502.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 5756146,
+  "size": 4987866,
   "dataset": "sia-am",
   "partition": {
    "uf": "ba",
@@ -82232,9 +81962,9 @@
  {
   "filename": "AMCE2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMCE2502.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 8624229,
+  "size": 8102891,
   "dataset": "sia-am",
   "partition": {
    "uf": "ce",
@@ -82247,9 +81977,9 @@
  {
   "filename": "AMDF2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMDF2502.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2772613,
+  "size": 2661121,
   "dataset": "sia-am",
   "partition": {
    "uf": "df",
@@ -82262,9 +81992,9 @@
  {
   "filename": "AMES2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMES2502.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4700524,
+  "size": 4305297,
   "dataset": "sia-am",
   "partition": {
    "uf": "es",
@@ -82277,9 +82007,9 @@
  {
   "filename": "AMGO2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMGO2502.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4615649,
+  "size": 4242576,
   "dataset": "sia-am",
   "partition": {
    "uf": "go",
@@ -82292,9 +82022,9 @@
  {
   "filename": "AMMA2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMA2502.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1534418,
+  "size": 1436667,
   "dataset": "sia-am",
   "partition": {
    "uf": "ma",
@@ -82305,26 +82035,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMMG2502.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMG2502.dbc",
-  "datetime": "2025-09-21T13:24:00",
-  "extension": "dbc",
-  "size": 10664900,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "mg",
-   "year": 2025,
-   "month": 2,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMMS2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMS2502.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1688010,
+  "size": 1551446,
   "dataset": "sia-am",
   "partition": {
    "uf": "ms",
@@ -82337,9 +82052,9 @@
  {
   "filename": "AMMT2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMT2502.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1602571,
+  "size": 1480928,
   "dataset": "sia-am",
   "partition": {
    "uf": "mt",
@@ -82352,9 +82067,9 @@
  {
   "filename": "AMPA2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPA2502.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1278256,
+  "size": 1189756,
   "dataset": "sia-am",
   "partition": {
    "uf": "pa",
@@ -82367,9 +82082,9 @@
  {
   "filename": "AMPB2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPB2502.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3842633,
+  "size": 3508435,
   "dataset": "sia-am",
   "partition": {
    "uf": "pb",
@@ -82382,9 +82097,9 @@
  {
   "filename": "AMPE2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPE2502.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3890632,
+  "size": 3475637,
   "dataset": "sia-am",
   "partition": {
    "uf": "pe",
@@ -82397,9 +82112,9 @@
  {
   "filename": "AMPI2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPI2502.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1180397,
+  "size": 1098219,
   "dataset": "sia-am",
   "partition": {
    "uf": "pi",
@@ -82412,9 +82127,9 @@
  {
   "filename": "AMPR2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPR2502.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 23347829,
+  "size": 20232391,
   "dataset": "sia-am",
   "partition": {
    "uf": "pr",
@@ -82425,26 +82140,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMRJ2502.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRJ2502.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 5612210,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "rj",
-   "year": 2025,
-   "month": 2,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMRN2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRN2502.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1950490,
+  "size": 1923333,
   "dataset": "sia-am",
   "partition": {
    "uf": "rn",
@@ -82457,9 +82157,9 @@
  {
   "filename": "AMRO2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRO2502.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 768618,
+  "size": 729306,
   "dataset": "sia-am",
   "partition": {
    "uf": "ro",
@@ -82472,9 +82172,9 @@
  {
   "filename": "AMRR2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRR2502.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 72211,
+  "size": 73007,
   "dataset": "sia-am",
   "partition": {
    "uf": "rr",
@@ -82487,9 +82187,9 @@
  {
   "filename": "AMRS2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRS2502.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 7756960,
+  "size": 6955924,
   "dataset": "sia-am",
   "partition": {
    "uf": "rs",
@@ -82502,9 +82202,9 @@
  {
   "filename": "AMSC2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSC2502.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 8325536,
+  "size": 7817876,
   "dataset": "sia-am",
   "partition": {
    "uf": "sc",
@@ -82517,9 +82217,9 @@
  {
   "filename": "AMSE2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSE2502.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1226994,
+  "size": 1195976,
   "dataset": "sia-am",
   "partition": {
    "uf": "se",
@@ -82530,26 +82230,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMSP2502.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSP2502.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 74300369,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "sp",
-   "year": 2025,
-   "month": 2,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMTO2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMTO2502.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 229442,
+  "size": 225912,
   "dataset": "sia-am",
   "partition": {
    "uf": "to",
@@ -82562,9 +82247,9 @@
  {
   "filename": "AMAC2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAC2503.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 226470,
+  "size": 226677,
   "dataset": "sia-am",
   "partition": {
    "uf": "ac",
@@ -82577,9 +82262,9 @@
  {
   "filename": "AMAL2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAL2503.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 1701506,
+  "size": 1708461,
   "dataset": "sia-am",
   "partition": {
    "uf": "al",
@@ -82592,9 +82277,9 @@
  {
   "filename": "AMAM2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAM2503.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 590789,
+  "size": 590285,
   "dataset": "sia-am",
   "partition": {
    "uf": "am",
@@ -82607,9 +82292,9 @@
  {
   "filename": "AMAP2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAP2503.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 132663,
+  "size": 132530,
   "dataset": "sia-am",
   "partition": {
    "uf": "ap",
@@ -82622,9 +82307,9 @@
  {
   "filename": "AMBA2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMBA2503.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 4659334,
+  "size": 4650418,
   "dataset": "sia-am",
   "partition": {
    "uf": "ba",
@@ -82637,9 +82322,9 @@
  {
   "filename": "AMCE2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMCE2503.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 7879994,
+  "size": 7878448,
   "dataset": "sia-am",
   "partition": {
    "uf": "ce",
@@ -82652,9 +82337,9 @@
  {
   "filename": "AMDF2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMDF2503.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2661561,
+  "size": 2661411,
   "dataset": "sia-am",
   "partition": {
    "uf": "df",
@@ -82667,9 +82352,9 @@
  {
   "filename": "AMES2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMES2503.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4171438,
+  "size": 4165280,
   "dataset": "sia-am",
   "partition": {
    "uf": "es",
@@ -82682,9 +82367,9 @@
  {
   "filename": "AMGO2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMGO2503.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4091339,
+  "size": 4104352,
   "dataset": "sia-am",
   "partition": {
    "uf": "go",
@@ -82697,9 +82382,9 @@
  {
   "filename": "AMMA2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMA2503.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1425567,
+  "size": 1424525,
   "dataset": "sia-am",
   "partition": {
    "uf": "ma",
@@ -82710,26 +82395,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMMG2503.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMG2503.dbc",
-  "datetime": "2025-09-21T13:24:00",
-  "extension": "dbc",
-  "size": 9275930,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "mg",
-   "year": 2025,
-   "month": 3,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMMS2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMS2503.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1643537,
+  "size": 1565719,
   "dataset": "sia-am",
   "partition": {
    "uf": "ms",
@@ -82742,9 +82412,9 @@
  {
   "filename": "AMMT2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMT2503.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1474813,
+  "size": 1474675,
   "dataset": "sia-am",
   "partition": {
    "uf": "mt",
@@ -82757,9 +82427,9 @@
  {
   "filename": "AMPA2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPA2503.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1062963,
+  "size": 1062265,
   "dataset": "sia-am",
   "partition": {
    "uf": "pa",
@@ -82772,9 +82442,9 @@
  {
   "filename": "AMPB2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPB2503.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3531075,
+  "size": 3533359,
   "dataset": "sia-am",
   "partition": {
    "uf": "pb",
@@ -82787,9 +82457,9 @@
  {
   "filename": "AMPE2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPE2503.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3408307,
+  "size": 3420075,
   "dataset": "sia-am",
   "partition": {
    "uf": "pe",
@@ -82802,9 +82472,9 @@
  {
   "filename": "AMPI2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPI2503.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1080280,
+  "size": 1080054,
   "dataset": "sia-am",
   "partition": {
    "uf": "pi",
@@ -82817,9 +82487,9 @@
  {
   "filename": "AMPR2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPR2503.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 20174683,
+  "size": 20085838,
   "dataset": "sia-am",
   "partition": {
    "uf": "pr",
@@ -82830,26 +82500,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMRJ2503.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRJ2503.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 5219727,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "rj",
-   "year": 2025,
-   "month": 3,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMRN2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRN2503.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1822262,
+  "size": 1889839,
   "dataset": "sia-am",
   "partition": {
    "uf": "rn",
@@ -82862,9 +82517,9 @@
  {
   "filename": "AMRO2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRO2503.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 620243,
+  "size": 618475,
   "dataset": "sia-am",
   "partition": {
    "uf": "ro",
@@ -82877,9 +82532,9 @@
  {
   "filename": "AMRR2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRR2503.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 70176,
+  "size": 70367,
   "dataset": "sia-am",
   "partition": {
    "uf": "rr",
@@ -82892,9 +82547,9 @@
  {
   "filename": "AMRS2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRS2503.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 7692739,
+  "size": 7669844,
   "dataset": "sia-am",
   "partition": {
    "uf": "rs",
@@ -82907,9 +82562,9 @@
  {
   "filename": "AMSC2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSC2503.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 7822704,
+  "size": 7852380,
   "dataset": "sia-am",
   "partition": {
    "uf": "sc",
@@ -82922,9 +82577,9 @@
  {
   "filename": "AMSE2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSE2503.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1178876,
+  "size": 1178458,
   "dataset": "sia-am",
   "partition": {
    "uf": "se",
@@ -82935,26 +82590,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMSP2503.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSP2503.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 59805392,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "sp",
-   "year": 2025,
-   "month": 3,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMTO2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMTO2503.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 225233,
+  "size": 222479,
   "dataset": "sia-am",
   "partition": {
    "uf": "to",
@@ -82967,9 +82607,9 @@
  {
   "filename": "AMAC2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAC2504.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 226834,
+  "size": 227088,
   "dataset": "sia-am",
   "partition": {
    "uf": "ac",
@@ -82982,9 +82622,9 @@
  {
   "filename": "AMAL2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAL2504.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 1751472,
+  "size": 1758923,
   "dataset": "sia-am",
   "partition": {
    "uf": "al",
@@ -82997,9 +82637,9 @@
  {
   "filename": "AMAM2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAM2504.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 595374,
+  "size": 595356,
   "dataset": "sia-am",
   "partition": {
    "uf": "am",
@@ -83012,9 +82652,9 @@
  {
   "filename": "AMAP2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAP2504.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 134631,
+  "size": 134629,
   "dataset": "sia-am",
   "partition": {
    "uf": "ap",
@@ -83027,9 +82667,9 @@
  {
   "filename": "AMBA2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMBA2504.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 4876150,
+  "size": 4865193,
   "dataset": "sia-am",
   "partition": {
    "uf": "ba",
@@ -83042,9 +82682,9 @@
  {
   "filename": "AMCE2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMCE2504.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 7901280,
+  "size": 7881589,
   "dataset": "sia-am",
   "partition": {
    "uf": "ce",
@@ -83057,9 +82697,9 @@
  {
   "filename": "AMDF2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMDF2504.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2668169,
+  "size": 2668009,
   "dataset": "sia-am",
   "partition": {
    "uf": "df",
@@ -83072,9 +82712,9 @@
  {
   "filename": "AMES2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMES2504.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4122347,
+  "size": 4116577,
   "dataset": "sia-am",
   "partition": {
    "uf": "es",
@@ -83087,9 +82727,9 @@
  {
   "filename": "AMGO2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMGO2504.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4141768,
+  "size": 4154631,
   "dataset": "sia-am",
   "partition": {
    "uf": "go",
@@ -83102,9 +82742,9 @@
  {
   "filename": "AMMA2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMA2504.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1402483,
+  "size": 1403047,
   "dataset": "sia-am",
   "partition": {
    "uf": "ma",
@@ -83115,26 +82755,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMMG2504.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMG2504.dbc",
-  "datetime": "2025-09-21T13:24:00",
-  "extension": "dbc",
-  "size": 8743543,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "mg",
-   "year": 2025,
-   "month": 4,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMMS2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMS2504.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1657635,
+  "size": 1577573,
   "dataset": "sia-am",
   "partition": {
    "uf": "ms",
@@ -83147,9 +82772,9 @@
  {
   "filename": "AMMT2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMT2504.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1463409,
+  "size": 1461739,
   "dataset": "sia-am",
   "partition": {
    "uf": "mt",
@@ -83162,9 +82787,9 @@
  {
   "filename": "AMPA2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPA2504.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1075604,
+  "size": 1076205,
   "dataset": "sia-am",
   "partition": {
    "uf": "pa",
@@ -83177,9 +82802,9 @@
  {
   "filename": "AMPB2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPB2504.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3549528,
+  "size": 3547243,
   "dataset": "sia-am",
   "partition": {
    "uf": "pb",
@@ -83192,9 +82817,9 @@
  {
   "filename": "AMPE2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPE2504.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3450006,
+  "size": 3449719,
   "dataset": "sia-am",
   "partition": {
    "uf": "pe",
@@ -83207,9 +82832,9 @@
  {
   "filename": "AMPI2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPI2504.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1067047,
+  "size": 1067457,
   "dataset": "sia-am",
   "partition": {
    "uf": "pi",
@@ -83222,9 +82847,9 @@
  {
   "filename": "AMPR2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPR2504.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 20413809,
+  "size": 20226782,
   "dataset": "sia-am",
   "partition": {
    "uf": "pr",
@@ -83235,26 +82860,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMRJ2504.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRJ2504.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 5076917,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "rj",
-   "year": 2025,
-   "month": 4,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMRN2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRN2504.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1911815,
+  "size": 1980933,
   "dataset": "sia-am",
   "partition": {
    "uf": "rn",
@@ -83267,9 +82877,9 @@
  {
   "filename": "AMRO2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRO2504.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 364354,
+  "size": 365199,
   "dataset": "sia-am",
   "partition": {
    "uf": "ro",
@@ -83282,9 +82892,9 @@
  {
   "filename": "AMRR2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRR2504.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 70597,
+  "size": 70650,
   "dataset": "sia-am",
   "partition": {
    "uf": "rr",
@@ -83297,9 +82907,9 @@
  {
   "filename": "AMRS2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRS2504.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 7787604,
+  "size": 7793887,
   "dataset": "sia-am",
   "partition": {
    "uf": "rs",
@@ -83312,9 +82922,9 @@
  {
   "filename": "AMSC2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSC2504.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 7867995,
+  "size": 7871122,
   "dataset": "sia-am",
   "partition": {
    "uf": "sc",
@@ -83327,9 +82937,9 @@
  {
   "filename": "AMSE2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSE2504.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1198052,
+  "size": 1198826,
   "dataset": "sia-am",
   "partition": {
    "uf": "se",
@@ -83340,26 +82950,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMSP2504.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSP2504.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 59227249,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "sp",
-   "year": 2025,
-   "month": 4,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMTO2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMTO2504.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 230102,
+  "size": 226938,
   "dataset": "sia-am",
   "partition": {
    "uf": "to",
@@ -83372,9 +82967,9 @@
  {
   "filename": "AMAC2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAC2505.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 231768,
+  "size": 231294,
   "dataset": "sia-am",
   "partition": {
    "uf": "ac",
@@ -83387,9 +82982,9 @@
  {
   "filename": "AMAL2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAL2505.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 1741105,
+  "size": 1742140,
   "dataset": "sia-am",
   "partition": {
    "uf": "al",
@@ -83402,9 +82997,9 @@
  {
   "filename": "AMAM2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAM2505.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 600594,
+  "size": 600525,
   "dataset": "sia-am",
   "partition": {
    "uf": "am",
@@ -83417,9 +83012,9 @@
  {
   "filename": "AMAP2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAP2505.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 6111,
+  "size": 6061,
   "dataset": "sia-am",
   "partition": {
    "uf": "ap",
@@ -83432,9 +83027,9 @@
  {
   "filename": "AMBA2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMBA2505.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 4892599,
+  "size": 4895658,
   "dataset": "sia-am",
   "partition": {
    "uf": "ba",
@@ -83447,9 +83042,9 @@
  {
   "filename": "AMCE2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMCE2505.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 8199659,
+  "size": 8200343,
   "dataset": "sia-am",
   "partition": {
    "uf": "ce",
@@ -83462,9 +83057,9 @@
  {
   "filename": "AMDF2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMDF2505.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2723682,
+  "size": 2724329,
   "dataset": "sia-am",
   "partition": {
    "uf": "df",
@@ -83477,9 +83072,9 @@
  {
   "filename": "AMES2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMES2505.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4095515,
+  "size": 4095974,
   "dataset": "sia-am",
   "partition": {
    "uf": "es",
@@ -83492,9 +83087,9 @@
  {
   "filename": "AMGO2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMGO2505.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4231652,
+  "size": 4232138,
   "dataset": "sia-am",
   "partition": {
    "uf": "go",
@@ -83507,9 +83102,9 @@
  {
   "filename": "AMMA2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMA2505.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1417149,
+  "size": 1417211,
   "dataset": "sia-am",
   "partition": {
    "uf": "ma",
@@ -83520,26 +83115,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMMG2505.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMG2505.dbc",
-  "datetime": "2025-09-21T13:24:00",
-  "extension": "dbc",
-  "size": 11097827,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "mg",
-   "year": 2025,
-   "month": 5,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMMS2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMS2505.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1725014,
+  "size": 1586771,
   "dataset": "sia-am",
   "partition": {
    "uf": "ms",
@@ -83552,9 +83132,9 @@
  {
   "filename": "AMMT2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMT2505.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1606861,
+  "size": 1484777,
   "dataset": "sia-am",
   "partition": {
    "uf": "mt",
@@ -83567,9 +83147,9 @@
  {
   "filename": "AMPA2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPA2505.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1169411,
+  "size": 1090166,
   "dataset": "sia-am",
   "partition": {
    "uf": "pa",
@@ -83582,9 +83162,9 @@
  {
   "filename": "AMPB2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPB2505.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3957807,
+  "size": 3616029,
   "dataset": "sia-am",
   "partition": {
    "uf": "pb",
@@ -83597,9 +83177,9 @@
  {
   "filename": "AMPE2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPE2505.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3891188,
+  "size": 3498738,
   "dataset": "sia-am",
   "partition": {
    "uf": "pe",
@@ -83612,9 +83192,9 @@
  {
   "filename": "AMPI2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPI2505.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1145388,
+  "size": 1067797,
   "dataset": "sia-am",
   "partition": {
    "uf": "pi",
@@ -83627,9 +83207,9 @@
  {
   "filename": "AMPR2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPR2505.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 23979415,
+  "size": 20529813,
   "dataset": "sia-am",
   "partition": {
    "uf": "pr",
@@ -83640,26 +83220,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMRJ2505.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRJ2505.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 5510951,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "rj",
-   "year": 2025,
-   "month": 5,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMRN2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRN2505.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2096312,
+  "size": 2067372,
   "dataset": "sia-am",
   "partition": {
    "uf": "rn",
@@ -83672,9 +83237,9 @@
  {
   "filename": "AMRO2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRO2505.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 310332,
+  "size": 302166,
   "dataset": "sia-am",
   "partition": {
    "uf": "ro",
@@ -83687,9 +83252,9 @@
  {
   "filename": "AMRR2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRR2505.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 64847,
+  "size": 65320,
   "dataset": "sia-am",
   "partition": {
    "uf": "rr",
@@ -83702,9 +83267,9 @@
  {
   "filename": "AMRS2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRS2505.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 8383761,
+  "size": 7495015,
   "dataset": "sia-am",
   "partition": {
    "uf": "rs",
@@ -83717,9 +83282,9 @@
  {
   "filename": "AMSC2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSC2505.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 8576564,
+  "size": 8081809,
   "dataset": "sia-am",
   "partition": {
    "uf": "sc",
@@ -83732,9 +83297,9 @@
  {
   "filename": "AMSE2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSE2505.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1251005,
+  "size": 1218548,
   "dataset": "sia-am",
   "partition": {
    "uf": "se",
@@ -83745,26 +83310,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMSP2505.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSP2505.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 79148085,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "sp",
-   "year": 2025,
-   "month": 5,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMAC2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAC2506.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 241491,
+  "size": 241590,
   "dataset": "sia-am",
   "partition": {
    "uf": "ac",
@@ -83777,9 +83327,9 @@
  {
   "filename": "AMAL2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAL2506.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 1910589,
+  "size": 1909036,
   "dataset": "sia-am",
   "partition": {
    "uf": "al",
@@ -83792,9 +83342,9 @@
  {
   "filename": "AMAM2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAM2506.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 592864,
+  "size": 592758,
   "dataset": "sia-am",
   "partition": {
    "uf": "am",
@@ -83807,9 +83357,9 @@
  {
   "filename": "AMBA2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMBA2506.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 4829933,
+  "size": 4828759,
   "dataset": "sia-am",
   "partition": {
    "uf": "ba",
@@ -83822,9 +83372,9 @@
  {
   "filename": "AMCE2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMCE2506.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 8130526,
+  "size": 8128575,
   "dataset": "sia-am",
   "partition": {
    "uf": "ce",
@@ -83837,9 +83387,9 @@
  {
   "filename": "AMDF2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMDF2506.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2733313,
+  "size": 2733549,
   "dataset": "sia-am",
   "partition": {
    "uf": "df",
@@ -83852,9 +83402,9 @@
  {
   "filename": "AMES2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMES2506.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4253391,
+  "size": 4254089,
   "dataset": "sia-am",
   "partition": {
    "uf": "es",
@@ -83867,9 +83417,9 @@
  {
   "filename": "AMGO2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMGO2506.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4377358,
+  "size": 4376541,
   "dataset": "sia-am",
   "partition": {
    "uf": "go",
@@ -83882,9 +83432,9 @@
  {
   "filename": "AMMA2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMA2506.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1445209,
+  "size": 1445193,
   "dataset": "sia-am",
   "partition": {
    "uf": "ma",
@@ -83895,26 +83445,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMMG2506.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMG2506.dbc",
-  "datetime": "2025-09-21T13:24:00",
-  "extension": "dbc",
-  "size": 9612273,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "mg",
-   "year": 2025,
-   "month": 6,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMMS2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMS2506.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1670762,
+  "size": 1591730,
   "dataset": "sia-am",
   "partition": {
    "uf": "ms",
@@ -83927,9 +83462,9 @@
  {
   "filename": "AMMT2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMT2506.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1542893,
+  "size": 1542321,
   "dataset": "sia-am",
   "partition": {
    "uf": "mt",
@@ -83942,9 +83477,9 @@
  {
   "filename": "AMPA2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPA2506.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1131225,
+  "size": 1131791,
   "dataset": "sia-am",
   "partition": {
    "uf": "pa",
@@ -83957,9 +83492,9 @@
  {
   "filename": "AMPB2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPB2506.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3607431,
+  "size": 3609046,
   "dataset": "sia-am",
   "partition": {
    "uf": "pb",
@@ -83972,9 +83507,9 @@
  {
   "filename": "AMPE2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPE2506.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3528798,
+  "size": 3529778,
   "dataset": "sia-am",
   "partition": {
    "uf": "pe",
@@ -83987,9 +83522,9 @@
  {
   "filename": "AMPI2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPI2506.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1083670,
+  "size": 1083459,
   "dataset": "sia-am",
   "partition": {
    "uf": "pi",
@@ -84002,9 +83537,9 @@
  {
   "filename": "AMPR2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPR2506.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 20010147,
+  "size": 20008917,
   "dataset": "sia-am",
   "partition": {
    "uf": "pr",
@@ -84015,26 +83550,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMRJ2506.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRJ2506.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 5400293,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "rj",
-   "year": 2025,
-   "month": 6,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMRN2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRN2506.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2009957,
+  "size": 2089170,
   "dataset": "sia-am",
   "partition": {
    "uf": "rn",
@@ -84047,9 +83567,9 @@
  {
   "filename": "AMRO2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRO2506.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 387084,
+  "size": 386883,
   "dataset": "sia-am",
   "partition": {
    "uf": "ro",
@@ -84062,9 +83582,9 @@
  {
   "filename": "AMRR2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRR2506.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 65185,
+  "size": 65221,
   "dataset": "sia-am",
   "partition": {
    "uf": "rr",
@@ -84077,9 +83597,9 @@
  {
   "filename": "AMRS2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRS2506.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 7427596,
+  "size": 7427024,
   "dataset": "sia-am",
   "partition": {
    "uf": "rs",
@@ -84092,9 +83612,9 @@
  {
   "filename": "AMSC2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSC2506.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 8251574,
+  "size": 8249673,
   "dataset": "sia-am",
   "partition": {
    "uf": "sc",
@@ -84107,9 +83627,9 @@
  {
   "filename": "AMSE2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSE2506.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1249260,
+  "size": 1250004,
   "dataset": "sia-am",
   "partition": {
    "uf": "se",
@@ -84120,26 +83640,11 @@
   "preliminary": false
  },
  {
-  "filename": "AMSP2506.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSP2506.dbc",
-  "datetime": "2025-09-21T13:25:00",
-  "extension": "dbc",
-  "size": 66941339,
-  "dataset": "sia-am",
-  "partition": {
-   "uf": "sp",
-   "year": 2025,
-   "month": 6,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "AMTO2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMTO2506.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 475065,
+  "size": 454735,
   "dataset": "sia-am",
   "partition": {
    "uf": "to",
@@ -84152,9 +83657,9 @@
  {
   "filename": "AMAC2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMAC2507.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 248652,
+  "size": 248855,
   "dataset": "sia-am",
   "partition": {
    "uf": "ac",
@@ -84167,9 +83672,9 @@
  {
   "filename": "AMBA2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMBA2507.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:01:00",
   "extension": "dbc",
-  "size": 4956674,
+  "size": 4958000,
   "dataset": "sia-am",
   "partition": {
    "uf": "ba",
@@ -84182,9 +83687,9 @@
  {
   "filename": "AMCE2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMCE2507.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 8427321,
+  "size": 8425091,
   "dataset": "sia-am",
   "partition": {
    "uf": "ce",
@@ -84197,9 +83702,9 @@
  {
   "filename": "AMDF2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMDF2507.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 2794194,
+  "size": 2794606,
   "dataset": "sia-am",
   "partition": {
    "uf": "df",
@@ -84212,9 +83717,9 @@
  {
   "filename": "AMES2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMES2507.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4506551,
+  "size": 4507170,
   "dataset": "sia-am",
   "partition": {
    "uf": "es",
@@ -84227,9 +83732,9 @@
  {
   "filename": "AMGO2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMGO2507.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 4449314,
+  "size": 4449067,
   "dataset": "sia-am",
   "partition": {
    "uf": "go",
@@ -84242,9 +83747,9 @@
  {
   "filename": "AMMA2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMA2507.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1481113,
+  "size": 1481985,
   "dataset": "sia-am",
   "partition": {
    "uf": "ma",
@@ -84257,9 +83762,9 @@
  {
   "filename": "AMMG2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMG2507.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 10641810,
+  "size": 10643353,
   "dataset": "sia-am",
   "partition": {
    "uf": "mg",
@@ -84272,9 +83777,9 @@
  {
   "filename": "AMMS2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMS2507.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1696750,
+  "size": 1616149,
   "dataset": "sia-am",
   "partition": {
    "uf": "ms",
@@ -84287,9 +83792,9 @@
  {
   "filename": "AMMT2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMMT2507.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1828954,
+  "size": 1828565,
   "dataset": "sia-am",
   "partition": {
    "uf": "mt",
@@ -84302,9 +83807,9 @@
  {
   "filename": "AMPA2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPA2507.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1127702,
+  "size": 1127540,
   "dataset": "sia-am",
   "partition": {
    "uf": "pa",
@@ -84317,9 +83822,9 @@
  {
   "filename": "AMPB2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPB2507.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3712999,
+  "size": 3715290,
   "dataset": "sia-am",
   "partition": {
    "uf": "pb",
@@ -84332,9 +83837,9 @@
  {
   "filename": "AMPE2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPE2507.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 3580792,
+  "size": 3573907,
   "dataset": "sia-am",
   "partition": {
    "uf": "pe",
@@ -84347,9 +83852,9 @@
  {
   "filename": "AMPI2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPI2507.dbc",
-  "datetime": "2025-09-21T13:24:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1115163,
+  "size": 1114810,
   "dataset": "sia-am",
   "partition": {
    "uf": "pi",
@@ -84362,9 +83867,9 @@
  {
   "filename": "AMPR2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMPR2507.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 22204125,
+  "size": 22202136,
   "dataset": "sia-am",
   "partition": {
    "uf": "pr",
@@ -84377,9 +83882,9 @@
  {
   "filename": "AMRJ2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRJ2507.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 5620328,
+  "size": 5484952,
   "dataset": "sia-am",
   "partition": {
    "uf": "rj",
@@ -84392,9 +83897,9 @@
  {
   "filename": "AMRN2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRN2507.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1270725,
+  "size": 1320929,
   "dataset": "sia-am",
   "partition": {
    "uf": "rn",
@@ -84407,9 +83912,9 @@
  {
   "filename": "AMRO2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRO2507.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 585775,
+  "size": 586364,
   "dataset": "sia-am",
   "partition": {
    "uf": "ro",
@@ -84422,9 +83927,9 @@
  {
   "filename": "AMRR2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRR2507.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 65397,
+  "size": 65384,
   "dataset": "sia-am",
   "partition": {
    "uf": "rr",
@@ -84437,9 +83942,9 @@
  {
   "filename": "AMRS2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMRS2507.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 8141386,
+  "size": 8144437,
   "dataset": "sia-am",
   "partition": {
    "uf": "rs",
@@ -84452,9 +83957,9 @@
  {
   "filename": "AMSC2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSC2507.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 8503723,
+  "size": 8503719,
   "dataset": "sia-am",
   "partition": {
    "uf": "sc",
@@ -84467,9 +83972,9 @@
  {
   "filename": "AMSE2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSE2507.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 1268510,
+  "size": 1268319,
   "dataset": "sia-am",
   "partition": {
    "uf": "se",
@@ -84482,9 +83987,9 @@
  {
   "filename": "AMSP2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMSP2507.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 66729522,
+  "size": 70098699,
   "dataset": "sia-am",
   "partition": {
    "uf": "sp",
@@ -84497,9 +84002,9 @@
  {
   "filename": "AMTO2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AMTO2507.dbc",
-  "datetime": "2025-09-21T13:25:00",
+  "datetime": "2025-09-25T16:02:00",
   "extension": "dbc",
-  "size": 237809,
+  "size": 234621,
   "dataset": "sia-am",
   "partition": {
    "uf": "to",
