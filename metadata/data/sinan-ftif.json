@@ -212,9 +212,9 @@
  {
   "filename": "FTIFBR21.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/FTIFBR21.dbc",
-  "datetime": "2025-01-20T10:43:00",
+  "datetime": "2025-09-12T15:48:00",
   "extension": "dbc",
-  "size": 14953,
+  "size": 13737,
   "dataset": "sinan-ftif",
   "partition": {
    "uf": "br",
@@ -227,9 +227,9 @@
  {
   "filename": "FTIFBR22.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/FTIFBR22.dbc",
-  "datetime": "2025-01-20T10:43:00",
+  "datetime": "2025-09-12T15:48:00",
   "extension": "dbc",
-  "size": 22716,
+  "size": 20945,
   "dataset": "sinan-ftif",
   "partition": {
    "uf": "br",
@@ -242,9 +242,9 @@
  {
   "filename": "FTIFBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/FTIFBR23.dbc",
-  "datetime": "2025-01-20T10:43:00",
+  "datetime": "2025-09-12T15:48:00",
   "extension": "dbc",
-  "size": 25667,
+  "size": 23349,
   "dataset": "sinan-ftif",
   "partition": {
    "uf": "br",
@@ -257,13 +257,28 @@
  {
   "filename": "FTIFBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/FTIFBR24.dbc",
-  "datetime": "2025-01-20T10:44:00",
+  "datetime": "2025-09-12T15:48:00",
   "extension": "dbc",
-  "size": 43628,
+  "size": 41857,
   "dataset": "sinan-ftif",
   "partition": {
    "uf": "br",
    "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "FTIFBR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/FTIFBR25.dbc",
+  "datetime": "2025-09-12T15:48:00",
+  "extension": "dbc",
+  "size": 22306,
+  "dataset": "sinan-ftif",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
    "month": null,
    "subpartition": null
   },
