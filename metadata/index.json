@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 82079531,
+   "total_size": 82504671,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2025",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-09-22T16:38:00"
+   "latest_update": "2025-09-29T16:42:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 1316017406,
+   "total_size": 1319557302,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-09-22T16:38:00"
+   "latest_update": "2025-09-29T16:42:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
