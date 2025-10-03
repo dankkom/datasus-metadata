@@ -63,14 +63,14 @@
   "base-territorial": {
    "name": "Base Territorial",
    "source": "base-territorial",
-   "n_files": 16,
-   "total_size": 25716620,
+   "n_files": 17,
+   "total_size": 27483713,
    "partition_n_ufs": 1,
    "partition_period_start": null,
    "partition_period_end": null,
    "partition_n_periods": 0,
    "partition_periodicity": null,
-   "latest_update": "2025-04-16T20:16:00"
+   "latest_update": "2025-10-02T14:57:00"
   },
   "cih-cr": {
    "name": "Comunicação de Internação Hospitalar",
@@ -939,14 +939,14 @@
   "sinan-leiv": {
    "name": "Leishmaniose Visceral",
    "source": "sinan",
-   "n_files": 25,
-   "total_size": 12664059,
+   "n_files": 26,
+   "total_size": 13184351,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
-   "partition_period_end": "2024",
-   "partition_n_periods": 25,
+   "partition_period_end": "2025",
+   "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-11T10:21:00"
+   "latest_update": "2025-09-26T10:17:00"
   },
   "sinan-lept": {
    "name": "Leptospirose",
@@ -975,14 +975,14 @@
   "sinan-ltan": {
    "name": "Leishmaniose Tegumentar Americana",
    "source": "sinan",
-   "n_files": 25,
-   "total_size": 37960400,
+   "n_files": 26,
+   "total_size": 38507374,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
-   "partition_period_end": "2024",
-   "partition_n_periods": 25,
+   "partition_period_end": "2025",
+   "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-11T10:32:00"
+   "latest_update": "2025-09-26T10:17:00"
   },
   "sinan-mala": {
    "name": "Malária",
