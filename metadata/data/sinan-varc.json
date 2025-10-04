@@ -227,9 +227,9 @@
  {
   "filename": "VARCBR22.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/VARCBR22.dbc",
-  "datetime": "2023-12-14T11:17:00",
+  "datetime": "2025-10-03T12:15:00",
   "extension": "dbc",
-  "size": 246569,
+  "size": 248194,
   "dataset": "sinan-varc",
   "partition": {
    "uf": "br",
@@ -242,13 +242,43 @@
  {
   "filename": "VARCBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/VARCBR23.dbc",
-  "datetime": "2023-08-10T10:28:00",
+  "datetime": "2025-10-03T12:15:00",
   "extension": "dbc",
-  "size": 127626,
+  "size": 310708,
   "dataset": "sinan-varc",
   "partition": {
    "uf": "br",
    "year": 2023,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "VARCBR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/VARCBR24.dbc",
+  "datetime": "2025-10-03T12:15:00",
+  "extension": "dbc",
+  "size": 310982,
+  "dataset": "sinan-varc",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "VARCBR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/VARCBR25.dbc",
+  "datetime": "2025-10-03T12:15:00",
+  "extension": "dbc",
+  "size": 196147,
+  "dataset": "sinan-varc",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
    "month": null,
    "subpartition": null
   },

@@ -699,14 +699,14 @@
   "sinan-chag": {
    "name": "Doença de Chagas Aguda",
    "source": "sinan",
-   "n_files": 24,
-   "total_size": 4142339,
+   "n_files": 25,
+   "total_size": 4569458,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
-   "partition_period_end": "2023",
-   "partition_n_periods": 24,
+   "partition_period_end": "2024",
+   "partition_n_periods": 25,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-02T14:39:00"
+   "latest_update": "2025-09-26T08:49:00"
   },
   "sinan-chik": {
    "name": "Febre de Chikungunya",
@@ -807,14 +807,14 @@
   "sinan-exan": {
    "name": "Doenças exantemáticas",
    "source": "sinan",
-   "n_files": 18,
-   "total_size": 14717439,
+   "n_files": 19,
+   "total_size": 14968958,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2024",
-   "partition_n_periods": 18,
+   "partition_period_end": "2025",
+   "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-08-28T09:35:00"
+   "latest_update": "2025-10-03T16:26:00"
   },
   "sinan-fmac": {
    "name": "Febre Maculosa",
@@ -1155,14 +1155,14 @@
   "sinan-src": {
    "name": "Síndrome da Rubéola Congênita",
    "source": "sinan",
-   "n_files": 16,
-   "total_size": 167767,
+   "n_files": 19,
+   "total_size": 187987,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2022",
-   "partition_n_periods": 16,
+   "partition_period_end": "2025",
+   "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2023-01-16T11:51:00"
+   "latest_update": "2025-10-03T17:00:00"
   },
   "sinan-teta": {
    "name": "Tétano Acidental",
@@ -1239,14 +1239,14 @@
   "sinan-varc": {
    "name": "Varicela",
    "source": "sinan",
-   "n_files": 17,
-   "total_size": 34793612,
+   "n_files": 19,
+   "total_size": 35485448,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2023",
-   "partition_n_periods": 17,
+   "partition_period_end": "2025",
+   "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2023-12-14T11:17:00"
+   "latest_update": "2025-10-03T12:15:00"
   },
   "sinan-viol": {
    "name": "Violência doméstica, sexual e/ou outras violências",
