@@ -79982,9 +79982,9 @@
  {
   "filename": "AQAC2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAC2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 60954,
+  "size": 61347,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ac",
@@ -79997,9 +79997,9 @@
  {
   "filename": "AQAL2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAL2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 406990,
+  "size": 409086,
   "dataset": "sia-aq",
   "partition": {
    "uf": "al",
@@ -80012,9 +80012,9 @@
  {
   "filename": "AQAM2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAM2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 306602,
+  "size": 299208,
   "dataset": "sia-aq",
   "partition": {
    "uf": "am",
@@ -80027,9 +80027,9 @@
  {
   "filename": "AQAP2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAP2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 40754,
+  "size": 41025,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ap",
@@ -80042,9 +80042,9 @@
  {
   "filename": "AQBA2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQBA2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1813384,
+  "size": 1908440,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ba",
@@ -80057,9 +80057,9 @@
  {
   "filename": "AQCE2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQCE2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1201843,
+  "size": 1256723,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ce",
@@ -80072,9 +80072,9 @@
  {
   "filename": "AQDF2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQDF2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 359274,
+  "size": 358877,
   "dataset": "sia-aq",
   "partition": {
    "uf": "df",
@@ -80087,9 +80087,9 @@
  {
   "filename": "AQES2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQES2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 784003,
+  "size": 812667,
   "dataset": "sia-aq",
   "partition": {
    "uf": "es",
@@ -80102,9 +80102,9 @@
  {
   "filename": "AQGO2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQGO2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 750672,
+  "size": 745033,
   "dataset": "sia-aq",
   "partition": {
    "uf": "go",
@@ -80117,9 +80117,9 @@
  {
   "filename": "AQMA2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMA2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 556927,
+  "size": 566919,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ma",
@@ -80130,11 +80130,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQMG2408.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMG2408.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 4248826,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "mg",
+   "year": 2024,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQMS2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMS2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 377271,
+  "size": 378908,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ms",
@@ -80147,9 +80162,9 @@
  {
   "filename": "AQMT2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMT2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 389962,
+  "size": 395801,
   "dataset": "sia-aq",
   "partition": {
    "uf": "mt",
@@ -80162,9 +80177,9 @@
  {
   "filename": "AQPA2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPA2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 396545,
+  "size": 396021,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pa",
@@ -80177,9 +80192,9 @@
  {
   "filename": "AQPB2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPB2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 664989,
+  "size": 695851,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pb",
@@ -80192,9 +80207,9 @@
  {
   "filename": "AQPE2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPE2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1444802,
+  "size": 1478971,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pe",
@@ -80207,9 +80222,9 @@
  {
   "filename": "AQPI2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPI2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 457126,
+  "size": 442668,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pi",
@@ -80222,9 +80237,9 @@
  {
   "filename": "AQPR2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPR2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2403686,
+  "size": 2678436,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pr",
@@ -80235,11 +80250,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQRJ2408.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRJ2408.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 2520449,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "rj",
+   "year": 2024,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQRN2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRN2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 577213,
+  "size": 571711,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rn",
@@ -80252,9 +80282,9 @@
  {
   "filename": "AQRO2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRO2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 281312,
+  "size": 284729,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ro",
@@ -80267,9 +80297,9 @@
  {
   "filename": "AQRR2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRR2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 92081,
+  "size": 92706,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rr",
@@ -80282,9 +80312,9 @@
  {
   "filename": "AQRS2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRS2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2566623,
+  "size": 2964762,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rs",
@@ -80297,9 +80327,9 @@
  {
   "filename": "AQSC2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSC2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1539748,
+  "size": 1718175,
   "dataset": "sia-aq",
   "partition": {
    "uf": "sc",
@@ -80312,9 +80342,9 @@
  {
   "filename": "AQSE2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSE2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 296664,
+  "size": 300463,
   "dataset": "sia-aq",
   "partition": {
    "uf": "se",
@@ -80325,11 +80355,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQSP2408.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSP2408.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 8468308,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "sp",
+   "year": 2024,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQTO2408.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQTO2408.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 173486,
+  "size": 173518,
   "dataset": "sia-aq",
   "partition": {
    "uf": "to",
@@ -80342,9 +80387,9 @@
  {
   "filename": "AQAC2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAC2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 61817,
+  "size": 61991,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ac",
@@ -80357,9 +80402,9 @@
  {
   "filename": "AQAL2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAL2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 414459,
+  "size": 414860,
   "dataset": "sia-aq",
   "partition": {
    "uf": "al",
@@ -80372,9 +80417,9 @@
  {
   "filename": "AQAM2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAM2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 309338,
+  "size": 309677,
   "dataset": "sia-aq",
   "partition": {
    "uf": "am",
@@ -80387,9 +80432,9 @@
  {
   "filename": "AQAP2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAP2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 42508,
+  "size": 42859,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ap",
@@ -80402,9 +80447,9 @@
  {
   "filename": "AQBA2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQBA2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1855235,
+  "size": 1856563,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ba",
@@ -80417,9 +80462,9 @@
  {
   "filename": "AQCE2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQCE2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1257195,
+  "size": 1257137,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ce",
@@ -80432,9 +80477,9 @@
  {
   "filename": "AQDF2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQDF2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 345086,
+  "size": 344502,
   "dataset": "sia-aq",
   "partition": {
    "uf": "df",
@@ -80447,9 +80492,9 @@
  {
   "filename": "AQES2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQES2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 850544,
+  "size": 853028,
   "dataset": "sia-aq",
   "partition": {
    "uf": "es",
@@ -80462,9 +80507,9 @@
  {
   "filename": "AQGO2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQGO2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 706201,
+  "size": 704874,
   "dataset": "sia-aq",
   "partition": {
    "uf": "go",
@@ -80477,9 +80522,9 @@
  {
   "filename": "AQMA2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMA2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 575631,
+  "size": 577162,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ma",
@@ -80490,11 +80535,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQMG2409.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMG2409.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 4156137,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "mg",
+   "year": 2024,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQMS2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMS2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 377784,
+  "size": 377861,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ms",
@@ -80507,9 +80567,9 @@
  {
   "filename": "AQMT2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMT2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 393776,
+  "size": 395634,
   "dataset": "sia-aq",
   "partition": {
    "uf": "mt",
@@ -80522,9 +80582,9 @@
  {
   "filename": "AQPA2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPA2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 397368,
+  "size": 397333,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pa",
@@ -80537,9 +80597,9 @@
  {
   "filename": "AQPB2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPB2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 694527,
+  "size": 693997,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pb",
@@ -80552,9 +80612,9 @@
  {
   "filename": "AQPE2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPE2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1452425,
+  "size": 1449899,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pe",
@@ -80567,9 +80627,9 @@
  {
   "filename": "AQPI2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPI2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 452051,
+  "size": 451788,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pi",
@@ -80582,9 +80642,9 @@
  {
   "filename": "AQPR2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPR2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2748152,
+  "size": 2749370,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pr",
@@ -80595,11 +80655,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQRJ2409.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRJ2409.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 2129962,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "rj",
+   "year": 2024,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQRN2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRN2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 543399,
+  "size": 542636,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rn",
@@ -80612,9 +80687,9 @@
  {
   "filename": "AQRO2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRO2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 294347,
+  "size": 293348,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ro",
@@ -80627,9 +80702,9 @@
  {
   "filename": "AQRR2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRR2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 25949,
+  "size": 26133,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rr",
@@ -80642,9 +80717,9 @@
  {
   "filename": "AQRS2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRS2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2945454,
+  "size": 2945382,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rs",
@@ -80657,9 +80732,9 @@
  {
   "filename": "AQSC2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSC2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1793164,
+  "size": 1791100,
   "dataset": "sia-aq",
   "partition": {
    "uf": "sc",
@@ -80672,9 +80747,9 @@
  {
   "filename": "AQSE2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSE2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 312367,
+  "size": 312050,
   "dataset": "sia-aq",
   "partition": {
    "uf": "se",
@@ -80685,11 +80760,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQSP2409.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSP2409.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 8384232,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "sp",
+   "year": 2024,
+   "month": 9,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQTO2409.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQTO2409.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 172672,
+  "size": 175291,
   "dataset": "sia-aq",
   "partition": {
    "uf": "to",
@@ -80702,9 +80792,9 @@
  {
   "filename": "AQAC2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAC2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 61203,
+  "size": 61943,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ac",
@@ -80717,9 +80807,9 @@
  {
   "filename": "AQAL2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAL2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 414296,
+  "size": 411352,
   "dataset": "sia-aq",
   "partition": {
    "uf": "al",
@@ -80732,9 +80822,9 @@
  {
   "filename": "AQAM2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAM2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 292650,
+  "size": 283422,
   "dataset": "sia-aq",
   "partition": {
    "uf": "am",
@@ -80747,9 +80837,9 @@
  {
   "filename": "AQAP2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAP2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 40328,
+  "size": 40568,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ap",
@@ -80762,9 +80852,9 @@
  {
   "filename": "AQBA2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQBA2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1832360,
+  "size": 1937640,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ba",
@@ -80777,9 +80867,9 @@
  {
   "filename": "AQCE2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQCE2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1221997,
+  "size": 1278764,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ce",
@@ -80792,9 +80882,9 @@
  {
   "filename": "AQDF2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQDF2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 374829,
+  "size": 372645,
   "dataset": "sia-aq",
   "partition": {
    "uf": "df",
@@ -80807,9 +80897,9 @@
  {
   "filename": "AQES2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQES2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 814334,
+  "size": 834754,
   "dataset": "sia-aq",
   "partition": {
    "uf": "es",
@@ -80822,9 +80912,9 @@
  {
   "filename": "AQGO2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQGO2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 672808,
+  "size": 668064,
   "dataset": "sia-aq",
   "partition": {
    "uf": "go",
@@ -80837,9 +80927,9 @@
  {
   "filename": "AQMA2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMA2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 561212,
+  "size": 567345,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ma",
@@ -80850,11 +80940,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQMG2410.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMG2410.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 4337345,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "mg",
+   "year": 2024,
+   "month": 10,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQMS2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMS2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 364594,
+  "size": 373234,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ms",
@@ -80867,9 +80972,9 @@
  {
   "filename": "AQMT2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMT2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 207303,
+  "size": 207734,
   "dataset": "sia-aq",
   "partition": {
    "uf": "mt",
@@ -80882,9 +80987,9 @@
  {
   "filename": "AQPA2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPA2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 397809,
+  "size": 393501,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pa",
@@ -80897,9 +81002,9 @@
  {
   "filename": "AQPB2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPB2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 665792,
+  "size": 692934,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pb",
@@ -80912,9 +81017,9 @@
  {
   "filename": "AQPE2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPE2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1458779,
+  "size": 1515676,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pe",
@@ -80927,9 +81032,9 @@
  {
   "filename": "AQPI2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPI2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 462797,
+  "size": 457058,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pi",
@@ -80942,9 +81047,9 @@
  {
   "filename": "AQPR2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPR2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2468894,
+  "size": 2743399,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pr",
@@ -80955,11 +81060,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQRJ2410.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRJ2410.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 2433097,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "rj",
+   "year": 2024,
+   "month": 10,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQRN2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRN2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 552103,
+  "size": 562024,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rn",
@@ -80972,9 +81092,9 @@
  {
   "filename": "AQRO2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRO2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 295111,
+  "size": 296432,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ro",
@@ -80987,9 +81107,9 @@
  {
   "filename": "AQRR2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRR2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 35444,
+  "size": 35348,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rr",
@@ -81002,9 +81122,9 @@
  {
   "filename": "AQRS2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRS2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2593764,
+  "size": 2986866,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rs",
@@ -81017,9 +81137,9 @@
  {
   "filename": "AQSC2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSC2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1673460,
+  "size": 1862719,
   "dataset": "sia-aq",
   "partition": {
    "uf": "sc",
@@ -81032,9 +81152,9 @@
  {
   "filename": "AQSE2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSE2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 296306,
+  "size": 297449,
   "dataset": "sia-aq",
   "partition": {
    "uf": "se",
@@ -81045,11 +81165,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQSP2410.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSP2410.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 8408828,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "sp",
+   "year": 2024,
+   "month": 10,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQTO2410.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQTO2410.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 176902,
+  "size": 177592,
   "dataset": "sia-aq",
   "partition": {
    "uf": "to",
@@ -81062,9 +81197,9 @@
  {
   "filename": "AQAC2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAC2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 60750,
+  "size": 60657,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ac",
@@ -81077,9 +81212,9 @@
  {
   "filename": "AQAL2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAL2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 418769,
+  "size": 417409,
   "dataset": "sia-aq",
   "partition": {
    "uf": "al",
@@ -81092,9 +81227,9 @@
  {
   "filename": "AQAM2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAM2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 332102,
+  "size": 321527,
   "dataset": "sia-aq",
   "partition": {
    "uf": "am",
@@ -81107,9 +81242,9 @@
  {
   "filename": "AQAP2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAP2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 37052,
+  "size": 36952,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ap",
@@ -81122,9 +81257,9 @@
  {
   "filename": "AQBA2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQBA2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1769415,
+  "size": 1883881,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ba",
@@ -81137,9 +81272,9 @@
  {
   "filename": "AQCE2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQCE2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1195154,
+  "size": 1256460,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ce",
@@ -81152,9 +81287,9 @@
  {
   "filename": "AQDF2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQDF2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 317156,
+  "size": 307361,
   "dataset": "sia-aq",
   "partition": {
    "uf": "df",
@@ -81167,9 +81302,9 @@
  {
   "filename": "AQES2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQES2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 804286,
+  "size": 830444,
   "dataset": "sia-aq",
   "partition": {
    "uf": "es",
@@ -81182,9 +81317,9 @@
  {
   "filename": "AQGO2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQGO2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 647820,
+  "size": 647374,
   "dataset": "sia-aq",
   "partition": {
    "uf": "go",
@@ -81197,9 +81332,9 @@
  {
   "filename": "AQMA2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMA2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 577398,
+  "size": 589100,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ma",
@@ -81210,11 +81345,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQMG2411.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMG2411.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 4176807,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "mg",
+   "year": 2024,
+   "month": 11,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQMS2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMS2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 354285,
+  "size": 361640,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ms",
@@ -81227,9 +81377,9 @@
  {
   "filename": "AQMT2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMT2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 238923,
+  "size": 241683,
   "dataset": "sia-aq",
   "partition": {
    "uf": "mt",
@@ -81242,9 +81392,9 @@
  {
   "filename": "AQPA2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPA2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 382666,
+  "size": 387473,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pa",
@@ -81257,9 +81407,9 @@
  {
   "filename": "AQPB2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPB2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 654305,
+  "size": 688993,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pb",
@@ -81272,9 +81422,9 @@
  {
   "filename": "AQPE2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPE2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1419714,
+  "size": 1460332,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pe",
@@ -81287,9 +81437,9 @@
  {
   "filename": "AQPI2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPI2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 466410,
+  "size": 457806,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pi",
@@ -81302,9 +81452,9 @@
  {
   "filename": "AQPR2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPR2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2379402,
+  "size": 2654190,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pr",
@@ -81315,11 +81465,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQRJ2411.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRJ2411.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 2275935,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "rj",
+   "year": 2024,
+   "month": 11,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQRN2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRN2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 548652,
+  "size": 553495,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rn",
@@ -81332,9 +81497,9 @@
  {
   "filename": "AQRO2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRO2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 304629,
+  "size": 274605,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ro",
@@ -81347,9 +81512,9 @@
  {
   "filename": "AQRR2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRR2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 31503,
+  "size": 30441,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rr",
@@ -81362,9 +81527,9 @@
  {
   "filename": "AQRS2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRS2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2585053,
+  "size": 2445519,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rs",
@@ -81377,9 +81542,9 @@
  {
   "filename": "AQSC2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSC2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1462765,
+  "size": 1377403,
   "dataset": "sia-aq",
   "partition": {
    "uf": "sc",
@@ -81392,9 +81557,9 @@
  {
   "filename": "AQSE2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSE2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 306471,
+  "size": 277669,
   "dataset": "sia-aq",
   "partition": {
    "uf": "se",
@@ -81405,11 +81570,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQSP2411.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSP2411.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 6622218,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "sp",
+   "year": 2024,
+   "month": 11,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQTO2411.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQTO2411.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 173554,
+  "size": 159847,
   "dataset": "sia-aq",
   "partition": {
    "uf": "to",
@@ -81422,9 +81602,9 @@
  {
   "filename": "AQAC2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAC2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 58292,
+  "size": 59576,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ac",
@@ -81437,9 +81617,9 @@
  {
   "filename": "AQAL2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAL2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 343217,
+  "size": 359360,
   "dataset": "sia-aq",
   "partition": {
    "uf": "al",
@@ -81452,9 +81632,9 @@
  {
   "filename": "AQAM2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAM2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 263127,
+  "size": 265204,
   "dataset": "sia-aq",
   "partition": {
    "uf": "am",
@@ -81467,9 +81647,9 @@
  {
   "filename": "AQAP2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAP2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 36384,
+  "size": 37446,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ap",
@@ -81482,9 +81662,9 @@
  {
   "filename": "AQBA2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQBA2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1643661,
+  "size": 1735879,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ba",
@@ -81497,9 +81677,9 @@
  {
   "filename": "AQCE2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQCE2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1075386,
+  "size": 1144497,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ce",
@@ -81512,9 +81692,9 @@
  {
   "filename": "AQDF2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQDF2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 388819,
+  "size": 402081,
   "dataset": "sia-aq",
   "partition": {
    "uf": "df",
@@ -81527,9 +81707,9 @@
  {
   "filename": "AQES2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQES2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 810383,
+  "size": 853753,
   "dataset": "sia-aq",
   "partition": {
    "uf": "es",
@@ -81542,9 +81722,9 @@
  {
   "filename": "AQGO2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQGO2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 573111,
+  "size": 608571,
   "dataset": "sia-aq",
   "partition": {
    "uf": "go",
@@ -81557,9 +81737,9 @@
  {
   "filename": "AQMA2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMA2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 555097,
+  "size": 581432,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ma",
@@ -81570,11 +81750,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQMG2412.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMG2412.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 3521728,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "mg",
+   "year": 2024,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQMS2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMS2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 326935,
+  "size": 349381,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ms",
@@ -81587,9 +81782,9 @@
  {
   "filename": "AQMT2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMT2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 315079,
+  "size": 338640,
   "dataset": "sia-aq",
   "partition": {
    "uf": "mt",
@@ -81602,9 +81797,9 @@
  {
   "filename": "AQPA2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPA2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 358010,
+  "size": 379761,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pa",
@@ -81617,9 +81812,9 @@
  {
   "filename": "AQPB2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPB2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 606868,
+  "size": 638048,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pb",
@@ -81632,9 +81827,9 @@
  {
   "filename": "AQPE2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPE2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1323402,
+  "size": 1392829,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pe",
@@ -81647,9 +81842,9 @@
  {
   "filename": "AQPI2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPI2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 446974,
+  "size": 461503,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pi",
@@ -81662,9 +81857,9 @@
  {
   "filename": "AQPR2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPR2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2281850,
+  "size": 2407531,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pr",
@@ -81675,11 +81870,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQRJ2412.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRJ2412.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 2324321,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "rj",
+   "year": 2024,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQRN2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRN2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 535094,
+  "size": 568245,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rn",
@@ -81692,9 +81902,9 @@
  {
   "filename": "AQRO2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRO2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 298361,
+  "size": 312690,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ro",
@@ -81707,9 +81917,9 @@
  {
   "filename": "AQRR2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRR2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 30202,
+  "size": 30194,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rr",
@@ -81722,9 +81932,9 @@
  {
   "filename": "AQRS2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRS2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2415749,
+  "size": 2560745,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rs",
@@ -81737,9 +81947,9 @@
  {
   "filename": "AQSC2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSC2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1452074,
+  "size": 1518063,
   "dataset": "sia-aq",
   "partition": {
    "uf": "sc",
@@ -81752,9 +81962,9 @@
  {
   "filename": "AQSE2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSE2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 292468,
+  "size": 312005,
   "dataset": "sia-aq",
   "partition": {
    "uf": "se",
@@ -81765,11 +81975,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQSP2412.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSP2412.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 6826214,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "sp",
+   "year": 2024,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQTO2412.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQTO2412.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 170487,
+  "size": 169558,
   "dataset": "sia-aq",
   "partition": {
    "uf": "to",
@@ -81782,9 +82007,9 @@
  {
   "filename": "AQAC2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAC2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 60379,
+  "size": 60484,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ac",
@@ -81797,9 +82022,9 @@
  {
   "filename": "AQAL2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAL2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 342567,
+  "size": 342736,
   "dataset": "sia-aq",
   "partition": {
    "uf": "al",
@@ -81812,9 +82037,9 @@
  {
   "filename": "AQAM2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAM2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 284852,
+  "size": 285210,
   "dataset": "sia-aq",
   "partition": {
    "uf": "am",
@@ -81827,9 +82052,9 @@
  {
   "filename": "AQAP2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAP2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 42960,
+  "size": 43264,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ap",
@@ -81842,9 +82067,9 @@
  {
   "filename": "AQBA2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQBA2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1879672,
+  "size": 1878238,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ba",
@@ -81857,9 +82082,9 @@
  {
   "filename": "AQCE2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQCE2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1266283,
+  "size": 1268121,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ce",
@@ -81872,9 +82097,9 @@
  {
   "filename": "AQDF2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQDF2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 406176,
+  "size": 405909,
   "dataset": "sia-aq",
   "partition": {
    "uf": "df",
@@ -81887,9 +82112,9 @@
  {
   "filename": "AQES2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQES2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 888885,
+  "size": 886909,
   "dataset": "sia-aq",
   "partition": {
    "uf": "es",
@@ -81902,9 +82127,9 @@
  {
   "filename": "AQGO2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQGO2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 639031,
+  "size": 639689,
   "dataset": "sia-aq",
   "partition": {
    "uf": "go",
@@ -81917,9 +82142,9 @@
  {
   "filename": "AQMA2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMA2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 615451,
+  "size": 616970,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ma",
@@ -81930,11 +82155,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQMG2501.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMG2501.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 4201119,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQMS2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMS2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 365938,
+  "size": 366034,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ms",
@@ -81947,9 +82187,9 @@
  {
   "filename": "AQMT2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMT2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 255420,
+  "size": 255473,
   "dataset": "sia-aq",
   "partition": {
    "uf": "mt",
@@ -81962,9 +82202,9 @@
  {
   "filename": "AQPA2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPA2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 398452,
+  "size": 399302,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pa",
@@ -81977,9 +82217,9 @@
  {
   "filename": "AQPB2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPB2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 643543,
+  "size": 643378,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pb",
@@ -81992,9 +82232,9 @@
  {
   "filename": "AQPE2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPE2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1394266,
+  "size": 1393677,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pe",
@@ -82007,9 +82247,9 @@
  {
   "filename": "AQPI2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPI2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 450305,
+  "size": 450643,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pi",
@@ -82022,9 +82262,9 @@
  {
   "filename": "AQPR2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPR2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2676699,
+  "size": 2677167,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pr",
@@ -82035,11 +82275,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQRJ2501.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRJ2501.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 2418386,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQRN2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRN2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 613001,
+  "size": 612523,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rn",
@@ -82052,9 +82307,9 @@
  {
   "filename": "AQRO2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRO2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 270383,
+  "size": 270260,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ro",
@@ -82067,9 +82322,9 @@
  {
   "filename": "AQRR2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRR2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 33935,
+  "size": 33752,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rr",
@@ -82082,9 +82337,9 @@
  {
   "filename": "AQRS2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRS2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2967419,
+  "size": 2970262,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rs",
@@ -82097,9 +82352,9 @@
  {
   "filename": "AQSC2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSC2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1830617,
+  "size": 1834575,
   "dataset": "sia-aq",
   "partition": {
    "uf": "sc",
@@ -82112,9 +82367,9 @@
  {
   "filename": "AQSE2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSE2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 280538,
+  "size": 281296,
   "dataset": "sia-aq",
   "partition": {
    "uf": "se",
@@ -82125,11 +82380,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQSP2501.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSP2501.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 8252722,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQTO2501.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQTO2501.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 169332,
+  "size": 171961,
   "dataset": "sia-aq",
   "partition": {
    "uf": "to",
@@ -82142,9 +82412,9 @@
  {
   "filename": "AQAC2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAC2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 59964,
+  "size": 60346,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ac",
@@ -82157,9 +82427,9 @@
  {
   "filename": "AQAL2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAL2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 459995,
+  "size": 460437,
   "dataset": "sia-aq",
   "partition": {
    "uf": "al",
@@ -82172,9 +82442,9 @@
  {
   "filename": "AQAM2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAM2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 253163,
+  "size": 252882,
   "dataset": "sia-aq",
   "partition": {
    "uf": "am",
@@ -82187,9 +82457,9 @@
  {
   "filename": "AQAP2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAP2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 41875,
+  "size": 41661,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ap",
@@ -82202,9 +82472,9 @@
  {
   "filename": "AQBA2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQBA2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1940246,
+  "size": 1942477,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ba",
@@ -82217,9 +82487,9 @@
  {
   "filename": "AQCE2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQCE2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1248877,
+  "size": 1249759,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ce",
@@ -82232,9 +82502,9 @@
  {
   "filename": "AQDF2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQDF2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 386019,
+  "size": 385791,
   "dataset": "sia-aq",
   "partition": {
    "uf": "df",
@@ -82247,9 +82517,9 @@
  {
   "filename": "AQES2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQES2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 798219,
+  "size": 798991,
   "dataset": "sia-aq",
   "partition": {
    "uf": "es",
@@ -82262,9 +82532,9 @@
  {
   "filename": "AQGO2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQGO2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 634106,
+  "size": 636165,
   "dataset": "sia-aq",
   "partition": {
    "uf": "go",
@@ -82277,9 +82547,9 @@
  {
   "filename": "AQMA2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMA2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 621903,
+  "size": 621070,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ma",
@@ -82290,11 +82560,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQMG2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMG2502.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 4128916,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 2,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQMS2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMS2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 361172,
+  "size": 361433,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ms",
@@ -82307,9 +82592,9 @@
  {
   "filename": "AQMT2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMT2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 366268,
+  "size": 366312,
   "dataset": "sia-aq",
   "partition": {
    "uf": "mt",
@@ -82322,9 +82607,9 @@
  {
   "filename": "AQPA2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPA2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 375968,
+  "size": 375206,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pa",
@@ -82337,9 +82622,9 @@
  {
   "filename": "AQPB2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPB2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 644007,
+  "size": 644610,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pb",
@@ -82352,9 +82637,9 @@
  {
   "filename": "AQPE2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPE2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1329444,
+  "size": 1329887,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pe",
@@ -82367,9 +82652,9 @@
  {
   "filename": "AQPI2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPI2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 462964,
+  "size": 463452,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pi",
@@ -82382,9 +82667,9 @@
  {
   "filename": "AQPR2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPR2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2679671,
+  "size": 2681858,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pr",
@@ -82395,11 +82680,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQRJ2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRJ2502.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 2402628,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 2,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQRN2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRN2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 634997,
+  "size": 634602,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rn",
@@ -82412,9 +82712,9 @@
  {
   "filename": "AQRO2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRO2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 306967,
+  "size": 307283,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ro",
@@ -82427,9 +82727,9 @@
  {
   "filename": "AQRR2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRR2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 33162,
+  "size": 33197,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rr",
@@ -82442,9 +82742,9 @@
  {
   "filename": "AQRS2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRS2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 3028736,
+  "size": 3024803,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rs",
@@ -82457,9 +82757,9 @@
  {
   "filename": "AQSC2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSC2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1647110,
+  "size": 1646888,
   "dataset": "sia-aq",
   "partition": {
    "uf": "sc",
@@ -82472,9 +82772,9 @@
  {
   "filename": "AQSE2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSE2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 293166,
+  "size": 293050,
   "dataset": "sia-aq",
   "partition": {
    "uf": "se",
@@ -82485,11 +82785,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQSP2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSP2502.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 8207034,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 2,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQTO2502.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQTO2502.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 165660,
+  "size": 168167,
   "dataset": "sia-aq",
   "partition": {
    "uf": "to",
@@ -82502,9 +82817,9 @@
  {
   "filename": "AQAC2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAC2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 62386,
+  "size": 63782,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ac",
@@ -82517,9 +82832,9 @@
  {
   "filename": "AQAL2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAL2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 393072,
+  "size": 420988,
   "dataset": "sia-aq",
   "partition": {
    "uf": "al",
@@ -82532,9 +82847,9 @@
  {
   "filename": "AQAM2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAM2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 262336,
+  "size": 256246,
   "dataset": "sia-aq",
   "partition": {
    "uf": "am",
@@ -82547,9 +82862,9 @@
  {
   "filename": "AQAP2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAP2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 42383,
+  "size": 43587,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ap",
@@ -82562,9 +82877,9 @@
  {
   "filename": "AQBA2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQBA2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1680743,
+  "size": 1906496,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ba",
@@ -82577,9 +82892,9 @@
  {
   "filename": "AQCE2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQCE2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1109446,
+  "size": 1235123,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ce",
@@ -82592,9 +82907,9 @@
  {
   "filename": "AQDF2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQDF2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 385649,
+  "size": 390570,
   "dataset": "sia-aq",
   "partition": {
    "uf": "df",
@@ -82607,9 +82922,9 @@
  {
   "filename": "AQES2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQES2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 721834,
+  "size": 782605,
   "dataset": "sia-aq",
   "partition": {
    "uf": "es",
@@ -82622,9 +82937,9 @@
  {
   "filename": "AQGO2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQGO2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 565914,
+  "size": 608183,
   "dataset": "sia-aq",
   "partition": {
    "uf": "go",
@@ -82637,9 +82952,9 @@
  {
   "filename": "AQMA2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMA2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 581416,
+  "size": 617354,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ma",
@@ -82650,11 +82965,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQMG2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMG2503.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 4158846,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 3,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQMS2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMS2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 329421,
+  "size": 365984,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ms",
@@ -82667,9 +82997,9 @@
  {
   "filename": "AQMT2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMT2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 465722,
+  "size": 507234,
   "dataset": "sia-aq",
   "partition": {
    "uf": "mt",
@@ -82682,9 +83012,9 @@
  {
   "filename": "AQPA2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPA2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 314572,
+  "size": 332550,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pa",
@@ -82697,9 +83027,9 @@
  {
   "filename": "AQPB2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPB2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 585033,
+  "size": 643238,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pb",
@@ -82712,9 +83042,9 @@
  {
   "filename": "AQPE2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPE2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1355913,
+  "size": 1464453,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pe",
@@ -82727,9 +83057,9 @@
  {
   "filename": "AQPI2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPI2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 442837,
+  "size": 460537,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pi",
@@ -82742,9 +83072,9 @@
  {
   "filename": "AQPR2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPR2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2268978,
+  "size": 2672216,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pr",
@@ -82755,11 +83085,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQRJ2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRJ2503.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 2500730,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 3,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQRN2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRN2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 570101,
+  "size": 614691,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rn",
@@ -82772,9 +83117,9 @@
  {
   "filename": "AQRO2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRO2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 314228,
+  "size": 323270,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ro",
@@ -82787,9 +83132,9 @@
  {
   "filename": "AQRR2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRR2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 32630,
+  "size": 32921,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rr",
@@ -82802,9 +83147,9 @@
  {
   "filename": "AQRS2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRS2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2412433,
+  "size": 2958165,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rs",
@@ -82817,9 +83162,9 @@
  {
   "filename": "AQSC2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSC2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1585737,
+  "size": 1847918,
   "dataset": "sia-aq",
   "partition": {
    "uf": "sc",
@@ -82832,9 +83177,9 @@
  {
   "filename": "AQSE2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSE2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 282190,
+  "size": 304077,
   "dataset": "sia-aq",
   "partition": {
    "uf": "se",
@@ -82845,11 +83190,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQSP2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSP2503.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 8103877,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 3,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQTO2503.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQTO2503.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 156393,
+  "size": 170641,
   "dataset": "sia-aq",
   "partition": {
    "uf": "to",
@@ -82862,9 +83222,9 @@
  {
   "filename": "AQAC2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAC2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 60747,
+  "size": 62188,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ac",
@@ -82877,9 +83237,9 @@
  {
   "filename": "AQAL2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAL2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 377757,
+  "size": 403270,
   "dataset": "sia-aq",
   "partition": {
    "uf": "al",
@@ -82892,9 +83252,9 @@
  {
   "filename": "AQAM2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAM2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 269212,
+  "size": 263029,
   "dataset": "sia-aq",
   "partition": {
    "uf": "am",
@@ -82907,9 +83267,9 @@
  {
   "filename": "AQAP2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAP2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 41131,
+  "size": 42252,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ap",
@@ -82922,9 +83282,9 @@
  {
   "filename": "AQBA2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQBA2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1667219,
+  "size": 1867079,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ba",
@@ -82937,9 +83297,9 @@
  {
   "filename": "AQCE2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQCE2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1145404,
+  "size": 1263993,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ce",
@@ -82952,9 +83312,9 @@
  {
   "filename": "AQDF2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQDF2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 369734,
+  "size": 373553,
   "dataset": "sia-aq",
   "partition": {
    "uf": "df",
@@ -82967,9 +83327,9 @@
  {
   "filename": "AQES2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQES2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 699101,
+  "size": 767932,
   "dataset": "sia-aq",
   "partition": {
    "uf": "es",
@@ -82982,9 +83342,9 @@
  {
   "filename": "AQGO2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQGO2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 602657,
+  "size": 642891,
   "dataset": "sia-aq",
   "partition": {
    "uf": "go",
@@ -82997,9 +83357,9 @@
  {
   "filename": "AQMA2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMA2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 567367,
+  "size": 613052,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ma",
@@ -83010,11 +83370,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQMG2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMG2504.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 4306828,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 4,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQMS2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMS2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 339430,
+  "size": 374947,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ms",
@@ -83027,9 +83402,9 @@
  {
   "filename": "AQMT2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMT2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 391465,
+  "size": 438313,
   "dataset": "sia-aq",
   "partition": {
    "uf": "mt",
@@ -83042,9 +83417,9 @@
  {
   "filename": "AQPA2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPA2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 403710,
+  "size": 420830,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pa",
@@ -83057,9 +83432,9 @@
  {
   "filename": "AQPB2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPB2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 586502,
+  "size": 638453,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pb",
@@ -83072,9 +83447,9 @@
  {
   "filename": "AQPE2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPE2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1388958,
+  "size": 1512924,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pe",
@@ -83087,9 +83462,9 @@
  {
   "filename": "AQPI2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPI2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 451595,
+  "size": 464250,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pi",
@@ -83102,9 +83477,9 @@
  {
   "filename": "AQPR2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPR2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2270536,
+  "size": 2691065,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pr",
@@ -83115,11 +83490,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQRJ2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRJ2504.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 2332107,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 4,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQRN2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRN2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 593656,
+  "size": 631766,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rn",
@@ -83132,9 +83522,9 @@
  {
   "filename": "AQRO2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRO2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 291611,
+  "size": 301879,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ro",
@@ -83147,9 +83537,9 @@
  {
   "filename": "AQRR2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRR2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 34096,
+  "size": 34695,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rr",
@@ -83162,9 +83552,9 @@
  {
   "filename": "AQRS2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRS2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2304353,
+  "size": 2822449,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rs",
@@ -83177,9 +83567,9 @@
  {
   "filename": "AQSC2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSC2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1598605,
+  "size": 1881735,
   "dataset": "sia-aq",
   "partition": {
    "uf": "sc",
@@ -83192,9 +83582,9 @@
  {
   "filename": "AQSE2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSE2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 254968,
+  "size": 279625,
   "dataset": "sia-aq",
   "partition": {
    "uf": "se",
@@ -83205,11 +83595,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQSP2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSP2504.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 8217882,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 4,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQTO2504.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQTO2504.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 163032,
+  "size": 168161,
   "dataset": "sia-aq",
   "partition": {
    "uf": "to",
@@ -83222,7 +83627,7 @@
  {
   "filename": "AQAC2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAC2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
   "size": 63670,
   "dataset": "sia-aq",
@@ -83237,7 +83642,7 @@
  {
   "filename": "AQAL2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAL2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
   "size": 427040,
   "dataset": "sia-aq",
@@ -83252,7 +83657,7 @@
  {
   "filename": "AQAM2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAM2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
   "size": 294424,
   "dataset": "sia-aq",
@@ -83267,7 +83672,7 @@
  {
   "filename": "AQAP2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAP2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
   "size": 38931,
   "dataset": "sia-aq",
@@ -83282,7 +83687,7 @@
  {
   "filename": "AQBA2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQBA2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
   "size": 1772919,
   "dataset": "sia-aq",
@@ -83297,7 +83702,7 @@
  {
   "filename": "AQCE2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQCE2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
   "size": 1154410,
   "dataset": "sia-aq",
@@ -83312,7 +83717,7 @@
  {
   "filename": "AQDF2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQDF2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
   "size": 387346,
   "dataset": "sia-aq",
@@ -83327,7 +83732,7 @@
  {
   "filename": "AQES2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQES2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
   "size": 788518,
   "dataset": "sia-aq",
@@ -83342,7 +83747,7 @@
  {
   "filename": "AQGO2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQGO2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
   "size": 591076,
   "dataset": "sia-aq",
@@ -83357,7 +83762,7 @@
  {
   "filename": "AQMA2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMA2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
   "size": 576305,
   "dataset": "sia-aq",
@@ -83370,9 +83775,24 @@
   "preliminary": false
  },
  {
+  "filename": "AQMG2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMG2505.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 3598385,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 5,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQMS2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMS2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
   "size": 344313,
   "dataset": "sia-aq",
@@ -83387,7 +83807,7 @@
  {
   "filename": "AQMT2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMT2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
   "size": 408609,
   "dataset": "sia-aq",
@@ -83402,7 +83822,7 @@
  {
   "filename": "AQPA2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPA2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
   "size": 348930,
   "dataset": "sia-aq",
@@ -83417,7 +83837,7 @@
  {
   "filename": "AQPB2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPB2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
   "size": 623146,
   "dataset": "sia-aq",
@@ -83432,7 +83852,7 @@
  {
   "filename": "AQPE2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPE2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
   "size": 1387800,
   "dataset": "sia-aq",
@@ -83447,7 +83867,7 @@
  {
   "filename": "AQPI2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPI2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
   "size": 441628,
   "dataset": "sia-aq",
@@ -83462,9 +83882,9 @@
  {
   "filename": "AQPR2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPR2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2366981,
+  "size": 2468630,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pr",
@@ -83475,11 +83895,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQRJ2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRJ2505.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 2226485,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 5,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQRN2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRN2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 597742,
+  "size": 633938,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rn",
@@ -83492,9 +83927,9 @@
  {
   "filename": "AQRO2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRO2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 311886,
+  "size": 320475,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ro",
@@ -83507,9 +83942,9 @@
  {
   "filename": "AQRR2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRR2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 32484,
+  "size": 33044,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rr",
@@ -83522,9 +83957,9 @@
  {
   "filename": "AQRS2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRS2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2374292,
+  "size": 2553772,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rs",
@@ -83537,9 +83972,9 @@
  {
   "filename": "AQSC2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSC2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1582883,
+  "size": 1652426,
   "dataset": "sia-aq",
   "partition": {
    "uf": "sc",
@@ -83552,9 +83987,9 @@
  {
   "filename": "AQSE2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSE2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 279832,
+  "size": 296264,
   "dataset": "sia-aq",
   "partition": {
    "uf": "se",
@@ -83565,11 +84000,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQSP2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSP2505.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 7235933,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 5,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQTO2505.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQTO2505.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 168923,
+  "size": 171201,
   "dataset": "sia-aq",
   "partition": {
    "uf": "to",
@@ -83582,9 +84032,9 @@
  {
   "filename": "AQAC2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAC2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 64946,
+  "size": 65229,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ac",
@@ -83597,9 +84047,9 @@
  {
   "filename": "AQAL2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAL2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 389556,
+  "size": 390470,
   "dataset": "sia-aq",
   "partition": {
    "uf": "al",
@@ -83612,9 +84062,9 @@
  {
   "filename": "AQAM2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAM2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 283580,
+  "size": 283980,
   "dataset": "sia-aq",
   "partition": {
    "uf": "am",
@@ -83625,11 +84075,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQAP2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAP2506.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 38093,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQBA2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQBA2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1909650,
+  "size": 1907659,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ba",
@@ -83642,9 +84107,9 @@
  {
   "filename": "AQCE2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQCE2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1244336,
+  "size": 1245253,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ce",
@@ -83657,9 +84122,9 @@
  {
   "filename": "AQDF2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQDF2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 434932,
+  "size": 434387,
   "dataset": "sia-aq",
   "partition": {
    "uf": "df",
@@ -83672,9 +84137,9 @@
  {
   "filename": "AQES2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQES2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 840197,
+  "size": 840382,
   "dataset": "sia-aq",
   "partition": {
    "uf": "es",
@@ -83687,9 +84152,9 @@
  {
   "filename": "AQGO2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQGO2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 674571,
+  "size": 673242,
   "dataset": "sia-aq",
   "partition": {
    "uf": "go",
@@ -83702,9 +84167,9 @@
  {
   "filename": "AQMA2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMA2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 627620,
+  "size": 629713,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ma",
@@ -83715,11 +84180,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQMG2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMG2506.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 4292422,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQMS2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMS2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 376242,
+  "size": 377013,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ms",
@@ -83732,9 +84212,9 @@
  {
   "filename": "AQMT2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMT2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 420181,
+  "size": 420271,
   "dataset": "sia-aq",
   "partition": {
    "uf": "mt",
@@ -83747,9 +84227,9 @@
  {
   "filename": "AQPA2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPA2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 363614,
+  "size": 363314,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pa",
@@ -83762,9 +84242,9 @@
  {
   "filename": "AQPB2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPB2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 654989,
+  "size": 656600,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pb",
@@ -83777,9 +84257,9 @@
  {
   "filename": "AQPE2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPE2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1438955,
+  "size": 1438880,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pe",
@@ -83792,9 +84272,9 @@
  {
   "filename": "AQPI2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPI2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 469288,
+  "size": 467180,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pi",
@@ -83807,9 +84287,9 @@
  {
   "filename": "AQPR2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPR2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2685087,
+  "size": 2685251,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pr",
@@ -83820,11 +84300,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQRJ2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRJ2506.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 2575049,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQRN2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRN2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 634674,
+  "size": 633636,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rn",
@@ -83837,9 +84332,9 @@
  {
   "filename": "AQRO2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRO2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 328387,
+  "size": 328917,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ro",
@@ -83852,9 +84347,9 @@
  {
   "filename": "AQRR2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRR2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 19112,
+  "size": 18981,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rr",
@@ -83867,9 +84362,9 @@
  {
   "filename": "AQRS2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRS2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2951982,
+  "size": 2922862,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rs",
@@ -83882,9 +84377,9 @@
  {
   "filename": "AQSC2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSC2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1846259,
+  "size": 1845037,
   "dataset": "sia-aq",
   "partition": {
    "uf": "sc",
@@ -83897,9 +84392,9 @@
  {
   "filename": "AQSE2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSE2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 315989,
+  "size": 315662,
   "dataset": "sia-aq",
   "partition": {
    "uf": "se",
@@ -83910,11 +84405,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQSP2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSP2506.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 7962613,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQTO2506.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQTO2506.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 169522,
+  "size": 172295,
   "dataset": "sia-aq",
   "partition": {
    "uf": "to",
@@ -83927,9 +84437,9 @@
  {
   "filename": "AQAC2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAC2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 65824,
+  "size": 66033,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ac",
@@ -83942,9 +84452,9 @@
  {
   "filename": "AQAL2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAL2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 391844,
+  "size": 399344,
   "dataset": "sia-aq",
   "partition": {
    "uf": "al",
@@ -83957,9 +84467,9 @@
  {
   "filename": "AQAM2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAM2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 189474,
+  "size": 188384,
   "dataset": "sia-aq",
   "partition": {
    "uf": "am",
@@ -83970,11 +84480,26 @@
   "preliminary": false
  },
  {
+  "filename": "AQAP2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAP2507.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 39488,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "AQBA2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQBA2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1859943,
+  "size": 1977085,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ba",
@@ -83987,9 +84512,9 @@
  {
   "filename": "AQCE2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQCE2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1179486,
+  "size": 1235879,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ce",
@@ -84002,9 +84527,9 @@
  {
   "filename": "AQDF2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQDF2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 418245,
+  "size": 401601,
   "dataset": "sia-aq",
   "partition": {
    "uf": "df",
@@ -84017,9 +84542,9 @@
  {
   "filename": "AQES2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQES2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 834064,
+  "size": 864861,
   "dataset": "sia-aq",
   "partition": {
    "uf": "es",
@@ -84032,9 +84557,9 @@
  {
   "filename": "AQGO2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQGO2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 736488,
+  "size": 735025,
   "dataset": "sia-aq",
   "partition": {
    "uf": "go",
@@ -84047,9 +84572,9 @@
  {
   "filename": "AQMA2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMA2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 600315,
+  "size": 608681,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ma",
@@ -84062,9 +84587,9 @@
  {
   "filename": "AQMG2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMG2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 3877734,
+  "size": 4490897,
   "dataset": "sia-aq",
   "partition": {
    "uf": "mg",
@@ -84077,9 +84602,9 @@
  {
   "filename": "AQMS2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMS2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 369590,
+  "size": 378239,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ms",
@@ -84092,9 +84617,9 @@
  {
   "filename": "AQMT2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMT2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 297066,
+  "size": 293288,
   "dataset": "sia-aq",
   "partition": {
    "uf": "mt",
@@ -84107,9 +84632,9 @@
  {
   "filename": "AQPA2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPA2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 362840,
+  "size": 363061,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pa",
@@ -84122,9 +84647,9 @@
  {
   "filename": "AQPB2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPB2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 645089,
+  "size": 668850,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pb",
@@ -84137,9 +84662,9 @@
  {
   "filename": "AQPE2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPE2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1437174,
+  "size": 1485335,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pe",
@@ -84152,9 +84677,9 @@
  {
   "filename": "AQPI2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPI2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 475569,
+  "size": 470324,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pi",
@@ -84167,9 +84692,9 @@
  {
   "filename": "AQPR2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPR2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2432112,
+  "size": 2751501,
   "dataset": "sia-aq",
   "partition": {
    "uf": "pr",
@@ -84182,9 +84707,9 @@
  {
   "filename": "AQRJ2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRJ2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2227279,
+  "size": 2570021,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rj",
@@ -84197,9 +84722,9 @@
  {
   "filename": "AQRN2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRN2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 660343,
+  "size": 659716,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rn",
@@ -84212,9 +84737,9 @@
  {
   "filename": "AQRO2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRO2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 318075,
+  "size": 318848,
   "dataset": "sia-aq",
   "partition": {
    "uf": "ro",
@@ -84227,9 +84752,9 @@
  {
   "filename": "AQRR2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRR2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 36314,
+  "size": 36480,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rr",
@@ -84242,9 +84767,9 @@
  {
   "filename": "AQRS2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRS2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 2423171,
+  "size": 2770479,
   "dataset": "sia-aq",
   "partition": {
    "uf": "rs",
@@ -84257,9 +84782,9 @@
  {
   "filename": "AQSC2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSC2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 1763306,
+  "size": 1966096,
   "dataset": "sia-aq",
   "partition": {
    "uf": "sc",
@@ -84272,9 +84797,9 @@
  {
   "filename": "AQSE2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSE2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 308403,
+  "size": 309536,
   "dataset": "sia-aq",
   "partition": {
    "uf": "se",
@@ -84287,9 +84812,9 @@
  {
   "filename": "AQSP2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSP2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 7720001,
+  "size": 8866929,
   "dataset": "sia-aq",
   "partition": {
    "uf": "sp",
@@ -84302,14 +84827,404 @@
  {
   "filename": "AQTO2507.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQTO2507.dbc",
-  "datetime": "2025-09-25T16:02:00",
+  "datetime": "2025-10-09T20:31:00",
   "extension": "dbc",
-  "size": 167236,
+  "size": 167509,
   "dataset": "sia-aq",
   "partition": {
    "uf": "to",
    "year": 2025,
    "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQAC2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAC2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 63190,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQAL2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAL2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 406026,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "al",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQAM2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAM2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 379812,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "am",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQAP2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQAP2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 31094,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQBA2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQBA2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 1751356,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQCE2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQCE2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 1128444,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQDF2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQDF2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 449935,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "df",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQES2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQES2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 839569,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQGO2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQGO2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 673638,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "go",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQMA2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMA2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 571034,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQMG2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMG2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 3671900,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQMS2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMS2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 286697,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "ms",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQMT2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQMT2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 442585,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "mt",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQPA2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPA2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 324314,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQPB2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPB2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 647878,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQPI2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPI2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 464954,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "pi",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQPR2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQPR2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 2397006,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQRJ2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRJ2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 2036213,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQRN2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRN2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 596533,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQRO2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRO2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 311813,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "ro",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQRR2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRR2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 36027,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "rr",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQRS2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQRS2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 2462244,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQSC2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSC2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 1510640,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQSE2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSE2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 304049,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQSP2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQSP2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 6873177,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 8,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "AQTO2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/AQTO2508.dbc",
+  "datetime": "2025-10-09T20:31:00",
+  "extension": "dbc",
+  "size": 152804,
+  "dataset": "sia-aq",
+  "partition": {
+   "uf": "to",
+   "year": 2025,
+   "month": 8,
    "subpartition": null
   },
   "preliminary": false

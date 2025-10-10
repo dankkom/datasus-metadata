@@ -303,50 +303,50 @@
   "sia-abo": {
    "name": "APAC Acompanhamento Pós Cirurgia Bariátrica",
    "source": "sia",
-   "n_files": 1421,
-   "total_size": 34393437,
+   "n_files": 1456,
+   "total_size": 35562828,
    "partition_n_ufs": 18,
    "partition_period_start": "2014-01",
-   "partition_period_end": "2025-07",
-   "partition_n_periods": 139,
+   "partition_period_end": "2025-08",
+   "partition_n_periods": 140,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-09-25T16:01:00"
+   "latest_update": "2025-10-09T20:29:00"
   },
   "sia-acf": {
    "name": "APAC Confeção de Fístula Arteriovenosa",
    "source": "sia",
-   "n_files": 3415,
-   "total_size": 28684490,
+   "n_files": 3474,
+   "total_size": 29814266,
    "partition_n_ufs": 27,
    "partition_period_start": "2014-08",
-   "partition_period_end": "2025-07",
-   "partition_n_periods": 132,
+   "partition_period_end": "2025-08",
+   "partition_n_periods": 133,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-09-25T16:01:00"
+   "latest_update": "2025-10-09T20:29:00"
   },
   "sia-ad": {
    "name": "APAC de Laudos Diversos",
    "source": "sia",
-   "n_files": 5660,
-   "total_size": 2850709700,
+   "n_files": 5722,
+   "total_size": 2983518244,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2025-07",
-   "partition_n_periods": 211,
+   "partition_period_end": "2025-08",
+   "partition_n_periods": 212,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-09-25T16:01:00"
+   "latest_update": "2025-10-09T20:29:00"
   },
   "sia-am": {
    "name": "APAC de Medicamentos",
    "source": "sia",
-   "n_files": 5601,
-   "total_size": 15763849966,
+   "n_files": 5662,
+   "total_size": 16821222145,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2025-07",
-   "partition_n_periods": 211,
+   "partition_period_end": "2025-08",
+   "partition_n_periods": 212,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-09-25T16:02:00"
+   "latest_update": "2025-10-09T20:31:00"
   },
   "sia-an": {
    "name": "APAC de Nefrologia",
@@ -363,50 +363,50 @@
   "sia-aq": {
    "name": "APAC de Quimioterapia",
    "source": "sia",
-   "n_files": 5621,
-   "total_size": 4475985556,
+   "n_files": 5682,
+   "total_size": 4674029608,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2025-07",
-   "partition_n_periods": 211,
+   "partition_period_end": "2025-08",
+   "partition_n_periods": 212,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-09-25T16:02:00"
+   "latest_update": "2025-10-09T20:31:00"
   },
   "sia-ar": {
    "name": "APAC de Radioterapia",
    "source": "sia",
-   "n_files": 5125,
-   "total_size": 336745382,
+   "n_files": 5182,
+   "total_size": 344566611,
    "partition_n_ufs": 25,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2025-07",
-   "partition_n_periods": 211,
+   "partition_period_end": "2025-08",
+   "partition_n_periods": 212,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-09-25T16:03:00"
+   "latest_update": "2025-10-09T20:31:00"
   },
   "sia-atd": {
    "name": "APAC de Tratamento Dialítico",
    "source": "sia",
-   "n_files": 3525,
-   "total_size": 916899657,
+   "n_files": 3586,
+   "total_size": 962661249,
    "partition_n_ufs": 27,
    "partition_period_start": "2014-08",
-   "partition_period_end": "2025-07",
-   "partition_n_periods": 132,
+   "partition_period_end": "2025-08",
+   "partition_n_periods": 133,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-09-25T16:03:00"
+   "latest_update": "2025-10-09T20:31:00"
   },
   "sia-pa": {
    "name": "Produção Ambulatorial",
    "source": "sia",
-   "n_files": 10427,
-   "total_size": 188737006116,
+   "n_files": 10441,
+   "total_size": 187773261619,
    "partition_n_ufs": 27,
    "partition_period_start": "1994-07",
-   "partition_period_end": "2025-07",
-   "partition_n_periods": 373,
+   "partition_period_end": "2025-08",
+   "partition_n_periods": 374,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-09-25T16:17:00"
+   "latest_update": "2025-10-09T20:44:00"
   },
   "sia-ps": {
    "name": "Psicossocial",
@@ -952,13 +952,13 @@
    "name": "Leptospirose",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 24322584,
+   "total_size": 24543562,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-07-15T13:43:00"
+   "latest_update": "2025-09-26T10:33:00"
   },
   "sinan-lerd": {
    "name": "LER/Dort",
