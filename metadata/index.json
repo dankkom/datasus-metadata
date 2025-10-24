@@ -46,7 +46,7 @@
    "partition_period_end": null,
    "partition_n_periods": 0,
    "partition_periodicity": null,
-   "latest_update": "2025-09-23T11:53:00"
+   "latest_update": "2025-10-23T10:45:00"
   },
   "base-territorial-mapas": {
    "name": "Base Territorial - Mapas",
@@ -268,13 +268,13 @@
    "name": "Painel de Oncologia",
    "source": "po",
    "n_files": 13,
-   "total_size": 182133883,
+   "total_size": 185604417,
    "partition_n_ufs": 1,
    "partition_period_start": "2013",
    "partition_period_end": "2025",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-09-25T19:19:00"
+   "latest_update": "2025-10-23T09:29:00"
   },
   "resp": {
    "name": "Notificações de casos suspeitos de SCZ",
@@ -1168,25 +1168,25 @@
    "name": "Tétano Acidental",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 692442,
+   "total_size": 696994,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-06-10T16:08:00"
+   "latest_update": "2025-10-23T15:05:00"
   },
   "sinan-tetn": {
    "name": "Tétano Neonatal",
    "source": "sinan",
-   "n_files": 8,
-   "total_size": 19566,
+   "n_files": 12,
+   "total_size": 30435,
    "partition_n_ufs": 1,
    "partition_period_start": "2014",
-   "partition_period_end": "2021",
-   "partition_n_periods": 8,
+   "partition_period_end": "2025",
+   "partition_n_periods": 12,
    "partition_periodicity": "yearly",
-   "latest_update": "2021-11-23T17:54:00"
+   "latest_update": "2025-10-23T15:47:00"
   },
   "sinan-toxc": {
    "name": "Toxoplasmose Congênita",
@@ -1453,8 +1453,8 @@
   "ciha": {
    "source_name": "CIHA: Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "n_files": 1,
-   "total_size": 63655695,
-   "latest_update": "2025-09-23T12:06:00"
+   "total_size": 64110719,
+   "latest_update": "2025-10-23T10:54:00"
   },
   "cmd": {
    "source_name": "CMD: Conjunto Mínimo de Dados",
@@ -1465,8 +1465,8 @@
   "cnes": {
    "source_name": "CNES: Cadastro Nacional de Estabelecimentos de Saúde",
    "n_files": 1,
-   "total_size": 122819833,
-   "latest_update": "2025-09-23T12:22:00"
+   "total_size": 122058725,
+   "latest_update": "2025-10-23T11:02:00"
   },
   "pce": {
    "source_name": "PCE: Programa de Controle da Esquistossomose",
@@ -1489,14 +1489,14 @@
   "sia": {
    "source_name": "SIA: Sistema de Informações Ambulatoriais",
    "n_files": 4,
-   "total_size": 83500573,
-   "latest_update": "2025-09-23T12:35:00"
+   "total_size": 83956728,
+   "latest_update": "2025-10-23T11:13:00"
   },
   "sih": {
    "source_name": "SIH: Sistema de Informação Hospitalar",
    "n_files": 4,
-   "total_size": 15190004,
-   "latest_update": "2025-09-23T12:44:00"
+   "total_size": 15190008,
+   "latest_update": "2025-10-23T11:19:00"
   },
   "sim": {
    "source_name": "SIM: Sistema de Informação de Mortalidade",
