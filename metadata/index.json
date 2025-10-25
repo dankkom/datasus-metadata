@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 82629829,
+   "total_size": 82682910,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2025",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-10-14T08:48:00"
+   "latest_update": "2025-10-20T13:09:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -736,25 +736,25 @@
    "name": "Coqueluche",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 10401444,
+   "total_size": 10417232,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-10-15T17:27:00"
+   "latest_update": "2025-10-24T17:11:00"
   },
   "sinan-deng": {
    "name": "Dengue",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 1331153148,
+   "total_size": 1312546922,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-10-14T08:49:00"
+   "latest_update": "2025-10-20T14:51:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -772,13 +772,13 @@
    "name": "Difteria",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 142982,
+   "total_size": 144379,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-05-27T11:58:00"
+   "latest_update": "2025-10-24T17:35:00"
   },
   "sinan-espo": {
    "name": "Esporotricose (Epizootia)",
