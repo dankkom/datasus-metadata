@@ -97577,9 +97577,9 @@
  {
   "filename": "SRAC2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRAC2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
-  "size": 38092,
+  "size": 38097,
   "dataset": "cnes-sr",
   "partition": {
    "uf": "ac",
@@ -97592,9 +97592,9 @@
  {
   "filename": "SRAL2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRAL2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
-  "size": 143039,
+  "size": 143027,
   "dataset": "cnes-sr",
   "partition": {
    "uf": "al",
@@ -97607,9 +97607,9 @@
  {
   "filename": "SRAM2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRAM2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
-  "size": 121680,
+  "size": 121668,
   "dataset": "cnes-sr",
   "partition": {
    "uf": "am",
@@ -97622,7 +97622,7 @@
  {
   "filename": "SRAP2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRAP2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
   "size": 25362,
   "dataset": "cnes-sr",
@@ -97637,9 +97637,9 @@
  {
   "filename": "SRBA2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRBA2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
-  "size": 850842,
+  "size": 850853,
   "dataset": "cnes-sr",
   "partition": {
    "uf": "ba",
@@ -97652,9 +97652,9 @@
  {
   "filename": "SRCE2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRCE2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
-  "size": 462644,
+  "size": 462634,
   "dataset": "cnes-sr",
   "partition": {
    "uf": "ce",
@@ -97667,7 +97667,7 @@
  {
   "filename": "SRDF2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRDF2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
   "size": 185807,
   "dataset": "cnes-sr",
@@ -97682,7 +97682,7 @@
  {
   "filename": "SRES2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRES2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
   "size": 250739,
   "dataset": "cnes-sr",
@@ -97697,7 +97697,7 @@
  {
   "filename": "SRGO2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRGO2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
   "size": 377535,
   "dataset": "cnes-sr",
@@ -97712,7 +97712,7 @@
  {
   "filename": "SRMA2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRMA2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
   "size": 305093,
   "dataset": "cnes-sr",
@@ -97727,9 +97727,9 @@
  {
   "filename": "SRMG2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRMG2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
-  "size": 1383740,
+  "size": 1383723,
   "dataset": "cnes-sr",
   "partition": {
    "uf": "mg",
@@ -97742,9 +97742,9 @@
  {
   "filename": "SRMS2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRMS2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
-  "size": 152438,
+  "size": 152442,
   "dataset": "cnes-sr",
   "partition": {
    "uf": "ms",
@@ -97757,9 +97757,9 @@
  {
   "filename": "SRMT2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRMT2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
-  "size": 261518,
+  "size": 261516,
   "dataset": "cnes-sr",
   "partition": {
    "uf": "mt",
@@ -97772,9 +97772,9 @@
  {
   "filename": "SRPA2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRPA2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
-  "size": 317479,
+  "size": 317485,
   "dataset": "cnes-sr",
   "partition": {
    "uf": "pa",
@@ -97787,9 +97787,9 @@
  {
   "filename": "SRPB2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRPB2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
-  "size": 255849,
+  "size": 255845,
   "dataset": "cnes-sr",
   "partition": {
    "uf": "pb",
@@ -97802,7 +97802,7 @@
  {
   "filename": "SRPE2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRPE2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
   "size": 397099,
   "dataset": "cnes-sr",
@@ -97817,7 +97817,7 @@
  {
   "filename": "SRPI2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRPI2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
   "size": 188044,
   "dataset": "cnes-sr",
@@ -97832,9 +97832,9 @@
  {
   "filename": "SRPR2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRPR2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
-  "size": 603988,
+  "size": 603968,
   "dataset": "cnes-sr",
   "partition": {
    "uf": "pr",
@@ -97847,9 +97847,9 @@
  {
   "filename": "SRRJ2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRRJ2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
-  "size": 685434,
+  "size": 685458,
   "dataset": "cnes-sr",
   "partition": {
    "uf": "rj",
@@ -97862,9 +97862,9 @@
  {
   "filename": "SRRN2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRRN2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
-  "size": 171265,
+  "size": 171255,
   "dataset": "cnes-sr",
   "partition": {
    "uf": "rn",
@@ -97877,7 +97877,7 @@
  {
   "filename": "SRRO2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRRO2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
   "size": 105497,
   "dataset": "cnes-sr",
@@ -97892,7 +97892,7 @@
  {
   "filename": "SRRR2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRRR2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
   "size": 26725,
   "dataset": "cnes-sr",
@@ -97907,9 +97907,9 @@
  {
   "filename": "SRRS2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRRS2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
-  "size": 597637,
+  "size": 597633,
   "dataset": "cnes-sr",
   "partition": {
    "uf": "rs",
@@ -97922,7 +97922,7 @@
  {
   "filename": "SRSC2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRSC2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
   "size": 572525,
   "dataset": "cnes-sr",
@@ -97937,7 +97937,7 @@
  {
   "filename": "SRSE2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRSE2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
   "size": 94445,
   "dataset": "cnes-sr",
@@ -97952,9 +97952,9 @@
  {
   "filename": "SRSP2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRSP2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
-  "size": 1867348,
+  "size": 1867382,
   "dataset": "cnes-sr",
   "partition": {
    "uf": "sp",
@@ -97967,7 +97967,7 @@
  {
   "filename": "SRTO2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/SR/SRTO2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:37:00",
   "extension": "dbc",
   "size": 98091,
   "dataset": "cnes-sr",

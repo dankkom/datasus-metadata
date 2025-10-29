@@ -97592,9 +97592,9 @@
  {
   "filename": "EQAC2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQAC2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 43508,
+  "size": 43582,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "ac",
@@ -97607,9 +97607,9 @@
  {
   "filename": "EQAL2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQAL2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 117117,
+  "size": 117278,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "al",
@@ -97622,9 +97622,9 @@
  {
   "filename": "EQAM2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQAM2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 105724,
+  "size": 105951,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "am",
@@ -97637,9 +97637,9 @@
  {
   "filename": "EQAP2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQAP2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 31336,
+  "size": 31372,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "ap",
@@ -97652,9 +97652,9 @@
  {
   "filename": "EQBA2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQBA2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 605450,
+  "size": 606410,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "ba",
@@ -97667,9 +97667,9 @@
  {
   "filename": "EQCE2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQCE2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 411550,
+  "size": 412251,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "ce",
@@ -97682,9 +97682,9 @@
  {
   "filename": "EQDF2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQDF2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 199340,
+  "size": 199676,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "df",
@@ -97697,9 +97697,9 @@
  {
   "filename": "EQES2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQES2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 240161,
+  "size": 240537,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "es",
@@ -97712,9 +97712,9 @@
  {
   "filename": "EQGO2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQGO2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 341130,
+  "size": 341632,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "go",
@@ -97727,9 +97727,9 @@
  {
   "filename": "EQMA2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQMA2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 202857,
+  "size": 203203,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "ma",
@@ -97742,9 +97742,9 @@
  {
   "filename": "EQMG2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQMG2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 1355477,
+  "size": 1357616,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "mg",
@@ -97757,9 +97757,9 @@
  {
   "filename": "EQMS2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQMS2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 132413,
+  "size": 132653,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "ms",
@@ -97772,9 +97772,9 @@
  {
   "filename": "EQMT2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQMT2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 224848,
+  "size": 225184,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "mt",
@@ -97787,9 +97787,9 @@
  {
   "filename": "EQPA2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQPA2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 250445,
+  "size": 250900,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "pa",
@@ -97802,9 +97802,9 @@
  {
   "filename": "EQPB2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQPB2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 183908,
+  "size": 184200,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "pb",
@@ -97817,9 +97817,9 @@
  {
   "filename": "EQPE2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQPE2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 294993,
+  "size": 295435,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "pe",
@@ -97832,9 +97832,9 @@
  {
   "filename": "EQPI2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQPI2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 97568,
+  "size": 97679,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "pi",
@@ -97847,9 +97847,9 @@
  {
   "filename": "EQPR2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQPR2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 639134,
+  "size": 640247,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "pr",
@@ -97862,9 +97862,9 @@
  {
   "filename": "EQRJ2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQRJ2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 783564,
+  "size": 784872,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "rj",
@@ -97877,9 +97877,9 @@
  {
   "filename": "EQRN2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQRN2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 123762,
+  "size": 123951,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "rn",
@@ -97892,9 +97892,9 @@
  {
   "filename": "EQRO2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQRO2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 131358,
+  "size": 131531,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "ro",
@@ -97907,9 +97907,9 @@
  {
   "filename": "EQRR2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQRR2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 28190,
+  "size": 28228,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "rr",
@@ -97922,9 +97922,9 @@
  {
   "filename": "EQRS2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQRS2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 560782,
+  "size": 561656,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "rs",
@@ -97937,9 +97937,9 @@
  {
   "filename": "EQSC2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQSC2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 525063,
+  "size": 525931,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "sc",
@@ -97952,9 +97952,9 @@
  {
   "filename": "EQSE2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQSE2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 63034,
+  "size": 63131,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "se",
@@ -97967,9 +97967,9 @@
  {
   "filename": "EQSP2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQSP2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 2284047,
+  "size": 2287747,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "sp",
@@ -97982,9 +97982,9 @@
  {
   "filename": "EQTO2509.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQTO2509.dbc",
-  "datetime": "2025-10-21T12:20:00",
+  "datetime": "2025-10-28T11:35:00",
   "extension": "dbc",
-  "size": 72542,
+  "size": 72638,
   "dataset": "cnes-eq",
   "partition": {
    "uf": "to",

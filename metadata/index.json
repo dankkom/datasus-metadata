@@ -148,13 +148,13 @@
    "name": "Equipamentos",
    "source": "cnes",
    "n_files": 6533,
-   "total_size": 1476513321,
+   "total_size": 1476529511,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
    "partition_period_end": "2025-09",
    "partition_n_periods": 242,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-10-21T12:20:00"
+   "latest_update": "2025-10-28T11:35:00"
   },
   "cnes-gm": {
    "name": "Gestão e Metas",
@@ -232,13 +232,13 @@
    "name": "Serviço Especializado",
    "source": "cnes",
    "n_files": 6532,
-   "total_size": 1539860416,
+   "total_size": 1539860409,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
    "partition_period_end": "2025-09",
    "partition_n_periods": 242,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-10-21T12:20:00"
+   "latest_update": "2025-10-28T11:37:00"
   },
   "cnes-st": {
    "name": "Estabelecimentos",
@@ -1465,8 +1465,8 @@
   "cnes": {
    "source_name": "CNES: Cadastro Nacional de Estabelecimentos de Saúde",
    "n_files": 1,
-   "total_size": 122058725,
-   "latest_update": "2025-10-23T11:02:00"
+   "total_size": 121039060,
+   "latest_update": "2025-10-28T14:20:00"
   },
   "pce": {
    "source_name": "PCE: Programa de Controle da Esquistossomose",
