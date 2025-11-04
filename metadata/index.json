@@ -15,14 +15,14 @@
   "base-populacional-ibge-pops": {
    "name": "POPS - Estimativas por Sexo e Idade",
    "source": "base-populacional-ibge",
-   "n_files": 25,
-   "total_size": 85270690,
+   "n_files": 26,
+   "total_size": 90021290,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
-   "partition_period_end": "2024",
-   "partition_n_periods": 25,
+   "partition_period_end": "2025",
+   "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-01-07T11:21:00"
+   "latest_update": "2025-10-29T09:46:00"
   },
   "base-populacional-ibge-popt": {
    "name": "POPT - Estimativas TCU",

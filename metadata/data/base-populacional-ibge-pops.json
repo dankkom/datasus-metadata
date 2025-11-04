@@ -373,5 +373,20 @@
    "subpartition": null
   },
   "preliminary": false
+ },
+ {
+  "filename": "POPSBR25.zip",
+  "full_path": "/dissemin/publicos/IBGE/POPSVS/POPSBR25.zip",
+  "datetime": "2025-10-29T09:46:00",
+  "extension": "zip",
+  "size": 4750600,
+  "dataset": "base-populacional-ibge-pops",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
  }
 ]
