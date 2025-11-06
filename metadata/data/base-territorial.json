@@ -75,6 +75,21 @@
   "preliminary": false
  },
  {
+  "filename": "10-base_territorial_out25.zip",
+  "full_path": "/territorio/tabelas/10-base_territorial_out25.zip",
+  "datetime": "2025-11-04T18:39:00",
+  "extension": "zip",
+  "size": 1699756,
+  "dataset": "base-territorial",
+  "partition": {
+   "uf": null,
+   "year": null,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "base_territorial_2023.zip",
   "full_path": "/territorio/tabelas/2023/base_territorial_2023.zip",
   "datetime": "2023-08-30T12:08:00",

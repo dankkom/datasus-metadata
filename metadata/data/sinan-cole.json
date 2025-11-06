@@ -196,8 +196,8 @@
  },
  {
   "filename": "COLEBR20.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/COLEBR20.dbc",
-  "datetime": "2024-06-20T16:11:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/COLEBR20.dbc",
+  "datetime": "2025-11-04T16:19:00",
   "extension": "dbc",
   "size": 2923,
   "dataset": "sinan-cole",
@@ -207,12 +207,12 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "COLEBR21.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/COLEBR21.dbc",
-  "datetime": "2024-06-20T16:11:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/COLEBR21.dbc",
+  "datetime": "2025-11-04T16:19:00",
   "extension": "dbc",
   "size": 2923,
   "dataset": "sinan-cole",
@@ -222,12 +222,12 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "COLEBR22.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/COLEBR22.dbc",
-  "datetime": "2024-06-20T16:11:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/COLEBR22.dbc",
+  "datetime": "2025-11-04T16:19:00",
   "extension": "dbc",
   "size": 2923,
   "dataset": "sinan-cole",
@@ -237,12 +237,12 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "COLEBR23.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/COLEBR23.dbc",
-  "datetime": "2024-11-06T11:49:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/COLEBR23.dbc",
+  "datetime": "2025-11-04T16:19:00",
   "extension": "dbc",
   "size": 2923,
   "dataset": "sinan-cole",
@@ -252,18 +252,33 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "COLEBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/COLEBR24.dbc",
-  "datetime": "2024-11-06T11:49:00",
+  "datetime": "2025-11-04T16:31:00",
   "extension": "dbc",
   "size": 3074,
   "dataset": "sinan-cole",
   "partition": {
    "uf": "br",
    "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "COLEBR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/COLEBR25.dbc",
+  "datetime": "2025-11-04T14:58:00",
+  "extension": "dbc",
+  "size": 2923,
+  "dataset": "sinan-cole",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
    "month": null,
    "subpartition": null
   },

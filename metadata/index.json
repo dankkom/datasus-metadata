@@ -63,14 +63,14 @@
   "base-territorial": {
    "name": "Base Territorial",
    "source": "base-territorial",
-   "n_files": 17,
-   "total_size": 27483713,
+   "n_files": 18,
+   "total_size": 29183469,
    "partition_n_ufs": 1,
    "partition_period_start": null,
    "partition_period_end": null,
    "partition_n_periods": 0,
    "partition_periodicity": null,
-   "latest_update": "2025-10-02T14:57:00"
+   "latest_update": "2025-11-04T18:39:00"
   },
   "cih-cr": {
    "name": "Comunicação de Internação Hospitalar",
@@ -723,14 +723,14 @@
   "sinan-cole": {
    "name": "Cólera",
    "source": "sinan",
-   "n_files": 18,
-   "total_size": 49518,
+   "n_files": 19,
+   "total_size": 52441,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2024",
-   "partition_n_periods": 18,
+   "partition_period_end": "2025",
+   "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-11-06T11:49:00"
+   "latest_update": "2025-11-04T16:31:00"
   },
   "sinan-coqu": {
    "name": "Coqueluche",
