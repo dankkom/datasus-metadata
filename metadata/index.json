@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 82682910,
+   "total_size": 82606806,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2025",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-10-20T13:09:00"
+   "latest_update": "2025-10-28T17:13:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 1312546922,
+   "total_size": 1317466513,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-10-20T14:51:00"
+   "latest_update": "2025-10-28T17:13:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1059,14 +1059,14 @@
   "sinan-pfan": {
    "name": "Paralisia Flácida Aguda",
    "source": "sinan",
-   "n_files": 10,
-   "total_size": 551483,
+   "n_files": 19,
+   "total_size": 1321499,
    "partition_n_ufs": 1,
-   "partition_period_start": "2012",
-   "partition_period_end": "2021",
-   "partition_n_periods": 10,
+   "partition_period_start": "2007",
+   "partition_period_end": "2025",
+   "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2021-11-23T16:34:00"
+   "latest_update": "2025-10-23T10:33:00"
   },
   "sinan-pneu": {
    "name": "Pneumoconioses relacionadas ao trabalho",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 10,
-   "total_size": 9919949,
+   "total_size": 9944397,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2025",
    "partition_n_periods": 10,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-10-15T07:44:00"
+   "latest_update": "2025-10-28T17:13:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
