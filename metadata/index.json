@@ -255,14 +255,14 @@
   "pce": {
    "name": "Programa de Controle da Esquistossomose",
    "source": "pce",
-   "n_files": 409,
-   "total_size": 14820694,
+   "n_files": 427,
+   "total_size": 15158997,
    "partition_n_ufs": 20,
    "partition_period_start": "1995",
-   "partition_period_end": "2021",
-   "partition_n_periods": 27,
+   "partition_period_end": "2023",
+   "partition_n_periods": 29,
    "partition_periodicity": "yearly",
-   "latest_update": "2022-11-11T17:21:00"
+   "latest_update": "2025-11-11T12:07:00"
   },
   "po": {
    "name": "Painel de Oncologia",
@@ -1507,8 +1507,8 @@
   "sinan": {
    "source_name": "SINAN: Sistema de Informação de Agravos de Notificação",
    "n_files": 3,
-   "total_size": 45307628,
-   "latest_update": "2025-01-23T16:46:00"
+   "total_size": 44275669,
+   "latest_update": "2025-11-11T12:14:00"
   },
   "sinasc": {
    "source_name": "SINASC: Sistema de Informação de Nascidos Vivos",
