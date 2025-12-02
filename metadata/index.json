@@ -676,13 +676,13 @@
    "name": "Botulismo",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 166463,
+   "total_size": 167641,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-09-04T12:48:00"
+   "latest_update": "2025-11-26T15:00:00"
   },
   "sinan-canc": {
    "name": "Câncer relacionado ao trabalho",
