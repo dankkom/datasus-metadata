@@ -940,25 +940,25 @@
    "name": "Leishmaniose Visceral",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 13184351,
+   "total_size": 13183687,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-09-26T10:17:00"
+   "latest_update": "2025-12-02T11:20:00"
   },
   "sinan-lept": {
    "name": "Leptospirose",
    "source": "sinan",
-   "n_files": 19,
-   "total_size": 24792788,
+   "n_files": 26,
+   "total_size": 30733687,
    "partition_n_ufs": 1,
-   "partition_period_start": "2007",
+   "partition_period_start": "2000",
    "partition_period_end": "2025",
-   "partition_n_periods": 19,
+   "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-10-30T15:47:00"
+   "latest_update": "2025-12-02T16:15:00"
   },
   "sinan-lerd": {
    "name": "LER/Dort",
