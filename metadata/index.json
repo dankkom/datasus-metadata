@@ -435,50 +435,50 @@
   "sih-er": {
    "name": "ER - AIH Rejeitadas com código de erro",
    "source": "sih",
-   "n_files": 4661,
-   "total_size": 299995128,
+   "n_files": 4688,
+   "total_size": 302040160,
    "partition_n_ufs": 27,
    "partition_period_start": "2011-01",
-   "partition_period_end": "2025-09",
-   "partition_n_periods": 177,
+   "partition_period_end": "2025-10",
+   "partition_n_periods": 178,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-11-06T16:21:00"
+   "latest_update": "2025-12-05T20:17:00"
   },
   "sih-rd": {
    "name": "RD - AIH Reduzida",
    "source": "sih",
-   "n_files": 10914,
-   "total_size": 24573034685,
+   "n_files": 10941,
+   "total_size": 24668433683,
    "partition_n_ufs": 27,
    "partition_period_start": "1992-01",
-   "partition_period_end": "2025-09",
-   "partition_n_periods": 405,
+   "partition_period_end": "2025-10",
+   "partition_n_periods": 406,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-11-06T16:16:00"
+   "latest_update": "2025-12-05T20:17:00"
   },
   "sih-rj": {
    "name": "RJ - AIH Rejeitadas",
    "source": "sih",
-   "n_files": 5590,
-   "total_size": 894780738,
+   "n_files": 5617,
+   "total_size": 899415194,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2025-09",
-   "partition_n_periods": 213,
+   "partition_period_end": "2025-10",
+   "partition_n_periods": 214,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-11-06T16:25:00"
+   "latest_update": "2025-12-05T20:17:00"
   },
   "sih-sp": {
    "name": "SP - Serviços Profissionais",
    "source": "sih",
-   "n_files": 9169,
-   "total_size": 53463504140,
+   "n_files": 9196,
+   "total_size": 53688385225,
    "partition_n_ufs": 27,
    "partition_period_start": "1997-06",
-   "partition_period_end": "2025-09",
-   "partition_n_periods": 340,
+   "partition_period_end": "2025-10",
+   "partition_n_periods": 341,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-11-06T16:29:00"
+   "latest_update": "2025-12-05T20:17:00"
   },
   "sim-do-cid09": {
    "name": "Declarações de Óbito CID-9",
@@ -736,13 +736,13 @@
    "name": "Coqueluche",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 10542222,
+   "total_size": 10553371,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-11-28T14:55:00"
+   "latest_update": "2025-12-05T16:16:00"
   },
   "sinan-deng": {
    "name": "Dengue",
@@ -772,13 +772,13 @@
    "name": "Difteria",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 145037,
+   "total_size": 145041,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-11-28T15:19:00"
+   "latest_update": "2025-12-05T15:50:00"
   },
   "sinan-espo": {
    "name": "Esporotricose (Epizootia)",
@@ -1168,25 +1168,25 @@
    "name": "Tétano Acidental",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 716892,
+   "total_size": 718391,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-11-28T16:18:00"
+   "latest_update": "2025-12-05T16:01:00"
   },
   "sinan-tetn": {
    "name": "Tétano Neonatal",
    "source": "sinan",
    "n_files": 12,
-   "total_size": 30435,
+   "total_size": 31037,
    "partition_n_ufs": 1,
    "partition_period_start": "2014",
    "partition_period_end": "2025",
    "partition_n_periods": 12,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-11-28T16:46:00"
+   "latest_update": "2025-12-05T16:08:00"
   },
   "sinan-toxc": {
    "name": "Toxoplasmose Congênita",
