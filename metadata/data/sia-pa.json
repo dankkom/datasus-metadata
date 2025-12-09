@@ -157200,21 +157200,6 @@
   "preliminary": false
  },
  {
-  "filename": "PARS2509.dbc",
-  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARS2509.dbc",
-  "datetime": "2025-11-14T08:38:00",
-  "extension": "dbc",
-  "size": 154104981,
-  "dataset": "sia-pa",
-  "partition": {
-   "uf": "rs",
-   "year": 2025,
-   "month": 9,
-   "subpartition": ""
-  },
-  "preliminary": false
- },
- {
   "filename": "PARS2509a.dbc",
   "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARS2509a.dbc",
   "datetime": "2025-12-07T19:54:00",

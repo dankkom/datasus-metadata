@@ -87,14 +87,14 @@
   "ciha": {
    "name": "Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "source": "ciha",
-   "n_files": 4544,
-   "total_size": 5274367331,
+   "n_files": 4569,
+   "total_size": 5323311248,
    "partition_n_ufs": 26,
    "partition_period_start": "2011-01",
-   "partition_period_end": "2025-09",
-   "partition_n_periods": 177,
+   "partition_period_end": "2025-10",
+   "partition_n_periods": 178,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-11-06T15:49:00"
+   "latest_update": "2025-12-08T18:14:00"
   },
   "cnes-dc": {
    "name": "Dados Complementares",
@@ -399,8 +399,8 @@
   "sia-pa": {
    "name": "Produção Ambulatorial",
    "source": "sia",
-   "n_files": 10524,
-   "total_size": 194884938366,
+   "n_files": 10523,
+   "total_size": 194730833385,
    "partition_n_ufs": 27,
    "partition_period_start": "1994-07",
    "partition_period_end": "2025-10",
