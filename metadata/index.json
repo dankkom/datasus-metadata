@@ -658,7 +658,7 @@
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-12-10T16:49:00"
+   "latest_update": "2025-12-11T10:33:00"
   },
   "sinan-antr": {
    "name": "Atendimento Antirrábico",
@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 83191937,
+   "total_size": 83160508,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2025",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-12-02T08:03:00"
+   "latest_update": "2025-12-10T08:04:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 1315900775,
+   "total_size": 1321174983,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-12-01T15:33:00"
+   "latest_update": "2025-12-10T08:04:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1000,13 +1000,13 @@
    "name": "Meningite",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 46871669,
+   "total_size": 47075706,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-11-17T16:33:00"
+   "latest_update": "2025-12-11T18:12:00"
   },
   "sinan-ment": {
    "name": "Transtornos mentais relacionados ao trabalho",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 10,
-   "total_size": 9972980,
+   "total_size": 9983292,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2025",
    "partition_n_periods": 10,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-11-26T13:56:00"
+   "latest_update": "2025-12-10T08:04:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
