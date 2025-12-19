@@ -40,13 +40,13 @@
    "name": "Base Territorial - Conversão",
    "source": "base-territorial",
    "n_files": 28,
-   "total_size": 41383311,
+   "total_size": 41479711,
    "partition_n_ufs": 28,
    "partition_period_start": null,
    "partition_period_end": null,
    "partition_n_periods": 0,
    "partition_periodicity": null,
-   "latest_update": "2025-11-17T23:30:00"
+   "latest_update": "2025-12-18T10:54:00"
   },
   "base-territorial-mapas": {
    "name": "Base Territorial - Mapas",
@@ -99,14 +99,14 @@
   "cnes-dc": {
    "name": "Dados Complementares",
    "source": "cnes",
-   "n_files": 6561,
-   "total_size": 124467854,
+   "n_files": 6588,
+   "total_size": 124846173,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
-   "partition_period_end": "2025-10",
-   "partition_n_periods": 243,
+   "partition_period_end": "2025-11",
+   "partition_n_periods": 244,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-11-14T14:22:00"
+   "latest_update": "2025-12-17T14:22:00"
   },
   "cnes-ee": {
    "name": "Estabelecimento de Ensino",
@@ -123,134 +123,134 @@
   "cnes-ef": {
    "name": "Estabelecimento Filantrópico",
    "source": "cnes",
-   "n_files": 5599,
-   "total_size": 10966057,
+   "n_files": 5624,
+   "total_size": 11014606,
    "partition_n_ufs": 25,
    "partition_period_start": "2007-03",
-   "partition_period_end": "2025-10",
-   "partition_n_periods": 224,
+   "partition_period_end": "2025-11",
+   "partition_n_periods": 225,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-11-14T14:22:00"
+   "latest_update": "2025-12-17T14:22:00"
   },
   "cnes-ep": {
    "name": "Equipes",
    "source": "cnes",
-   "n_files": 6021,
-   "total_size": 562117506,
+   "n_files": 6048,
+   "total_size": 566519836,
    "partition_n_ufs": 27,
    "partition_period_start": "2007-04",
-   "partition_period_end": "2025-10",
-   "partition_n_periods": 223,
+   "partition_period_end": "2025-11",
+   "partition_n_periods": 224,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-11-14T14:22:00"
+   "latest_update": "2025-12-17T14:22:00"
   },
   "cnes-eq": {
    "name": "Equipamentos",
    "source": "cnes",
-   "n_files": 6560,
-   "total_size": 1486627997,
+   "n_files": 6587,
+   "total_size": 1496735492,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
-   "partition_period_end": "2025-10",
-   "partition_n_periods": 243,
+   "partition_period_end": "2025-11",
+   "partition_n_periods": 244,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-11-14T14:22:00"
+   "latest_update": "2025-12-17T14:22:00"
   },
   "cnes-gm": {
    "name": "Gestão e Metas",
    "source": "cnes",
-   "n_files": 5692,
-   "total_size": 13072853,
+   "n_files": 5717,
+   "total_size": 13131039,
    "partition_n_ufs": 27,
    "partition_period_start": "2007-03",
-   "partition_period_end": "2025-10",
-   "partition_n_periods": 224,
+   "partition_period_end": "2025-11",
+   "partition_n_periods": 225,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-11-14T14:22:00"
+   "latest_update": "2025-12-17T14:22:00"
   },
   "cnes-hb": {
    "name": "Habilitação",
    "source": "cnes",
-   "n_files": 6048,
-   "total_size": 136031260,
+   "n_files": 6075,
+   "total_size": 136979962,
    "partition_n_ufs": 27,
    "partition_period_start": "2007-03",
-   "partition_period_end": "2025-10",
-   "partition_n_periods": 224,
+   "partition_period_end": "2025-11",
+   "partition_n_periods": 225,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-11-14T14:22:00"
+   "latest_update": "2025-12-17T14:22:00"
   },
   "cnes-in": {
    "name": "Incentivos",
    "source": "cnes",
-   "n_files": 5763,
-   "total_size": 41740194,
+   "n_files": 5790,
+   "total_size": 42140230,
    "partition_n_ufs": 27,
    "partition_period_start": "2007-10",
-   "partition_period_end": "2025-10",
-   "partition_n_periods": 217,
+   "partition_period_end": "2025-11",
+   "partition_n_periods": 218,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-11-14T14:22:00"
+   "latest_update": "2025-12-17T14:22:00"
   },
   "cnes-lt": {
    "name": "Leitos",
    "source": "cnes",
-   "n_files": 6507,
-   "total_size": 143432839,
+   "n_files": 6534,
+   "total_size": 144070862,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-10",
-   "partition_period_end": "2025-10",
-   "partition_n_periods": 241,
+   "partition_period_end": "2025-11",
+   "partition_n_periods": 242,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-11-14T14:22:00"
+   "latest_update": "2025-12-17T14:22:00"
   },
   "cnes-pf": {
    "name": "Profissional",
    "source": "cnes",
-   "n_files": 6561,
-   "total_size": 42979133341,
+   "n_files": 6588,
+   "total_size": 43307918067,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
-   "partition_period_end": "2025-10",
-   "partition_n_periods": 243,
+   "partition_period_end": "2025-11",
+   "partition_n_periods": 244,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-11-14T14:23:00"
+   "latest_update": "2025-12-17T14:22:00"
   },
   "cnes-rc": {
    "name": "Regra Contratual",
    "source": "cnes",
-   "n_files": 5987,
-   "total_size": 75567849,
+   "n_files": 6014,
+   "total_size": 76126925,
    "partition_n_ufs": 27,
    "partition_period_start": "2007-03",
-   "partition_period_end": "2025-10",
-   "partition_n_periods": 224,
+   "partition_period_end": "2025-11",
+   "partition_n_periods": 225,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-11-14T14:23:00"
+   "latest_update": "2025-12-17T14:22:00"
   },
   "cnes-sr": {
    "name": "Serviço Especializado",
    "source": "cnes",
-   "n_files": 6559,
-   "total_size": 1550438543,
+   "n_files": 6586,
+   "total_size": 1561059016,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
-   "partition_period_end": "2025-10",
-   "partition_n_periods": 243,
+   "partition_period_end": "2025-11",
+   "partition_n_periods": 244,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-11-14T14:23:00"
+   "latest_update": "2025-12-17T14:22:00"
   },
   "cnes-st": {
    "name": "Estabelecimentos",
    "source": "cnes",
-   "n_files": 6561,
-   "total_size": 3137283613,
+   "n_files": 6588,
+   "total_size": 3158997252,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
-   "partition_period_end": "2025-10",
-   "partition_n_periods": 243,
+   "partition_period_end": "2025-11",
+   "partition_n_periods": 244,
    "partition_periodicity": "monthly",
-   "latest_update": "2025-11-14T14:23:00"
+   "latest_update": "2025-12-17T14:22:00"
   },
   "pce": {
    "name": "Programa de Controle da Esquistossomose",
@@ -268,13 +268,13 @@
    "name": "Painel de Oncologia",
    "source": "po",
    "n_files": 13,
-   "total_size": 187454937,
+   "total_size": 187453890,
    "partition_n_ufs": 1,
    "partition_period_start": "2013",
    "partition_period_end": "2025",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-11-18T09:29:00"
+   "latest_update": "2025-12-18T07:36:00"
   },
   "resp": {
    "name": "Notificações de casos suspeitos de SCZ",
@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 83160508,
+   "total_size": 82732365,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2025",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-12-10T08:04:00"
+   "latest_update": "2025-12-16T11:59:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 1321174983,
+   "total_size": 1322009035,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-12-10T08:04:00"
+   "latest_update": "2025-12-16T11:59:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 10,
-   "total_size": 9983292,
+   "total_size": 9993203,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2025",
    "partition_n_periods": 10,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-12-10T08:04:00"
+   "latest_update": "2025-12-16T12:00:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
@@ -1453,8 +1453,8 @@
   "ciha": {
    "source_name": "CIHA: Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "n_files": 1,
-   "total_size": 64445296,
-   "latest_update": "2025-11-17T23:43:00"
+   "total_size": 64785629,
+   "latest_update": "2025-12-18T11:07:00"
   },
   "cmd": {
    "source_name": "CMD: Conjunto Mínimo de Dados",
@@ -1465,8 +1465,8 @@
   "cnes": {
    "source_name": "CNES: Cadastro Nacional de Estabelecimentos de Saúde",
    "n_files": 1,
-   "total_size": 123607751,
-   "latest_update": "2025-11-17T23:58:00"
+   "total_size": 123948100,
+   "latest_update": "2025-12-18T11:18:00"
   },
   "pce": {
    "source_name": "PCE: Programa de Controle da Esquistossomose",
@@ -1489,14 +1489,14 @@
   "sia": {
    "source_name": "SIA: Sistema de Informações Ambulatoriais",
    "n_files": 4,
-   "total_size": 84288983,
-   "latest_update": "2025-11-18T00:10:00"
+   "total_size": 84629665,
+   "latest_update": "2025-12-18T11:28:00"
   },
   "sih": {
    "source_name": "SIH: Sistema de Informação Hospitalar",
    "n_files": 4,
-   "total_size": 14990026,
-   "latest_update": "2025-11-18T00:23:00"
+   "total_size": 15019696,
+   "latest_update": "2025-12-18T11:35:00"
   },
   "sim": {
    "source_name": "SIM: Sistema de Informação de Mortalidade",
