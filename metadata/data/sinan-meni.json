@@ -196,10 +196,10 @@
  },
  {
   "filename": "MENIBR20.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/MENIBR20.dbc",
-  "datetime": "2025-12-11T18:11:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MENIBR20.dbc",
+  "datetime": "2025-12-19T15:41:00",
   "extension": "dbc",
-  "size": 1185997,
+  "size": 1186109,
   "dataset": "sinan-meni",
   "partition": {
    "uf": "br",
@@ -207,14 +207,14 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "MENIBR21.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/MENIBR21.dbc",
-  "datetime": "2025-12-11T18:11:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/MENIBR21.dbc",
+  "datetime": "2025-12-19T15:41:00",
   "extension": "dbc",
-  "size": 1207357,
+  "size": 1207462,
   "dataset": "sinan-meni",
   "partition": {
    "uf": "br",
@@ -222,14 +222,14 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "MENIBR22.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/MENIBR22.dbc",
-  "datetime": "2025-12-11T18:11:00",
+  "datetime": "2025-12-19T15:42:00",
   "extension": "dbc",
-  "size": 2068154,
+  "size": 2068442,
   "dataset": "sinan-meni",
   "partition": {
    "uf": "br",
@@ -242,9 +242,9 @@
  {
   "filename": "MENIBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/MENIBR23.dbc",
-  "datetime": "2025-12-11T18:11:00",
+  "datetime": "2025-12-19T15:42:00",
   "extension": "dbc",
-  "size": 2634531,
+  "size": 2641246,
   "dataset": "sinan-meni",
   "partition": {
    "uf": "br",
@@ -257,9 +257,9 @@
  {
   "filename": "MENIBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/MENIBR24.dbc",
-  "datetime": "2025-12-11T18:11:00",
+  "datetime": "2025-12-19T15:42:00",
   "extension": "dbc",
-  "size": 2566609,
+  "size": 2568834,
   "dataset": "sinan-meni",
   "partition": {
    "uf": "br",
@@ -272,9 +272,9 @@
  {
   "filename": "MENIBR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/MENIBR25.dbc",
-  "datetime": "2025-12-11T18:11:00",
+  "datetime": "2025-12-19T15:42:00",
   "extension": "dbc",
-  "size": 2308209,
+  "size": 2375191,
   "dataset": "sinan-meni",
   "partition": {
    "uf": "br",
