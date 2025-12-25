@@ -418,5 +418,20 @@
    "subpartition": null
   },
   "preliminary": false
+ },
+ {
+  "filename": "DOINF24.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOINF24.dbc",
+  "datetime": "2025-12-23T15:47:00",
+  "extension": "dbc",
+  "size": 3356461,
+  "dataset": "sim-doinf-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
  }
 ]

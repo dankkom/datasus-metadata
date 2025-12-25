@@ -148,5 +148,20 @@
    "subpartition": null
   },
   "preliminary": false
+ },
+ {
+  "filename": "DNEX2024.dbc",
+  "full_path": "/dissemin/publicos/SINASC/1996_/Dados/DNRES/DNEX2024.dbc",
+  "datetime": "2025-12-23T15:51:00",
+  "extension": "dbc",
+  "size": 42366,
+  "dataset": "sinasc-dnex",
+  "partition": {
+   "uf": null,
+   "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
  }
 ]

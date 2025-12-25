@@ -496,13 +496,13 @@
    "name": "Declarações de Óbito CID-10",
    "source": "sim",
    "n_files": 812,
-   "total_size": 4777504929,
+   "total_size": 4785776280,
    "partition_n_ufs": 28,
    "partition_period_start": "1996",
    "partition_period_end": "2024",
    "partition_n_periods": 29,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-10-02T13:38:00"
+   "latest_update": "2025-12-23T15:48:00"
   },
   "sim-doext-cid09": {
    "name": "Declarações de Óbito Externas CID-9",
@@ -519,14 +519,14 @@
   "sim-doext-cid10": {
    "name": "Declarações de Óbito Externas CID-10",
    "source": "sim",
-   "n_files": 28,
-   "total_size": 272602438,
+   "n_files": 29,
+   "total_size": 287252913,
    "partition_n_ufs": 1,
    "partition_period_start": "1996",
-   "partition_period_end": "2023",
-   "partition_n_periods": 28,
+   "partition_period_end": "2024",
+   "partition_n_periods": 29,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-02-25T12:17:00"
+   "latest_update": "2025-12-23T15:47:00"
   },
   "sim-dofet-cid09": {
    "name": "Declarações de Óbito Fetais CID-9",
@@ -543,14 +543,14 @@
   "sim-dofet-cid10": {
    "name": "Declarações de Óbito Fetais CID-10",
    "source": "sim",
-   "n_files": 28,
-   "total_size": 63812052,
+   "n_files": 29,
+   "total_size": 66236709,
    "partition_n_ufs": 1,
    "partition_period_start": "1996",
-   "partition_period_end": "2023",
-   "partition_n_periods": 28,
+   "partition_period_end": "2024",
+   "partition_n_periods": 29,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-19T11:55:00"
+   "latest_update": "2025-12-23T15:47:00"
   },
   "sim-doinf-cid09": {
    "name": "Declarações de Óbito Infantis CID-9",
@@ -567,26 +567,26 @@
   "sim-doinf-cid10": {
    "name": "Declarações de Óbito Infantis CID-10",
    "source": "sim",
-   "n_files": 28,
-   "total_size": 96390013,
+   "n_files": 29,
+   "total_size": 99746474,
    "partition_n_ufs": 1,
    "partition_period_start": "1996",
-   "partition_period_end": "2023",
-   "partition_n_periods": 28,
+   "partition_period_end": "2024",
+   "partition_n_periods": 29,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-02-25T12:17:00"
+   "latest_update": "2025-12-23T15:47:00"
   },
   "sim-domat-cid10": {
    "name": "Declarações de Óbitos Maternos CID-10",
    "source": "sim",
-   "n_files": 28,
-   "total_size": 4289433,
+   "n_files": 29,
+   "total_size": 4448705,
    "partition_n_ufs": 1,
    "partition_period_start": "1996",
-   "partition_period_end": "2023",
-   "partition_n_periods": 28,
+   "partition_period_end": "2024",
+   "partition_n_periods": 29,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-02-25T12:17:00"
+   "latest_update": "2025-12-23T15:47:00"
   },
   "sim-dorext-cid10": {
    "name": "Mortalidade de Residentes no Exterior CID-10",
@@ -1000,13 +1000,13 @@
    "name": "Meningite",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 47152133,
+   "total_size": 47151853,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-12-19T15:42:00"
+   "latest_update": "2025-12-22T16:22:00"
   },
   "sinan-ment": {
    "name": "Transtornos mentais relacionados ao trabalho",
@@ -1276,25 +1276,25 @@
    "name": "Declarações de nascidos vivos",
    "source": "sinasc",
    "n_files": 866,
-   "total_size": 6765848056,
+   "total_size": 6766856747,
    "partition_n_ufs": 28,
    "partition_period_start": "1994",
    "partition_period_end": "2024",
    "partition_n_periods": 31,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-10-02T14:14:00"
+   "latest_update": "2025-12-23T15:36:00"
   },
   "sinasc-dnex": {
    "name": "Declarações de nascidos vivos no exterior",
    "source": "sinasc",
-   "n_files": 10,
-   "total_size": 544998,
+   "n_files": 11,
+   "total_size": 587364,
    "partition_n_ufs": 1,
    "partition_period_start": "2014",
-   "partition_period_end": "2023",
-   "partition_n_periods": 10,
+   "partition_period_end": "2024",
+   "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2024-12-20T11:31:00"
+   "latest_update": "2025-12-23T15:51:00"
   },
   "siscolo-cc": {
    "name": "Citopatológico de Colo de Útero",
