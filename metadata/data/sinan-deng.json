@@ -376,10 +376,25 @@
  },
  {
   "filename": "DENGBR25.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/DENGBR25.dbc",
-  "datetime": "2025-12-26T08:02:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR25.dbc",
+  "datetime": "2025-12-30T10:24:00",
   "extension": "dbc",
-  "size": 69640898,
+  "size": 78201044,
+  "dataset": "sinan-deng",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "DENGBR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/DENGBR25.dbc",
+  "datetime": "2025-12-30T10:24:00",
+  "extension": "dbc",
+  "size": 78201044,
   "dataset": "sinan-deng",
   "partition": {
    "uf": "br",
