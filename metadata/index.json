@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 10,
-   "total_size": 10153484,
+   "total_size": 10402912,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2025",
    "partition_n_periods": 10,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-12-23T11:18:00"
+   "latest_update": "2026-01-02T09:20:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
