@@ -928,13 +928,13 @@
    "name": "Intoxicação Exógena",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 169396345,
+   "total_size": 175230040,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
    "partition_period_end": "2025",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-08-08T16:44:00"
+   "latest_update": "2025-08-07T15:30:00"
   },
   "sinan-leiv": {
    "name": "Leishmaniose Visceral",
