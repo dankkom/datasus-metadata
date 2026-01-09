@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 84177197,
+   "total_size": 84543930,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2025",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-12-30T10:26:00"
+   "latest_update": "2026-01-07T09:55:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 27,
-   "total_size": 1405791678,
+   "total_size": 1390201646,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2025",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-12-30T10:24:00"
+   "latest_update": "2026-01-07T09:56:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1156,13 +1156,13 @@
    "name": "Síndrome da Rubéola Congênita",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 187987,
+   "total_size": 188087,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-10-03T17:00:00"
+   "latest_update": "2026-01-07T08:00:00"
   },
   "sinan-teta": {
    "name": "Tétano Acidental",
