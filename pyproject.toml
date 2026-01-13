@@ -6,7 +6,7 @@ A library to keep up to date datasus metadata files
 in a GitHub repository
 """
 authors = [
-    { name = "Daniel Komesu", email = "danielkomesu@gmail.com" }
+    { name = "Komesu, D.K.", email = "daniel@dkko.me" }
 ]
 dependencies = []
 readme = "README.md"
