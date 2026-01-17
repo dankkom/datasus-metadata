@@ -40,13 +40,13 @@
    "name": "Base Territorial - Conversão",
    "source": "base-territorial",
    "n_files": 28,
-   "total_size": 41479711,
+   "total_size": 19941197,
    "partition_n_ufs": 28,
    "partition_period_start": null,
    "partition_period_end": null,
    "partition_n_periods": 0,
    "partition_periodicity": null,
-   "latest_update": "2025-12-18T10:54:00"
+   "latest_update": "2026-01-16T22:38:00"
   },
   "base-territorial-mapas": {
    "name": "Base Territorial - Mapas",
@@ -711,14 +711,14 @@
   "sinan-chik": {
    "name": "Febre de Chikungunya",
    "source": "sinan",
-   "n_files": 11,
-   "total_size": 84543930,
+   "n_files": 12,
+   "total_size": 84743250,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
-   "partition_period_end": "2025",
-   "partition_n_periods": 11,
+   "partition_period_end": "2026",
+   "partition_n_periods": 12,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-01-07T09:55:00"
+   "latest_update": "2026-01-16T12:19:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -747,14 +747,14 @@
   "sinan-deng": {
    "name": "Dengue",
    "source": "sinan",
-   "n_files": 26,
-   "total_size": 1315762958,
+   "n_files": 27,
+   "total_size": 1317227867,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
-   "partition_period_end": "2025",
-   "partition_n_periods": 26,
+   "partition_period_end": "2026",
+   "partition_n_periods": 27,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-01-13T11:10:00"
+   "latest_update": "2026-01-16T12:19:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 10,
-   "total_size": 10402912,
+   "total_size": 10406675,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2025",
    "partition_n_periods": 10,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-01-02T09:20:00"
+   "latest_update": "2026-01-14T09:00:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
@@ -1453,8 +1453,8 @@
   "ciha": {
    "source_name": "CIHA: Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "n_files": 1,
-   "total_size": 64785629,
-   "latest_update": "2025-12-18T11:07:00"
+   "total_size": 64787017,
+   "latest_update": "2026-01-16T22:52:00"
   },
   "cmd": {
    "source_name": "CMD: Conjunto Mínimo de Dados",
@@ -1465,8 +1465,8 @@
   "cnes": {
    "source_name": "CNES: Cadastro Nacional de Estabelecimentos de Saúde",
    "n_files": 1,
-   "total_size": 123948100,
-   "latest_update": "2025-12-18T11:18:00"
+   "total_size": 123947232,
+   "latest_update": "2026-01-16T23:08:00"
   },
   "pce": {
    "source_name": "PCE: Programa de Controle da Esquistossomose",
@@ -1489,14 +1489,14 @@
   "sia": {
    "source_name": "SIA: Sistema de Informações Ambulatoriais",
    "n_files": 4,
-   "total_size": 84629665,
-   "latest_update": "2025-12-18T11:28:00"
+   "total_size": 84595114,
+   "latest_update": "2026-01-16T23:21:00"
   },
   "sih": {
    "source_name": "SIH: Sistema de Informação Hospitalar",
    "n_files": 4,
-   "total_size": 15019696,
-   "latest_update": "2025-12-18T11:35:00"
+   "total_size": 14769042,
+   "latest_update": "2026-01-16T23:31:00"
   },
   "sim": {
    "source_name": "SIM: Sistema de Informação de Mortalidade",
