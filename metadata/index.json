@@ -244,13 +244,13 @@
    "name": "Estabelecimentos",
    "source": "cnes",
    "n_files": 6615,
-   "total_size": 3180669293,
+   "total_size": 3180860374,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
    "partition_period_end": "2025-12",
    "partition_n_periods": 245,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-01-14T13:00:00"
+   "latest_update": "2026-01-19T13:23:00"
   },
   "pce": {
    "name": "Programa de Controle da Esquistossomose",
@@ -267,14 +267,14 @@
   "po": {
    "name": "Painel de Oncologia",
    "source": "po",
-   "n_files": 13,
-   "total_size": 187453890,
+   "n_files": 14,
+   "total_size": 191355892,
    "partition_n_ufs": 1,
    "partition_period_start": "2013",
-   "partition_period_end": "2025",
-   "partition_n_periods": 13,
+   "partition_period_end": "2026",
+   "partition_n_periods": 14,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-12-18T07:36:00"
+   "latest_update": "2026-01-19T10:51:00"
   },
   "resp": {
    "name": "Notificações de casos suspeitos de SCZ",
@@ -651,14 +651,14 @@
   "sinan-anim": {
    "name": "Acidente por Animais Peçonhentos",
    "source": "sinan",
-   "n_files": 19,
-   "total_size": 205939692,
+   "n_files": 20,
+   "total_size": 206985917,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2025",
-   "partition_n_periods": 19,
+   "partition_period_end": "2026",
+   "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-12-19T15:20:00"
+   "latest_update": "2026-01-13T14:41:00"
   },
   "sinan-antr": {
    "name": "Atendimento Antirrábico",
@@ -927,14 +927,14 @@
   "sinan-iexo": {
    "name": "Intoxicação Exógena",
    "source": "sinan",
-   "n_files": 20,
-   "total_size": 189816928,
+   "n_files": 22,
+   "total_size": 204643712,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
-   "partition_period_end": "2025",
-   "partition_n_periods": 20,
+   "partition_period_end": "2026",
+   "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-01-06T15:43:00"
+   "latest_update": "2026-01-19T10:32:00"
   },
   "sinan-leiv": {
    "name": "Leishmaniose Visceral",

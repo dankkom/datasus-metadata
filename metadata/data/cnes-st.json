@@ -70067,9 +70067,9 @@
  {
   "filename": "STAC2001.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STAC2001.dbc",
-  "datetime": "2025-04-03T16:40:00",
+  "datetime": "2026-01-19T13:23:00",
   "extension": "dbc",
-  "size": 9691,
+  "size": 44230,
   "dataset": "cnes-st",
   "partition": {
    "uf": "ac",
@@ -70157,9 +70157,9 @@
  {
   "filename": "STDF2001.dbc",
   "full_path": "/dissemin/publicos/CNES/200508_/Dados/ST/STDF2001.dbc",
-  "datetime": "2025-04-03T16:40:00",
+  "datetime": "2026-01-19T13:23:00",
   "extension": "dbc",
-  "size": 17009,
+  "size": 173551,
   "dataset": "cnes-st",
   "partition": {
    "uf": "df",
