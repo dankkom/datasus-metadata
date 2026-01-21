@@ -255,21 +255,6 @@
   "preliminary": false
  },
  {
-  "filename": "IEXOBR22.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/IEXOBR22.dbc",
-  "datetime": "2026-01-06T15:43:00",
-  "extension": "dbc",
-  "size": 15271273,
-  "dataset": "sinan-iexo",
-  "partition": {
-   "uf": "br",
-   "year": 2022,
-   "month": null,
-   "subpartition": null
-  },
-  "preliminary": true
- },
- {
   "filename": "IEXOBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/IEXOBR23.dbc",
   "datetime": "2026-01-19T10:32:00",

@@ -652,13 +652,13 @@
    "name": "Acidente por Animais Peçonhentos",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 206985917,
+   "total_size": 194450801,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-01-13T14:41:00"
+   "latest_update": "2026-01-20T16:56:00"
   },
   "sinan-antr": {
    "name": "Atendimento Antirrábico",
@@ -808,13 +808,13 @@
    "name": "Doenças exantemáticas",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 14968958,
+   "total_size": 15136947,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-10-03T16:26:00"
+   "latest_update": "2026-01-15T16:34:00"
   },
   "sinan-fmac": {
    "name": "Febre Maculosa",
@@ -927,8 +927,8 @@
   "sinan-iexo": {
    "name": "Intoxicação Exógena",
    "source": "sinan",
-   "n_files": 22,
-   "total_size": 204643712,
+   "n_files": 21,
+   "total_size": 189372439,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
    "partition_period_end": "2026",
@@ -1150,7 +1150,7 @@
    "partition_period_end": "2024",
    "partition_n_periods": 18,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-02-25T10:45:00"
+   "latest_update": "2026-01-20T16:12:00"
   },
   "sinan-src": {
    "name": "Síndrome da Rubéola Congênita",
