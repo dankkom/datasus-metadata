@@ -27,14 +27,14 @@
   "base-populacional-ibge-popt": {
    "name": "POPT - Estimativas TCU",
    "source": "base-populacional-ibge",
-   "n_files": 32,
-   "total_size": 2555849,
+   "n_files": 33,
+   "total_size": 2597166,
    "partition_n_ufs": 1,
    "partition_period_start": "1992",
-   "partition_period_end": "2024",
-   "partition_n_periods": 32,
+   "partition_period_end": "2025",
+   "partition_n_periods": 33,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-01-07T09:40:00"
+   "latest_update": "2026-01-21T15:10:00"
   },
   "base-territorial-conversao": {
    "name": "Base Territorial - Conversão",
@@ -724,13 +724,13 @@
    "name": "Cólera",
    "source": "sinan",
    "n_files": 19,
-   "total_size": 52441,
+   "total_size": 52290,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2025",
    "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-11-04T16:31:00"
+   "latest_update": "2026-01-20T16:25:00"
   },
   "sinan-coqu": {
    "name": "Coqueluche",
@@ -1477,8 +1477,8 @@
   "po": {
    "source_name": "PO: Painel de Oncologia",
    "n_files": 1,
-   "total_size": 210524,
-   "latest_update": "2025-03-18T10:22:00"
+   "total_size": 210686,
+   "latest_update": "2026-01-21T11:04:00"
   },
   "resp": {
    "source_name": "RESP: Notificações de casos suspeitos de SCZ",

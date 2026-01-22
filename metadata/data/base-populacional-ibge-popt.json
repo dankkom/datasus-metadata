@@ -478,5 +478,20 @@
    "subpartition": null
   },
   "preliminary": false
+ },
+ {
+  "filename": "POPTBR25.zip",
+  "full_path": "/dissemin/publicos/IBGE/POPTCU/POPTBR25.zip",
+  "datetime": "2026-01-21T15:10:00",
+  "extension": "zip",
+  "size": 41317,
+  "dataset": "base-populacional-ibge-popt",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
  }
 ]
