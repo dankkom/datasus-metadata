@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 12,
-   "total_size": 84743250,
+   "total_size": 85188548,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2026",
    "partition_n_periods": 12,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-01-16T12:19:00"
+   "latest_update": "2026-01-21T14:11:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 27,
-   "total_size": 1317227867,
+   "total_size": 1334045048,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2026",
    "partition_n_periods": 27,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-01-16T12:19:00"
+   "latest_update": "2026-01-23T16:35:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -951,14 +951,14 @@
   "sinan-lept": {
    "name": "Leptospirose",
    "source": "sinan",
-   "n_files": 26,
-   "total_size": 30733687,
+   "n_files": 27,
+   "total_size": 31079755,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
-   "partition_period_end": "2025",
-   "partition_n_periods": 26,
+   "partition_period_end": "2026",
+   "partition_n_periods": 27,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-12-02T16:15:00"
+   "latest_update": "2026-01-23T08:44:00"
   },
   "sinan-lerd": {
    "name": "LER/Dort",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 10,
-   "total_size": 10406675,
+   "total_size": 10408151,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2025",
    "partition_n_periods": 10,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-01-14T09:00:00"
+   "latest_update": "2026-01-21T14:12:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",

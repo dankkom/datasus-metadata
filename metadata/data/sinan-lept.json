@@ -361,10 +361,10 @@
  },
  {
   "filename": "LEPTBR24.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/LEPTBR24.dbc",
-  "datetime": "2025-10-23T11:26:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/LEPTBR24.dbc",
+  "datetime": "2026-01-23T08:44:00",
   "extension": "dbc",
-  "size": 1965082,
+  "size": 1950173,
   "dataset": "sinan-lept",
   "partition": {
    "uf": "br",
@@ -372,18 +372,33 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "LEPTBR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/LEPTBR25.dbc",
-  "datetime": "2025-10-23T11:26:00",
+  "datetime": "2026-01-23T08:44:00",
   "extension": "dbc",
-  "size": 1033523,
+  "size": 1380465,
   "dataset": "sinan-lept",
   "partition": {
    "uf": "br",
    "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "LEPTBR26.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/LEPTBR26.dbc",
+  "datetime": "2026-01-23T08:44:00",
+  "extension": "dbc",
+  "size": 14035,
+  "dataset": "sinan-lept",
+  "partition": {
+   "uf": "br",
+   "year": 2026,
    "month": null,
    "subpartition": null
   },
