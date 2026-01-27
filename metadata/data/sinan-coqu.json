@@ -226,7 +226,7 @@
  },
  {
   "filename": "COQUBR22.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/COQUBR22.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/COQUBR22.dbc",
   "datetime": "2025-12-22T09:27:00",
   "extension": "dbc",
   "size": 127969,
@@ -237,7 +237,7 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "COQUBR23.dbc",
@@ -257,9 +257,9 @@
  {
   "filename": "COQUBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/COQUBR24.dbc",
-  "datetime": "2026-01-05T08:39:00",
+  "datetime": "2026-01-21T16:32:00",
   "extension": "dbc",
-  "size": 1509681,
+  "size": 1509150,
   "dataset": "sinan-coqu",
   "partition": {
    "uf": "br",
@@ -272,13 +272,28 @@
  {
   "filename": "COQUBR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/COQUBR25.dbc",
-  "datetime": "2026-01-13T14:09:00",
+  "datetime": "2026-01-21T16:32:00",
   "extension": "dbc",
-  "size": 910932,
+  "size": 914907,
   "dataset": "sinan-coqu",
   "partition": {
    "uf": "br",
    "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "COQUBR26.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/COQUBR26.dbc",
+  "datetime": "2026-01-21T16:32:00",
+  "extension": "dbc",
+  "size": 5760,
+  "dataset": "sinan-coqu",
+  "partition": {
+   "uf": "br",
+   "year": 2026,
    "month": null,
    "subpartition": null
   },
