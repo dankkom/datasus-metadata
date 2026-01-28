@@ -182,9 +182,9 @@
  {
   "filename": "FMACBR19.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/FMACBR19.dbc",
-  "datetime": "2025-07-24T11:04:00",
+  "datetime": "2026-01-23T07:56:00",
   "extension": "dbc",
-  "size": 27469,
+  "size": 392364,
   "dataset": "sinan-fmac",
   "partition": {
    "uf": "br",
@@ -197,9 +197,9 @@
  {
   "filename": "FMACBR20.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/FMACBR20.dbc",
-  "datetime": "2025-07-24T11:04:00",
+  "datetime": "2026-01-23T07:56:00",
   "extension": "dbc",
-  "size": 17662,
+  "size": 168830,
   "dataset": "sinan-fmac",
   "partition": {
    "uf": "br",
@@ -212,9 +212,9 @@
  {
   "filename": "FMACBR21.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/FMACBR21.dbc",
-  "datetime": "2025-07-24T11:04:00",
+  "datetime": "2026-01-23T07:56:00",
   "extension": "dbc",
-  "size": 22284,
+  "size": 216282,
   "dataset": "sinan-fmac",
   "partition": {
    "uf": "br",
@@ -227,9 +227,9 @@
  {
   "filename": "FMACBR22.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/FMACBR22.dbc",
-  "datetime": "2025-07-24T11:04:00",
+  "datetime": "2026-01-23T07:56:00",
   "extension": "dbc",
-  "size": 19392,
+  "size": 365900,
   "dataset": "sinan-fmac",
   "partition": {
    "uf": "br",
@@ -242,9 +242,9 @@
  {
   "filename": "FMACBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/FMACBR23.dbc",
-  "datetime": "2025-07-24T11:04:00",
+  "datetime": "2026-01-23T07:56:00",
   "extension": "dbc",
-  "size": 28831,
+  "size": 1367769,
   "dataset": "sinan-fmac",
   "partition": {
    "uf": "br",
@@ -257,13 +257,28 @@
  {
   "filename": "FMACBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/FMACBR24.dbc",
-  "datetime": "2025-07-24T11:04:00",
+  "datetime": "2026-01-23T07:56:00",
   "extension": "dbc",
-  "size": 33488,
+  "size": 770918,
   "dataset": "sinan-fmac",
   "partition": {
    "uf": "br",
    "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "FMACBR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/FMACBR25.dbc",
+  "datetime": "2026-01-23T07:56:00",
+  "extension": "dbc",
+  "size": 819177,
+  "dataset": "sinan-fmac",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
    "month": null,
    "subpartition": null
   },
