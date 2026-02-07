@@ -137,13 +137,28 @@
  {
   "filename": "ZIKABR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ZIKABR25.dbc",
-  "datetime": "2026-01-21T14:12:00",
+  "datetime": "2026-02-05T14:44:00",
   "extension": "dbc",
-  "size": 667599,
+  "size": 675567,
   "dataset": "sinan-zika",
   "partition": {
    "uf": "br",
    "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "ZIKABR26.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ZIKABR26.dbc",
+  "datetime": "2026-02-05T14:44:00",
+  "extension": "dbc",
+  "size": 8290,
+  "dataset": "sinan-zika",
+  "partition": {
+   "uf": "br",
+   "year": 2026,
    "month": null,
    "subpartition": null
   },
