@@ -160097,9 +160097,9 @@
  {
   "filename": "RDAC2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAC2501.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 323124,
+  "size": 323000,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ac",
@@ -160112,9 +160112,9 @@
  {
   "filename": "RDAL2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAL2501.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 997647,
+  "size": 997065,
   "dataset": "sih-rd",
   "partition": {
    "uf": "al",
@@ -160127,9 +160127,9 @@
  {
   "filename": "RDAM2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAM2501.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1536707,
+  "size": 1544751,
   "dataset": "sih-rd",
   "partition": {
    "uf": "am",
@@ -160142,9 +160142,9 @@
  {
   "filename": "RDAP2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAP2501.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 294693,
+  "size": 294039,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ap",
@@ -160157,9 +160157,9 @@
  {
   "filename": "RDBA2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDBA2501.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 5274998,
+  "size": 5312678,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ba",
@@ -160172,9 +160172,9 @@
  {
   "filename": "RDCE2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDCE2501.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 3403070,
+  "size": 3400181,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ce",
@@ -160187,9 +160187,9 @@
  {
   "filename": "RDDF2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDDF2501.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1672768,
+  "size": 1672990,
   "dataset": "sih-rd",
   "partition": {
    "uf": "df",
@@ -160202,9 +160202,9 @@
  {
   "filename": "RDES2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDES2501.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1992216,
+  "size": 1987458,
   "dataset": "sih-rd",
   "partition": {
    "uf": "es",
@@ -160217,9 +160217,9 @@
  {
   "filename": "RDGO2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDGO2501.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2803457,
+  "size": 2805508,
   "dataset": "sih-rd",
   "partition": {
    "uf": "go",
@@ -160232,9 +160232,9 @@
  {
   "filename": "RDMA2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMA2501.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2793573,
+  "size": 2808309,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ma",
@@ -160247,9 +160247,9 @@
  {
   "filename": "RDMG2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMG2501.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 9890318,
+  "size": 9878413,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mg",
@@ -160262,9 +160262,9 @@
  {
   "filename": "RDMS2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMS2501.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1443963,
+  "size": 1444350,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ms",
@@ -160277,9 +160277,9 @@
  {
   "filename": "RDMT2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMT2501.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1550949,
+  "size": 1547292,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mt",
@@ -160292,9 +160292,9 @@
  {
   "filename": "RDPA2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPA2501.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 3116185,
+  "size": 3104813,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pa",
@@ -160307,9 +160307,9 @@
  {
   "filename": "RDPB2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPB2501.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1520109,
+  "size": 1522063,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pb",
@@ -160322,9 +160322,9 @@
  {
   "filename": "RDPE2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPE2501.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 3873498,
+  "size": 3929369,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pe",
@@ -160337,9 +160337,9 @@
  {
   "filename": "RDPI2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPI2501.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1430418,
+  "size": 1427233,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pi",
@@ -160352,9 +160352,9 @@
  {
   "filename": "RDPR2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPR2501.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 6673473,
+  "size": 6681810,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pr",
@@ -160367,9 +160367,9 @@
  {
   "filename": "RDRJ2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRJ2501.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 5906162,
+  "size": 5890232,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rj",
@@ -160382,9 +160382,9 @@
  {
   "filename": "RDRN2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRN2501.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1366297,
+  "size": 1360945,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rn",
@@ -160397,9 +160397,9 @@
  {
   "filename": "RDRO2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRO2501.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 764794,
+  "size": 765535,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ro",
@@ -160412,9 +160412,9 @@
  {
   "filename": "RDRR2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRR2501.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 279335,
+  "size": 276752,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rr",
@@ -160427,9 +160427,9 @@
  {
   "filename": "RDRS2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRS2501.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 5247581,
+  "size": 5254835,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rs",
@@ -160442,9 +160442,9 @@
  {
   "filename": "RDSC2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSC2501.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 4244549,
+  "size": 4244720,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sc",
@@ -160457,9 +160457,9 @@
  {
   "filename": "RDSE2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSE2501.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 735092,
+  "size": 735130,
   "dataset": "sih-rd",
   "partition": {
    "uf": "se",
@@ -160472,9 +160472,9 @@
  {
   "filename": "RDSP2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSP2501.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 18747304,
+  "size": 18808966,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sp",
@@ -160487,9 +160487,9 @@
  {
   "filename": "RDTO2501.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDTO2501.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 690086,
+  "size": 689207,
   "dataset": "sih-rd",
   "partition": {
    "uf": "to",
@@ -160502,9 +160502,9 @@
  {
   "filename": "RDAC2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAC2502.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 311296,
+  "size": 311403,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ac",
@@ -160517,9 +160517,9 @@
  {
   "filename": "RDAL2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAL2502.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1029647,
+  "size": 1027886,
   "dataset": "sih-rd",
   "partition": {
    "uf": "al",
@@ -160532,9 +160532,9 @@
  {
   "filename": "RDAM2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAM2502.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1325534,
+  "size": 1325799,
   "dataset": "sih-rd",
   "partition": {
    "uf": "am",
@@ -160547,9 +160547,9 @@
  {
   "filename": "RDAP2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAP2502.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 266874,
+  "size": 266734,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ap",
@@ -160562,9 +160562,9 @@
  {
   "filename": "RDBA2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDBA2502.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 5464589,
+  "size": 5501961,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ba",
@@ -160577,9 +160577,9 @@
  {
   "filename": "RDCE2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDCE2502.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 3335593,
+  "size": 3344557,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ce",
@@ -160592,9 +160592,9 @@
  {
   "filename": "RDDF2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDDF2502.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1561312,
+  "size": 1563716,
   "dataset": "sih-rd",
   "partition": {
    "uf": "df",
@@ -160607,9 +160607,9 @@
  {
   "filename": "RDES2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDES2502.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1927636,
+  "size": 1928489,
   "dataset": "sih-rd",
   "partition": {
    "uf": "es",
@@ -160622,9 +160622,9 @@
  {
   "filename": "RDGO2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDGO2502.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2748120,
+  "size": 2755582,
   "dataset": "sih-rd",
   "partition": {
    "uf": "go",
@@ -160637,9 +160637,9 @@
  {
   "filename": "RDMA2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMA2502.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2654066,
+  "size": 2654982,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ma",
@@ -160652,9 +160652,9 @@
  {
   "filename": "RDMG2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMG2502.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 9500360,
+  "size": 9497626,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mg",
@@ -160667,9 +160667,9 @@
  {
   "filename": "RDMS2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMS2502.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1295847,
+  "size": 1293298,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ms",
@@ -160682,9 +160682,9 @@
  {
   "filename": "RDMT2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMT2502.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1540161,
+  "size": 1540051,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mt",
@@ -160697,9 +160697,9 @@
  {
   "filename": "RDPA2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPA2502.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 3032348,
+  "size": 3032843,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pa",
@@ -160712,9 +160712,9 @@
  {
   "filename": "RDPB2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPB2502.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1475549,
+  "size": 1472291,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pb",
@@ -160727,9 +160727,9 @@
  {
   "filename": "RDPE2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPE2502.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 3746485,
+  "size": 3768096,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pe",
@@ -160742,9 +160742,9 @@
  {
   "filename": "RDPI2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPI2502.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1273911,
+  "size": 1273242,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pi",
@@ -160757,9 +160757,9 @@
  {
   "filename": "RDPR2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPR2502.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 6536193,
+  "size": 6502878,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pr",
@@ -160772,9 +160772,9 @@
  {
   "filename": "RDRJ2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRJ2502.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 5609130,
+  "size": 5625982,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rj",
@@ -160787,9 +160787,9 @@
  {
   "filename": "RDRN2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRN2502.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1327806,
+  "size": 1321230,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rn",
@@ -160802,9 +160802,9 @@
  {
   "filename": "RDRO2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRO2502.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 730250,
+  "size": 731631,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ro",
@@ -160817,9 +160817,9 @@
  {
   "filename": "RDRR2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRR2502.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 213673,
+  "size": 213413,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rr",
@@ -160832,9 +160832,9 @@
  {
   "filename": "RDRS2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRS2502.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 5192995,
+  "size": 5190973,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rs",
@@ -160847,9 +160847,9 @@
  {
   "filename": "RDSC2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSC2502.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 4208054,
+  "size": 4211945,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sc",
@@ -160862,9 +160862,9 @@
  {
   "filename": "RDSE2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSE2502.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 729962,
+  "size": 731752,
   "dataset": "sih-rd",
   "partition": {
    "uf": "se",
@@ -160877,9 +160877,9 @@
  {
   "filename": "RDSP2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSP2502.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 18223551,
+  "size": 18005841,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sp",
@@ -160892,9 +160892,9 @@
  {
   "filename": "RDTO2502.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDTO2502.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 682094,
+  "size": 681480,
   "dataset": "sih-rd",
   "partition": {
    "uf": "to",
@@ -160907,9 +160907,9 @@
  {
   "filename": "RDAC2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAC2503.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 377691,
+  "size": 378977,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ac",
@@ -160922,9 +160922,9 @@
  {
   "filename": "RDAL2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAL2503.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1055227,
+  "size": 1058363,
   "dataset": "sih-rd",
   "partition": {
    "uf": "al",
@@ -160937,9 +160937,9 @@
  {
   "filename": "RDAM2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAM2503.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1408725,
+  "size": 1403930,
   "dataset": "sih-rd",
   "partition": {
    "uf": "am",
@@ -160952,9 +160952,9 @@
  {
   "filename": "RDAP2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAP2503.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 331516,
+  "size": 332400,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ap",
@@ -160967,9 +160967,9 @@
  {
   "filename": "RDBA2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDBA2503.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 5696537,
+  "size": 5701159,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ba",
@@ -160982,9 +160982,9 @@
  {
   "filename": "RDCE2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDCE2503.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 3531316,
+  "size": 3528329,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ce",
@@ -160997,9 +160997,9 @@
  {
   "filename": "RDDF2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDDF2503.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1648752,
+  "size": 1651185,
   "dataset": "sih-rd",
   "partition": {
    "uf": "df",
@@ -161012,9 +161012,9 @@
  {
   "filename": "RDES2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDES2503.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2092900,
+  "size": 2102858,
   "dataset": "sih-rd",
   "partition": {
    "uf": "es",
@@ -161027,9 +161027,9 @@
  {
   "filename": "RDGO2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDGO2503.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2971762,
+  "size": 2962621,
   "dataset": "sih-rd",
   "partition": {
    "uf": "go",
@@ -161042,9 +161042,9 @@
  {
   "filename": "RDMA2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMA2503.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2802595,
+  "size": 2802546,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ma",
@@ -161057,9 +161057,9 @@
  {
   "filename": "RDMG2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMG2503.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 9877357,
+  "size": 9864633,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mg",
@@ -161072,9 +161072,9 @@
  {
   "filename": "RDMS2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMS2503.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1356296,
+  "size": 1354453,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ms",
@@ -161087,9 +161087,9 @@
  {
   "filename": "RDMT2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMT2503.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1741353,
+  "size": 1737120,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mt",
@@ -161102,9 +161102,9 @@
  {
   "filename": "RDPA2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPA2503.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 3269972,
+  "size": 3270124,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pa",
@@ -161117,9 +161117,9 @@
  {
   "filename": "RDPB2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPB2503.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1630859,
+  "size": 1622276,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pb",
@@ -161132,9 +161132,9 @@
  {
   "filename": "RDPE2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPE2503.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 4006405,
+  "size": 3996104,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pe",
@@ -161147,9 +161147,9 @@
  {
   "filename": "RDPI2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPI2503.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1376409,
+  "size": 1377555,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pi",
@@ -161162,9 +161162,9 @@
  {
   "filename": "RDPR2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPR2503.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 6713479,
+  "size": 6663104,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pr",
@@ -161177,9 +161177,9 @@
  {
   "filename": "RDRJ2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRJ2503.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 5734143,
+  "size": 5755547,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rj",
@@ -161192,9 +161192,9 @@
  {
   "filename": "RDRN2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRN2503.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1387776,
+  "size": 1397009,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rn",
@@ -161207,9 +161207,9 @@
  {
   "filename": "RDRO2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRO2503.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 761154,
+  "size": 760095,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ro",
@@ -161222,9 +161222,9 @@
  {
   "filename": "RDRR2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRR2503.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 258168,
+  "size": 258146,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rr",
@@ -161237,9 +161237,9 @@
  {
   "filename": "RDRS2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRS2503.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 5358601,
+  "size": 5360504,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rs",
@@ -161252,9 +161252,9 @@
  {
   "filename": "RDSC2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSC2503.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 4306270,
+  "size": 4336256,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sc",
@@ -161267,9 +161267,9 @@
  {
   "filename": "RDSE2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSE2503.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 774400,
+  "size": 773086,
   "dataset": "sih-rd",
   "partition": {
    "uf": "se",
@@ -161282,9 +161282,9 @@
  {
   "filename": "RDSP2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSP2503.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 19425097,
+  "size": 19389606,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sp",
@@ -161297,9 +161297,9 @@
  {
   "filename": "RDTO2503.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDTO2503.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 696572,
+  "size": 696066,
   "dataset": "sih-rd",
   "partition": {
    "uf": "to",
@@ -161312,9 +161312,9 @@
  {
   "filename": "RDAC2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAC2504.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 407194,
+  "size": 407748,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ac",
@@ -161327,9 +161327,9 @@
  {
   "filename": "RDAL2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAL2504.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1057154,
+  "size": 1056565,
   "dataset": "sih-rd",
   "partition": {
    "uf": "al",
@@ -161342,9 +161342,9 @@
  {
   "filename": "RDAM2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAM2504.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1407681,
+  "size": 1401469,
   "dataset": "sih-rd",
   "partition": {
    "uf": "am",
@@ -161357,9 +161357,9 @@
  {
   "filename": "RDAP2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAP2504.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 348504,
+  "size": 349150,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ap",
@@ -161372,9 +161372,9 @@
  {
   "filename": "RDBA2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDBA2504.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 5705820,
+  "size": 5708821,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ba",
@@ -161387,9 +161387,9 @@
  {
   "filename": "RDCE2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDCE2504.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 3590174,
+  "size": 3595657,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ce",
@@ -161402,9 +161402,9 @@
  {
   "filename": "RDDF2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDDF2504.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1605603,
+  "size": 1608136,
   "dataset": "sih-rd",
   "partition": {
    "uf": "df",
@@ -161417,9 +161417,9 @@
  {
   "filename": "RDES2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDES2504.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1827710,
+  "size": 1814896,
   "dataset": "sih-rd",
   "partition": {
    "uf": "es",
@@ -161432,9 +161432,9 @@
  {
   "filename": "RDGO2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDGO2504.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2880753,
+  "size": 2890934,
   "dataset": "sih-rd",
   "partition": {
    "uf": "go",
@@ -161447,9 +161447,9 @@
  {
   "filename": "RDMA2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMA2504.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2832210,
+  "size": 2832757,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ma",
@@ -161462,9 +161462,9 @@
  {
   "filename": "RDMG2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMG2504.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 10081012,
+  "size": 10079822,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mg",
@@ -161477,9 +161477,9 @@
  {
   "filename": "RDMS2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMS2504.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1421730,
+  "size": 1422391,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ms",
@@ -161492,9 +161492,9 @@
  {
   "filename": "RDMT2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMT2504.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1634833,
+  "size": 1631721,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mt",
@@ -161507,9 +161507,9 @@
  {
   "filename": "RDPA2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPA2504.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 3228965,
+  "size": 3241270,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pa",
@@ -161522,9 +161522,9 @@
  {
   "filename": "RDPB2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPB2504.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1582445,
+  "size": 1582586,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pb",
@@ -161537,9 +161537,9 @@
  {
   "filename": "RDPE2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPE2504.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 4146541,
+  "size": 4149975,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pe",
@@ -161552,9 +161552,9 @@
  {
   "filename": "RDPI2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPI2504.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1309690,
+  "size": 1310035,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pi",
@@ -161567,9 +161567,9 @@
  {
   "filename": "RDPR2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPR2504.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 6800522,
+  "size": 6805575,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pr",
@@ -161582,9 +161582,9 @@
  {
   "filename": "RDRJ2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRJ2504.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 5714683,
+  "size": 5714518,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rj",
@@ -161597,9 +161597,9 @@
  {
   "filename": "RDRN2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRN2504.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1379118,
+  "size": 1372423,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rn",
@@ -161612,9 +161612,9 @@
  {
   "filename": "RDRO2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRO2504.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 809370,
+  "size": 809957,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ro",
@@ -161627,9 +161627,9 @@
  {
   "filename": "RDRR2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRR2504.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 220490,
+  "size": 220211,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rr",
@@ -161642,9 +161642,9 @@
  {
   "filename": "RDRS2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRS2504.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 5501935,
+  "size": 5499665,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rs",
@@ -161657,9 +161657,9 @@
  {
   "filename": "RDSC2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSC2504.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 4322523,
+  "size": 4323370,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sc",
@@ -161672,9 +161672,9 @@
  {
   "filename": "RDSE2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSE2504.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 791147,
+  "size": 790230,
   "dataset": "sih-rd",
   "partition": {
    "uf": "se",
@@ -161687,9 +161687,9 @@
  {
   "filename": "RDSP2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSP2504.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 19447304,
+  "size": 19365798,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sp",
@@ -161702,9 +161702,9 @@
  {
   "filename": "RDTO2504.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDTO2504.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 689205,
+  "size": 690246,
   "dataset": "sih-rd",
   "partition": {
    "uf": "to",
@@ -161717,9 +161717,9 @@
  {
   "filename": "RDAC2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAC2505.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 392308,
+  "size": 392138,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ac",
@@ -161732,9 +161732,9 @@
  {
   "filename": "RDAL2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAL2505.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1133145,
+  "size": 1130078,
   "dataset": "sih-rd",
   "partition": {
    "uf": "al",
@@ -161747,9 +161747,9 @@
  {
   "filename": "RDAM2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAM2505.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1408265,
+  "size": 1402104,
   "dataset": "sih-rd",
   "partition": {
    "uf": "am",
@@ -161762,9 +161762,9 @@
  {
   "filename": "RDAP2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAP2505.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 346194,
+  "size": 345770,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ap",
@@ -161777,9 +161777,9 @@
  {
   "filename": "RDBA2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDBA2505.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 6059530,
+  "size": 6021467,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ba",
@@ -161792,9 +161792,9 @@
  {
   "filename": "RDCE2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDCE2505.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 3930900,
+  "size": 3931302,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ce",
@@ -161807,9 +161807,9 @@
  {
   "filename": "RDDF2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDDF2505.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1678491,
+  "size": 1680682,
   "dataset": "sih-rd",
   "partition": {
    "uf": "df",
@@ -161822,9 +161822,9 @@
  {
   "filename": "RDES2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDES2505.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2272524,
+  "size": 2272698,
   "dataset": "sih-rd",
   "partition": {
    "uf": "es",
@@ -161837,9 +161837,9 @@
  {
   "filename": "RDGO2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDGO2505.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 3093308,
+  "size": 3103405,
   "dataset": "sih-rd",
   "partition": {
    "uf": "go",
@@ -161852,9 +161852,9 @@
  {
   "filename": "RDMA2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMA2505.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2963170,
+  "size": 2979802,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ma",
@@ -161867,9 +161867,9 @@
  {
   "filename": "RDMG2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMG2505.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 10780110,
+  "size": 10779719,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mg",
@@ -161882,9 +161882,9 @@
  {
   "filename": "RDMS2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMS2505.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1440797,
+  "size": 1440073,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ms",
@@ -161897,9 +161897,9 @@
  {
   "filename": "RDMT2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMT2505.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1703400,
+  "size": 1703775,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mt",
@@ -161912,9 +161912,9 @@
  {
   "filename": "RDPA2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPA2505.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 3406177,
+  "size": 3405511,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pa",
@@ -161927,9 +161927,9 @@
  {
   "filename": "RDPB2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPB2505.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1694389,
+  "size": 1681933,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pb",
@@ -161942,9 +161942,9 @@
  {
   "filename": "RDPE2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPE2505.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 4366597,
+  "size": 4367832,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pe",
@@ -161957,9 +161957,9 @@
  {
   "filename": "RDPI2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPI2505.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1429692,
+  "size": 1430781,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pi",
@@ -161972,9 +161972,9 @@
  {
   "filename": "RDPR2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPR2505.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 7028780,
+  "size": 7030056,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pr",
@@ -161987,9 +161987,9 @@
  {
   "filename": "RDRJ2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRJ2505.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 6099845,
+  "size": 6094421,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rj",
@@ -162002,9 +162002,9 @@
  {
   "filename": "RDRN2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRN2505.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1489977,
+  "size": 1491848,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rn",
@@ -162017,9 +162017,9 @@
  {
   "filename": "RDRO2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRO2505.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 832964,
+  "size": 830021,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ro",
@@ -162032,9 +162032,9 @@
  {
   "filename": "RDRR2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRR2505.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 216159,
+  "size": 216054,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rr",
@@ -162047,9 +162047,9 @@
  {
   "filename": "RDRS2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRS2505.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 5718188,
+  "size": 5706872,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rs",
@@ -162062,9 +162062,9 @@
  {
   "filename": "RDSC2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSC2505.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 4741771,
+  "size": 4744753,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sc",
@@ -162077,9 +162077,9 @@
  {
   "filename": "RDSE2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSE2505.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 772976,
+  "size": 780821,
   "dataset": "sih-rd",
   "partition": {
    "uf": "se",
@@ -162092,9 +162092,9 @@
  {
   "filename": "RDSP2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSP2505.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 20482117,
+  "size": 20483478,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sp",
@@ -162107,9 +162107,9 @@
  {
   "filename": "RDTO2505.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDTO2505.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 718054,
+  "size": 719042,
   "dataset": "sih-rd",
   "partition": {
    "uf": "to",
@@ -162122,9 +162122,9 @@
  {
   "filename": "RDAC2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAC2506.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 423566,
+  "size": 424184,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ac",
@@ -162137,9 +162137,9 @@
  {
   "filename": "RDAL2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAL2506.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1010088,
+  "size": 1010927,
   "dataset": "sih-rd",
   "partition": {
    "uf": "al",
@@ -162152,9 +162152,9 @@
  {
   "filename": "RDAM2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAM2506.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1549593,
+  "size": 1566346,
   "dataset": "sih-rd",
   "partition": {
    "uf": "am",
@@ -162167,9 +162167,9 @@
  {
   "filename": "RDAP2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAP2506.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 346248,
+  "size": 346011,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ap",
@@ -162182,9 +162182,9 @@
  {
   "filename": "RDBA2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDBA2506.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 5770169,
+  "size": 5774576,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ba",
@@ -162197,9 +162197,9 @@
  {
   "filename": "RDCE2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDCE2506.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 3666447,
+  "size": 3664849,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ce",
@@ -162212,9 +162212,9 @@
  {
   "filename": "RDDF2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDDF2506.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1704303,
+  "size": 1702374,
   "dataset": "sih-rd",
   "partition": {
    "uf": "df",
@@ -162227,9 +162227,9 @@
  {
   "filename": "RDES2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDES2506.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2155184,
+  "size": 2138081,
   "dataset": "sih-rd",
   "partition": {
    "uf": "es",
@@ -162242,9 +162242,9 @@
  {
   "filename": "RDGO2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDGO2506.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2923703,
+  "size": 2923232,
   "dataset": "sih-rd",
   "partition": {
    "uf": "go",
@@ -162257,9 +162257,9 @@
  {
   "filename": "RDMA2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMA2506.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2968900,
+  "size": 2970955,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ma",
@@ -162272,9 +162272,9 @@
  {
   "filename": "RDMG2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMG2506.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 10495841,
+  "size": 10500617,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mg",
@@ -162287,9 +162287,9 @@
  {
   "filename": "RDMS2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMS2506.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1357213,
+  "size": 1357294,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ms",
@@ -162302,9 +162302,9 @@
  {
   "filename": "RDMT2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMT2506.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1725901,
+  "size": 1734302,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mt",
@@ -162317,9 +162317,9 @@
  {
   "filename": "RDPA2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPA2506.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 3396182,
+  "size": 3420731,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pa",
@@ -162332,9 +162332,9 @@
  {
   "filename": "RDPB2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPB2506.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1694422,
+  "size": 1686958,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pb",
@@ -162347,9 +162347,9 @@
  {
   "filename": "RDPE2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPE2506.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 4036393,
+  "size": 4044213,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pe",
@@ -162362,9 +162362,9 @@
  {
   "filename": "RDPI2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPI2506.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1434481,
+  "size": 1436036,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pi",
@@ -162377,9 +162377,9 @@
  {
   "filename": "RDPR2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPR2506.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 7116845,
+  "size": 7115204,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pr",
@@ -162392,9 +162392,9 @@
  {
   "filename": "RDRJ2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRJ2506.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 6057070,
+  "size": 6054602,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rj",
@@ -162407,9 +162407,9 @@
  {
   "filename": "RDRN2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRN2506.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1418743,
+  "size": 1422099,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rn",
@@ -162422,9 +162422,9 @@
  {
   "filename": "RDRO2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRO2506.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 777213,
+  "size": 775175,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ro",
@@ -162437,9 +162437,9 @@
  {
   "filename": "RDRR2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRR2506.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 219432,
+  "size": 219263,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rr",
@@ -162452,9 +162452,9 @@
  {
   "filename": "RDRS2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRS2506.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 5563390,
+  "size": 5579069,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rs",
@@ -162467,9 +162467,9 @@
  {
   "filename": "RDSC2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSC2506.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 4525879,
+  "size": 4549911,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sc",
@@ -162482,9 +162482,9 @@
  {
   "filename": "RDSE2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSE2506.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 709813,
+  "size": 709758,
   "dataset": "sih-rd",
   "partition": {
    "uf": "se",
@@ -162497,9 +162497,9 @@
  {
   "filename": "RDSP2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSP2506.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 19291993,
+  "size": 19213444,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sp",
@@ -162512,9 +162512,9 @@
  {
   "filename": "RDTO2506.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDTO2506.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 729996,
+  "size": 730822,
   "dataset": "sih-rd",
   "partition": {
    "uf": "to",
@@ -162527,9 +162527,9 @@
  {
   "filename": "RDAC2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAC2507.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 365199,
+  "size": 364672,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ac",
@@ -162542,9 +162542,9 @@
  {
   "filename": "RDAL2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAL2507.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1279470,
+  "size": 1281557,
   "dataset": "sih-rd",
   "partition": {
    "uf": "al",
@@ -162557,9 +162557,9 @@
  {
   "filename": "RDAM2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAM2507.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1723537,
+  "size": 1747695,
   "dataset": "sih-rd",
   "partition": {
    "uf": "am",
@@ -162572,9 +162572,9 @@
  {
   "filename": "RDAP2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAP2507.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 339054,
+  "size": 338904,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ap",
@@ -162587,9 +162587,9 @@
  {
   "filename": "RDBA2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDBA2507.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 6127367,
+  "size": 6131325,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ba",
@@ -162602,9 +162602,9 @@
  {
   "filename": "RDCE2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDCE2507.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 3713778,
+  "size": 3721674,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ce",
@@ -162617,9 +162617,9 @@
  {
   "filename": "RDDF2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDDF2507.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1705087,
+  "size": 1707328,
   "dataset": "sih-rd",
   "partition": {
    "uf": "df",
@@ -162632,9 +162632,9 @@
  {
   "filename": "RDES2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDES2507.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2060741,
+  "size": 2069183,
   "dataset": "sih-rd",
   "partition": {
    "uf": "es",
@@ -162647,9 +162647,9 @@
  {
   "filename": "RDGO2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDGO2507.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2974310,
+  "size": 3004496,
   "dataset": "sih-rd",
   "partition": {
    "uf": "go",
@@ -162662,9 +162662,9 @@
  {
   "filename": "RDMA2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMA2507.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2983688,
+  "size": 3000809,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ma",
@@ -162677,9 +162677,9 @@
  {
   "filename": "RDMG2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMG2507.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 10913002,
+  "size": 10922593,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mg",
@@ -162692,9 +162692,9 @@
  {
   "filename": "RDMS2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMS2507.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1412904,
+  "size": 1415802,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ms",
@@ -162707,9 +162707,9 @@
  {
   "filename": "RDMT2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMT2507.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1622880,
+  "size": 1630318,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mt",
@@ -162722,9 +162722,9 @@
  {
   "filename": "RDPA2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPA2507.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 3461791,
+  "size": 3461775,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pa",
@@ -162737,9 +162737,9 @@
  {
   "filename": "RDPB2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPB2507.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1762168,
+  "size": 1760611,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pb",
@@ -162752,9 +162752,9 @@
  {
   "filename": "RDPE2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPE2507.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 4221237,
+  "size": 4249817,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pe",
@@ -162767,9 +162767,9 @@
  {
   "filename": "RDPI2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPI2507.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1461038,
+  "size": 1459392,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pi",
@@ -162782,9 +162782,9 @@
  {
   "filename": "RDPR2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPR2507.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 7229219,
+  "size": 7237049,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pr",
@@ -162797,9 +162797,9 @@
  {
   "filename": "RDRJ2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRJ2507.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 6278175,
+  "size": 6302524,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rj",
@@ -162812,9 +162812,9 @@
  {
   "filename": "RDRN2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRN2507.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1492973,
+  "size": 1495677,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rn",
@@ -162827,9 +162827,9 @@
  {
   "filename": "RDRO2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRO2507.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 878606,
+  "size": 880817,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ro",
@@ -162842,9 +162842,9 @@
  {
   "filename": "RDRR2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRR2507.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 222276,
+  "size": 222606,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rr",
@@ -162857,9 +162857,9 @@
  {
   "filename": "RDRS2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRS2507.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 5799978,
+  "size": 5798964,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rs",
@@ -162872,9 +162872,9 @@
  {
   "filename": "RDSC2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSC2507.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 4734150,
+  "size": 4767764,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sc",
@@ -162887,9 +162887,9 @@
  {
   "filename": "RDSE2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSE2507.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 813186,
+  "size": 814283,
   "dataset": "sih-rd",
   "partition": {
    "uf": "se",
@@ -162902,9 +162902,9 @@
  {
   "filename": "RDSP2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSP2507.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 20094411,
+  "size": 20122869,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sp",
@@ -162917,9 +162917,9 @@
  {
   "filename": "RDTO2507.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDTO2507.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 737044,
+  "size": 737132,
   "dataset": "sih-rd",
   "partition": {
    "uf": "to",
@@ -162932,9 +162932,9 @@
  {
   "filename": "RDAC2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAC2508.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 356942,
+  "size": 357816,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ac",
@@ -162947,9 +162947,9 @@
  {
   "filename": "RDAL2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAL2508.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1122739,
+  "size": 1112946,
   "dataset": "sih-rd",
   "partition": {
    "uf": "al",
@@ -162962,9 +162962,9 @@
  {
   "filename": "RDAM2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAM2508.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1694280,
+  "size": 1724808,
   "dataset": "sih-rd",
   "partition": {
    "uf": "am",
@@ -162977,9 +162977,9 @@
  {
   "filename": "RDAP2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAP2508.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 326434,
+  "size": 326942,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ap",
@@ -162992,9 +162992,9 @@
  {
   "filename": "RDBA2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDBA2508.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 6173340,
+  "size": 6170882,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ba",
@@ -163007,9 +163007,9 @@
  {
   "filename": "RDCE2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDCE2508.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 3666594,
+  "size": 3677564,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ce",
@@ -163022,9 +163022,9 @@
  {
   "filename": "RDDF2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDDF2508.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1617561,
+  "size": 1618403,
   "dataset": "sih-rd",
   "partition": {
    "uf": "df",
@@ -163037,9 +163037,9 @@
  {
   "filename": "RDES2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDES2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2076518,
+  "size": 2085853,
   "dataset": "sih-rd",
   "partition": {
    "uf": "es",
@@ -163052,9 +163052,9 @@
  {
   "filename": "RDGO2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDGO2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2911219,
+  "size": 2916690,
   "dataset": "sih-rd",
   "partition": {
    "uf": "go",
@@ -163067,9 +163067,9 @@
  {
   "filename": "RDMA2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMA2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2856860,
+  "size": 2907178,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ma",
@@ -163082,9 +163082,9 @@
  {
   "filename": "RDMG2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMG2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 10786270,
+  "size": 10811748,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mg",
@@ -163097,9 +163097,9 @@
  {
   "filename": "RDMS2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMS2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1391230,
+  "size": 1390563,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ms",
@@ -163112,9 +163112,9 @@
  {
   "filename": "RDMT2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMT2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1731537,
+  "size": 1732786,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mt",
@@ -163127,9 +163127,9 @@
  {
   "filename": "RDPA2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPA2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 3543688,
+  "size": 3554063,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pa",
@@ -163142,9 +163142,9 @@
  {
   "filename": "RDPB2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPB2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1785537,
+  "size": 1793095,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pb",
@@ -163157,9 +163157,9 @@
  {
   "filename": "RDPE2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPE2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 4350065,
+  "size": 4349786,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pe",
@@ -163172,9 +163172,9 @@
  {
   "filename": "RDPI2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPI2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1429520,
+  "size": 1425576,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pi",
@@ -163187,9 +163187,9 @@
  {
   "filename": "RDPR2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPR2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 7088251,
+  "size": 7137970,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pr",
@@ -163202,9 +163202,9 @@
  {
   "filename": "RDRJ2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRJ2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 6153769,
+  "size": 6154588,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rj",
@@ -163217,9 +163217,9 @@
  {
   "filename": "RDRN2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRN2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1435725,
+  "size": 1437893,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rn",
@@ -163232,9 +163232,9 @@
  {
   "filename": "RDRO2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRO2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 842254,
+  "size": 847633,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ro",
@@ -163247,9 +163247,9 @@
  {
   "filename": "RDRR2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRR2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 235803,
+  "size": 236937,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rr",
@@ -163262,9 +163262,9 @@
  {
   "filename": "RDRS2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRS2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 5736686,
+  "size": 5772206,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rs",
@@ -163277,9 +163277,9 @@
  {
   "filename": "RDSC2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSC2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 4747282,
+  "size": 4748173,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sc",
@@ -163292,9 +163292,9 @@
  {
   "filename": "RDSE2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSE2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 817530,
+  "size": 817725,
   "dataset": "sih-rd",
   "partition": {
    "uf": "se",
@@ -163307,9 +163307,9 @@
  {
   "filename": "RDSP2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSP2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 19912565,
+  "size": 20168481,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sp",
@@ -163322,9 +163322,9 @@
  {
   "filename": "RDTO2508.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDTO2508.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 724973,
+  "size": 725057,
   "dataset": "sih-rd",
   "partition": {
    "uf": "to",
@@ -163337,9 +163337,9 @@
  {
   "filename": "RDAC2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAC2509.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 358301,
+  "size": 357990,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ac",
@@ -163352,9 +163352,9 @@
  {
   "filename": "RDAL2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAL2509.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1123041,
+  "size": 1123379,
   "dataset": "sih-rd",
   "partition": {
    "uf": "al",
@@ -163367,9 +163367,9 @@
  {
   "filename": "RDAM2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAM2509.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1564972,
+  "size": 1622556,
   "dataset": "sih-rd",
   "partition": {
    "uf": "am",
@@ -163382,9 +163382,9 @@
  {
   "filename": "RDAP2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAP2509.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 310521,
+  "size": 309934,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ap",
@@ -163397,9 +163397,9 @@
  {
   "filename": "RDBA2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDBA2509.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 6210355,
+  "size": 6224321,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ba",
@@ -163412,9 +163412,9 @@
  {
   "filename": "RDCE2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDCE2509.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 3889884,
+  "size": 3908426,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ce",
@@ -163427,9 +163427,9 @@
  {
   "filename": "RDDF2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDDF2509.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1673551,
+  "size": 1674356,
   "dataset": "sih-rd",
   "partition": {
    "uf": "df",
@@ -163442,9 +163442,9 @@
  {
   "filename": "RDES2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDES2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2013142,
+  "size": 2003835,
   "dataset": "sih-rd",
   "partition": {
    "uf": "es",
@@ -163457,9 +163457,9 @@
  {
   "filename": "RDGO2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDGO2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2829066,
+  "size": 2883695,
   "dataset": "sih-rd",
   "partition": {
    "uf": "go",
@@ -163472,9 +163472,9 @@
  {
   "filename": "RDMA2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMA2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2754230,
+  "size": 2906164,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ma",
@@ -163487,9 +163487,9 @@
  {
   "filename": "RDMG2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMG2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 10785634,
+  "size": 10804261,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mg",
@@ -163502,9 +163502,9 @@
  {
   "filename": "RDMS2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMS2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1402598,
+  "size": 1419093,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ms",
@@ -163517,9 +163517,9 @@
  {
   "filename": "RDMT2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMT2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1657628,
+  "size": 1685648,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mt",
@@ -163532,9 +163532,9 @@
  {
   "filename": "RDPA2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPA2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 3414435,
+  "size": 3449307,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pa",
@@ -163547,9 +163547,9 @@
  {
   "filename": "RDPB2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPB2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1730529,
+  "size": 1726384,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pb",
@@ -163562,9 +163562,9 @@
  {
   "filename": "RDPE2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPE2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 4316300,
+  "size": 4350345,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pe",
@@ -163577,9 +163577,9 @@
  {
   "filename": "RDPI2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPI2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1266593,
+  "size": 1263992,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pi",
@@ -163592,9 +163592,9 @@
  {
   "filename": "RDPR2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPR2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 7141796,
+  "size": 7158705,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pr",
@@ -163607,9 +163607,9 @@
  {
   "filename": "RDRJ2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRJ2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 6171778,
+  "size": 6244195,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rj",
@@ -163622,9 +163622,9 @@
  {
   "filename": "RDRN2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRN2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1401789,
+  "size": 1414114,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rn",
@@ -163637,9 +163637,9 @@
  {
   "filename": "RDRO2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRO2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 828408,
+  "size": 836408,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ro",
@@ -163652,9 +163652,9 @@
  {
   "filename": "RDRR2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRR2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 204984,
+  "size": 205214,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rr",
@@ -163667,9 +163667,9 @@
  {
   "filename": "RDRS2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRS2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 5857693,
+  "size": 5878044,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rs",
@@ -163682,9 +163682,9 @@
  {
   "filename": "RDSC2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSC2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 4648708,
+  "size": 4674545,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sc",
@@ -163697,9 +163697,9 @@
  {
   "filename": "RDSE2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSE2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 841947,
+  "size": 840140,
   "dataset": "sih-rd",
   "partition": {
    "uf": "se",
@@ -163712,9 +163712,9 @@
  {
   "filename": "RDSP2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSP2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 19787499,
+  "size": 19896453,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sp",
@@ -163727,9 +163727,9 @@
  {
   "filename": "RDTO2509.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDTO2509.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 693259,
+  "size": 693752,
   "dataset": "sih-rd",
   "partition": {
    "uf": "to",
@@ -163742,9 +163742,9 @@
  {
   "filename": "RDAC2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAC2510.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 392390,
+  "size": 392241,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ac",
@@ -163757,9 +163757,9 @@
  {
   "filename": "RDAL2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAL2510.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1166339,
+  "size": 1164807,
   "dataset": "sih-rd",
   "partition": {
    "uf": "al",
@@ -163772,9 +163772,9 @@
  {
   "filename": "RDAM2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAM2510.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1645294,
+  "size": 1771368,
   "dataset": "sih-rd",
   "partition": {
    "uf": "am",
@@ -163787,9 +163787,9 @@
  {
   "filename": "RDAP2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAP2510.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 328039,
+  "size": 327087,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ap",
@@ -163802,9 +163802,9 @@
  {
   "filename": "RDBA2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDBA2510.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 5861588,
+  "size": 5977442,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ba",
@@ -163817,9 +163817,9 @@
  {
   "filename": "RDCE2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDCE2510.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 3837485,
+  "size": 3874607,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ce",
@@ -163832,9 +163832,9 @@
  {
   "filename": "RDDF2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDDF2510.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1698218,
+  "size": 1697253,
   "dataset": "sih-rd",
   "partition": {
    "uf": "df",
@@ -163847,9 +163847,9 @@
  {
   "filename": "RDES2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDES2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2097525,
+  "size": 2112754,
   "dataset": "sih-rd",
   "partition": {
    "uf": "es",
@@ -163862,9 +163862,9 @@
  {
   "filename": "RDGO2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDGO2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2818797,
+  "size": 2884567,
   "dataset": "sih-rd",
   "partition": {
    "uf": "go",
@@ -163877,9 +163877,9 @@
  {
   "filename": "RDMA2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMA2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2584618,
+  "size": 2833678,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ma",
@@ -163892,9 +163892,9 @@
  {
   "filename": "RDMG2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMG2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 10785473,
+  "size": 10832836,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mg",
@@ -163907,9 +163907,9 @@
  {
   "filename": "RDMS2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMS2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1313389,
+  "size": 1350027,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ms",
@@ -163922,9 +163922,9 @@
  {
   "filename": "RDMT2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMT2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1519582,
+  "size": 1568234,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mt",
@@ -163937,9 +163937,9 @@
  {
   "filename": "RDPA2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPA2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 3386573,
+  "size": 3520168,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pa",
@@ -163952,9 +163952,9 @@
  {
   "filename": "RDPB2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPB2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1798160,
+  "size": 1809896,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pb",
@@ -163967,9 +163967,9 @@
  {
   "filename": "RDPE2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPE2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 4255020,
+  "size": 4323417,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pe",
@@ -163982,9 +163982,9 @@
  {
   "filename": "RDPI2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPI2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1421595,
+  "size": 1515127,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pi",
@@ -163997,9 +163997,9 @@
  {
   "filename": "RDPR2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPR2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 7324554,
+  "size": 7331201,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pr",
@@ -164012,9 +164012,9 @@
  {
   "filename": "RDRJ2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRJ2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 6246438,
+  "size": 6258952,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rj",
@@ -164027,9 +164027,9 @@
  {
   "filename": "RDRN2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRN2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1326810,
+  "size": 1380100,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rn",
@@ -164042,9 +164042,9 @@
  {
   "filename": "RDRO2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRO2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 809684,
+  "size": 868237,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ro",
@@ -164057,9 +164057,9 @@
  {
   "filename": "RDRR2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRR2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 151977,
+  "size": 151429,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rr",
@@ -164072,9 +164072,9 @@
  {
   "filename": "RDRS2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRS2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 5878755,
+  "size": 5916601,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rs",
@@ -164087,9 +164087,9 @@
  {
   "filename": "RDSC2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSC2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 4802724,
+  "size": 4835872,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sc",
@@ -164102,9 +164102,9 @@
  {
   "filename": "RDSE2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSE2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 796861,
+  "size": 798239,
   "dataset": "sih-rd",
   "partition": {
    "uf": "se",
@@ -164117,9 +164117,9 @@
  {
   "filename": "RDSP2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSP2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 20522824,
+  "size": 20566847,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sp",
@@ -164132,9 +164132,9 @@
  {
   "filename": "RDTO2510.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDTO2510.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 716772,
+  "size": 717595,
   "dataset": "sih-rd",
   "partition": {
    "uf": "to",
@@ -164145,11 +164145,26 @@
   "preliminary": false
  },
  {
+  "filename": "RDAC2511.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAC2511.dbc",
+  "datetime": "2026-02-08T14:18:00",
+  "extension": "dbc",
+  "size": 331195,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 11,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "RDAL2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAL2511.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 585735,
+  "size": 1094319,
   "dataset": "sih-rd",
   "partition": {
    "uf": "al",
@@ -164162,9 +164177,9 @@
  {
   "filename": "RDAM2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAM2511.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1300289,
+  "size": 1486027,
   "dataset": "sih-rd",
   "partition": {
    "uf": "am",
@@ -164177,9 +164192,9 @@
  {
   "filename": "RDAP2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAP2511.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 304603,
+  "size": 304133,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ap",
@@ -164192,9 +164207,9 @@
  {
   "filename": "RDBA2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDBA2511.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 5596567,
+  "size": 5762919,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ba",
@@ -164207,9 +164222,9 @@
  {
   "filename": "RDCE2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDCE2511.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 3569493,
+  "size": 3670524,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ce",
@@ -164222,9 +164237,9 @@
  {
   "filename": "RDDF2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDDF2511.dbc",
-  "datetime": "2026-01-07T19:03:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1589244,
+  "size": 1591704,
   "dataset": "sih-rd",
   "partition": {
    "uf": "df",
@@ -164237,9 +164252,9 @@
  {
   "filename": "RDES2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDES2511.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 1888766,
+  "size": 1957204,
   "dataset": "sih-rd",
   "partition": {
    "uf": "es",
@@ -164252,9 +164267,9 @@
  {
   "filename": "RDGO2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDGO2511.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2553322,
+  "size": 2803134,
   "dataset": "sih-rd",
   "partition": {
    "uf": "go",
@@ -164267,9 +164282,9 @@
  {
   "filename": "RDMA2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMA2511.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:18:00",
   "extension": "dbc",
-  "size": 2288272,
+  "size": 2677286,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ma",
@@ -164282,9 +164297,9 @@
  {
   "filename": "RDMG2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMG2511.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 9618616,
+  "size": 10095126,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mg",
@@ -164297,9 +164312,9 @@
  {
   "filename": "RDMS2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMS2511.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1162307,
+  "size": 1291209,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ms",
@@ -164312,9 +164327,9 @@
  {
   "filename": "RDMT2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMT2511.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1198910,
+  "size": 1400049,
   "dataset": "sih-rd",
   "partition": {
    "uf": "mt",
@@ -164327,9 +164342,9 @@
  {
   "filename": "RDPA2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPA2511.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 2878443,
+  "size": 3277485,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pa",
@@ -164342,9 +164357,9 @@
  {
   "filename": "RDPB2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPB2511.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1584744,
+  "size": 1599089,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pb",
@@ -164357,9 +164372,9 @@
  {
   "filename": "RDPE2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPE2511.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 3899552,
+  "size": 4075031,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pe",
@@ -164372,9 +164387,9 @@
  {
   "filename": "RDPI2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPI2511.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1184305,
+  "size": 1290648,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pi",
@@ -164387,9 +164402,9 @@
  {
   "filename": "RDPR2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPR2511.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 6873296,
+  "size": 6999512,
   "dataset": "sih-rd",
   "partition": {
    "uf": "pr",
@@ -164402,9 +164417,9 @@
  {
   "filename": "RDRJ2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRJ2511.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 5684483,
+  "size": 5922485,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rj",
@@ -164417,9 +164432,9 @@
  {
   "filename": "RDRN2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRN2511.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 1145011,
+  "size": 1353839,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rn",
@@ -164432,9 +164447,9 @@
  {
   "filename": "RDRO2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRO2511.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 598107,
+  "size": 782192,
   "dataset": "sih-rd",
   "partition": {
    "uf": "ro",
@@ -164445,11 +164460,26 @@
   "preliminary": false
  },
  {
+  "filename": "RDRR2511.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRR2511.dbc",
+  "datetime": "2026-02-08T14:17:00",
+  "extension": "dbc",
+  "size": 155357,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "rr",
+   "year": 2025,
+   "month": 11,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "RDRS2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRS2511.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 5538949,
+  "size": 5747391,
   "dataset": "sih-rd",
   "partition": {
    "uf": "rs",
@@ -164462,9 +164492,9 @@
  {
   "filename": "RDSC2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSC2511.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 4526123,
+  "size": 4590592,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sc",
@@ -164477,9 +164507,9 @@
  {
   "filename": "RDSE2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSE2511.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 750989,
+  "size": 751371,
   "dataset": "sih-rd",
   "partition": {
    "uf": "se",
@@ -164492,9 +164522,9 @@
  {
   "filename": "RDSP2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSP2511.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 18675047,
+  "size": 18866163,
   "dataset": "sih-rd",
   "partition": {
    "uf": "sp",
@@ -164507,14 +164537,389 @@
  {
   "filename": "RDTO2511.dbc",
   "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDTO2511.dbc",
-  "datetime": "2026-01-07T19:02:00",
+  "datetime": "2026-02-08T14:17:00",
   "extension": "dbc",
-  "size": 631885,
+  "size": 635923,
   "dataset": "sih-rd",
   "partition": {
    "uf": "to",
    "year": 2025,
    "month": 11,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDAL2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAL2512.dbc",
+  "datetime": "2026-02-08T14:17:00",
+  "extension": "dbc",
+  "size": 1020919,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "al",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDAM2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAM2512.dbc",
+  "datetime": "2026-02-08T14:17:00",
+  "extension": "dbc",
+  "size": 1303237,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "am",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDAP2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDAP2512.dbc",
+  "datetime": "2026-02-08T14:17:00",
+  "extension": "dbc",
+  "size": 331468,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDBA2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDBA2512.dbc",
+  "datetime": "2026-02-08T14:17:00",
+  "extension": "dbc",
+  "size": 5398129,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDCE2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDCE2512.dbc",
+  "datetime": "2026-02-08T14:17:00",
+  "extension": "dbc",
+  "size": 3495015,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDDF2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDDF2512.dbc",
+  "datetime": "2026-02-08T14:17:00",
+  "extension": "dbc",
+  "size": 1631637,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "df",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDES2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDES2512.dbc",
+  "datetime": "2026-02-08T14:17:00",
+  "extension": "dbc",
+  "size": 1893544,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDGO2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDGO2512.dbc",
+  "datetime": "2026-02-08T14:17:00",
+  "extension": "dbc",
+  "size": 2507727,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "go",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDMA2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMA2512.dbc",
+  "datetime": "2026-02-08T14:17:00",
+  "extension": "dbc",
+  "size": 2315173,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDMG2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMG2512.dbc",
+  "datetime": "2026-02-08T14:17:00",
+  "extension": "dbc",
+  "size": 9824627,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDMS2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMS2512.dbc",
+  "datetime": "2026-02-08T14:18:00",
+  "extension": "dbc",
+  "size": 1115555,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "ms",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDMT2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDMT2512.dbc",
+  "datetime": "2026-02-08T14:18:00",
+  "extension": "dbc",
+  "size": 1223956,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "mt",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDPA2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPA2512.dbc",
+  "datetime": "2026-02-08T14:18:00",
+  "extension": "dbc",
+  "size": 2995682,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDPB2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPB2512.dbc",
+  "datetime": "2026-02-08T14:18:00",
+  "extension": "dbc",
+  "size": 1485932,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDPE2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPE2512.dbc",
+  "datetime": "2026-02-08T14:18:00",
+  "extension": "dbc",
+  "size": 4006393,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDPI2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPI2512.dbc",
+  "datetime": "2026-02-08T14:18:00",
+  "extension": "dbc",
+  "size": 1324504,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "pi",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDPR2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDPR2512.dbc",
+  "datetime": "2026-02-08T14:18:00",
+  "extension": "dbc",
+  "size": 6747966,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDRJ2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRJ2512.dbc",
+  "datetime": "2026-02-08T14:18:00",
+  "extension": "dbc",
+  "size": 5596145,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDRN2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRN2512.dbc",
+  "datetime": "2026-02-08T14:18:00",
+  "extension": "dbc",
+  "size": 1280995,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDRO2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRO2512.dbc",
+  "datetime": "2026-02-08T14:18:00",
+  "extension": "dbc",
+  "size": 615078,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "ro",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDRS2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDRS2512.dbc",
+  "datetime": "2026-02-08T14:18:00",
+  "extension": "dbc",
+  "size": 5475298,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDSC2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSC2512.dbc",
+  "datetime": "2026-02-08T14:18:00",
+  "extension": "dbc",
+  "size": 4332729,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDSE2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSE2512.dbc",
+  "datetime": "2026-02-08T14:18:00",
+  "extension": "dbc",
+  "size": 735048,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDSP2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDSP2512.dbc",
+  "datetime": "2026-02-08T14:18:00",
+  "extension": "dbc",
+  "size": 18122520,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 12,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "RDTO2512.dbc",
+  "full_path": "/dissemin/publicos/SIHSUS/200801_/Dados/RDTO2512.dbc",
+  "datetime": "2026-02-08T14:18:00",
+  "extension": "dbc",
+  "size": 588607,
+  "dataset": "sih-rd",
+  "partition": {
+   "uf": "to",
+   "year": 2025,
+   "month": 12,
    "subpartition": null
   },
   "preliminary": false

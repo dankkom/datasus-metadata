@@ -435,50 +435,50 @@
   "sih-er": {
    "name": "ER - AIH Rejeitadas com código de erro",
    "source": "sih",
-   "n_files": 4715,
-   "total_size": 303939017,
+   "n_files": 4742,
+   "total_size": 305759604,
    "partition_n_ufs": 27,
    "partition_period_start": "2011-01",
-   "partition_period_end": "2025-11",
-   "partition_n_periods": 179,
+   "partition_period_end": "2025-12",
+   "partition_n_periods": 180,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-01-07T19:03:00"
+   "latest_update": "2026-02-08T14:13:00"
   },
   "sih-rd": {
    "name": "RD - AIH Reduzida",
    "source": "sih",
-   "n_files": 10968,
-   "total_size": 24764256429,
+   "n_files": 10995,
+   "total_size": 24857018318,
    "partition_n_ufs": 27,
    "partition_period_start": "1992-01",
-   "partition_period_end": "2025-11",
-   "partition_n_periods": 407,
+   "partition_period_end": "2025-12",
+   "partition_n_periods": 408,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-01-07T19:03:00"
+   "latest_update": "2026-02-08T14:18:00"
   },
   "sih-rj": {
    "name": "RJ - AIH Rejeitadas",
    "source": "sih",
-   "n_files": 5644,
-   "total_size": 904144390,
+   "n_files": 5671,
+   "total_size": 908448015,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2025-11",
-   "partition_n_periods": 215,
+   "partition_period_end": "2025-12",
+   "partition_n_periods": 216,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-01-07T19:02:00"
+   "latest_update": "2026-02-08T14:20:00"
   },
   "sih-sp": {
    "name": "SP - Serviços Profissionais",
    "source": "sih",
-   "n_files": 9223,
-   "total_size": 54012794915,
+   "n_files": 9250,
+   "total_size": 54388865817,
    "partition_n_ufs": 27,
    "partition_period_start": "1997-06",
-   "partition_period_end": "2025-11",
-   "partition_n_periods": 342,
+   "partition_period_end": "2025-12",
+   "partition_n_periods": 343,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-01-07T19:02:00"
+   "latest_update": "2026-02-08T14:25:00"
   },
   "sim-do-cid09": {
    "name": "Declarações de Óbito CID-9",
