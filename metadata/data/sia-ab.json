@@ -8158,5 +8158,1370 @@
    "subpartition": null
   },
   "preliminary": false
+ },
+ {
+  "filename": "ABAC2501.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABAC2501.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2188,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABBA2501.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABBA2501.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 4278,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABCE2501.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABCE2501.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2734,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABES2501.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABES2501.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 11029,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABMA2501.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABMA2501.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 4143,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABMG2501.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABMG2501.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 18106,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABPB2501.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABPB2501.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2335,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABPE2501.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABPE2501.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 5503,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABPR2501.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABPR2501.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 48744,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABRN2501.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABRN2501.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 4710,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABRS2501.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABRS2501.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 25727,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSC2501.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSC2501.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 24633,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSE2501.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSE2501.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2693,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSP2501.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSP2501.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 61177,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABAC2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABAC2502.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2079,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 2,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABBA2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABBA2502.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2834,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 2,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABCE2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABCE2502.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 3868,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 2,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABES2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABES2502.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 12631,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 2,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABMA2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABMA2502.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 3668,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 2,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABMG2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABMG2502.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 12023,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 2,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABPE2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABPE2502.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 3969,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 2,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABPR2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABPR2502.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 47749,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 2,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABRN2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABRN2502.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 3649,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 2,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABRS2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABRS2502.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 22352,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 2,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSC2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSC2502.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 33737,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 2,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSE2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSE2502.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2459,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 2,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSP2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSP2502.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 70030,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 2,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABAC2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABAC2503.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2391,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 3,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABAM2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABAM2503.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2150,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "am",
+   "year": 2025,
+   "month": 3,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABBA2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABBA2503.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2832,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 3,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABES2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABES2503.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 14752,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 3,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABMA2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABMA2503.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 3925,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 3,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABMG2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABMG2503.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 12818,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 3,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABPE2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABPE2503.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 3100,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 3,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABPR2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABPR2503.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 68213,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 3,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABRS2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABRS2503.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 25374,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 3,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSC2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSC2503.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 23067,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 3,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSE2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSE2503.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2315,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 3,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSP2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSP2503.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 67761,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 3,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABAC2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABAC2504.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2613,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 4,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABBA2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABBA2504.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2894,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 4,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABCE2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABCE2504.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2743,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 4,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABES2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABES2504.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 9825,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 4,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABMA2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABMA2504.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 3948,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 4,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABMG2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABMG2504.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 17468,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 4,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABPA2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABPA2504.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2693,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": 4,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABPB2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABPB2504.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 3915,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 4,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABPE2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABPE2504.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 3160,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 4,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABPR2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABPR2504.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 52990,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 4,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABRS2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABRS2504.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 24281,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 4,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSC2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSC2504.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 32050,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 4,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSE2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSE2504.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2273,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 4,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSP2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSP2504.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 71807,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 4,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABAC2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABAC2505.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2676,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 5,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABCE2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABCE2505.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2661,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 5,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABES2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABES2505.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 6112,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 5,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABMA2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABMA2505.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 3843,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 5,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABMG2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABMG2505.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 16992,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 5,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABPB2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABPB2505.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2394,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 5,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABPE2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABPE2505.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2802,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 5,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABPR2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABPR2505.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 40053,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 5,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABRN2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABRN2505.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 5054,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 5,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABRS2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABRS2505.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 19447,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 5,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSC2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSC2505.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 15213,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 5,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSE2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSE2505.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2515,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 5,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSP2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSP2505.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 72840,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 5,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABAC2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABAC2506.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2811,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABBA2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABBA2506.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2638,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABCE2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABCE2506.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2745,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABES2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABES2506.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 8699,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABMA2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABMA2506.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 4119,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABMG2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABMG2506.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 16321,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABPB2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABPB2506.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2351,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABPE2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABPE2506.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 4297,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABPR2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABPR2506.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 38590,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABRN2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABRN2506.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 6492,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABRS2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABRS2506.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 14017,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSC2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSC2506.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 17473,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSE2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSE2506.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2593,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSP2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSP2506.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 78008,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABAC2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABAC2507.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2728,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABCE2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABCE2507.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 3454,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABES2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABES2507.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 8048,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABMA2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABMA2507.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2771,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABMG2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABMG2507.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 15272,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABPR2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABPR2507.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 49458,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABRN2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABRN2507.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 3607,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABRS2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABRS2507.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 15890,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSC2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSC2507.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 13651,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSE2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSE2507.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 2326,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "ABSP2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/ABSP2507.dbc",
+  "datetime": "2026-02-10T14:44:00",
+  "extension": "dbc",
+  "size": 70199,
+  "dataset": "sia-ab",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 7,
+   "subpartition": null
+  },
+  "preliminary": false
  }
 ]
