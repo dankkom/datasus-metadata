@@ -88,13 +88,13 @@
    "name": "Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "source": "ciha",
    "n_files": 4625,
-   "total_size": 5393998019,
+   "total_size": 5404898220,
    "partition_n_ufs": 26,
    "partition_period_start": "2011-01",
    "partition_period_end": "2025-12",
    "partition_n_periods": 180,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-02-06T13:38:00"
+   "latest_update": "2026-02-11T13:00:00"
   },
   "cnes-dc": {
    "name": "Dados Complementares",
@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 12,
-   "total_size": 84546340,
+   "total_size": 84648959,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2026",
    "partition_n_periods": 12,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-02-05T07:46:00"
+   "latest_update": "2026-02-10T10:00:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 27,
-   "total_size": 1307419301,
+   "total_size": 1308066753,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2026",
    "partition_n_periods": 27,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-02-05T07:47:00"
+   "latest_update": "2026-02-10T10:02:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
