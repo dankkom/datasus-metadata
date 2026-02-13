@@ -2,7 +2,7 @@
  {
   "filename": "PESTBR07.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PESTBR07.dbc",
-  "datetime": "2021-11-23T16:32:00",
+  "datetime": "2026-02-12T16:10:00",
   "extension": "dbc",
   "size": 2963,
   "dataset": "sinan-pest",
@@ -17,7 +17,7 @@
  {
   "filename": "PESTBR08.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PESTBR08.dbc",
-  "datetime": "2021-11-23T16:32:00",
+  "datetime": "2026-02-12T16:10:00",
   "extension": "dbc",
   "size": 2608,
   "dataset": "sinan-pest",
@@ -32,7 +32,7 @@
  {
   "filename": "PESTBR09.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PESTBR09.dbc",
-  "datetime": "2021-11-23T16:32:00",
+  "datetime": "2026-02-12T16:10:00",
   "extension": "dbc",
   "size": 2901,
   "dataset": "sinan-pest",
@@ -47,7 +47,7 @@
  {
   "filename": "PESTBR10.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PESTBR10.dbc",
-  "datetime": "2021-11-23T16:32:00",
+  "datetime": "2026-02-12T16:10:00",
   "extension": "dbc",
   "size": 2594,
   "dataset": "sinan-pest",
@@ -62,7 +62,7 @@
  {
   "filename": "PESTBR11.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PESTBR11.dbc",
-  "datetime": "2021-11-23T16:32:00",
+  "datetime": "2026-02-12T16:10:00",
   "extension": "dbc",
   "size": 2499,
   "dataset": "sinan-pest",
@@ -77,7 +77,7 @@
  {
   "filename": "PESTBR12.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PESTBR12.dbc",
-  "datetime": "2021-11-23T16:32:00",
+  "datetime": "2026-02-12T16:10:00",
   "extension": "dbc",
   "size": 1970,
   "dataset": "sinan-pest",
@@ -92,7 +92,7 @@
  {
   "filename": "PESTBR13.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PESTBR13.dbc",
-  "datetime": "2021-11-23T16:32:00",
+  "datetime": "2026-02-12T16:10:00",
   "extension": "dbc",
   "size": 2225,
   "dataset": "sinan-pest",
@@ -107,7 +107,7 @@
  {
   "filename": "PESTBR14.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PESTBR14.dbc",
-  "datetime": "2021-11-23T16:32:00",
+  "datetime": "2026-02-12T16:10:00",
   "extension": "dbc",
   "size": 1987,
   "dataset": "sinan-pest",
@@ -122,7 +122,7 @@
  {
   "filename": "PESTBR15.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PESTBR15.dbc",
-  "datetime": "2021-11-23T16:32:00",
+  "datetime": "2026-02-12T16:10:00",
   "extension": "dbc",
   "size": 2095,
   "dataset": "sinan-pest",
@@ -137,7 +137,7 @@
  {
   "filename": "PESTBR16.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PESTBR16.dbc",
-  "datetime": "2021-11-23T16:32:00",
+  "datetime": "2026-02-12T16:10:00",
   "extension": "dbc",
   "size": 1926,
   "dataset": "sinan-pest",
@@ -152,7 +152,7 @@
  {
   "filename": "PESTBR17.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PESTBR17.dbc",
-  "datetime": "2021-11-23T16:32:00",
+  "datetime": "2026-02-12T16:10:00",
   "extension": "dbc",
   "size": 2177,
   "dataset": "sinan-pest",
@@ -166,10 +166,10 @@
  },
  {
   "filename": "PESTBR18.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PESTBR18.dbc",
-  "datetime": "2021-11-23T16:32:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PESTBR18.dbc",
+  "datetime": "2026-02-12T15:44:00",
   "extension": "dbc",
-  "size": 1932,
+  "size": 2250,
   "dataset": "sinan-pest",
   "partition": {
    "uf": "br",
@@ -177,14 +177,14 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "PESTBR19.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PESTBR19.dbc",
-  "datetime": "2021-11-23T16:32:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PESTBR19.dbc",
+  "datetime": "2026-02-12T15:44:00",
   "extension": "dbc",
-  "size": 2030,
+  "size": 2356,
   "dataset": "sinan-pest",
   "partition": {
    "uf": "br",
@@ -192,18 +192,93 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "PESTBR20.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PESTBR20.dbc",
-  "datetime": "2021-11-23T16:31:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PESTBR20.dbc",
+  "datetime": "2026-02-12T15:44:00",
   "extension": "dbc",
-  "size": 1707,
+  "size": 1995,
   "dataset": "sinan-pest",
   "partition": {
    "uf": "br",
    "year": 2020,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PESTBR21.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PESTBR21.dbc",
+  "datetime": "2026-02-12T15:44:00",
+  "extension": "dbc",
+  "size": 1995,
+  "dataset": "sinan-pest",
+  "partition": {
+   "uf": "br",
+   "year": 2021,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PESTBR22.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PESTBR22.dbc",
+  "datetime": "2026-02-12T15:44:00",
+  "extension": "dbc",
+  "size": 2168,
+  "dataset": "sinan-pest",
+  "partition": {
+   "uf": "br",
+   "year": 2022,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PESTBR23.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PESTBR23.dbc",
+  "datetime": "2026-02-12T15:44:00",
+  "extension": "dbc",
+  "size": 1995,
+  "dataset": "sinan-pest",
+  "partition": {
+   "uf": "br",
+   "year": 2023,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PESTBR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/PESTBR24.dbc",
+  "datetime": "2026-02-12T15:44:00",
+  "extension": "dbc",
+  "size": 2088,
+  "dataset": "sinan-pest",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PESTBR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/PESTBR25.dbc",
+  "datetime": "2026-02-12T15:45:00",
+  "extension": "dbc",
+  "size": 1995,
+  "dataset": "sinan-pest",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
    "month": null,
    "subpartition": null
   },

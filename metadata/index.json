@@ -652,13 +652,13 @@
    "name": "Acidente por Animais Peçonhentos",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 194450801,
+   "total_size": 195763946,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-01-20T16:56:00"
+   "latest_update": "2026-02-09T11:54:00"
   },
   "sinan-antr": {
    "name": "Atendimento Antirrábico",
@@ -1047,14 +1047,14 @@
   "sinan-pest": {
    "name": "Peste",
    "source": "sinan",
-   "n_files": 14,
-   "total_size": 31614,
+   "n_files": 19,
+   "total_size": 42787,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2020",
-   "partition_n_periods": 14,
+   "partition_period_end": "2025",
+   "partition_n_periods": 19,
    "partition_periodicity": "yearly",
-   "latest_update": "2021-11-23T16:32:00"
+   "latest_update": "2026-02-12T16:10:00"
   },
   "sinan-pfan": {
    "name": "Paralisia Flácida Aguda",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 10424409,
+   "total_size": 10430970,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2026",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-02-05T14:44:00"
+   "latest_update": "2026-02-11T16:44:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
