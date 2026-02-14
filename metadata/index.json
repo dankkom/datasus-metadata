@@ -736,13 +736,13 @@
    "name": "Coqueluche",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 10612019,
+   "total_size": 10616045,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-02-05T12:12:00"
+   "latest_update": "2026-02-12T10:05:00"
   },
   "sinan-deng": {
    "name": "Dengue",
@@ -772,13 +772,13 @@
    "name": "Difteria",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 148432,
+   "total_size": 148443,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-02-05T12:12:00"
+   "latest_update": "2026-02-12T10:06:00"
   },
   "sinan-espo": {
    "name": "Esporotricose (Epizootia)",
@@ -1168,13 +1168,13 @@
    "name": "Tétano Acidental",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 733833,
+   "total_size": 735122,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-02-05T12:12:00"
+   "latest_update": "2026-02-12T10:07:00"
   },
   "sinan-tetn": {
    "name": "Tétano Neonatal",
@@ -1186,7 +1186,7 @@
    "partition_period_end": "2026",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-02-05T12:13:00"
+   "latest_update": "2026-02-13T18:06:00"
   },
   "sinan-toxc": {
    "name": "Toxoplasmose Congênita",
@@ -1501,8 +1501,8 @@
   "sim": {
    "source_name": "SIM: Sistema de Informação de Mortalidade",
    "n_files": 3,
-   "total_size": 8650534,
-   "latest_update": "2025-10-13T10:41:00"
+   "total_size": 9782649,
+   "latest_update": "2026-02-13T12:24:00"
   },
   "sinan": {
    "source_name": "SINAN: Sistema de Informação de Agravos de Notificação",
