@@ -84733,5 +84733,380 @@
    "subpartition": null
   },
   "preliminary": false
+ },
+ {
+  "filename": "EFAC2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFAC2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 1134,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "ac",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFAL2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFAL2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 1401,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "al",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFAM2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFAM2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 1172,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "am",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFAP2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFAP2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 1130,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "ap",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFBA2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFBA2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 2297,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "ba",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFCE2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFCE2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 2057,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "ce",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFES2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFES2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 1888,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "es",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFGO2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFGO2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 1571,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "go",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFMA2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFMA2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 1275,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "ma",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFMG2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFMG2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 4754,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "mg",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFMS2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFMS2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 1575,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "ms",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFMT2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFMT2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 1351,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "mt",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFPA2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFPA2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 1456,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "pa",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFPB2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFPB2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 1349,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "pb",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFPE2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFPE2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 1909,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "pe",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFPI2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFPI2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 1233,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "pi",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFPR2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFPR2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 2391,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "pr",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFRJ2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFRJ2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 2234,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "rj",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFRN2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFRN2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 1192,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "rn",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFRO2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFRO2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 1132,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "ro",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFRS2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFRS2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 3238,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "rs",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFSC2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFSC2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 2726,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "sc",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFSE2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFSE2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 1350,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "se",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFSP2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFSP2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 5614,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "sp",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EFTO2601.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EF/EFTO2601.dbc",
+  "datetime": "2026-02-19T14:54:00",
+  "extension": "dbc",
+  "size": 1136,
+  "dataset": "cnes-ef",
+  "partition": {
+   "uf": "to",
+   "year": 2026,
+   "month": 1,
+   "subpartition": null
+  },
+  "preliminary": false
  }
 ]
