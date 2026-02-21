@@ -268,13 +268,13 @@
    "name": "Painel de Oncologia",
    "source": "po",
    "n_files": 14,
-   "total_size": 191355892,
+   "total_size": 184606992,
    "partition_n_ufs": 1,
    "partition_period_start": "2013",
    "partition_period_end": "2026",
    "partition_n_periods": 14,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-01-19T10:51:00"
+   "latest_update": "2026-02-20T10:18:00"
   },
   "resp": {
    "name": "Notificações de casos suspeitos de SCZ",
@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 12,
-   "total_size": 84648959,
+   "total_size": 84750390,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2026",
    "partition_n_periods": 12,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-02-10T10:00:00"
+   "latest_update": "2026-02-19T08:49:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 27,
-   "total_size": 1308066753,
+   "total_size": 1308532697,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2026",
    "partition_n_periods": 27,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-02-10T10:02:00"
+   "latest_update": "2026-02-19T08:51:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
