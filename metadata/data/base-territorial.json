@@ -1,95 +1,5 @@
 [
  {
-  "filename": "01-base_territorial_jan25.zip",
-  "full_path": "/territorio/tabelas/01-base_territorial_jan25.zip",
-  "datetime": "2025-01-17T19:53:00",
-  "extension": "zip",
-  "size": 1444131,
-  "dataset": "base-territorial",
-  "partition": {
-   "uf": null,
-   "year": null,
-   "month": null,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
-  "filename": "02-base_territorial_fev25.zip",
-  "full_path": "/territorio/tabelas/02-base_territorial_fev25.zip",
-  "datetime": "2025-02-18T14:30:00",
-  "extension": "zip",
-  "size": 1422311,
-  "dataset": "base-territorial",
-  "partition": {
-   "uf": null,
-   "year": null,
-   "month": null,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
-  "filename": "03-base_territorial_mar25.zip",
-  "full_path": "/territorio/tabelas/03-base_territorial_mar25.zip",
-  "datetime": "2025-04-03T17:40:00",
-  "extension": "zip",
-  "size": 1936286,
-  "dataset": "base-territorial",
-  "partition": {
-   "uf": null,
-   "year": null,
-   "month": null,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
-  "filename": "04-base_territorial_abr25.zip",
-  "full_path": "/territorio/tabelas/04-base_territorial_abr25.zip",
-  "datetime": "2025-04-16T20:16:00",
-  "extension": "zip",
-  "size": 1837782,
-  "dataset": "base-territorial",
-  "partition": {
-   "uf": null,
-   "year": null,
-   "month": null,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
-  "filename": "09-base_territorial_set25.zip",
-  "full_path": "/territorio/tabelas/09-base_territorial_set25.zip",
-  "datetime": "2025-10-02T14:57:00",
-  "extension": "zip",
-  "size": 1767093,
-  "dataset": "base-territorial",
-  "partition": {
-   "uf": null,
-   "year": null,
-   "month": null,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
-  "filename": "10-base_territorial_out25.zip",
-  "full_path": "/territorio/tabelas/10-base_territorial_out25.zip",
-  "datetime": "2025-11-04T18:39:00",
-  "extension": "zip",
-  "size": 1699756,
-  "dataset": "base-territorial",
-  "partition": {
-   "uf": null,
-   "year": null,
-   "month": null,
-   "subpartition": null
-  },
-  "preliminary": false
- },
- {
   "filename": "base_territorial_2023.zip",
   "full_path": "/territorio/tabelas/2023/base_territorial_2023.zip",
   "datetime": "2023-08-30T12:08:00",
@@ -260,6 +170,111 @@
   "datetime": "2024-12-19T14:49:00",
   "extension": "zip",
   "size": 1517583,
+  "dataset": "base-territorial",
+  "partition": {
+   "uf": null,
+   "year": null,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "01-base_territorial_jan25.zip",
+  "full_path": "/territorio/tabelas/2025/01-base_territorial_jan25.zip",
+  "datetime": "2025-01-17T19:53:00",
+  "extension": "zip",
+  "size": 1444131,
+  "dataset": "base-territorial",
+  "partition": {
+   "uf": null,
+   "year": null,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "02-base_territorial_fev25.zip",
+  "full_path": "/territorio/tabelas/2025/02-base_territorial_fev25.zip",
+  "datetime": "2025-02-18T14:30:00",
+  "extension": "zip",
+  "size": 1422311,
+  "dataset": "base-territorial",
+  "partition": {
+   "uf": null,
+   "year": null,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "03-base_territorial_mar25.zip",
+  "full_path": "/territorio/tabelas/2025/03-base_territorial_mar25.zip",
+  "datetime": "2025-04-03T17:40:00",
+  "extension": "zip",
+  "size": 1936286,
+  "dataset": "base-territorial",
+  "partition": {
+   "uf": null,
+   "year": null,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "04-base_territorial_abr25.zip",
+  "full_path": "/territorio/tabelas/2025/04-base_territorial_abr25.zip",
+  "datetime": "2025-04-16T20:16:00",
+  "extension": "zip",
+  "size": 1837782,
+  "dataset": "base-territorial",
+  "partition": {
+   "uf": null,
+   "year": null,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "09-base_territorial_set25.zip",
+  "full_path": "/territorio/tabelas/2025/09-base_territorial_set25.zip",
+  "datetime": "2025-10-02T14:57:00",
+  "extension": "zip",
+  "size": 1767093,
+  "dataset": "base-territorial",
+  "partition": {
+   "uf": null,
+   "year": null,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "10-base_territorial_out25.zip",
+  "full_path": "/territorio/tabelas/2025/10-base_territorial_out25.zip",
+  "datetime": "2025-11-04T18:39:00",
+  "extension": "zip",
+  "size": 1699756,
+  "dataset": "base-territorial",
+  "partition": {
+   "uf": null,
+   "year": null,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "02-base_territorial_fev26.zip",
+  "full_path": "/territorio/tabelas/2026/02-base_territorial_fev26.zip",
+  "datetime": "2026-02-23T07:28:00",
+  "extension": "zip",
+  "size": 1733670,
   "dataset": "base-territorial",
   "partition": {
    "uf": null,

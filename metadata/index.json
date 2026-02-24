@@ -63,14 +63,14 @@
   "base-territorial": {
    "name": "Base Territorial",
    "source": "base-territorial",
-   "n_files": 18,
-   "total_size": 29183469,
+   "n_files": 19,
+   "total_size": 30917139,
    "partition_n_ufs": 1,
    "partition_period_start": null,
    "partition_period_end": null,
    "partition_n_periods": 0,
    "partition_periodicity": null,
-   "latest_update": "2025-11-04T18:39:00"
+   "latest_update": "2026-02-23T07:28:00"
   },
   "cih-cr": {
    "name": "Comunicação de Internação Hospitalar",
