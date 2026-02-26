@@ -238,5 +238,20 @@
    "subpartition": null
   },
   "preliminary": true
+ },
+ {
+  "filename": "VIOLBR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/VIOLBR25.dbc",
+  "datetime": "2026-02-23T10:36:00",
+  "extension": "dbc",
+  "size": 42429821,
+  "dataset": "sinan-viol",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
  }
 ]

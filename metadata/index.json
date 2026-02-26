@@ -1251,14 +1251,14 @@
   "sinan-viol": {
    "name": "Violência doméstica, sexual e/ou outras violências",
    "source": "sinan",
-   "n_files": 16,
-   "total_size": 294568349,
+   "n_files": 17,
+   "total_size": 336998170,
    "partition_n_ufs": 1,
    "partition_period_start": "2009",
-   "partition_period_end": "2024",
-   "partition_n_periods": 16,
+   "partition_period_end": "2025",
+   "partition_n_periods": 17,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-01-21T12:02:00"
+   "latest_update": "2026-02-23T10:36:00"
   },
   "sinan-zika": {
    "name": "Zika Vírus",
