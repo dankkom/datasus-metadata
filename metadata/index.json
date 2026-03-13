@@ -303,50 +303,50 @@
   "sia-abo": {
    "name": "APAC Acompanhamento Pós Cirurgia Bariátrica",
    "source": "sia",
-   "n_files": 1514,
-   "total_size": 36563844,
+   "n_files": 1528,
+   "total_size": 36843303,
    "partition_n_ufs": 18,
    "partition_period_start": "2014-01",
-   "partition_period_end": "2025-12",
-   "partition_n_periods": 144,
+   "partition_period_end": "2026-01",
+   "partition_n_periods": 145,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-02-10T14:44:00"
+   "latest_update": "2026-03-12T07:38:00"
   },
   "sia-acf": {
    "name": "APAC Confeção de Fístula Arteriovenosa",
    "source": "sia",
-   "n_files": 3581,
-   "total_size": 30724635,
+   "n_files": 3607,
+   "total_size": 30956882,
    "partition_n_ufs": 27,
    "partition_period_start": "2014-08",
-   "partition_period_end": "2025-12",
-   "partition_n_periods": 137,
+   "partition_period_end": "2026-01",
+   "partition_n_periods": 138,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-02-10T14:44:00"
+   "latest_update": "2026-03-12T07:38:00"
   },
   "sia-ad": {
    "name": "APAC de Laudos Diversos",
    "source": "sia",
-   "n_files": 5830,
-   "total_size": 3067716461,
+   "n_files": 5856,
+   "total_size": 3080246544,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2025-12",
-   "partition_n_periods": 216,
+   "partition_period_end": "2026-01",
+   "partition_n_periods": 217,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-02-10T14:45:00"
+   "latest_update": "2026-03-12T07:39:00"
   },
   "sia-am": {
    "name": "APAC de Medicamentos",
    "source": "sia",
-   "n_files": 5771,
-   "total_size": 17464518972,
+   "n_files": 5796,
+   "total_size": 17604489616,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2025-12",
-   "partition_n_periods": 216,
+   "partition_period_end": "2026-01",
+   "partition_n_periods": 217,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-02-10T14:45:00"
+   "latest_update": "2026-03-12T07:39:00"
   },
   "sia-an": {
    "name": "APAC de Nefrologia",
@@ -363,62 +363,62 @@
   "sia-aq": {
    "name": "APAC de Quimioterapia",
    "source": "sia",
-   "n_files": 5790,
-   "total_size": 4824695404,
+   "n_files": 5815,
+   "total_size": 4851860567,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2025-12",
-   "partition_n_periods": 216,
+   "partition_period_end": "2026-01",
+   "partition_n_periods": 217,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-02-10T14:45:00"
+   "latest_update": "2026-03-12T07:39:00"
   },
   "sia-ar": {
    "name": "APAC de Radioterapia",
    "source": "sia",
-   "n_files": 5283,
-   "total_size": 349487246,
+   "n_files": 5308,
+   "total_size": 350982286,
    "partition_n_ufs": 26,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2025-12",
-   "partition_n_periods": 216,
+   "partition_period_end": "2026-01",
+   "partition_n_periods": 217,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-02-10T14:45:00"
+   "latest_update": "2026-03-12T07:39:00"
   },
   "sia-atd": {
    "name": "APAC de Tratamento Dialítico",
    "source": "sia",
-   "n_files": 3695,
-   "total_size": 995890921,
+   "n_files": 3721,
+   "total_size": 1003729699,
    "partition_n_ufs": 27,
    "partition_period_start": "2014-08",
-   "partition_period_end": "2025-12",
-   "partition_n_periods": 137,
+   "partition_period_end": "2026-01",
+   "partition_n_periods": 138,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-02-10T14:45:00"
+   "latest_update": "2026-03-12T07:39:00"
   },
   "sia-pa": {
    "name": "Produção Ambulatorial",
    "source": "sia",
-   "n_files": 10225,
-   "total_size": 173272992512,
+   "n_files": 10621,
+   "total_size": 202422751954,
    "partition_n_ufs": 27,
    "partition_period_start": "1994-07",
-   "partition_period_end": "2025-01",
-   "partition_n_periods": 367,
+   "partition_period_end": "2026-01",
+   "partition_n_periods": 379,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-02-10T14:53:00"
+   "latest_update": "2026-03-12T07:45:00"
   },
   "sia-ps": {
    "name": "Psicossocial",
    "source": "sia",
-   "n_files": 4205,
-   "total_size": 3097532034,
+   "n_files": 4232,
+   "total_size": 3128833832,
    "partition_n_ufs": 27,
    "partition_period_start": "2012-11",
-   "partition_period_end": "2025-12",
-   "partition_n_periods": 158,
+   "partition_period_end": "2026-01",
+   "partition_n_periods": 159,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-02-10T14:54:00"
+   "latest_update": "2026-03-12T07:45:00"
   },
   "sia-sad": {
    "name": "Atenção Domiciliar",
@@ -652,13 +652,13 @@
    "name": "Acidente por Animais Peçonhentos",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 195763946,
+   "total_size": 197164758,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-02-09T11:54:00"
+   "latest_update": "2026-03-12T10:22:00"
   },
   "sinan-antr": {
    "name": "Atendimento Antirrábico",
@@ -928,13 +928,13 @@
    "name": "Intoxicação Exógena",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 189372439,
+   "total_size": 193536090,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
    "partition_period_end": "2026",
    "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-01-19T10:32:00"
+   "latest_update": "2026-03-06T09:57:00"
   },
   "sinan-leiv": {
    "name": "Leishmaniose Visceral",
@@ -1000,13 +1000,13 @@
    "name": "Meningite",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 47391931,
+   "total_size": 47610585,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-02-06T16:21:00"
+   "latest_update": "2026-03-05T08:31:00"
   },
   "sinan-ment": {
    "name": "Transtornos mentais relacionados ao trabalho",
@@ -1426,9 +1426,9 @@
   },
   "sinan": {
    "source_name": "SINAN: Sistema de Informação de Agravos de Notificação",
-   "n_files": 8,
-   "total_size": 67653496,
-   "latest_update": "2025-09-10T14:58:00"
+   "n_files": 9,
+   "total_size": 68952874,
+   "latest_update": "2026-03-12T22:33:00"
   },
   "sinasc": {
    "source_name": "SINASC: Sistema de Informação de Nascidos Vivos",

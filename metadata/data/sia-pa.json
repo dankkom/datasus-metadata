@@ -153373,5 +153373,5945 @@
    "subpartition": ""
   },
   "preliminary": false
+ },
+ {
+  "filename": "PAAC2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAC2502.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 8902580,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAL2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAL2502.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 28957586,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "al",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAM2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAM2502.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 34801504,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "am",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAP2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAP2502.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 2389455,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PABA2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PABA2502.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 94321193,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PACE2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PACE2502.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 70229517,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PADF2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PADF2502.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 15042192,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "df",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAES2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAES2502.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 39616082,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAGO2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAGO2502.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 55575990,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "go",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMA2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMA2502.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 36338850,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2502a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2502a.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 166062752,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 2,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2502b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2502b.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 162416459,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 2,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMS2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMS2502.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 27629383,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ms",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMT2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMT2502.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 67338120,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mt",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPA2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPA2502.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 57151894,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPB2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPB2502.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 41881399,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPE2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPE2502.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 62516813,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPI2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPI2502.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 9537982,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pi",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPR2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPR2502.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 148769431,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2502a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2502a.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 140977526,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 2,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2502b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2502b.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 114936819,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 2,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARN2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARN2502.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 21783055,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARO2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARO2502.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 19368455,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ro",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARR2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARR2502.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 870984,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rr",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARS2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARS2502.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 165895320,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASC2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASC2502.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 132433195,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASE2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASE2502.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 28236602,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2502a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2502a.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 129760320,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 2,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2502b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2502b.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 154700204,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 2,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2502c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2502c.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 201720742,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 2,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2502d.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2502d.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 19744700,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 2,
+   "subpartition": "d"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PATO2502.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PATO2502.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 11379742,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "to",
+   "year": 2025,
+   "month": 2,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAC2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAC2503.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 9601119,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAL2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAL2503.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 28527229,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "al",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAM2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAM2503.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 33856972,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "am",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAP2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAP2503.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 2491054,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PABA2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PABA2503.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 96403152,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PACE2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PACE2503.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 77460910,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PADF2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PADF2503.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 14591838,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "df",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAES2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAES2503.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 38276983,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAGO2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAGO2503.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 50806424,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "go",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMA2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMA2503.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 37607316,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2503a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2503a.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 168934282,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 3,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2503b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2503b.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 161659928,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 3,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMS2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMS2503.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 26751093,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ms",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMT2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMT2503.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 63017167,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mt",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPA2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPA2503.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 59008055,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPB2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPB2503.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 43950374,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPE2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPE2503.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 61804521,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPI2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPI2503.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 9745042,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pi",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPR2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPR2503.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 143338697,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2503a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2503a.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 144371971,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 3,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2503b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2503b.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 112215520,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 3,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARN2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARN2503.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 23307228,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARO2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARO2503.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 18952202,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ro",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARR2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARR2503.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 770320,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rr",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARS2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARS2503.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 171848993,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASC2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASC2503.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 132680841,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASE2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASE2503.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 28190345,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2503a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2503a.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 124313505,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 3,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2503b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2503b.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 147487223,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 3,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2503c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2503c.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 174051655,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 3,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2503d.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2503d.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 47401272,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 3,
+   "subpartition": "d"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PATO2503.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PATO2503.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 9647011,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "to",
+   "year": 2025,
+   "month": 3,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAC2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAC2504.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 3734717,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAL2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAL2504.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 26412372,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "al",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAM2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAM2504.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 31491931,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "am",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAP2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAP2504.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 2362702,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PABA2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PABA2504.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 94089726,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PACE2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PACE2504.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 73916476,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PADF2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PADF2504.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 14368248,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "df",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAES2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAES2504.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 40272400,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAGO2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAGO2504.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 50369208,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "go",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMA2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMA2504.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 33969212,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2504a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2504a.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 146428348,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 4,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2504b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2504b.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 163795066,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 4,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMS2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMS2504.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 26982284,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ms",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMT2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMT2504.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 55537038,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mt",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPA2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPA2504.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 52909502,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPB2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPB2504.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 42189717,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPE2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPE2504.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 62727890,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPI2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPI2504.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 8673716,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pi",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPR2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPR2504.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 137581883,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2504a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2504a.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 158044787,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 4,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2504b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2504b.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 122189961,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 4,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARN2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARN2504.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 22959870,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARO2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARO2504.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 17892117,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ro",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARR2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARR2504.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 750182,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rr",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARS2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARS2504.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 155446627,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASC2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASC2504.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 117860216,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASE2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASE2504.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 22947627,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2504a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2504a.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 127142306,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 4,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2504b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2504b.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 136556158,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 4,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2504c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2504c.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 155965485,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 4,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2504d.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2504d.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 57097408,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 4,
+   "subpartition": "d"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PATO2504.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PATO2504.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 10016303,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "to",
+   "year": 2025,
+   "month": 4,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAC2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAC2505.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 4485272,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAL2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAL2505.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 28457002,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "al",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAM2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAM2505.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 34472833,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "am",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAP2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAP2505.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 2398048,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PABA2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PABA2505.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 104832107,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PACE2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PACE2505.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 91413319,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PADF2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PADF2505.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 17067515,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "df",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAES2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAES2505.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 41374771,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAGO2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAGO2505.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 57381833,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "go",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMA2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMA2505.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 41092942,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2505a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2505a.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 163213920,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 5,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2505b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2505b.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 202776728,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 5,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2505c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2505c.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 1983530,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 5,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMS2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMS2505.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 27974267,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ms",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMT2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMT2505.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 62707588,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mt",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPA2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPA2505.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 66780568,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPB2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPB2505.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 51231388,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPE2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPE2505.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 73149616,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPI2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPI2505.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 10949496,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pi",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPR2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPR2505.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 161065936,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2505a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2505a.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 178864119,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 5,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2505b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2505b.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 139719608,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 5,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARN2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARN2505.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 26504131,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARO2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARO2505.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 22355010,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ro",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARR2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARR2505.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 809169,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rr",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARS2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARS2505.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 180949686,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASC2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASC2505.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 139757737,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASE2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASE2505.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 26854832,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2505a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2505a.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 133723591,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 5,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2505b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2505b.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 147362736,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 5,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2505c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2505c.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 174140603,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 5,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2505d.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2505d.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 73822954,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 5,
+   "subpartition": "d"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PATO2505.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PATO2505.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 12952065,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "to",
+   "year": 2025,
+   "month": 5,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAC2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAC2506.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 4645760,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAL2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAL2506.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 30933738,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "al",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAM2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAM2506.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 36593855,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "am",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAP2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAP2506.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 2423614,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PABA2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PABA2506.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 100877651,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PACE2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PACE2506.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 82033237,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PADF2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PADF2506.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 16526427,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "df",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAES2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAES2506.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 41496930,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAGO2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAGO2506.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 59726157,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "go",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMA2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMA2506.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 45612593,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2506a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2506a.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 167133221,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 6,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2506b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2506b.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 202980987,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 6,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMS2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMS2506.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 26916694,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ms",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMT2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMT2506.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 64144530,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mt",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPA2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPA2506.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 65174814,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPB2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPB2506.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 48012475,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPE2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPE2506.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 70006776,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPI2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPI2506.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 11285886,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pi",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPR2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPR2506.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 155596952,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2506a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2506a.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 158944751,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 6,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2506b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2506b.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 101580327,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 6,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARN2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARN2506.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 25438651,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARO2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARO2506.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 20822010,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ro",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARR2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARR2506.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 856908,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rr",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARS2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARS2506.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 174442907,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASC2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASC2506.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 129712578,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASE2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASE2506.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 28111895,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2506a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2506a.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 128548829,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 6,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2506b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2506b.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 152220949,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 6,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2506c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2506c.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 180811595,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 6,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2506d.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2506d.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 45345662,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 6,
+   "subpartition": "d"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PATO2506.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PATO2506.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 12404848,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "to",
+   "year": 2025,
+   "month": 6,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAC2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAC2507.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 5097868,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAL2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAL2507.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 34473091,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "al",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAM2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAM2507.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 41286216,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "am",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAP2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAP2507.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 2946088,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PABA2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PABA2507.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 110904190,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PACE2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PACE2507.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 84829226,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PADF2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PADF2507.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 16805896,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "df",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAES2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAES2507.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 43712108,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAGO2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAGO2507.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 59847244,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "go",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMA2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMA2507.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 45049442,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2507a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2507a.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 162426317,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 7,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2507b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2507b.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 196059448,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 7,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2507c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2507c.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 34719219,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 7,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMS2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMS2507.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 29613104,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ms",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMT2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMT2507.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 72239309,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mt",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPA2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPA2507.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 65114726,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPB2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPB2507.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 56775268,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPE2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPE2507.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 77462018,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPI2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPI2507.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 11807606,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pi",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPR2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPR2507.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 159531763,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2507a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2507a.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 175321175,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 7,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2507b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2507b.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 20769729,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 7,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2507c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2507c.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 152121567,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 7,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARN2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARN2507.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 27476281,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARO2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARO2507.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 20874932,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ro",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARR2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARR2507.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 861178,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rr",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARS2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARS2507.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 179250531,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASC2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASC2507.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 144784079,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASE2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASE2507.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 31217851,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2507a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2507a.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 135336528,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 7,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2507b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2507b.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 153038068,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 7,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2507c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2507c.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 181222097,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 7,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2507d.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2507d.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 50849254,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 7,
+   "subpartition": "d"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PATO2507.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PATO2507.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 10927425,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "to",
+   "year": 2025,
+   "month": 7,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAC2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAC2508.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 4537677,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAL2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAL2508.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 32545112,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "al",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAM2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAM2508.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 37830581,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "am",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAP2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAP2508.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 2819850,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PABA2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PABA2508.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 114073855,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PACE2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PACE2508.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 85762177,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PADF2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PADF2508.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 16701444,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "df",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAES2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAES2508.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 44030175,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAGO2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAGO2508.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 63699795,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "go",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMA2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMA2508.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 43816945,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2508a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2508a.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 165415414,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 8,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2508b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2508b.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 203695672,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 8,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2508c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2508c.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 13356077,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 8,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMS2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMS2508.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 30002470,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ms",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMT2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMT2508.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 72515406,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mt",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPA2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPA2508.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 64022576,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPB2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPB2508.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 55301459,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPE2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPE2508.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 76968306,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPI2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPI2508.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 12607167,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pi",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPR2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPR2508.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 157264355,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2508a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2508a.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 180027013,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 8,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2508b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2508b.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 6610035,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 8,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2508c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2508c.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 142616221,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 8,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARN2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARN2508.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 33136566,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARO2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARO2508.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 20215558,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ro",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARR2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARR2508.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 902979,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rr",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARS2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARS2508.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 192850060,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASC2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASC2508.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 141991312,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASE2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASE2508.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 40895376,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2508a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2508a.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 124414288,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 8,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2508b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2508b.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 148614081,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 8,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2508c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2508c.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 173393652,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 8,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2508d.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2508d.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 94274852,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 8,
+   "subpartition": "d"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PATO2508.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PATO2508.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 14358446,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "to",
+   "year": 2025,
+   "month": 8,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAC2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAC2509.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 4827867,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAL2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAL2509.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 31062831,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "al",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAM2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAM2509.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 35778242,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "am",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAP2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAP2509.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 2762837,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PABA2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PABA2509.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 117256493,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PACE2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PACE2509.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 90983739,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PADF2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PADF2509.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 17265722,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "df",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAES2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAES2509.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 42052428,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAGO2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAGO2509.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 68340029,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "go",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMA2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMA2509.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 45288580,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2509a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2509a.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 161498340,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 9,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2509b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2509b.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 197212925,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 9,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2509c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2509c.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 41956799,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 9,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMS2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMS2509.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 32805147,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ms",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMT2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMT2509.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 79056350,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mt",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPA2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPA2509.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 67126186,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPB2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPB2509.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 56837572,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPE2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPE2509.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 78878418,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPI2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPI2509.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 12243117,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pi",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPR2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPR2509.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 168870559,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2509a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2509a.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 176599619,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 9,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2509b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2509b.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 21047365,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 9,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2509c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2509c.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 151816398,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 9,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARN2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARN2509.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 30527704,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARO2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARO2509.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 22012740,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ro",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARR2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARR2509.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 887975,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rr",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARS2509a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARS2509a.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 192620225,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 9,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARS2509b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARS2509b.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 5025404,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 9,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASC2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASC2509.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 153913065,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASE2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASE2509.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 39204091,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2509a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2509a.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 132663332,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 9,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2509b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2509b.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 148417488,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 9,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2509c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2509c.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 168076780,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 9,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2509d.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2509d.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 137085101,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 9,
+   "subpartition": "d"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PATO2509.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PATO2509.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 13481168,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "to",
+   "year": 2025,
+   "month": 9,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAC2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAC2510.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 4615806,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAL2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAL2510.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 30998609,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "al",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAM2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAM2510.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 33991887,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "am",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAP2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAP2510.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 3088648,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PABA2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PABA2510.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 111576880,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PACE2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PACE2510.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 79126012,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PADF2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PADF2510.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 17079325,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "df",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAES2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAES2510.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 43326547,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAGO2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAGO2510.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 61843830,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "go",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMA2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMA2510.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 42462324,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2510a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2510a.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 136475444,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 10,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2510b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2510b.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 168641217,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 10,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2510c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2510c.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 47631957,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 10,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMS2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMS2510.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 34981544,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ms",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMT2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMT2510.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 62293743,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mt",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPA2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPA2510.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 54039662,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPB2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPB2510.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 55450611,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPE2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPE2510.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 77214648,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPI2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPI2510.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 12315649,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pi",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPR2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPR2510.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 160442787,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2510a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2510a.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 166052522,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 10,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2510b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2510b.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 11832019,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 10,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2510c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2510c.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 138258799,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 10,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARN2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARN2510.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 27777663,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARO2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARO2510.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 21356657,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ro",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARR2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARR2510.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 798388,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rr",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARS2510a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARS2510a.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 162633853,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 10,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARS2510b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARS2510b.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 9792224,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 10,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASC2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASC2510.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 143236125,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASE2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASE2510.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 33249703,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2510a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2510a.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 124486820,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 10,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2510b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2510b.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 137567748,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 10,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2510c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2510c.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 149105493,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 10,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2510d.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2510d.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 134029854,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 10,
+   "subpartition": "d"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PATO2510.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PATO2510.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 12128946,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "to",
+   "year": 2025,
+   "month": 10,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAC2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAC2511.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 4967125,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAL2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAL2511.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 30599809,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "al",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAM2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAM2511.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 38481436,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "am",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAP2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAP2511.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 3784471,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PABA2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PABA2511.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 120671560,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PACE2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PACE2511.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 92510949,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PADF2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PADF2511.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 15994336,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "df",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAES2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAES2511.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 42988569,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAGO2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAGO2511.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 65247898,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "go",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMA2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMA2511.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 45642988,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2511a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2511a.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 164358136,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 11,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2511b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2511b.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 211432849,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 11,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2511c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2511c.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 6218793,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 11,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMS2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMS2511.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 37329986,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ms",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMT2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMT2511.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 65969435,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mt",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPA2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPA2511.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 66407976,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPB2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPB2511.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 64958324,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPE2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPE2511.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 78450122,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPI2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPI2511.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 12914118,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pi",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPR2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPR2511.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 166116553,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2511a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2511a.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 181370556,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 11,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2511b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2511b.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 146957585,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 11,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARN2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARN2511.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 31575586,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARO2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARO2511.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 22300366,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ro",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARR2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARR2511.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 1044182,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rr",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARS2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARS2511.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 200063382,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASC2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASC2511.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 153224347,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASE2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASE2511.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 38985412,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2511a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2511a.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 147078399,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 11,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2511b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2511b.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 158445420,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 11,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2511c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2511c.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 184421015,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 11,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2511d.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2511d.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 86989775,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 11,
+   "subpartition": "d"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PATO2511.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PATO2511.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 14406127,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "to",
+   "year": 2025,
+   "month": 11,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAC2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAC2512.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 4703939,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ac",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAL2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAL2512.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 25773362,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "al",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAM2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAM2512.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 32149043,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "am",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAP2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAP2512.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 2972069,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ap",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PABA2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PABA2512.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 98208032,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PACE2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PACE2512.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 78323496,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PADF2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PADF2512.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 15474717,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "df",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAES2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAES2512.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 33363399,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAGO2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAGO2512.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 60609508,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "go",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMA2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMA2512.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 32861869,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2512a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2512a.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 166059247,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 12,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2512b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2512b.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 173628129,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": 12,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMS2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMS2512.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 34442352,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ms",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMT2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMT2512.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 51560255,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mt",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPA2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPA2512.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 52190368,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPB2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPB2512.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 52662794,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPE2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPE2512.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 71671927,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPI2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPI2512.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 11285241,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pi",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPR2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPR2512.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 133693928,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pr",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2512a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2512a.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 169467592,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 12,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2512b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2512b.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 132409444,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2025,
+   "month": 12,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARN2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARN2512.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 29910515,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARO2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARO2512.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 11565279,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ro",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARR2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARR2512.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 864796,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rr",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARS2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARS2512.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 182393284,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rs",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASC2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASC2512.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 123082978,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sc",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASE2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASE2512.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 36276739,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2512a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2512a.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 130182481,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 12,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2512b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2512b.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 146910780,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 12,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2512c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2512c.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 175638751,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 12,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2512d.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2512d.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 45095089,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2025,
+   "month": 12,
+   "subpartition": "d"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PATO2512.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PATO2512.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 12192961,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "to",
+   "year": 2025,
+   "month": 12,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAC2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAC2601.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 4319267,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ac",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAL2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAL2601.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 23853708,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "al",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAM2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAM2601.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 29694815,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "am",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAAP2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAAP2601.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 3175634,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ap",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PABA2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PABA2601.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 86703993,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ba",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PACE2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PACE2601.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 69818618,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ce",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PADF2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PADF2601.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 14507694,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "df",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAES2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAES2601.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 28836362,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "es",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAGO2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAGO2601.dbc",
+  "datetime": "2026-03-12T07:42:00",
+  "extension": "dbc",
+  "size": 34425890,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "go",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMA2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMA2601.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 34564189,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ma",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2601a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2601a.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 157157455,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2026,
+   "month": 1,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMG2601b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMG2601b.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 157701254,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mg",
+   "year": 2026,
+   "month": 1,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMS2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMS2601.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 33645328,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ms",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAMT2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAMT2601.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 33360342,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "mt",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPA2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPA2601.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 43666868,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pa",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPB2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPB2601.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 50481347,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pb",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPE2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPE2601.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 59766296,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pe",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPI2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPI2601.dbc",
+  "datetime": "2026-03-12T07:43:00",
+  "extension": "dbc",
+  "size": 9299650,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pi",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PAPR2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PAPR2601.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 117799559,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "pr",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2601a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2601a.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 136899790,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2026,
+   "month": 1,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARJ2601b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARJ2601b.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 100939556,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rj",
+   "year": 2026,
+   "month": 1,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARN2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARN2601.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 18507563,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rn",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARO2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARO2601.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 5873690,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "ro",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARR2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARR2601.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 47254,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rr",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PARS2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PARS2601.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 170663084,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "rs",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASC2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASC2601.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 111965572,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sc",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASE2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASE2601.dbc",
+  "datetime": "2026-03-12T07:44:00",
+  "extension": "dbc",
+  "size": 33420161,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "se",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2601a.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2601a.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 132531316,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2026,
+   "month": 1,
+   "subpartition": "a"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2601b.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2601b.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 145398973,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2026,
+   "month": 1,
+   "subpartition": "b"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2601c.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2601c.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 169718416,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2026,
+   "month": 1,
+   "subpartition": "c"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PASP2601d.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PASP2601d.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 28081052,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "sp",
+   "year": 2026,
+   "month": 1,
+   "subpartition": "d"
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PATO2601.dbc",
+  "full_path": "/dissemin/publicos/SIASUS/200801_/Dados/PATO2601.dbc",
+  "datetime": "2026-03-12T07:45:00",
+  "extension": "dbc",
+  "size": 10970725,
+  "dataset": "sia-pa",
+  "partition": {
+   "uf": "to",
+   "year": 2026,
+   "month": 1,
+   "subpartition": ""
+  },
+  "preliminary": false
  }
 ]
