@@ -40,13 +40,13 @@
    "name": "Base Territorial - Conversão",
    "source": "base-territorial",
    "n_files": 28,
-   "total_size": 19944916,
+   "total_size": 19945004,
    "partition_n_ufs": 28,
    "partition_period_start": null,
    "partition_period_end": null,
    "partition_n_periods": 0,
    "partition_periodicity": null,
-   "latest_update": "2026-03-17T15:42:00"
+   "latest_update": "2026-03-18T16:35:00"
   },
   "base-territorial-mapas": {
    "name": "Base Territorial - Mapas",
@@ -268,13 +268,13 @@
    "name": "Painel de Oncologia",
    "source": "po",
    "n_files": 14,
-   "total_size": 184606992,
+   "total_size": 194426785,
    "partition_n_ufs": 1,
    "partition_period_start": "2013",
    "partition_period_end": "2026",
    "partition_n_periods": 14,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-02-20T10:18:00"
+   "latest_update": "2026-03-18T12:13:00"
   },
   "resp": {
    "name": "Notificações de casos suspeitos de SCZ",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 27,
-   "total_size": 1324322307,
+   "total_size": 1325605097,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2026",
    "partition_n_periods": 27,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-03-12T09:20:00"
+   "latest_update": "2026-03-17T11:53:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 10445462,
+   "total_size": 10485440,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2026",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-03-12T09:29:00"
+   "latest_update": "2026-03-17T17:01:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
@@ -1453,8 +1453,8 @@
   "ciha": {
    "source_name": "CIHA: Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "n_files": 1,
-   "total_size": 65442013,
-   "latest_update": "2026-03-17T15:55:00"
+   "total_size": 65434721,
+   "latest_update": "2026-03-18T17:06:00"
   },
   "cmd": {
    "source_name": "CMD: Conjunto Mínimo de Dados",
