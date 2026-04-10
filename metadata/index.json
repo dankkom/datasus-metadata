@@ -87,14 +87,14 @@
   "ciha": {
    "name": "Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "source": "ciha",
-   "n_files": 4644,
-   "total_size": 5440865080,
+   "n_files": 4674,
+   "total_size": 5482153606,
    "partition_n_ufs": 26,
    "partition_period_start": "2011-01",
-   "partition_period_end": "2026-01",
-   "partition_n_periods": 181,
+   "partition_period_end": "2026-02",
+   "partition_n_periods": 182,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-03-10T12:56:00"
+   "latest_update": "2026-04-09T14:35:00"
   },
   "cnes-dc": {
    "name": "Dados Complementares",
@@ -652,13 +652,13 @@
    "name": "Acidente por Animais Peçonhentos",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 197164758,
+   "total_size": 198747762,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-03-12T10:22:00"
+   "latest_update": "2026-04-08T11:01:00"
   },
   "sinan-antr": {
    "name": "Atendimento Antirrábico",
