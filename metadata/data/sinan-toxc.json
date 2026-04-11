@@ -61,10 +61,10 @@
  },
  {
   "filename": "TOXCBR23.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TOXCBR23.dbc",
-  "datetime": "2025-07-02T15:35:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TOXCBR23.dbc",
+  "datetime": "2026-03-20T10:41:00",
   "extension": "dbc",
-  "size": 201036,
+  "size": 210461,
   "dataset": "sinan-toxc",
   "partition": {
    "uf": "br",
@@ -72,14 +72,14 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "TOXCBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TOXCBR24.dbc",
-  "datetime": "2025-06-03T10:11:00",
+  "datetime": "2026-03-20T10:41:00",
   "extension": "dbc",
-  "size": 207290,
+  "size": 232041,
   "dataset": "sinan-toxc",
   "partition": {
    "uf": "br",
@@ -92,13 +92,28 @@
  {
   "filename": "TOXCBR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TOXCBR25.dbc",
-  "datetime": "2025-06-03T10:11:00",
+  "datetime": "2026-03-20T10:41:00",
   "extension": "dbc",
-  "size": 31562,
+  "size": 222331,
   "dataset": "sinan-toxc",
   "partition": {
    "uf": "br",
    "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "TOXCBR26.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TOXCBR26.dbc",
+  "datetime": "2026-03-20T10:41:00",
+  "extension": "dbc",
+  "size": 18779,
+  "dataset": "sinan-toxc",
+  "partition": {
+   "uf": "br",
+   "year": 2026,
    "month": null,
    "subpartition": null
   },
