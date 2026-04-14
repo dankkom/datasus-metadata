@@ -31,7 +31,7 @@
  },
  {
   "filename": "TOXGBR21.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TOXGBR21.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TOXGBR21.dbc",
   "datetime": "2024-04-08T14:40:00",
   "extension": "dbc",
   "size": 413016,
@@ -42,11 +42,11 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "TOXGBR22.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TOXGBR22.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TOXGBR22.dbc",
   "datetime": "2024-04-08T14:40:00",
   "extension": "dbc",
   "size": 459004,
@@ -57,7 +57,7 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "TOXGBR23.dbc",

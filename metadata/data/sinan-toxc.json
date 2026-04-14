@@ -31,7 +31,7 @@
  },
  {
   "filename": "TOXCBR21.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TOXCBR21.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TOXCBR21.dbc",
   "datetime": "2024-10-30T17:01:00",
   "extension": "dbc",
   "size": 126742,
@@ -42,11 +42,11 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "TOXCBR22.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TOXCBR22.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/TOXCBR22.dbc",
   "datetime": "2024-10-30T17:01:00",
   "extension": "dbc",
   "size": 150416,
@@ -57,7 +57,7 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "TOXCBR23.dbc",
