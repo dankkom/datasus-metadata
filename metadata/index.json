@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 12,
-   "total_size": 86366345,
+   "total_size": 87263919,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2026",
    "partition_n_periods": 12,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-04-08T08:14:00"
+   "latest_update": "2026-04-10T12:06:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,7 +748,7 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 27,
-   "total_size": 1343258871,
+   "total_size": 1321509373,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2026",
@@ -843,14 +843,14 @@
   "sinan-hans": {
    "name": "Hanseníase",
    "source": "sinan",
-   "n_files": 25,
-   "total_size": 58716857,
+   "n_files": 26,
+   "total_size": 59874081,
    "partition_n_ufs": 1,
    "partition_period_start": "2001",
-   "partition_period_end": "2025",
-   "partition_n_periods": 25,
+   "partition_period_end": "2026",
+   "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-09-16T17:16:00"
+   "latest_update": "2026-04-13T15:55:00"
   },
   "sinan-hant": {
    "name": "Hantavirose",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 10550829,
+   "total_size": 10675627,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2026",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-04-09T15:08:00"
+   "latest_update": "2026-04-10T12:08:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",

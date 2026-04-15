@@ -347,9 +347,9 @@
  {
   "filename": "HANSBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANSBR24.dbc",
-  "datetime": "2025-09-16T17:13:00",
+  "datetime": "2026-04-13T15:55:00",
   "extension": "dbc",
-  "size": 1866982,
+  "size": 1899933,
   "dataset": "sinan-hans",
   "partition": {
    "uf": "br",
@@ -362,13 +362,28 @@
  {
   "filename": "HANSBR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANSBR25.dbc",
-  "datetime": "2025-09-16T17:13:00",
+  "datetime": "2026-04-13T15:55:00",
   "extension": "dbc",
-  "size": 858718,
+  "size": 1855981,
   "dataset": "sinan-hans",
   "partition": {
    "uf": "br",
    "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "HANSBR26.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANSBR26.dbc",
+  "datetime": "2026-04-13T15:55:00",
+  "extension": "dbc",
+  "size": 127010,
+  "dataset": "sinan-hans",
+  "partition": {
+   "uf": "br",
+   "year": 2026,
    "month": null,
    "subpartition": null
   },
