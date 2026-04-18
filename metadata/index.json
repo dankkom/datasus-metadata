@@ -1000,13 +1000,13 @@
    "name": "Meningite",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 47610585,
+   "total_size": 47853705,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-03-05T08:31:00"
+   "latest_update": "2026-04-08T10:20:00"
   },
   "sinan-ment": {
    "name": "Transtornos mentais relacionados ao trabalho",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 10675627,
+   "total_size": 10687158,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2026",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-04-10T12:08:00"
+   "latest_update": "2026-04-17T08:00:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
