@@ -46,7 +46,7 @@
    "partition_period_end": null,
    "partition_n_periods": 0,
    "partition_periodicity": null,
-   "latest_update": "2026-04-22T15:00:00"
+   "latest_update": "2026-04-27T13:12:00"
   },
   "base-territorial-mapas": {
    "name": "Base Territorial - Mapas",
@@ -63,14 +63,14 @@
   "base-territorial": {
    "name": "Base Territorial",
    "source": "base-territorial",
-   "n_files": 19,
-   "total_size": 30917139,
+   "n_files": 20,
+   "total_size": 32647883,
    "partition_n_ufs": 1,
    "partition_period_start": null,
    "partition_period_end": null,
    "partition_n_periods": 0,
    "partition_periodicity": null,
-   "latest_update": "2026-02-23T07:28:00"
+   "latest_update": "2026-04-27T16:34:00"
   },
   "cih-cr": {
    "name": "Comunicação de Internação Hospitalar",
@@ -99,14 +99,14 @@
   "cnes-dc": {
    "name": "Dados Complementares",
    "source": "cnes",
-   "n_files": 6669,
-   "total_size": 125933259,
+   "n_files": 6696,
+   "total_size": 126261822,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 247,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 248,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-03-17T10:46:00"
+   "latest_update": "2026-04-27T10:25:00"
   },
   "cnes-ee": {
    "name": "Estabelecimento de Ensino",
@@ -123,134 +123,134 @@
   "cnes-ef": {
    "name": "Estabelecimento Filantrópico",
    "source": "cnes",
-   "n_files": 5699,
-   "total_size": 11160228,
+   "n_files": 5724,
+   "total_size": 11208759,
    "partition_n_ufs": 25,
    "partition_period_start": "2007-03",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 228,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 229,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-03-17T10:46:00"
+   "latest_update": "2026-04-27T10:25:00"
   },
   "cnes-ep": {
    "name": "Equipes",
    "source": "cnes",
-   "n_files": 6129,
-   "total_size": 579763232,
+   "n_files": 6156,
+   "total_size": 584196615,
    "partition_n_ufs": 27,
    "partition_period_start": "2007-04",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 227,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 228,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-03-17T10:46:00"
+   "latest_update": "2026-04-27T10:25:00"
   },
   "cnes-eq": {
    "name": "Equipamentos",
    "source": "cnes",
-   "n_files": 6668,
-   "total_size": 1527054622,
+   "n_files": 6695,
+   "total_size": 1537185323,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 247,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 248,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-03-17T10:46:00"
+   "latest_update": "2026-04-27T10:25:00"
   },
   "cnes-gm": {
    "name": "Gestão e Metas",
    "source": "cnes",
-   "n_files": 5792,
-   "total_size": 13312368,
+   "n_files": 5817,
+   "total_size": 13370671,
    "partition_n_ufs": 27,
    "partition_period_start": "2007-03",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 228,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 229,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-03-17T10:46:00"
+   "latest_update": "2026-04-27T10:25:00"
   },
   "cnes-hb": {
    "name": "Habilitação",
    "source": "cnes",
-   "n_files": 6156,
-   "total_size": 139838429,
+   "n_files": 6183,
+   "total_size": 140813543,
    "partition_n_ufs": 27,
    "partition_period_start": "2007-03",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 228,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 229,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-03-17T10:46:00"
+   "latest_update": "2026-04-27T10:25:00"
   },
   "cnes-in": {
    "name": "Incentivos",
    "source": "cnes",
-   "n_files": 5871,
-   "total_size": 43341233,
+   "n_files": 5898,
+   "total_size": 43751994,
    "partition_n_ufs": 27,
    "partition_period_start": "2007-10",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 221,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 222,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-03-17T10:46:00"
+   "latest_update": "2026-04-27T10:25:00"
   },
   "cnes-lt": {
    "name": "Leitos",
    "source": "cnes",
-   "n_files": 6615,
-   "total_size": 145985082,
+   "n_files": 6642,
+   "total_size": 146622490,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-10",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 245,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 246,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-03-17T10:46:00"
+   "latest_update": "2026-04-27T10:25:00"
   },
   "cnes-pf": {
    "name": "Profissional",
    "source": "cnes",
-   "n_files": 6669,
-   "total_size": 44301175971,
+   "n_files": 6696,
+   "total_size": 44636070529,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 247,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 248,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-03-17T10:46:00"
+   "latest_update": "2026-04-27T10:25:00"
   },
   "cnes-rc": {
    "name": "Regra Contratual",
    "source": "cnes",
-   "n_files": 6095,
-   "total_size": 77809516,
+   "n_files": 6122,
+   "total_size": 78369876,
    "partition_n_ufs": 27,
    "partition_period_start": "2007-03",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 228,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 229,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-03-17T10:46:00"
+   "latest_update": "2026-04-27T10:25:00"
   },
   "cnes-sr": {
    "name": "Serviço Especializado",
    "source": "cnes",
-   "n_files": 6667,
-   "total_size": 1593051056,
+   "n_files": 6694,
+   "total_size": 1603779091,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 247,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 248,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-03-17T10:46:00"
+   "latest_update": "2026-04-27T10:25:00"
   },
   "cnes-st": {
    "name": "Estabelecimentos",
    "source": "cnes",
-   "n_files": 6669,
-   "total_size": 3224440669,
+   "n_files": 6696,
+   "total_size": 3246302091,
    "partition_n_ufs": 27,
    "partition_period_start": "2005-08",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 247,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 248,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-03-17T10:46:00"
+   "latest_update": "2026-04-27T10:25:00"
   },
   "pce": {
    "name": "Programa de Controle da Esquistossomose",
@@ -1453,8 +1453,8 @@
   "ciha": {
    "source_name": "CIHA: Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "n_files": 1,
-   "total_size": 65442971,
-   "latest_update": "2026-04-22T11:53:00"
+   "total_size": 65852576,
+   "latest_update": "2026-04-27T13:23:00"
   },
   "cmd": {
    "source_name": "CMD: Conjunto Mínimo de Dados",
@@ -1465,8 +1465,8 @@
   "cnes": {
    "source_name": "CNES: Cadastro Nacional de Estabelecimentos de Saúde",
    "n_files": 1,
-   "total_size": 124602286,
-   "latest_update": "2026-04-22T11:54:00"
+   "total_size": 125011891,
+   "latest_update": "2026-04-27T13:39:00"
   },
   "pce": {
    "source_name": "PCE: Programa de Controle da Esquistossomose",
@@ -1489,14 +1489,14 @@
   "sia": {
    "source_name": "SIA: Sistema de Informações Ambulatoriais",
    "n_files": 4,
-   "total_size": 85252397,
-   "latest_update": "2026-04-22T11:54:00"
+   "total_size": 85662269,
+   "latest_update": "2026-04-27T13:52:00"
   },
   "sih": {
    "source_name": "SIH: Sistema de Informação Hospitalar",
    "n_files": 4,
-   "total_size": 14773417,
-   "latest_update": "2026-04-22T11:54:00"
+   "total_size": 14773167,
+   "latest_update": "2026-04-27T14:01:00"
   },
   "sim": {
    "source_name": "SIM: Sistema de Informação de Mortalidade",

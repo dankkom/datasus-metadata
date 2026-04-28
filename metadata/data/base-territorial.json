@@ -283,5 +283,20 @@
    "subpartition": null
   },
   "preliminary": false
+ },
+ {
+  "filename": "04-base_territorial_abr26.zip",
+  "full_path": "/territorio/tabelas/2026/04-base_territorial_abr26.zip",
+  "datetime": "2026-04-27T16:34:00",
+  "extension": "zip",
+  "size": 1730744,
+  "dataset": "base-territorial",
+  "partition": {
+   "uf": null,
+   "year": null,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
  }
 ]
