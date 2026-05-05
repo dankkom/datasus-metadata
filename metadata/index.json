@@ -736,13 +736,13 @@
    "name": "Coqueluche",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 12183468,
+   "total_size": 12186697,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-04-23T11:49:00"
+   "latest_update": "2026-04-29T11:04:00"
   },
   "sinan-deng": {
    "name": "Dengue",
@@ -772,13 +772,13 @@
    "name": "Difteria",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 156305,
+   "total_size": 156446,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-04-23T11:46:00"
+   "latest_update": "2026-04-29T11:04:00"
   },
   "sinan-espo": {
    "name": "Esporotricose (Epizootia)",
@@ -1095,14 +1095,14 @@
   "sinan-rota": {
    "name": "Rotavírus",
    "source": "sinan",
-   "n_files": 17,
-   "total_size": 1398172,
+   "n_files": 18,
+   "total_size": 1433707,
    "partition_n_ufs": 1,
    "partition_period_start": "2009",
-   "partition_period_end": "2025",
-   "partition_n_periods": 17,
+   "partition_period_end": "2026",
+   "partition_n_periods": 18,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-12-04T16:09:00"
+   "latest_update": "2026-04-30T14:40:00"
   },
   "sinan-sdta": {
    "name": "Surto Doenças Transmitidas por Alimentos",
@@ -1168,13 +1168,13 @@
    "name": "Tétano Acidental",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 780713,
+   "total_size": 781497,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-04-23T11:50:00"
+   "latest_update": "2026-04-29T11:05:00"
   },
   "sinan-tetn": {
    "name": "Tétano Neonatal",
@@ -1186,7 +1186,7 @@
    "partition_period_end": "2026",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-04-23T11:52:00"
+   "latest_update": "2026-04-29T11:05:00"
   },
   "sinan-toxc": {
    "name": "Toxoplasmose Congênita",

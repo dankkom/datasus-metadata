@@ -226,7 +226,7 @@
  },
  {
   "filename": "ROTABR24.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ROTABR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/ROTABR24.dbc",
   "datetime": "2025-12-04T16:09:00",
   "extension": "dbc",
   "size": 130006,
@@ -237,18 +237,33 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "ROTABR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ROTABR25.dbc",
-  "datetime": "2025-12-04T16:09:00",
+  "datetime": "2026-04-30T14:40:00",
   "extension": "dbc",
-  "size": 92370,
+  "size": 108506,
   "dataset": "sinan-rota",
   "partition": {
    "uf": "br",
    "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "ROTABR26.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/ROTABR26.dbc",
+  "datetime": "2026-04-30T14:40:00",
+  "extension": "dbc",
+  "size": 19399,
+  "dataset": "sinan-rota",
+  "partition": {
+   "uf": "br",
+   "year": 2026,
    "month": null,
    "subpartition": null
   },
