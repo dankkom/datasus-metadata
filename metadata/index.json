@@ -736,13 +736,13 @@
    "name": "Coqueluche",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 12186697,
+   "total_size": 12194959,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-04-29T11:04:00"
+   "latest_update": "2026-05-07T12:29:00"
   },
   "sinan-deng": {
    "name": "Dengue",
@@ -772,13 +772,13 @@
    "name": "Difteria",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 156446,
+   "total_size": 156638,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-04-29T11:04:00"
+   "latest_update": "2026-05-07T12:31:00"
   },
   "sinan-espo": {
    "name": "Esporotricose (Epizootia)",
@@ -1168,13 +1168,13 @@
    "name": "Tétano Acidental",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 781497,
+   "total_size": 782309,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-04-29T11:05:00"
+   "latest_update": "2026-05-07T12:32:00"
   },
   "sinan-tetn": {
    "name": "Tétano Neonatal",
@@ -1186,7 +1186,7 @@
    "partition_period_end": "2026",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-04-29T11:05:00"
+   "latest_update": "2026-05-07T12:33:00"
   },
   "sinan-toxc": {
    "name": "Toxoplasmose Congênita",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 10954738,
+   "total_size": 10971618,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2026",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-05-06T08:53:00"
+   "latest_update": "2026-05-07T15:18:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
