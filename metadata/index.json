@@ -268,13 +268,13 @@
    "name": "Painel de Oncologia",
    "source": "po",
    "n_files": 14,
-   "total_size": 194426785,
+   "total_size": 192619391,
    "partition_n_ufs": 1,
    "partition_period_start": "2013",
    "partition_period_end": "2026",
    "partition_n_periods": 14,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-03-18T12:13:00"
+   "latest_update": "2026-05-11T18:09:00"
   },
   "resp": {
    "name": "Notificações de casos suspeitos de SCZ",
@@ -303,50 +303,50 @@
   "sia-abo": {
    "name": "APAC Acompanhamento Pós Cirurgia Bariátrica",
    "source": "sia",
-   "n_files": 1541,
-   "total_size": 37117969,
+   "n_files": 1552,
+   "total_size": 37368514,
    "partition_n_ufs": 18,
    "partition_period_start": "2014-01",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 146,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 147,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-04-08T09:19:00"
+   "latest_update": "2026-05-11T08:01:00"
   },
   "sia-acf": {
    "name": "APAC Confeção de Fístula Arteriovenosa",
    "source": "sia",
-   "n_files": 3633,
-   "total_size": 31159236,
+   "n_files": 3660,
+   "total_size": 31400034,
    "partition_n_ufs": 27,
    "partition_period_start": "2014-08",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 139,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 140,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-04-08T09:19:00"
+   "latest_update": "2026-05-11T08:01:00"
   },
   "sia-ad": {
    "name": "APAC de Laudos Diversos",
    "source": "sia",
-   "n_files": 5884,
-   "total_size": 3101053752,
+   "n_files": 5911,
+   "total_size": 3122141881,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 218,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 219,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-04-08T09:19:00"
+   "latest_update": "2026-05-11T08:01:00"
   },
   "sia-am": {
    "name": "APAC de Medicamentos",
    "source": "sia",
-   "n_files": 5825,
-   "total_size": 17777536573,
+   "n_files": 5852,
+   "total_size": 17939896900,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 218,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 219,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-04-08T09:20:00"
+   "latest_update": "2026-05-11T08:01:00"
   },
   "sia-an": {
    "name": "APAC de Nefrologia",
@@ -363,62 +363,62 @@
   "sia-aq": {
    "name": "APAC de Quimioterapia",
    "source": "sia",
-   "n_files": 5845,
-   "total_size": 4898253583,
+   "n_files": 5872,
+   "total_size": 4914845600,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 218,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 219,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-04-08T09:20:00"
+   "latest_update": "2026-05-11T08:01:00"
   },
   "sia-ar": {
    "name": "APAC de Radioterapia",
    "source": "sia",
-   "n_files": 5335,
-   "total_size": 352163236,
+   "n_files": 5361,
+   "total_size": 353428555,
    "partition_n_ufs": 26,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 218,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 219,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-04-08T09:20:00"
+   "latest_update": "2026-05-11T08:01:00"
   },
   "sia-atd": {
    "name": "APAC de Tratamento Dialítico",
    "source": "sia",
-   "n_files": 3748,
-   "total_size": 1012793350,
+   "n_files": 3776,
+   "total_size": 1021495557,
    "partition_n_ufs": 27,
    "partition_period_start": "2014-08",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 139,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 140,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-04-08T09:20:00"
+   "latest_update": "2026-05-11T08:02:00"
   },
   "sia-pa": {
    "name": "Produção Ambulatorial",
    "source": "sia",
-   "n_files": 10653,
-   "total_size": 204340001166,
+   "n_files": 10687,
+   "total_size": 205576950382,
    "partition_n_ufs": 27,
    "partition_period_start": "1994-07",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 380,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 381,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-04-08T09:26:00"
+   "latest_update": "2026-05-11T08:07:00"
   },
   "sia-ps": {
    "name": "Psicossocial",
    "source": "sia",
-   "n_files": 4259,
-   "total_size": 3117507172,
+   "n_files": 4286,
+   "total_size": 3189999094,
    "partition_n_ufs": 27,
    "partition_period_start": "2012-11",
-   "partition_period_end": "2026-02",
-   "partition_n_periods": 160,
+   "partition_period_end": "2026-03",
+   "partition_n_periods": 161,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-04-08T09:26:00"
+   "latest_update": "2026-05-11T08:07:00"
   },
   "sia-sad": {
    "name": "Atenção Domiciliar",
@@ -1227,14 +1227,14 @@
   "sinan-tube": {
    "name": "Tuberculose",
    "source": "sinan",
-   "n_files": 24,
-   "total_size": 107640692,
+   "n_files": 25,
+   "total_size": 113259258,
    "partition_n_ufs": 1,
    "partition_period_start": "2001",
-   "partition_period_end": "2024",
-   "partition_n_periods": 24,
+   "partition_period_end": "2025",
+   "partition_n_periods": 25,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-10-15T16:58:00"
+   "latest_update": "2026-05-07T16:08:00"
   },
   "sinan-varc": {
    "name": "Varicela",

@@ -287,9 +287,9 @@
  {
   "filename": "TUBEBR20.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TUBEBR20.dbc",
-  "datetime": "2025-10-15T16:58:00",
+  "datetime": "2026-05-07T16:08:00",
   "extension": "dbc",
-  "size": 4768738,
+  "size": 4732006,
   "dataset": "sinan-tube",
   "partition": {
    "uf": "br",
@@ -302,9 +302,9 @@
  {
   "filename": "TUBEBR21.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TUBEBR21.dbc",
-  "datetime": "2025-10-15T16:58:00",
+  "datetime": "2026-05-07T16:08:00",
   "extension": "dbc",
-  "size": 5071276,
+  "size": 5035428,
   "dataset": "sinan-tube",
   "partition": {
    "uf": "br",
@@ -317,9 +317,9 @@
  {
   "filename": "TUBEBR22.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TUBEBR22.dbc",
-  "datetime": "2025-10-15T16:58:00",
+  "datetime": "2026-05-07T16:08:00",
   "extension": "dbc",
-  "size": 5730408,
+  "size": 5691427,
   "dataset": "sinan-tube",
   "partition": {
    "uf": "br",
@@ -332,9 +332,9 @@
  {
   "filename": "TUBEBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TUBEBR23.dbc",
-  "datetime": "2025-10-15T16:58:00",
+  "datetime": "2026-05-07T16:08:00",
   "extension": "dbc",
-  "size": 6045436,
+  "size": 5969498,
   "dataset": "sinan-tube",
   "partition": {
    "uf": "br",
@@ -347,13 +347,28 @@
  {
   "filename": "TUBEBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TUBEBR24.dbc",
-  "datetime": "2025-10-15T16:58:00",
+  "datetime": "2026-05-07T16:08:00",
   "extension": "dbc",
-  "size": 6144260,
+  "size": 6118830,
   "dataset": "sinan-tube",
   "partition": {
    "uf": "br",
    "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "TUBEBR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/TUBEBR25.dbc",
+  "datetime": "2026-05-07T16:08:00",
+  "extension": "dbc",
+  "size": 5831495,
+  "dataset": "sinan-tube",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
    "month": null,
    "subpartition": null
   },
