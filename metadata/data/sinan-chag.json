@@ -373,5 +373,20 @@
    "subpartition": null
   },
   "preliminary": true
+ },
+ {
+  "filename": "CHAGBR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/CHAGBR25.dbc",
+  "datetime": "2026-05-12T14:21:00",
+  "extension": "dbc",
+  "size": 515731,
+  "dataset": "sinan-chag",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
  }
 ]
