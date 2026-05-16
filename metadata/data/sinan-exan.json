@@ -167,9 +167,9 @@
  {
   "filename": "EXANBR18.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/EXANBR18.dbc",
-  "datetime": "2023-01-16T12:11:00",
+  "datetime": "2026-05-13T09:41:00",
   "extension": "dbc",
-  "size": 949720,
+  "size": 916929,
   "dataset": "sinan-exan",
   "partition": {
    "uf": "br",
@@ -182,9 +182,9 @@
  {
   "filename": "EXANBR19.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/EXANBR19.dbc",
-  "datetime": "2026-01-15T16:34:00",
+  "datetime": "2026-05-13T09:41:00",
   "extension": "dbc",
-  "size": 3866922,
+  "size": 3862285,
   "dataset": "sinan-exan",
   "partition": {
    "uf": "br",
@@ -197,9 +197,9 @@
  {
   "filename": "EXANBR20.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/EXANBR20.dbc",
-  "datetime": "2026-01-15T16:34:00",
+  "datetime": "2026-05-13T09:41:00",
   "extension": "dbc",
-  "size": 1025134,
+  "size": 1037349,
   "dataset": "sinan-exan",
   "partition": {
    "uf": "br",
@@ -212,9 +212,9 @@
  {
   "filename": "EXANBR21.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/EXANBR21.dbc",
-  "datetime": "2026-01-15T16:34:00",
+  "datetime": "2026-05-13T09:41:00",
   "extension": "dbc",
-  "size": 191995,
+  "size": 191578,
   "dataset": "sinan-exan",
   "partition": {
    "uf": "br",
@@ -227,9 +227,9 @@
  {
   "filename": "EXANBR22.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/EXANBR22.dbc",
-  "datetime": "2026-01-15T16:34:00",
+  "datetime": "2026-05-13T09:41:00",
   "extension": "dbc",
-  "size": 273382,
+  "size": 273190,
   "dataset": "sinan-exan",
   "partition": {
    "uf": "br",
@@ -242,9 +242,9 @@
  {
   "filename": "EXANBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/EXANBR23.dbc",
-  "datetime": "2026-01-15T16:34:00",
+  "datetime": "2026-05-13T09:41:00",
   "extension": "dbc",
-  "size": 171380,
+  "size": 171381,
   "dataset": "sinan-exan",
   "partition": {
    "uf": "br",
@@ -257,9 +257,9 @@
  {
   "filename": "EXANBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/EXANBR24.dbc",
-  "datetime": "2026-01-15T16:34:00",
+  "datetime": "2026-05-13T09:41:00",
   "extension": "dbc",
-  "size": 197293,
+  "size": 197211,
   "dataset": "sinan-exan",
   "partition": {
    "uf": "br",
@@ -272,13 +272,28 @@
  {
   "filename": "EXANBR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/EXANBR25.dbc",
-  "datetime": "2026-01-15T16:34:00",
+  "datetime": "2026-05-13T09:41:00",
   "extension": "dbc",
-  "size": 299349,
+  "size": 312388,
   "dataset": "sinan-exan",
   "partition": {
    "uf": "br",
    "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "EXANBR26.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/EXANBR26.dbc",
+  "datetime": "2026-05-13T09:41:00",
+  "extension": "dbc",
+  "size": 54247,
+  "dataset": "sinan-exan",
+  "partition": {
+   "uf": "br",
+   "year": 2026,
    "month": null,
    "subpartition": null
   },
