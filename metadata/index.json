@@ -40,13 +40,13 @@
    "name": "Base Territorial - Conversão",
    "source": "base-territorial",
    "n_files": 28,
-   "total_size": 19944948,
+   "total_size": 19944760,
    "partition_n_ufs": 28,
    "partition_period_start": null,
    "partition_period_end": null,
    "partition_n_periods": 0,
    "partition_periodicity": null,
-   "latest_update": "2026-05-20T22:35:00"
+   "latest_update": "2026-05-21T13:19:00"
   },
   "base-territorial-mapas": {
    "name": "Base Territorial - Mapas",
@@ -304,49 +304,49 @@
    "name": "APAC Acompanhamento Pós Cirurgia Bariátrica",
    "source": "sia",
    "n_files": 1552,
-   "total_size": 37368491,
+   "total_size": 37370630,
    "partition_n_ufs": 18,
    "partition_period_start": "2014-01",
    "partition_period_end": "2026-03",
    "partition_n_periods": 147,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-05-15T18:27:00"
+   "latest_update": "2026-05-21T19:05:00"
   },
   "sia-acf": {
    "name": "APAC Confeção de Fístula Arteriovenosa",
    "source": "sia",
    "n_files": 3660,
-   "total_size": 31401268,
+   "total_size": 31401489,
    "partition_n_ufs": 27,
    "partition_period_start": "2014-08",
    "partition_period_end": "2026-03",
    "partition_n_periods": 140,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-05-15T18:27:00"
+   "latest_update": "2026-05-21T19:05:00"
   },
   "sia-ad": {
    "name": "APAC de Laudos Diversos",
    "source": "sia",
    "n_files": 5911,
-   "total_size": 3122236017,
+   "total_size": 3118852126,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
    "partition_period_end": "2026-03",
    "partition_n_periods": 219,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-05-15T18:27:00"
+   "latest_update": "2026-05-21T19:05:00"
   },
   "sia-am": {
    "name": "APAC de Medicamentos",
    "source": "sia",
    "n_files": 5852,
-   "total_size": 17939657334,
+   "total_size": 17962974075,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
    "partition_period_end": "2026-03",
    "partition_n_periods": 219,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-05-15T18:27:00"
+   "latest_update": "2026-05-21T19:05:00"
   },
   "sia-an": {
    "name": "APAC de Nefrologia",
@@ -364,61 +364,61 @@
    "name": "APAC de Quimioterapia",
    "source": "sia",
    "n_files": 5872,
-   "total_size": 4914901111,
+   "total_size": 4907208918,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
    "partition_period_end": "2026-03",
    "partition_n_periods": 219,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-05-15T18:27:00"
+   "latest_update": "2026-05-21T19:05:00"
   },
   "sia-ar": {
    "name": "APAC de Radioterapia",
    "source": "sia",
    "n_files": 5361,
-   "total_size": 353428517,
+   "total_size": 353416597,
    "partition_n_ufs": 26,
    "partition_period_start": "2008-01",
    "partition_period_end": "2026-03",
    "partition_n_periods": 219,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-05-15T18:27:00"
+   "latest_update": "2026-05-21T19:05:00"
   },
   "sia-atd": {
    "name": "APAC de Tratamento Dialítico",
    "source": "sia",
    "n_files": 3776,
-   "total_size": 1021540485,
+   "total_size": 1020815342,
    "partition_n_ufs": 27,
    "partition_period_start": "2014-08",
    "partition_period_end": "2026-03",
    "partition_n_periods": 140,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-05-15T18:27:00"
+   "latest_update": "2026-05-21T19:05:00"
   },
   "sia-pa": {
    "name": "Produção Ambulatorial",
    "source": "sia",
    "n_files": 10687,
-   "total_size": 205585501827,
+   "total_size": 205394966889,
    "partition_n_ufs": 27,
    "partition_period_start": "1994-07",
    "partition_period_end": "2026-03",
    "partition_n_periods": 381,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-05-15T18:27:00"
+   "latest_update": "2026-05-21T19:07:00"
   },
   "sia-ps": {
    "name": "Psicossocial",
    "source": "sia",
    "n_files": 4286,
-   "total_size": 3190045443,
+   "total_size": 3189583950,
    "partition_n_ufs": 27,
    "partition_period_start": "2012-11",
    "partition_period_end": "2026-03",
    "partition_n_periods": 161,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-05-15T18:27:00"
+   "latest_update": "2026-05-21T19:07:00"
   },
   "sia-sad": {
    "name": "Atenção Domiciliar",
@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 12,
-   "total_size": 91735348,
+   "total_size": 95786384,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2026",
    "partition_n_periods": 12,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-05-12T15:30:00"
+   "latest_update": "2026-05-20T08:35:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 27,
-   "total_size": 1254750662,
+   "total_size": 1216620017,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2026",
    "partition_n_periods": 27,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-05-12T15:32:00"
+   "latest_update": "2026-05-20T10:40:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 11,
-   "total_size": 11348103,
+   "total_size": 12873246,
    "partition_n_ufs": 1,
    "partition_period_start": "2016",
    "partition_period_end": "2026",
    "partition_n_periods": 11,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-05-15T08:11:00"
+   "latest_update": "2026-05-20T08:36:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
@@ -1453,8 +1453,8 @@
   "ciha": {
    "source_name": "CIHA: Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "n_files": 1,
-   "total_size": 66364682,
-   "latest_update": "2026-05-20T22:41:00"
+   "total_size": 66364675,
+   "latest_update": "2026-05-21T13:30:00"
   },
   "cmd": {
    "source_name": "CMD: Conjunto Mínimo de Dados",
@@ -1465,8 +1465,8 @@
   "cnes": {
    "source_name": "CNES: Cadastro Nacional de Estabelecimentos de Saúde",
    "n_files": 1,
-   "total_size": 125523950,
-   "latest_update": "2026-05-20T22:50:00"
+   "total_size": 125523943,
+   "latest_update": "2026-05-21T13:43:00"
   },
   "pce": {
    "source_name": "PCE: Programa de Controle da Esquistossomose",
@@ -1489,14 +1489,14 @@
   "sia": {
    "source_name": "SIA: Sistema de Informações Ambulatoriais",
    "n_files": 4,
-   "total_size": 86174375,
-   "latest_update": "2026-05-20T22:57:00"
+   "total_size": 86173231,
+   "latest_update": "2026-05-21T12:58:00"
   },
   "sih": {
    "source_name": "SIH: Sistema de Informação Hospitalar",
    "n_files": 4,
-   "total_size": 14773692,
-   "latest_update": "2026-05-20T23:02:00"
+   "total_size": 14773685,
+   "latest_update": "2026-05-21T14:02:00"
   },
   "sim": {
    "source_name": "SIM: Sistema de Informação de Mortalidade",
