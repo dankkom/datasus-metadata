@@ -137,9 +137,9 @@
  {
   "filename": "BOTUBR16.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/BOTUBR16.dbc",
-  "datetime": "2021-11-23T11:56:00",
+  "datetime": "2026-05-25T11:23:00",
   "extension": "dbc",
-  "size": 9596,
+  "size": 10208,
   "dataset": "sinan-botu",
   "partition": {
    "uf": "br",
@@ -256,7 +256,7 @@
  },
  {
   "filename": "BOTUBR24.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/BOTUBR24.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/BOTUBR24.dbc",
   "datetime": "2026-02-20T09:36:00",
   "extension": "dbc",
   "size": 10166,
@@ -267,14 +267,14 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "BOTUBR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/BOTUBR25.dbc",
-  "datetime": "2026-02-20T09:36:00",
+  "datetime": "2026-05-25T11:23:00",
   "extension": "dbc",
-  "size": 11315,
+  "size": 11729,
   "dataset": "sinan-botu",
   "partition": {
    "uf": "br",
@@ -287,9 +287,9 @@
  {
   "filename": "BOTUBR26.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/BOTUBR26.dbc",
-  "datetime": "2026-02-20T09:36:00",
+  "datetime": "2026-05-25T11:22:00",
   "extension": "dbc",
-  "size": 5013,
+  "size": 6711,
   "dataset": "sinan-botu",
   "partition": {
    "uf": "br",
