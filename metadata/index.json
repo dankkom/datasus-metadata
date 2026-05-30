@@ -736,13 +736,13 @@
    "name": "Coqueluche",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 12210002,
+   "total_size": 12216994,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-05-21T10:51:00"
+   "latest_update": "2026-05-28T15:45:00"
   },
   "sinan-deng": {
    "name": "Dengue",
@@ -772,13 +772,13 @@
    "name": "Difteria",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 156798,
+   "total_size": 157031,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-05-21T10:53:00"
+   "latest_update": "2026-05-28T15:45:00"
   },
   "sinan-espo": {
    "name": "Esporotricose (Epizootia)",
@@ -855,14 +855,14 @@
   "sinan-hant": {
    "name": "Hantavirose",
    "source": "sinan",
-   "n_files": 27,
-   "total_size": 2315380,
+   "n_files": 28,
+   "total_size": 2343714,
    "partition_n_ufs": 1,
    "partition_period_start": "1999",
-   "partition_period_end": "2025",
-   "partition_n_periods": 27,
+   "partition_period_end": "2026",
+   "partition_n_periods": 28,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-03-25T14:17:00"
+   "latest_update": "2026-05-15T11:48:00"
   },
   "sinan-hepa": {
    "name": "Hepatites Virais",
@@ -1168,13 +1168,13 @@
    "name": "Tétano Acidental",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 784066,
+   "total_size": 785242,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-05-21T10:54:00"
+   "latest_update": "2026-05-28T15:46:00"
   },
   "sinan-tetn": {
    "name": "Tétano Neonatal",
@@ -1186,7 +1186,7 @@
    "partition_period_end": "2026",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-05-21T10:56:00"
+   "latest_update": "2026-05-28T15:46:00"
   },
   "sinan-toxc": {
    "name": "Toxoplasmose Congênita",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 12,
-   "total_size": 13940713,
+   "total_size": 13963877,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2026",
    "partition_n_periods": 12,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-05-26T11:30:00"
+   "latest_update": "2026-05-29T09:00:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",

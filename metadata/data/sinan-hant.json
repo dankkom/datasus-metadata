@@ -403,5 +403,20 @@
    "subpartition": null
   },
   "preliminary": true
+ },
+ {
+  "filename": "HANTBR26.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/HANTBR26.dbc",
+  "datetime": "2026-05-15T11:48:00",
+  "extension": "dbc",
+  "size": 28334,
+  "dataset": "sinan-hant",
+  "partition": {
+   "uf": "br",
+   "year": 2026,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
  }
 ]
