@@ -1,5 +1,20 @@
 [
  {
+  "filename": "CHIKBR14.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/CHIKBR14.dbc",
+  "datetime": "2026-06-02T08:39:00",
+  "extension": "dbc",
+  "size": 136011,
+  "dataset": "sinan-chik",
+  "partition": {
+   "uf": "br",
+   "year": 2014,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
   "filename": "CHIKBR15.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/CHIKBR15.dbc",
   "datetime": "2026-05-26T14:23:00",
@@ -152,9 +167,9 @@
  {
   "filename": "CHIKBR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/CHIKBR25.dbc",
-  "datetime": "2026-05-06T08:53:00",
+  "datetime": "2026-06-03T10:50:00",
   "extension": "dbc",
-  "size": 9378089,
+  "size": 9378923,
   "dataset": "sinan-chik",
   "partition": {
    "uf": "br",
@@ -167,9 +182,9 @@
  {
   "filename": "CHIKBR26.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/CHIKBR26.dbc",
-  "datetime": "2026-05-26T14:23:00",
+  "datetime": "2026-06-02T08:39:00",
   "extension": "dbc",
-  "size": 2709971,
+  "size": 2890324,
   "dataset": "sinan-chik",
   "partition": {
    "uf": "br",
