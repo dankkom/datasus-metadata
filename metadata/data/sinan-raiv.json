@@ -256,8 +256,8 @@
  },
  {
   "filename": "RAIVBR24.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/RAIVBR24.dbc",
-  "datetime": "2025-06-17T11:05:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/RAIVBR24.dbc",
+  "datetime": "2026-06-02T12:22:00",
   "extension": "dbc",
   "size": 4150,
   "dataset": "sinan-raiv",
@@ -267,18 +267,33 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "RAIVBR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/RAIVBR25.dbc",
-  "datetime": "2025-06-17T11:05:00",
+  "datetime": "2026-06-02T12:22:00",
   "extension": "dbc",
-  "size": 3935,
+  "size": 4474,
   "dataset": "sinan-raiv",
   "partition": {
    "uf": "br",
    "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "RAIVBR26.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/RAIVBR26.dbc",
+  "datetime": "2026-06-02T12:22:00",
+  "extension": "dbc",
+  "size": 3590,
+  "dataset": "sinan-raiv",
+  "partition": {
+   "uf": "br",
+   "year": 2026,
    "month": null,
    "subpartition": null
   },

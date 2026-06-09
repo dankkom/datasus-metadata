@@ -736,25 +736,25 @@
    "name": "Coqueluche",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 12216994,
+   "total_size": 12219861,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-05-28T15:45:00"
+   "latest_update": "2026-06-02T14:48:00"
   },
   "sinan-deng": {
    "name": "Dengue",
    "source": "sinan",
    "n_files": 27,
-   "total_size": 1160771246,
+   "total_size": 1160846226,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2026",
    "partition_n_periods": 27,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-06-02T08:38:00"
+   "latest_update": "2026-06-08T08:11:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -772,13 +772,13 @@
    "name": "Difteria",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 157031,
+   "total_size": 157007,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-05-28T15:45:00"
+   "latest_update": "2026-06-02T14:49:00"
   },
   "sinan-espo": {
    "name": "Esporotricose (Epizootia)",
@@ -795,14 +795,14 @@
   "sinan-esqu": {
    "name": "Esquistossomose",
    "source": "sinan",
-   "n_files": 19,
-   "total_size": 8240446,
+   "n_files": 20,
+   "total_size": 8423041,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2025",
-   "partition_n_periods": 19,
+   "partition_period_end": "2026",
+   "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-08-04T17:15:00"
+   "latest_update": "2026-06-02T12:19:00"
   },
   "sinan-exan": {
    "name": "Doenças exantemáticas",
@@ -1083,14 +1083,14 @@
   "sinan-raiv": {
    "name": "Raiva",
    "source": "sinan",
-   "n_files": 19,
-   "total_size": 159340,
+   "n_files": 20,
+   "total_size": 163469,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2025",
-   "partition_n_periods": 19,
+   "partition_period_end": "2026",
+   "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-06-17T11:05:00"
+   "latest_update": "2026-06-02T12:22:00"
   },
   "sinan-rota": {
    "name": "Rotavírus",
@@ -1168,13 +1168,13 @@
    "name": "Tétano Acidental",
    "source": "sinan",
    "n_files": 21,
-   "total_size": 785242,
+   "total_size": 785771,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-05-28T15:46:00"
+   "latest_update": "2026-06-02T14:50:00"
   },
   "sinan-tetn": {
    "name": "Tétano Neonatal",
@@ -1186,7 +1186,7 @@
    "partition_period_end": "2026",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-05-28T15:46:00"
+   "latest_update": "2026-06-02T14:50:00"
   },
   "sinan-toxc": {
    "name": "Toxoplasmose Congênita",
