@@ -663,14 +663,14 @@
   "sinan-antr": {
    "name": "Atendimento Antirrábico",
    "source": "sinan",
-   "n_files": 20,
-   "total_size": 477353426,
+   "n_files": 21,
+   "total_size": 512905125,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
-   "partition_period_end": "2025",
-   "partition_n_periods": 20,
+   "partition_period_end": "2026",
+   "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-06-17T11:19:00"
+   "latest_update": "2026-06-11T08:17:00"
   },
   "sinan-botu": {
    "name": "Botulismo",
