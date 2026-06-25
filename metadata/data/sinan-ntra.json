@@ -181,10 +181,10 @@
  },
  {
   "filename": "NTRABR22.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/NTRABR22.dbc",
-  "datetime": "2025-09-16T11:12:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/NTRABR22.dbc",
+  "datetime": "2026-05-29T14:53:00",
   "extension": "dbc",
-  "size": 27837,
+  "size": 27845,
   "dataset": "sinan-ntra",
   "partition": {
    "uf": "br",
@@ -192,14 +192,14 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "NTRABR23.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/NTRABR23.dbc",
-  "datetime": "2025-09-16T11:12:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/NTRABR23.dbc",
+  "datetime": "2026-05-29T14:53:00",
   "extension": "dbc",
-  "size": 34638,
+  "size": 34704,
   "dataset": "sinan-ntra",
   "partition": {
    "uf": "br",
@@ -207,14 +207,14 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "NTRABR24.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/NTRABR24.dbc",
-  "datetime": "2025-09-16T11:12:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/NTRABR24.dbc",
+  "datetime": "2026-05-29T14:53:00",
   "extension": "dbc",
-  "size": 36736,
+  "size": 33640,
   "dataset": "sinan-ntra",
   "partition": {
    "uf": "br",
@@ -222,18 +222,33 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "NTRABR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/NTRABR25.dbc",
-  "datetime": "2025-09-16T11:12:00",
+  "datetime": "2026-05-29T14:53:00",
   "extension": "dbc",
-  "size": 11481,
+  "size": 41690,
   "dataset": "sinan-ntra",
   "partition": {
    "uf": "br",
    "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "NTRABR26.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/NTRABR26.dbc",
+  "datetime": "2026-05-29T14:53:00",
+  "extension": "dbc",
+  "size": 4313,
+  "dataset": "sinan-ntra",
+  "partition": {
+   "uf": "br",
+   "year": 2026,
    "month": null,
    "subpartition": null
   },

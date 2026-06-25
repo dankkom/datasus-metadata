@@ -63,14 +63,14 @@
   "base-territorial": {
    "name": "Base Territorial",
    "source": "base-territorial",
-   "n_files": 20,
-   "total_size": 32647883,
+   "n_files": 21,
+   "total_size": 34414399,
    "partition_n_ufs": 1,
    "partition_period_start": null,
    "partition_period_end": null,
    "partition_n_periods": 0,
    "partition_periodicity": null,
-   "latest_update": "2026-04-27T16:34:00"
+   "latest_update": "2026-06-24T10:46:00"
   },
   "cih-cr": {
    "name": "Comunicação de Internação Hospitalar",
@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 13,
-   "total_size": 97074737,
+   "total_size": 97224582,
    "partition_n_ufs": 1,
    "partition_period_start": "2014",
    "partition_period_end": "2026",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-06-16T10:44:00"
+   "latest_update": "2026-06-23T16:34:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 27,
-   "total_size": 1161696652,
+   "total_size": 1162049957,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2026",
    "partition_n_periods": 27,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-06-16T10:43:00"
+   "latest_update": "2026-06-23T12:15:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1023,14 +1023,14 @@
   "sinan-ntra": {
    "name": "Notificação de Tracoma",
    "source": "sinan",
-   "n_files": 16,
-   "total_size": 737484,
+   "n_files": 17,
+   "total_size": 768984,
    "partition_n_ufs": 1,
    "partition_period_start": "2010",
-   "partition_period_end": "2025",
-   "partition_n_periods": 16,
+   "partition_period_end": "2026",
+   "partition_n_periods": 17,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-09-16T11:12:00"
+   "latest_update": "2026-05-29T14:53:00"
   },
   "sinan-pair": {
    "name": "Perda auditiva por ruído relacionado ao trabalho",
@@ -1215,14 +1215,14 @@
   "sinan-trac": {
    "name": "Inquérito de Tracoma",
    "source": "sinan",
-   "n_files": 17,
-   "total_size": 1755220,
+   "n_files": 18,
+   "total_size": 1776955,
    "partition_n_ufs": 1,
    "partition_period_start": "2009",
-   "partition_period_end": "2025",
-   "partition_n_periods": 17,
+   "partition_period_end": "2026",
+   "partition_n_periods": 18,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-09-16T11:12:00"
+   "latest_update": "2026-05-29T14:54:00"
   },
   "sinan-tube": {
    "name": "Tuberculose",
