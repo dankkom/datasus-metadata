@@ -603,26 +603,26 @@
   "sinan-acbi": {
    "name": "Acidente de trabalho com material biológico",
    "source": "sinan",
-   "n_files": 20,
-   "total_size": 48933257,
+   "n_files": 21,
+   "total_size": 55380105,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
-   "partition_period_end": "2025",
-   "partition_n_periods": 20,
+   "partition_period_end": "2026",
+   "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-05-06T12:10:00"
+   "latest_update": "2026-06-09T08:56:00"
   },
   "sinan-acgr": {
    "name": "Acidente de trabalho",
    "source": "sinan",
-   "n_files": 20,
-   "total_size": 146242234,
+   "n_files": 21,
+   "total_size": 174422623,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
-   "partition_period_end": "2025",
-   "partition_n_periods": 20,
+   "partition_period_end": "2026",
+   "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-09-22T15:48:00"
+   "latest_update": "2026-06-09T08:57:00"
   },
   "sinan-aida": {
    "name": "AIDS em adultos",
@@ -687,14 +687,14 @@
   "sinan-canc": {
    "name": "Câncer relacionado ao trabalho",
    "source": "sinan",
-   "n_files": 19,
-   "total_size": 436076,
+   "n_files": 20,
+   "total_size": 569017,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2025",
-   "partition_n_periods": 19,
+   "partition_period_end": "2026",
+   "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-09-22T15:48:00"
+   "latest_update": "2026-06-09T08:58:00"
   },
   "sinan-chag": {
    "name": "Doença de Chagas Aguda",
@@ -759,14 +759,14 @@
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
    "source": "sinan",
-   "n_files": 20,
-   "total_size": 570152,
+   "n_files": 21,
+   "total_size": 673220,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
-   "partition_period_end": "2025",
-   "partition_n_periods": 20,
+   "partition_period_end": "2026",
+   "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-09-22T15:49:00"
+   "latest_update": "2026-06-09T09:00:00"
   },
   "sinan-dift": {
    "name": "Difteria",
@@ -963,14 +963,14 @@
   "sinan-lerd": {
    "name": "LER/Dort",
    "source": "sinan",
-   "n_files": 20,
-   "total_size": 7630187,
+   "n_files": 21,
+   "total_size": 8314496,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
-   "partition_period_end": "2025",
-   "partition_n_periods": 20,
+   "partition_period_end": "2026",
+   "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-09-23T11:08:00"
+   "latest_update": "2026-06-08T16:19:00"
   },
   "sinan-ltan": {
    "name": "Leishmaniose Tegumentar Americana",
@@ -1011,14 +1011,14 @@
   "sinan-ment": {
    "name": "Transtornos mentais relacionados ao trabalho",
    "source": "sinan",
-   "n_files": 18,
-   "total_size": 1389273,
+   "n_files": 21,
+   "total_size": 1846022,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
-   "partition_period_end": "2025",
-   "partition_n_periods": 18,
+   "partition_period_end": "2026",
+   "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-09-23T09:52:00"
+   "latest_update": "2026-06-08T16:20:00"
   },
   "sinan-ntra": {
    "name": "Notificação de Tracoma",
@@ -1035,14 +1035,14 @@
   "sinan-pair": {
    "name": "Perda auditiva por ruído relacionado ao trabalho",
    "source": "sinan",
-   "n_files": 20,
-   "total_size": 568184,
+   "n_files": 21,
+   "total_size": 590122,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
-   "partition_period_end": "2025",
-   "partition_n_periods": 20,
+   "partition_period_end": "2026",
+   "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-09-23T09:52:00"
+   "latest_update": "2026-06-08T16:19:00"
   },
   "sinan-pest": {
    "name": "Peste",
@@ -1071,14 +1071,14 @@
   "sinan-pneu": {
    "name": "Pneumoconioses relacionadas ao trabalho",
    "source": "sinan",
-   "n_files": 20,
-   "total_size": 336360,
+   "n_files": 21,
+   "total_size": 379221,
    "partition_n_ufs": 1,
    "partition_period_start": "2006",
-   "partition_period_end": "2025",
-   "partition_n_periods": 20,
+   "partition_period_end": "2026",
+   "partition_n_periods": 21,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-09-23T09:52:00"
+   "latest_update": "2026-06-08T16:20:00"
   },
   "sinan-raiv": {
    "name": "Raiva",

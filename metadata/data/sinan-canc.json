@@ -196,10 +196,10 @@
  },
  {
   "filename": "CANCBR20.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/CANCBR20.dbc",
-  "datetime": "2023-08-29T09:45:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/CANCBR20.dbc",
+  "datetime": "2026-06-09T08:58:00",
   "extension": "dbc",
-  "size": 24447,
+  "size": 24097,
   "dataset": "sinan-canc",
   "partition": {
    "uf": "br",
@@ -207,14 +207,14 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "CANCBR21.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/CANCBR21.dbc",
-  "datetime": "2025-05-06T16:06:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/CANCBR21.dbc",
+  "datetime": "2026-06-09T08:58:00",
   "extension": "dbc",
-  "size": 15449,
+  "size": 17377,
   "dataset": "sinan-canc",
   "partition": {
    "uf": "br",
@@ -222,14 +222,14 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "CANCBR22.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/CANCBR22.dbc",
-  "datetime": "2025-09-22T15:48:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/CANCBR22.dbc",
+  "datetime": "2026-06-09T08:58:00",
   "extension": "dbc",
-  "size": 37806,
+  "size": 54267,
   "dataset": "sinan-canc",
   "partition": {
    "uf": "br",
@@ -237,14 +237,14 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "CANCBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/CANCBR23.dbc",
-  "datetime": "2025-09-22T15:48:00",
+  "datetime": "2026-06-09T08:58:00",
   "extension": "dbc",
-  "size": 82064,
+  "size": 102173,
   "dataset": "sinan-canc",
   "partition": {
    "uf": "br",
@@ -257,9 +257,9 @@
  {
   "filename": "CANCBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/CANCBR24.dbc",
-  "datetime": "2025-09-22T15:48:00",
+  "datetime": "2026-06-09T08:58:00",
   "extension": "dbc",
-  "size": 92167,
+  "size": 117634,
   "dataset": "sinan-canc",
   "partition": {
    "uf": "br",
@@ -272,13 +272,28 @@
  {
   "filename": "CANCBR25.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/CANCBR25.dbc",
-  "datetime": "2025-09-22T15:48:00",
+  "datetime": "2026-06-09T08:58:00",
   "extension": "dbc",
-  "size": 45927,
+  "size": 88426,
   "dataset": "sinan-canc",
   "partition": {
    "uf": "br",
    "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "CANCBR26.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/CANCBR26.dbc",
+  "datetime": "2026-06-09T08:58:00",
+  "extension": "dbc",
+  "size": 26827,
+  "dataset": "sinan-canc",
+  "partition": {
+   "uf": "br",
+   "year": 2026,
    "month": null,
    "subpartition": null
   },
