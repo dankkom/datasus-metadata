@@ -6403,5 +6403,500 @@
    "subpartition": null
   },
   "preliminary": false
+ },
+ {
+  "filename": "PCEAL24.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEAL24.dbc",
+  "datetime": "2026-06-03T11:41:00",
+  "extension": "dbc",
+  "size": 6198,
+  "dataset": "pce",
+  "partition": {
+   "uf": "al",
+   "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEBA24.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEBA24.dbc",
+  "datetime": "2026-06-03T11:42:00",
+  "extension": "dbc",
+  "size": 10372,
+  "dataset": "pce",
+  "partition": {
+   "uf": "ba",
+   "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEBR24.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEBR24.dbc",
+  "datetime": "2026-07-06T17:47:00",
+  "extension": "dbc",
+  "size": 68101,
+  "dataset": "pce",
+  "partition": {
+   "uf": "br",
+   "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCECE24.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCECE24.dbc",
+  "datetime": "2026-06-03T11:42:00",
+  "extension": "dbc",
+  "size": 3481,
+  "dataset": "pce",
+  "partition": {
+   "uf": "ce",
+   "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEES24.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEES24.dbc",
+  "datetime": "2026-06-03T11:43:00",
+  "extension": "dbc",
+  "size": 1725,
+  "dataset": "pce",
+  "partition": {
+   "uf": "es",
+   "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEMG24.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEMG24.dbc",
+  "datetime": "2026-06-03T11:43:00",
+  "extension": "dbc",
+  "size": 1660,
+  "dataset": "pce",
+  "partition": {
+   "uf": "mg",
+   "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEPA24.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEPA24.dbc",
+  "datetime": "2026-06-03T11:43:00",
+  "extension": "dbc",
+  "size": 2577,
+  "dataset": "pce",
+  "partition": {
+   "uf": "pa",
+   "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEPB24.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEPB24.dbc",
+  "datetime": "2026-06-03T11:44:00",
+  "extension": "dbc",
+  "size": 1401,
+  "dataset": "pce",
+  "partition": {
+   "uf": "pb",
+   "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEPE24.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEPE24.dbc",
+  "datetime": "2026-06-03T11:44:00",
+  "extension": "dbc",
+  "size": 42652,
+  "dataset": "pce",
+  "partition": {
+   "uf": "pe",
+   "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEPI24.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEPI24.dbc",
+  "datetime": "2026-06-03T11:45:00",
+  "extension": "dbc",
+  "size": 1905,
+  "dataset": "pce",
+  "partition": {
+   "uf": "pi",
+   "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCERN24.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCERN24.dbc",
+  "datetime": "2026-06-03T11:45:00",
+  "extension": "dbc",
+  "size": 3386,
+  "dataset": "pce",
+  "partition": {
+   "uf": "rn",
+   "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCESE24.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCESE24.dbc",
+  "datetime": "2026-06-03T11:46:00",
+  "extension": "dbc",
+  "size": 7078,
+  "dataset": "pce",
+  "partition": {
+   "uf": "se",
+   "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEAL25.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEAL25.dbc",
+  "datetime": "2026-06-03T11:41:00",
+  "extension": "dbc",
+  "size": 27980,
+  "dataset": "pce",
+  "partition": {
+   "uf": "al",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEBA25.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEBA25.dbc",
+  "datetime": "2026-06-03T11:42:00",
+  "extension": "dbc",
+  "size": 11472,
+  "dataset": "pce",
+  "partition": {
+   "uf": "ba",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEBR25.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEBR25.dbc",
+  "datetime": "2026-07-06T17:47:00",
+  "extension": "dbc",
+  "size": 88728,
+  "dataset": "pce",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCECE25.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCECE25.dbc",
+  "datetime": "2026-06-03T11:42:00",
+  "extension": "dbc",
+  "size": 2501,
+  "dataset": "pce",
+  "partition": {
+   "uf": "ce",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEES25.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEES25.dbc",
+  "datetime": "2026-06-03T11:43:00",
+  "extension": "dbc",
+  "size": 1525,
+  "dataset": "pce",
+  "partition": {
+   "uf": "es",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEMA25.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEMA25.dbc",
+  "datetime": "2026-06-03T11:43:00",
+  "extension": "dbc",
+  "size": 1718,
+  "dataset": "pce",
+  "partition": {
+   "uf": "ma",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEMG25.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEMG25.dbc",
+  "datetime": "2026-06-03T11:43:00",
+  "extension": "dbc",
+  "size": 8743,
+  "dataset": "pce",
+  "partition": {
+   "uf": "mg",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEPA25.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEPA25.dbc",
+  "datetime": "2026-06-03T11:44:00",
+  "extension": "dbc",
+  "size": 2695,
+  "dataset": "pce",
+  "partition": {
+   "uf": "pa",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEPB25.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEPB25.dbc",
+  "datetime": "2026-06-03T11:44:00",
+  "extension": "dbc",
+  "size": 1546,
+  "dataset": "pce",
+  "partition": {
+   "uf": "pb",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEPE25.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEPE25.dbc",
+  "datetime": "2026-06-03T11:45:00",
+  "extension": "dbc",
+  "size": 39169,
+  "dataset": "pce",
+  "partition": {
+   "uf": "pe",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEPI25.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEPI25.dbc",
+  "datetime": "2026-06-03T11:45:00",
+  "extension": "dbc",
+  "size": 2053,
+  "dataset": "pce",
+  "partition": {
+   "uf": "pi",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCERN25.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCERN25.dbc",
+  "datetime": "2026-06-03T11:45:00",
+  "extension": "dbc",
+  "size": 1852,
+  "dataset": "pce",
+  "partition": {
+   "uf": "rn",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCESE25.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCESE25.dbc",
+  "datetime": "2026-06-03T11:46:00",
+  "extension": "dbc",
+  "size": 2808,
+  "dataset": "pce",
+  "partition": {
+   "uf": "se",
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEAL26.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEAL26.dbc",
+  "datetime": "2026-06-03T15:28:00",
+  "extension": "dbc",
+  "size": 4452,
+  "dataset": "pce",
+  "partition": {
+   "uf": "al",
+   "year": 2026,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEBA26.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEBA26.dbc",
+  "datetime": "2026-06-03T15:24:00",
+  "extension": "dbc",
+  "size": 1657,
+  "dataset": "pce",
+  "partition": {
+   "uf": "ba",
+   "year": 2026,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEBR26.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEBR26.dbc",
+  "datetime": "2026-07-06T17:47:00",
+  "extension": "dbc",
+  "size": 13394,
+  "dataset": "pce",
+  "partition": {
+   "uf": "br",
+   "year": 2026,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEMG26.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEMG26.dbc",
+  "datetime": "2026-06-03T15:24:00",
+  "extension": "dbc",
+  "size": 1579,
+  "dataset": "pce",
+  "partition": {
+   "uf": "mg",
+   "year": 2026,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEPE26.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEPE26.dbc",
+  "datetime": "2026-06-03T15:24:00",
+  "extension": "dbc",
+  "size": 8835,
+  "dataset": "pce",
+  "partition": {
+   "uf": "pe",
+   "year": 2026,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCEPI26.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCEPI26.dbc",
+  "datetime": "2026-06-03T15:24:00",
+  "extension": "dbc",
+  "size": 1439,
+  "dataset": "pce",
+  "partition": {
+   "uf": "pi",
+   "year": 2026,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCERN26.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCERN26.dbc",
+  "datetime": "2026-06-03T15:24:00",
+  "extension": "dbc",
+  "size": 1400,
+  "dataset": "pce",
+  "partition": {
+   "uf": "rn",
+   "year": 2026,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "PCESE26.dbc",
+  "full_path": "/dissemin/publicos/PCE/DADOS/PCESE26.dbc",
+  "datetime": "2026-06-03T15:24:00",
+  "extension": "dbc",
+  "size": 1743,
+  "dataset": "pce",
+  "partition": {
+   "uf": "se",
+   "year": 2026,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
  }
 ]
