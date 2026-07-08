@@ -87,14 +87,14 @@
   "ciha": {
    "name": "Sistema de Comunicação de Informação Hospitalar e Ambulatorial",
    "source": "ciha",
-   "n_files": 4725,
-   "total_size": 5577168241,
+   "n_files": 4745,
+   "total_size": 5612240981,
    "partition_n_ufs": 26,
    "partition_period_start": "2011-01",
-   "partition_period_end": "2026-04",
-   "partition_n_periods": 184,
+   "partition_period_end": "2026-05",
+   "partition_n_periods": 185,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-06-10T15:05:00"
+   "latest_update": "2026-07-07T15:42:00"
   },
   "cnes-dc": {
    "name": "Dados Complementares",
@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 13,
-   "total_size": 97335361,
+   "total_size": 97441794,
    "partition_n_ufs": 1,
    "partition_period_start": "2014",
    "partition_period_end": "2026",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-06-30T10:41:00"
+   "latest_update": "2026-07-06T15:54:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 27,
-   "total_size": 1162337254,
+   "total_size": 1162675173,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2026",
    "partition_n_periods": 27,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-06-30T10:52:00"
+   "latest_update": "2026-07-06T15:38:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 12,
-   "total_size": 14009292,
+   "total_size": 14024851,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2026",
    "partition_n_periods": 12,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-06-26T10:44:00"
+   "latest_update": "2026-07-06T15:47:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
