@@ -844,13 +844,13 @@
    "name": "Hanseníase",
    "source": "sinan",
    "n_files": 26,
-   "total_size": 59874081,
+   "total_size": 60598317,
    "partition_n_ufs": 1,
    "partition_period_start": "2001",
    "partition_period_end": "2026",
    "partition_n_periods": 26,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-04-13T15:55:00"
+   "latest_update": "2026-07-06T11:11:00"
   },
   "sinan-hant": {
    "name": "Hantavirose",
@@ -1000,13 +1000,13 @@
    "name": "Meningite",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 48375866,
+   "total_size": 48525188,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-06-12T08:55:00"
+   "latest_update": "2026-07-08T14:42:00"
   },
   "sinan-ment": {
    "name": "Transtornos mentais relacionados ao trabalho",
