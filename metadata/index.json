@@ -46,7 +46,7 @@
    "partition_period_end": null,
    "partition_n_periods": 0,
    "partition_periodicity": null,
-   "latest_update": "2026-06-16T21:36:00"
+   "latest_update": "2026-07-09T14:50:00"
   },
   "base-territorial-mapas": {
    "name": "Base Territorial - Mapas",
@@ -303,50 +303,50 @@
   "sia-abo": {
    "name": "APAC Acompanhamento Pós Cirurgia Bariátrica",
    "source": "sia",
-   "n_files": 1567,
-   "total_size": 37673522,
+   "n_files": 1579,
+   "total_size": 37996196,
    "partition_n_ufs": 18,
    "partition_period_start": "2014-01",
-   "partition_period_end": "2026-04",
-   "partition_n_periods": 148,
+   "partition_period_end": "2026-05",
+   "partition_n_periods": 149,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-06-10T15:45:00"
+   "latest_update": "2026-07-09T16:13:00"
   },
   "sia-acf": {
    "name": "APAC Confeção de Fístula Arteriovenosa",
    "source": "sia",
-   "n_files": 3687,
-   "total_size": 31621263,
+   "n_files": 3714,
+   "total_size": 31832841,
    "partition_n_ufs": 27,
    "partition_period_start": "2014-08",
-   "partition_period_end": "2026-04",
-   "partition_n_periods": 141,
+   "partition_period_end": "2026-05",
+   "partition_n_periods": 142,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-06-10T15:46:00"
+   "latest_update": "2026-07-09T16:14:00"
   },
   "sia-ad": {
    "name": "APAC de Laudos Diversos",
    "source": "sia",
-   "n_files": 5938,
-   "total_size": 3148000767,
+   "n_files": 5965,
+   "total_size": 3155406359,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2026-04",
-   "partition_n_periods": 220,
+   "partition_period_end": "2026-05",
+   "partition_n_periods": 221,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-06-10T15:46:00"
+   "latest_update": "2026-07-09T16:14:00"
   },
   "sia-am": {
    "name": "APAC de Medicamentos",
    "source": "sia",
-   "n_files": 5880,
-   "total_size": 18072000743,
+   "n_files": 5905,
+   "total_size": 18241772140,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2026-04",
-   "partition_n_periods": 220,
+   "partition_period_end": "2026-05",
+   "partition_n_periods": 221,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-06-10T15:46:00"
+   "latest_update": "2026-07-09T16:14:00"
   },
   "sia-an": {
    "name": "APAC de Nefrologia",
@@ -363,62 +363,62 @@
   "sia-aq": {
    "name": "APAC de Quimioterapia",
    "source": "sia",
-   "n_files": 5899,
-   "total_size": 4963006528,
+   "n_files": 5926,
+   "total_size": 4993861681,
    "partition_n_ufs": 27,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2026-04",
-   "partition_n_periods": 220,
+   "partition_period_end": "2026-05",
+   "partition_n_periods": 221,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-06-10T15:46:00"
+   "latest_update": "2026-07-09T16:14:00"
   },
   "sia-ar": {
    "name": "APAC de Radioterapia",
    "source": "sia",
-   "n_files": 5388,
-   "total_size": 354692463,
+   "n_files": 5414,
+   "total_size": 355925707,
    "partition_n_ufs": 26,
    "partition_period_start": "2008-01",
-   "partition_period_end": "2026-04",
-   "partition_n_periods": 220,
+   "partition_period_end": "2026-05",
+   "partition_n_periods": 221,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-06-10T15:46:00"
+   "latest_update": "2026-07-09T16:14:00"
   },
   "sia-atd": {
    "name": "APAC de Tratamento Dialítico",
    "source": "sia",
-   "n_files": 3803,
-   "total_size": 1029356158,
+   "n_files": 3830,
+   "total_size": 1037278529,
    "partition_n_ufs": 27,
    "partition_period_start": "2014-08",
-   "partition_period_end": "2026-04",
-   "partition_n_periods": 141,
+   "partition_period_end": "2026-05",
+   "partition_n_periods": 142,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-06-10T15:47:00"
+   "latest_update": "2026-07-09T16:14:00"
   },
   "sia-pa": {
    "name": "Produção Ambulatorial",
    "source": "sia",
-   "n_files": 10722,
-   "total_size": 209271120746,
+   "n_files": 10757,
+   "total_size": 211669284919,
    "partition_n_ufs": 27,
    "partition_period_start": "1994-07",
-   "partition_period_end": "2026-04",
-   "partition_n_periods": 382,
+   "partition_period_end": "2026-05",
+   "partition_n_periods": 383,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-06-10T15:53:00"
+   "latest_update": "2026-07-09T16:21:00"
   },
   "sia-ps": {
    "name": "Psicossocial",
    "source": "sia",
-   "n_files": 4313,
-   "total_size": 3224784962,
+   "n_files": 4340,
+   "total_size": 3242432669,
    "partition_n_ufs": 27,
    "partition_period_start": "2012-11",
-   "partition_period_end": "2026-04",
-   "partition_n_periods": 162,
+   "partition_period_end": "2026-05",
+   "partition_n_periods": 163,
    "partition_periodicity": "monthly",
-   "latest_update": "2026-06-10T15:53:00"
+   "latest_update": "2026-07-09T16:21:00"
   },
   "sia-sad": {
    "name": "Atenção Domiciliar",
@@ -1059,14 +1059,14 @@
   "sinan-pfan": {
    "name": "Paralisia Flácida Aguda",
    "source": "sinan",
-   "n_files": 19,
-   "total_size": 1321499,
+   "n_files": 20,
+   "total_size": 1363186,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
-   "partition_period_end": "2025",
-   "partition_n_periods": 19,
+   "partition_period_end": "2026",
+   "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-10-23T10:33:00"
+   "latest_update": "2026-06-02T09:14:00"
   },
   "sinan-pneu": {
    "name": "Pneumoconioses relacionadas ao trabalho",
@@ -1501,8 +1501,8 @@
   "sim": {
    "source_name": "SIM: Sistema de Informação de Mortalidade",
    "n_files": 3,
-   "total_size": 11812018,
-   "latest_update": "2026-03-19T15:34:00"
+   "total_size": 11821767,
+   "latest_update": "2026-07-09T19:46:00"
   },
   "sinan": {
    "source_name": "SINAN: Sistema de Informação de Agravos de Notificação",
@@ -1513,8 +1513,8 @@
   "sinasc": {
    "source_name": "SINASC: Sistema de Informação de Nascidos Vivos",
    "n_files": 2,
-   "total_size": 3654277,
-   "latest_update": "2026-03-19T15:53:00"
+   "total_size": 3659676,
+   "latest_update": "2026-07-09T19:46:00"
   },
   "siscolo": {
    "source_name": "SISCOLO: Sistema de Informações de Cânceres de Colo de Útero",

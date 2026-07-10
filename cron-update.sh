@@ -63,8 +63,8 @@ cd "$REPO_DIR" || exit 1
 echo "[$(date -u +'%Y-%m-%dT%H:%M:%SZ')] Iniciando atualização..."
 
 # Se você estiver usando o 'uv' do ecossistema Quantilica, pode alterar para:
-# uv run python update-metadata.py
-python3 update-metadata.py
+uv run python update-metadata.py
+# python3 update-metadata.py
 
 # Faz commit e push se houver alterações
 if [[ -n $(git status -s) ]]; then
