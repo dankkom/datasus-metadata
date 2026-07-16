@@ -101233,5 +101233,410 @@
    "subpartition": null
   },
   "preliminary": false
+ },
+ {
+  "filename": "EQAC2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQAC2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 46805,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "ac",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQAL2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQAL2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 121828,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "al",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQAM2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQAM2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 111598,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "am",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQAP2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQAP2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 33377,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "ap",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQBA2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQBA2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 634073,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "ba",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQCE2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQCE2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 423749,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "ce",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQDF2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQDF2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 178605,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "df",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQES2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQES2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 247912,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "es",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQGO2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQGO2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 359166,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "go",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQMA2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQMA2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 211295,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "ma",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQMG2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQMG2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 1399020,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "mg",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQMS2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQMS2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 139343,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "ms",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQMT2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQMT2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 239071,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "mt",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQPA2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQPA2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 260705,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "pa",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQPB2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQPB2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 189570,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "pb",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQPE2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQPE2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 307940,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "pe",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQPI2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQPI2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 99915,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "pi",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQPR2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQPR2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 657931,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "pr",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQRJ2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQRJ2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 774698,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "rj",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQRN2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQRN2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 115445,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "rn",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQRO2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQRO2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 136920,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "ro",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQRR2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQRR2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 30546,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "rr",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQRS2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQRS2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 578782,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "rs",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQSC2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQSC2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 551297,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "sc",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQSE2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQSE2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 67227,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "se",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQSP2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQSP2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 2320121,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "sp",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
+ },
+ {
+  "filename": "EQTO2606.dbc",
+  "full_path": "/dissemin/publicos/CNES/200508_/Dados/EQ/EQTO2606.dbc",
+  "datetime": "2026-07-15T16:00:00",
+  "extension": "dbc",
+  "size": 77455,
+  "dataset": "cnes-eq",
+  "partition": {
+   "uf": "to",
+   "year": 2026,
+   "month": 6,
+   "subpartition": null
+  },
+  "preliminary": false
  }
 ]
