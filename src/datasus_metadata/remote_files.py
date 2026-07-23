@@ -1,17 +1,16 @@
 import datetime as dt
 import re
 from dataclasses import dataclass, field
-from typing import Optional
 
 from . import meta
 
 
 @dataclass
 class DataPartition:
-    uf: Optional[str] = None
-    year: Optional[int] = None
-    month: Optional[int] = None
-    subpartition: Optional[str] = None
+    uf: str | None = None
+    year: int | None = None
+    month: int | None = None
+    subpartition: str | None = None
 
     def __str__(self) -> str:
         uf, year, month = self.uf, self.year, self.month
