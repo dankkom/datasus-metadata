@@ -376,10 +376,10 @@
  },
  {
   "filename": "DENGBR25.dbc",
-  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/DENGBR25.dbc",
-  "datetime": "2026-06-08T08:11:00",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/FINAIS/DENGBR25.dbc",
+  "datetime": "2026-07-21T16:35:00",
   "extension": "dbc",
-  "size": 66300272,
+  "size": 66240691,
   "dataset": "sinan-deng",
   "partition": {
    "uf": "br",
@@ -387,14 +387,14 @@
    "month": null,
    "subpartition": null
   },
-  "preliminary": true
+  "preliminary": false
  },
  {
   "filename": "DENGBR26.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/DENGBR26.dbc",
-  "datetime": "2026-07-13T14:23:00",
+  "datetime": "2026-07-20T11:59:00",
   "extension": "dbc",
-  "size": 15274192,
+  "size": 15436632,
   "dataset": "sinan-deng",
   "partition": {
    "uf": "br",
