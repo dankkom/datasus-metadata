@@ -496,13 +496,13 @@
    "name": "Declarações de Óbito CID-10",
    "source": "sim",
    "n_files": 868,
-   "total_size": 5050435309,
+   "total_size": 5126956954,
    "partition_n_ufs": 28,
    "partition_period_start": "1996",
    "partition_period_end": "2026",
    "partition_n_periods": 31,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-07-27T12:48:00"
+   "latest_update": "2026-07-28T13:58:00"
   },
   "sim-doext-cid09": {
    "name": "Declarações de Óbito Externas CID-9",
