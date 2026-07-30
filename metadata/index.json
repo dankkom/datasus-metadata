@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 13,
-   "total_size": 97683936,
+   "total_size": 97799203,
    "partition_n_ufs": 1,
    "partition_period_start": "2014",
    "partition_period_end": "2026",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-07-21T10:35:00"
+   "latest_update": "2026-07-28T08:09:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -736,25 +736,25 @@
    "name": "Coqueluche",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 10725185,
+   "total_size": 10734090,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-07-02T14:32:00"
+   "latest_update": "2026-07-21T09:53:00"
   },
   "sinan-deng": {
    "name": "Dengue",
    "source": "sinan",
    "n_files": 27,
-   "total_size": 1163076469,
+   "total_size": 1148140462,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2026",
    "partition_n_periods": 27,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-07-21T16:35:00"
+   "latest_update": "2026-07-28T08:08:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -772,13 +772,13 @@
    "name": "Difteria",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 149516,
+   "total_size": 149626,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-07-02T14:33:00"
+   "latest_update": "2026-07-21T09:53:00"
   },
   "sinan-espo": {
    "name": "Esporotricose (Epizootia)",
@@ -952,13 +952,13 @@
    "name": "Leptospirose",
    "source": "sinan",
    "n_files": 27,
-   "total_size": 31079755,
+   "total_size": 31763171,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2026",
    "partition_n_periods": 27,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-01-23T08:44:00"
+   "latest_update": "2026-07-15T14:11:00"
   },
   "sinan-lerd": {
    "name": "LER/Dort",
@@ -1168,13 +1168,13 @@
    "name": "Tétano Acidental",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 749869,
+   "total_size": 751905,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-07-02T14:33:00"
+   "latest_update": "2026-07-21T09:53:00"
   },
   "sinan-tetn": {
    "name": "Tétano Neonatal",
@@ -1186,7 +1186,7 @@
    "partition_period_end": "2026",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-07-02T14:33:00"
+   "latest_update": "2026-07-21T09:53:00"
   },
   "sinan-toxc": {
    "name": "Toxoplasmose Congênita",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 12,
-   "total_size": 14045432,
+   "total_size": 14068635,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2026",
    "partition_n_periods": 12,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-07-21T16:35:00"
+   "latest_update": "2026-07-28T08:09:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
@@ -1489,14 +1489,14 @@
   "sia": {
    "source_name": "SIA: Sistema de Informações Ambulatoriais",
    "n_files": 4,
-   "total_size": 87327555,
-   "latest_update": "2026-07-21T15:39:00"
+   "total_size": 85048047,
+   "latest_update": "2026-07-29T21:34:00"
   },
   "sih": {
    "source_name": "SIH: Sistema de Informação Hospitalar",
    "n_files": 4,
-   "total_size": 14773456,
-   "latest_update": "2026-07-21T15:46:00"
+   "total_size": 14689066,
+   "latest_update": "2026-07-29T21:35:00"
   },
   "sim": {
    "source_name": "SIM: Sistema de Informação de Mortalidade",
