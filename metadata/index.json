@@ -1060,13 +1060,13 @@
    "name": "Paralisia Flácida Aguda",
    "source": "sinan",
    "n_files": 20,
-   "total_size": 1363186,
+   "total_size": 1363773,
    "partition_n_ufs": 1,
    "partition_period_start": "2007",
    "partition_period_end": "2026",
    "partition_n_periods": 20,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-06-02T09:14:00"
+   "latest_update": "2026-07-30T16:17:00"
   },
   "sinan-pneu": {
    "name": "Pneumoconioses relacionadas ao trabalho",
