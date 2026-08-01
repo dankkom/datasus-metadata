@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 27,
-   "total_size": 1148140462,
+   "total_size": 1112847039,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2026",
    "partition_n_periods": 27,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-07-28T08:08:00"
+   "latest_update": "2026-07-29T12:13:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
