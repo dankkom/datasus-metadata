@@ -2,7 +2,7 @@
  {
   "filename": "SIFCBR07.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SIFCBR07.dbc",
-  "datetime": "2024-10-24T14:31:00",
+  "datetime": "2026-06-30T12:55:00",
   "extension": "dbc",
   "size": 239565,
   "dataset": "sinan-sifc",
@@ -17,7 +17,7 @@
  {
   "filename": "SIFCBR08.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SIFCBR08.dbc",
-  "datetime": "2024-10-24T14:31:00",
+  "datetime": "2026-06-30T12:55:00",
   "extension": "dbc",
   "size": 251530,
   "dataset": "sinan-sifc",
@@ -32,7 +32,7 @@
  {
   "filename": "SIFCBR09.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SIFCBR09.dbc",
-  "datetime": "2024-10-24T14:31:00",
+  "datetime": "2026-06-30T12:55:00",
   "extension": "dbc",
   "size": 264052,
   "dataset": "sinan-sifc",
@@ -47,7 +47,7 @@
  {
   "filename": "SIFCBR10.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SIFCBR10.dbc",
-  "datetime": "2024-10-24T14:31:00",
+  "datetime": "2026-06-30T12:55:00",
   "extension": "dbc",
   "size": 299387,
   "dataset": "sinan-sifc",
@@ -62,7 +62,7 @@
  {
   "filename": "SIFCBR11.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SIFCBR11.dbc",
-  "datetime": "2024-10-24T14:31:00",
+  "datetime": "2026-06-30T12:55:00",
   "extension": "dbc",
   "size": 422974,
   "dataset": "sinan-sifc",
@@ -77,7 +77,7 @@
  {
   "filename": "SIFCBR12.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SIFCBR12.dbc",
-  "datetime": "2024-10-24T14:31:00",
+  "datetime": "2026-06-30T12:56:00",
   "extension": "dbc",
   "size": 509915,
   "dataset": "sinan-sifc",
@@ -92,7 +92,7 @@
  {
   "filename": "SIFCBR13.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SIFCBR13.dbc",
-  "datetime": "2024-10-24T14:31:00",
+  "datetime": "2026-06-30T12:56:00",
   "extension": "dbc",
   "size": 629659,
   "dataset": "sinan-sifc",
@@ -107,7 +107,7 @@
  {
   "filename": "SIFCBR14.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SIFCBR14.dbc",
-  "datetime": "2024-10-24T14:31:00",
+  "datetime": "2026-06-30T12:56:00",
   "extension": "dbc",
   "size": 736742,
   "dataset": "sinan-sifc",
@@ -137,7 +137,7 @@
  {
   "filename": "SIFCBR16.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SIFCBR16.dbc",
-  "datetime": "2024-10-24T14:31:00",
+  "datetime": "2026-06-30T12:57:00",
   "extension": "dbc",
   "size": 994886,
   "dataset": "sinan-sifc",
@@ -152,7 +152,7 @@
  {
   "filename": "SIFCBR17.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SIFCBR17.dbc",
-  "datetime": "2024-10-24T14:31:00",
+  "datetime": "2026-06-30T12:57:00",
   "extension": "dbc",
   "size": 1155525,
   "dataset": "sinan-sifc",
@@ -167,7 +167,7 @@
  {
   "filename": "SIFCBR18.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SIFCBR18.dbc",
-  "datetime": "2024-10-24T14:31:00",
+  "datetime": "2026-06-30T12:58:00",
   "extension": "dbc",
   "size": 1215135,
   "dataset": "sinan-sifc",
@@ -182,9 +182,9 @@
  {
   "filename": "SIFCBR19.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SIFCBR19.dbc",
-  "datetime": "2024-10-24T14:31:00",
+  "datetime": "2026-06-30T12:58:00",
   "extension": "dbc",
-  "size": 1154106,
+  "size": 1154037,
   "dataset": "sinan-sifc",
   "partition": {
    "uf": "br",
@@ -197,9 +197,9 @@
  {
   "filename": "SIFCBR20.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SIFCBR20.dbc",
-  "datetime": "2024-10-24T14:31:00",
+  "datetime": "2026-06-30T12:59:00",
   "extension": "dbc",
-  "size": 1029689,
+  "size": 1036041,
   "dataset": "sinan-sifc",
   "partition": {
    "uf": "br",
@@ -212,9 +212,9 @@
  {
   "filename": "SIFCBR21.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SIFCBR21.dbc",
-  "datetime": "2024-10-24T14:31:00",
+  "datetime": "2026-06-30T12:59:00",
   "extension": "dbc",
-  "size": 1226098,
+  "size": 1227025,
   "dataset": "sinan-sifc",
   "partition": {
    "uf": "br",
@@ -227,9 +227,9 @@
  {
   "filename": "SIFCBR22.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SIFCBR22.dbc",
-  "datetime": "2024-10-24T14:31:00",
+  "datetime": "2026-06-30T12:59:00",
   "extension": "dbc",
-  "size": 1208076,
+  "size": 1209008,
   "dataset": "sinan-sifc",
   "partition": {
    "uf": "br",
@@ -242,9 +242,9 @@
  {
   "filename": "SIFCBR23.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SIFCBR23.dbc",
-  "datetime": "2024-10-24T14:31:00",
+  "datetime": "2026-06-30T12:59:00",
   "extension": "dbc",
-  "size": 1157414,
+  "size": 1175196,
   "dataset": "sinan-sifc",
   "partition": {
    "uf": "br",
@@ -257,13 +257,28 @@
  {
   "filename": "SIFCBR24.dbc",
   "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SIFCBR24.dbc",
-  "datetime": "2024-10-24T14:31:00",
+  "datetime": "2026-06-30T13:00:00",
   "extension": "dbc",
-  "size": 584283,
+  "size": 1128723,
   "dataset": "sinan-sifc",
   "partition": {
    "uf": "br",
    "year": 2024,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": true
+ },
+ {
+  "filename": "SIFCBR25.dbc",
+  "full_path": "/dissemin/publicos/SINAN/DADOS/PRELIM/SIFCBR25.dbc",
+  "datetime": "2026-06-30T12:54:00",
+  "extension": "dbc",
+  "size": 580498,
+  "dataset": "sinan-sifc",
+  "partition": {
+   "uf": "br",
+   "year": 2025,
    "month": null,
    "subpartition": null
   },
