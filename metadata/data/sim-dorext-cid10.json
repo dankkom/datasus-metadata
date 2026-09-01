@@ -178,5 +178,20 @@
    "subpartition": null
   },
   "preliminary": false
+ },
+ {
+  "filename": "DOREXT25.dbc",
+  "full_path": "/dissemin/publicos/SIM/CID10/DOFET/DOREXT25.dbc",
+  "datetime": "2026-08-28T13:42:00",
+  "extension": "dbc",
+  "size": 66756,
+  "dataset": "sim-dorext-cid10",
+  "partition": {
+   "uf": null,
+   "year": 2025,
+   "month": null,
+   "subpartition": null
+  },
+  "preliminary": false
  }
 ]

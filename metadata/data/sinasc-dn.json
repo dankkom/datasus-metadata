@@ -12992,9 +12992,9 @@
  {
   "filename": "DNAC2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNAC2025.dbc",
-  "datetime": "2026-07-27T12:43:00",
+  "datetime": "2026-08-27T10:53:00",
   "extension": "dbc",
-  "size": 676050,
+  "size": 680608,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "ac",
@@ -13007,9 +13007,9 @@
  {
   "filename": "DNAL2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNAL2025.dbc",
-  "datetime": "2026-07-27T12:43:00",
+  "datetime": "2026-08-27T10:53:00",
   "extension": "dbc",
-  "size": 2236644,
+  "size": 2247869,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "al",
@@ -13022,9 +13022,9 @@
  {
   "filename": "DNAM2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNAM2025.dbc",
-  "datetime": "2026-07-27T12:43:00",
+  "datetime": "2026-08-27T10:53:00",
   "extension": "dbc",
-  "size": 3247720,
+  "size": 3265531,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "am",
@@ -13037,9 +13037,9 @@
  {
   "filename": "DNAP2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNAP2025.dbc",
-  "datetime": "2026-07-27T12:43:00",
+  "datetime": "2026-08-27T10:53:00",
   "extension": "dbc",
-  "size": 597168,
+  "size": 599984,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "ap",
@@ -13052,9 +13052,9 @@
  {
   "filename": "DNBA2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNBA2025.dbc",
-  "datetime": "2026-07-27T12:43:00",
+  "datetime": "2026-08-27T10:53:00",
   "extension": "dbc",
-  "size": 7838935,
+  "size": 7911843,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "ba",
@@ -13067,9 +13067,9 @@
  {
   "filename": "DNBR2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNBR2025.dbc",
-  "datetime": "2026-07-27T12:44:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 120331382,
+  "size": 120800491,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "br",
@@ -13082,9 +13082,9 @@
  {
   "filename": "DNCE2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNCE2025.dbc",
-  "datetime": "2026-07-27T12:44:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 5156489,
+  "size": 5162465,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "ce",
@@ -13097,9 +13097,9 @@
  {
   "filename": "DNDF2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNDF2025.dbc",
-  "datetime": "2026-07-27T12:44:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 1747325,
+  "size": 1763603,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "df",
@@ -13112,9 +13112,9 @@
  {
   "filename": "DNES2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNES2025.dbc",
-  "datetime": "2026-07-27T12:44:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 2444161,
+  "size": 2454786,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "es",
@@ -13127,9 +13127,9 @@
  {
   "filename": "DNGO2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNGO2025.dbc",
-  "datetime": "2026-07-27T12:45:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 4930231,
+  "size": 4956216,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "go",
@@ -13142,9 +13142,9 @@
  {
   "filename": "DNMA2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNMA2025.dbc",
-  "datetime": "2026-07-27T12:45:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 4411123,
+  "size": 4437224,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "ma",
@@ -13157,9 +13157,9 @@
  {
   "filename": "DNMG2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNMG2025.dbc",
-  "datetime": "2026-07-27T12:45:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 11312032,
+  "size": 11334282,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "mg",
@@ -13172,9 +13172,9 @@
  {
   "filename": "DNMS2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNMS2025.dbc",
-  "datetime": "2026-07-27T12:45:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 2013040,
+  "size": 2024271,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "ms",
@@ -13187,9 +13187,9 @@
  {
   "filename": "DNMT2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNMT2025.dbc",
-  "datetime": "2026-07-27T12:45:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 2809141,
+  "size": 2825849,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "mt",
@@ -13202,9 +13202,9 @@
  {
   "filename": "DNPA2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNPA2025.dbc",
-  "datetime": "2026-07-27T12:45:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 5777079,
+  "size": 5812326,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "pa",
@@ -13217,9 +13217,9 @@
  {
   "filename": "DNPB2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNPB2025.dbc",
-  "datetime": "2026-07-27T12:45:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 2430596,
+  "size": 2452317,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "pb",
@@ -13232,9 +13232,9 @@
  {
   "filename": "DNPE2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNPE2025.dbc",
-  "datetime": "2026-07-27T12:45:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 5663913,
+  "size": 5675788,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "pe",
@@ -13247,9 +13247,9 @@
  {
   "filename": "DNPI2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNPI2025.dbc",
-  "datetime": "2026-07-27T12:45:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 1965173,
+  "size": 1976675,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "pi",
@@ -13262,9 +13262,9 @@
  {
   "filename": "DNPR2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNPR2025.dbc",
-  "datetime": "2026-07-27T12:45:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 6929788,
+  "size": 6950423,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "pr",
@@ -13277,9 +13277,9 @@
  {
   "filename": "DNRJ2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNRJ2025.dbc",
-  "datetime": "2026-07-27T12:45:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 8225188,
+  "size": 8262519,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "rj",
@@ -13292,9 +13292,9 @@
  {
   "filename": "DNRN2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNRN2025.dbc",
-  "datetime": "2026-07-27T12:45:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 1851125,
+  "size": 1860665,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "rn",
@@ -13307,9 +13307,9 @@
  {
   "filename": "DNRO2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNRO2025.dbc",
-  "datetime": "2026-07-27T12:45:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 1137796,
+  "size": 1144088,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "ro",
@@ -13322,9 +13322,9 @@
  {
   "filename": "DNRR2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNRR2025.dbc",
-  "datetime": "2026-07-27T12:45:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 599086,
+  "size": 604758,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "rr",
@@ -13337,9 +13337,9 @@
  {
   "filename": "DNRS2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNRS2025.dbc",
-  "datetime": "2026-07-27T12:45:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 5776217,
+  "size": 5791537,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "rs",
@@ -13352,9 +13352,9 @@
  {
   "filename": "DNSC2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNSC2025.dbc",
-  "datetime": "2026-07-27T12:45:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 4863757,
+  "size": 4888636,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "sc",
@@ -13367,9 +13367,9 @@
  {
   "filename": "DNSE2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNSE2025.dbc",
-  "datetime": "2026-07-27T12:45:00",
+  "datetime": "2026-08-27T10:54:00",
   "extension": "dbc",
-  "size": 1389986,
+  "size": 1391433,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "se",
@@ -13382,9 +13382,9 @@
  {
   "filename": "DNSP2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNSP2025.dbc",
-  "datetime": "2026-07-27T12:45:00",
+  "datetime": "2026-08-27T10:55:00",
   "extension": "dbc",
-  "size": 23405733,
+  "size": 23426817,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "sp",
@@ -13397,9 +13397,9 @@
  {
   "filename": "DNTO2025.dbc",
   "full_path": "/dissemin/publicos/SINASC/PRELIM/DNRES/DNTO2025.dbc",
-  "datetime": "2026-07-27T12:45:00",
+  "datetime": "2026-08-27T10:55:00",
   "extension": "dbc",
-  "size": 1127901,
+  "size": 1130004,
   "dataset": "sinasc-dn",
   "partition": {
    "uf": "to",

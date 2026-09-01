@@ -496,13 +496,13 @@
    "name": "Declarações de Óbito CID-10",
    "source": "sim",
    "n_files": 868,
-   "total_size": 5126956954,
+   "total_size": 5112282580,
    "partition_n_ufs": 28,
    "partition_period_start": "1996",
    "partition_period_end": "2026",
    "partition_n_periods": 31,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-07-28T13:58:00"
+   "latest_update": "2026-08-30T11:30:00"
   },
   "sim-doext-cid09": {
    "name": "Declarações de Óbito Externas CID-9",
@@ -519,14 +519,14 @@
   "sim-doext-cid10": {
    "name": "Declarações de Óbito Externas CID-10",
    "source": "sim",
-   "n_files": 29,
-   "total_size": 287252913,
+   "n_files": 30,
+   "total_size": 301191779,
    "partition_n_ufs": 1,
    "partition_period_start": "1996",
-   "partition_period_end": "2024",
-   "partition_n_periods": 29,
+   "partition_period_end": "2025",
+   "partition_n_periods": 30,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-12-23T15:47:00"
+   "latest_update": "2026-08-28T13:40:00"
   },
   "sim-dofet-cid09": {
    "name": "Declarações de Óbito Fetais CID-9",
@@ -543,14 +543,14 @@
   "sim-dofet-cid10": {
    "name": "Declarações de Óbito Fetais CID-10",
    "source": "sim",
-   "n_files": 29,
-   "total_size": 66236709,
+   "n_files": 30,
+   "total_size": 68733547,
    "partition_n_ufs": 1,
    "partition_period_start": "1996",
-   "partition_period_end": "2024",
-   "partition_n_periods": 29,
+   "partition_period_end": "2025",
+   "partition_n_periods": 30,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-12-23T15:47:00"
+   "latest_update": "2026-08-28T13:40:00"
   },
   "sim-doinf-cid09": {
    "name": "Declarações de Óbito Infantis CID-9",
@@ -567,38 +567,38 @@
   "sim-doinf-cid10": {
    "name": "Declarações de Óbito Infantis CID-10",
    "source": "sim",
-   "n_files": 29,
-   "total_size": 99746474,
+   "n_files": 30,
+   "total_size": 103081457,
    "partition_n_ufs": 1,
    "partition_period_start": "1996",
-   "partition_period_end": "2024",
-   "partition_n_periods": 29,
+   "partition_period_end": "2025",
+   "partition_n_periods": 30,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-12-23T15:47:00"
+   "latest_update": "2026-08-28T13:40:00"
   },
   "sim-domat-cid10": {
    "name": "Declarações de Óbitos Maternos CID-10",
    "source": "sim",
-   "n_files": 29,
-   "total_size": 4448705,
+   "n_files": 30,
+   "total_size": 4600558,
    "partition_n_ufs": 1,
    "partition_period_start": "1996",
-   "partition_period_end": "2024",
-   "partition_n_periods": 29,
+   "partition_period_end": "2025",
+   "partition_n_periods": 30,
    "partition_periodicity": "yearly",
-   "latest_update": "2025-12-23T15:47:00"
+   "latest_update": "2026-08-28T13:40:00"
   },
   "sim-dorext-cid10": {
    "name": "Mortalidade de Residentes no Exterior CID-10",
    "source": "sim",
-   "n_files": 12,
-   "total_size": 557647,
+   "n_files": 13,
+   "total_size": 624403,
    "partition_n_ufs": 1,
    "partition_period_start": "2013",
-   "partition_period_end": "2024",
-   "partition_n_periods": 12,
+   "partition_period_end": "2025",
+   "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-08-28T11:20:00"
+   "latest_update": "2026-08-28T13:42:00"
   },
   "sinan-acbi": {
    "name": "Acidente de trabalho com material biológico",
@@ -1276,13 +1276,13 @@
    "name": "Declarações de nascidos vivos",
    "source": "sinasc",
    "n_files": 922,
-   "total_size": 7094303206,
+   "total_size": 7095241435,
    "partition_n_ufs": 28,
    "partition_period_start": "1994",
    "partition_period_end": "2026",
    "partition_n_periods": 33,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-07-27T12:45:00"
+   "latest_update": "2026-08-27T10:55:00"
   },
   "sinasc-dnex": {
    "name": "Declarações de nascidos vivos no exterior",
