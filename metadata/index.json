@@ -712,13 +712,13 @@
    "name": "Febre de Chikungunya",
    "source": "sinan",
    "n_files": 13,
-   "total_size": 99211909,
+   "total_size": 98864221,
    "partition_n_ufs": 1,
    "partition_period_start": "2014",
    "partition_period_end": "2026",
    "partition_n_periods": 13,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-08-25T09:12:00"
+   "latest_update": "2026-09-01T10:28:00"
   },
   "sinan-cole": {
    "name": "Cólera",
@@ -748,13 +748,13 @@
    "name": "Dengue",
    "source": "sinan",
    "n_files": 27,
-   "total_size": 1095538465,
+   "total_size": 1095957788,
    "partition_n_ufs": 1,
    "partition_period_start": "2000",
    "partition_period_end": "2026",
    "partition_n_periods": 27,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-08-25T09:13:00"
+   "latest_update": "2026-09-01T10:28:00"
   },
   "sinan-derm": {
    "name": "Dermatoses ocupacionais",
@@ -1264,13 +1264,13 @@
    "name": "Zika Vírus",
    "source": "sinan",
    "n_files": 12,
-   "total_size": 14100961,
+   "total_size": 14108104,
    "partition_n_ufs": 1,
    "partition_period_start": "2015",
    "partition_period_end": "2026",
    "partition_n_periods": 12,
    "partition_periodicity": "yearly",
-   "latest_update": "2026-08-25T11:14:00"
+   "latest_update": "2026-09-01T10:26:00"
   },
   "sinasc-dn": {
    "name": "Declarações de nascidos vivos",
